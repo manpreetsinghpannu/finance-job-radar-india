@@ -151,7 +151,7 @@ async function main() {
 
   // ---- page
   const L = [];
-  L.push('# Finance jobs found', '');
+  L.push('# Finance jobs found in India', '');
   L.push(`Updated **${ukTime(now.toISOString())}** (UK time) · **${rows.length} open roles** at ${new Set(rows.map((r) => baseFirm(r.company))).size} firms · the radar checks every board about once an hour.`, '');
   L.push('Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley\'s can\'t be checked).', '');
   L.push("Each role is filed under the **one CV it fits best**, or under **Other**. Roles in India only.", '');
