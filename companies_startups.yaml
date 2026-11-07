@@ -1,0 +1,21 @@
+# Indian startups and scale-ups scanned every hour by scripts/startups.mjs,
+# using each hiring system's public job-board API (no scraping):
+#
+#   greenhouse  https://boards-api.greenhouse.io/v1/boards/<slug>/jobs
+#   lever       https://api.lever.co/v0/postings/<slug>?mode=json   (add `region: eu` for api.eu.lever.co)
+#   ashby       https://api.ashbyhq.com/posting-api/job-board/<slug>
+#   workable    https://apply.workable.com/api/v1/widget/accounts/<slug>
+#
+# HOW TO ADD A COMPANY
+#   1. Open one of the company's job ads and look at the address bar:
+#        job-boards.greenhouse.io/<slug>/...   -> ats: greenhouse
+#        jobs.lever.co/<slug>/...              -> ats: lever
+#        jobs.ashbyhq.com/<slug>/...           -> ats: ashby
+#        apply.workable.com/<slug>/...         -> ats: workable
+#   2. Add a line below:   - { name: Company Name, ats: lever, slug: theslug }
+#   3. Optional: run "Check startup list" in the Actions tab. It tests every
+#      slug and tries name variants (reports/startup-slugs.md).
+# A company's first scan records its open roles without alerting. Firms
+# already in portals.yml are skipped automatically.
+
+companies: []

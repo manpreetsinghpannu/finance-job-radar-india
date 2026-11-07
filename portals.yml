@@ -1,0 +1,478 @@
+# Finance Job Radar (India): career-ops scanner config for junior finance roles in India.
+# Read by career-ops scan.mjs (pinned in .github/workflows/scan.yml).
+#
+# What gets through to your phone:
+#   1. Title matches at least one `positive` keyword and no `negative` keyword
+#   2. Title is not senior (skip_tiers: senior drops Senior/Lead/VP/Director/Head of...)
+#   3. Location is in India (or the posting gives no location)
+#   5. Posted in the last 30 days (where the board gives a date)
+#
+# Edit the keyword lists freely. Matching is case-insensitive substring;
+# `word:` means whole word only.
+
+skip_tiers: [senior]
+
+max_posting_age_days: 30
+
+title_filter:
+  positive:
+    # Titles must name a finance function. Bare "Analyst" / "Associate" let in
+    # too much (business, data, AML, compliance analysts), so they are paired
+    # with a finance word instead (" + " means both words, any order).
+    # -- FP&A / financial analysis / accounting --
+    - "Financial Analyst"
+    - "Finance Analyst"
+    - "Finance Associate"
+    - "FP&A"
+    - "Financial Planning"
+    - "Finance Business Partner"
+    - "Commercial Finance"
+    - "Commercial Analyst"
+    - "Pricing Analyst"
+    - "Management Accountant"
+    - "Assistant Accountant"
+    - "Financial Accountant"
+    - "Trainee Accountant"
+    - "Fund Accountant"
+    - "Fund Accounting"
+    - "Financial Reporting"
+    - "Product Control"
+    - "Treasury"
+    - "Financial Controller"
+    - "Finance Transformation"
+    - "Accountant"
+    # -- Credit & risk --
+    - "Credit"
+    - "Risk Analyst"
+    - "Risk Associate"
+    - "Market Risk"
+    - "Liquidity Risk"
+    - "Model Risk"
+    - "Counterparty Risk"
+    - "Prudential Risk"
+    - "Underwriting Analyst"
+    # -- Investment banking / advisory --
+    - "Investment Banking"
+    - "M&A"
+    - "Mergers"
+    - "Corporate Finance"
+    - "Transaction Services"
+    - "Deal Advisory"
+    - "Strategic Advisory"
+    - "Debt Advisory"
+    - "Capital Advisory"
+    - "Financial Advisory"
+    - "word:Debt"
+    - "Valuation"
+    - "Restructuring"
+    - "Capital Markets"
+    - "Leveraged Finance"
+    - "Structured Finance"
+    - "Corporate Banking"
+    # -- Research / markets --
+    - "Equity Research"
+    - "Investment Research"
+    - "Research Analyst"
+    - "Research Associate"
+    - "Credit Research"
+    - "Financial Research"
+    - "Fundamental Research"
+    - "Valuations"
+    - "Investment Banking Associate"
+    - "Fund Accounting"
+    - "word:NAV"
+    - "Financial Planning & Analysis"
+    - "Treasury Analyst"
+    - "Trader"
+    - "Trading Analyst"
+    - "Trading Assistant"
+    - "Quant"
+    # -- Asset & wealth management / private markets --
+    - "Investment Analyst"
+    - "Investment Associate"
+    - "Investment Management"
+    - "Investment Operations"
+    - "Asset Management"
+    - "Portfolio Analyst"
+    - "Portfolio Analytics"
+    - "Portfolio Management"
+    - "Fund Analyst"
+    - "Private Equity"
+    - "Private Credit"
+    - "Private Markets"
+    # -- Consulting --
+    - "Management Consultant"
+    - "Strategy Consultant"
+    - "Strategy Analyst"
+    - "Strategy Associate"
+    - "Financial Services Consult"
+    # -- Graduate programmes with a finance focus --
+    - "word:Analyst Programme"
+    - "word:Analyst Program"
+    - "Management Trainee + finance"
+    - "Graduate Trainee + finance"
+    - "graduate + finance"
+    - "graduate + financial"
+    - "graduate + risk"
+    - "graduate + investment"
+    - "graduate + banking"
+    - "graduate + markets"
+    - "graduate + accountan"
+    - "graduate + treasury"
+
+  negative:
+    # Seniority not caught by skip_tiers
+    - "Manager"
+    - "Managing Director"
+    - "Executive Director"
+    - "Vice President"
+    - "word:VP"
+    - "word:AVP"
+    - "Head of"
+    - "Chief"
+    - "Associate Partner"
+    - "Equity Partner"
+    - "Salaried Partner"
+    - "word:Principal"
+    # Student programmes (you have graduated)
+    - "word:Intern"
+    - "word:Interns"
+    - "Internship"
+    - "Placement"
+    - "Summer"
+    - "Spring Week"
+    - "Spring Insight"
+    - "Insight Programme"
+    - "Off-Cycle"
+    - "Apprentice"
+    - "Work Experience"
+    # Finance-adjacent roles that are not your target
+    - "Business Analyst"
+    - "Data Analyst"
+    - "word:AML"
+    - "word:KYC"
+    - "Financial Crime"
+    - "Compliance"
+    - "Legal"
+    - "Counsel"
+    - "Audit"
+    - "word:Tax"
+    - "Actuar"
+    - "Claims"
+    - "Loss Adjuster"
+    - "Marketing"
+    - "Sales"
+    - "Product Owner"
+    - "Administrator"
+    - "Coordinator"
+    - "Working Student"
+    - "Workshop"
+    - "word:Talk"
+    - "Volunteer"
+    - "Reporter"
+    - "Journalist"
+    - "Leader"
+    - "Resilience"
+    - "Credit Control"
+    - "Credit Card"
+    # Tech / non-finance
+    - "Software"
+    - "Engineer"
+    - "Developer"
+    - "DevOps"
+    - "Cyber"
+    - "Security Analyst"
+    - "SOC Analyst"
+    - "Network"
+    - "Infrastructure"
+    - "Cloud"
+    - "Data Scientist"
+    - "Machine Learning"
+    - "Salesforce"
+    - "word:SAP"
+    - "word:UX"
+    - "Designer"
+    - "Technician"
+    - "Mechanic"
+    - "Nurse"
+    - "Pharmac"
+    - "Clinical"
+    - "Scientist"
+    - "Warehouse"
+    - "Driver"
+    - "Store"
+    - "Retail Assistant"
+    - "Customer Service"
+    - "Contact Centre"
+    - "Call Centre"
+    - "Payroll"
+    - "Recruit"
+    - "Talent Acquisition"
+    - "Paralegal"
+    - "Solicitor"
+    - "Lawyer"
+    - "word:HR"
+    - "Human Resources"
+
+# India only. Order the scanner uses: block_hard, then always_allow, then block,
+# then allow. Postings with no location pass (strict is off).
+location_filter:
+  block_hard:
+    # "India" is a substring of these US places
+    - "Indiana"
+    - "Indianapolis"
+    - "Indian Wells"
+    - "Indian Trail"
+  always_allow:
+    - "India"
+    - "Mumbai"
+    - "Bombay"
+    - "Navi Mumbai"
+    - "Thane"
+    - "Powai"
+    - "Bengaluru"
+    - "Bangalore"
+    - "Gurugram"
+    - "Gurgaon"
+    - "Noida"
+    - "New Delhi"
+    - "Delhi"
+    - "Hyderabad"
+    - "Pune"
+    - "Chennai"
+    - "Kolkata"
+    - "Ahmedabad"
+    - "GIFT City"
+    - "Gandhinagar"
+    - "Nagpur"
+    - "Jaipur"
+    - "Indore"
+    - "Chandigarh"
+    - "Mohali"
+    - "Kochi"
+    - "Coimbatore"
+    - "Vadodara"
+    - "Mangalore"
+    - "Mysore"
+    - "Bhubaneswar"
+    - "Lucknow"
+    - "Trivandrum"
+    - "Thiruvananthapuram"
+    - "Maharashtra"
+    - "Karnataka"
+    - "Haryana"
+    - "Telangana"
+    - "Tamil Nadu"
+    - "Gujarat"
+  block:
+    - "United Kingdom"
+    - "London"
+    - "United States"
+    - "USA"
+    - "Singapore"
+    - "Hong Kong"
+    - "Dubai"
+    - "United Arab Emirates"
+    - "Australia"
+    - "Canada"
+    - "Germany"
+    - "France"
+    - "Ireland"
+    - "Poland"
+    - "Philippines"
+    - "China"
+    - "Japan"
+  allow: []
+
+# Visa wording doesn't apply to roles in India.
+visa_filter:
+  enabled: false
+
+# Keep tracked_companies as the LAST key in this file: the weekly discovery
+# job appends newly found boards to the end of it.
+tracked_companies:
+
+  # ===== Global banks, asset managers, trading firms, GCCs and consultancies with India offices =====
+  - name: Barclays
+    careers_url: https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays
+  - name: JPMorgan Chase
+    careers_url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs
+    provider: oraclecloud
+    siteNumber: CX_1002
+    max_pages: 25
+  - name: MUFG
+    careers_url: https://mufgub.wd3.myworkdayjobs.com/mufg-careers
+  - name: BlackRock
+    careers_url: https://blackrock.wd1.myworkdayjobs.com/blackrock_professional
+  - name: Fidelity International
+    careers_url: https://fil.wd3.myworkdayjobs.com/001
+  - name: Invesco
+    careers_url: https://invesco.wd1.myworkdayjobs.com/ivz
+  - name: Invesco (Early Careers)
+    careers_url: https://invesco.wd1.myworkdayjobs.com/ivzearlycareers
+  - name: Vanguard
+    careers_url: https://vanguard.wd5.myworkdayjobs.com/vanguard_external
+  - name: Franklin Templeton
+    careers_url: https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1
+  - name: Wellington Management
+    careers_url: https://wellington.wd5.myworkdayjobs.com/external
+  - name: PIMCO
+    careers_url: https://pimco.wd1.myworkdayjobs.com/pimco-careers
+  - name: Blackstone
+    careers_url: https://blackstone.wd1.myworkdayjobs.com/blackstone_careers
+  - name: Blackstone (Campus)
+    careers_url: https://blackstone.wd1.myworkdayjobs.com/blackstone_campus_careers
+  - name: Ares Management
+    careers_url: https://aresmgmt.wd1.myworkdayjobs.com/external
+  - name: Bain Capital
+    careers_url: https://baincapital.wd1.myworkdayjobs.com/external_public
+  - name: Squarepoint Capital
+    careers_url: https://job-boards.greenhouse.io/squarepointcapital
+  - name: Point72
+    careers_url: https://job-boards.greenhouse.io/point72
+  - name: WorldQuant
+    careers_url: https://job-boards.greenhouse.io/worldquant
+  - name: LSEG
+    careers_url: https://lseg.wd3.myworkdayjobs.com/careers
+  - name: LSEG (Graduates)
+    careers_url: https://lseg.wd3.myworkdayjobs.com/graduate_careers
+  - name: S&P Global
+    careers_url: https://spgi.wd5.myworkdayjobs.com/spgi_careers
+  - name: Nasdaq
+    careers_url: https://nasdaq.wd1.myworkdayjobs.com/global_external_site
+  - name: CME Group
+    careers_url: https://cmegroup.wd1.myworkdayjobs.com/cme_careers
+  - name: IMC Trading
+    careers_url: https://job-boards.greenhouse.io/imc
+  - name: Tower Research Capital
+    careers_url: https://job-boards.greenhouse.io/towerresearchcapital
+  - name: AIG
+    careers_url: https://aig.wd1.myworkdayjobs.com/aig
+  - name: Accenture
+    careers_url: https://accenture.wd103.myworkdayjobs.com/accenturecareers
+  - name: Marsh McLennan
+    careers_url: https://mmc.wd1.myworkdayjobs.com/mmc
+
+  # ===== Payments / fintech =====
+  - name: Mastercard
+    careers_url: https://mastercard.wd1.myworkdayjobs.com/corporatecareers
+  - name: Visa
+    careers_url: https://visa.wd5.myworkdayjobs.com/visa
+  - name: PayPal
+    careers_url: https://paypal.wd1.myworkdayjobs.com/jobs
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+  - name: Revolut
+    careers_url: https://apply.workable.com/revolut
+  - name: Airwallex
+    careers_url: https://jobs.ashbyhq.com/airwallex
+  - name: AstraZeneca
+    careers_url: https://astrazeneca.wd3.myworkdayjobs.com/careers
+  - name: AstraZeneca (Emerging Talent)
+    careers_url: https://astrazeneca.wd3.myworkdayjobs.com/emerging-talent
+  - name: GSK
+    careers_url: https://gsk.wd5.myworkdayjobs.com/gskcareers
+  - name: Unilever
+    careers_url: https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals
+  - name: Unilever (Early Careers)
+    careers_url: https://unilever.wd3.myworkdayjobs.com/unilever_early_careers
+  - name: Diageo
+    careers_url: https://diageo.wd3.myworkdayjobs.com/diageo_careers
+  - name: Shell
+    careers_url: https://shell.wd3.myworkdayjobs.com/shellcareers
+  - name: Rolls-Royce
+    careers_url: https://rollsroyce.wd3.myworkdayjobs.com/professional
+  - name: Houlihan Lokey (Campus)
+    careers_url: https://hl.wd1.myworkdayjobs.com/campus
+  - name: Houlihan Lokey (Lateral)
+    careers_url: https://hl.wd1.myworkdayjobs.com/lateral
+  - name: Teneo
+    careers_url: https://job-boards.greenhouse.io/teneo
+    api: https://boards-api.greenhouse.io/v1/boards/teneo/jobs
+    enabled: true
+  - name: Experian
+    careers_url: https://careers.smartrecruiters.com/experian
+    enabled: true
+  - name: WPP
+    careers_url: https://job-boards.greenhouse.io/wpp
+    api: https://boards-api.greenhouse.io/v1/boards/wpp/jobs
+    enabled: true
+  - name: "Morgan Stanley"
+    careers_url: https://morganstanley.eightfold.ai/careers
+    domain: morganstanley.com
+    # added by find-ats (eightfold) 2026-11-05
+  - name: "Citi"
+    careers_url: https://citi.wd5.myworkdayjobs.com/2
+    # added by find-ats (workday) 2026-11-05
+  - name: "Mizuho"
+    careers_url: https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas
+    # added by find-ats (workday) 2026-11-05
+  - name: "State Street"
+    careers_url: https://statestreet.wd1.myworkdayjobs.com/Global
+    # added by find-ats (workday) 2026-11-05
+  - name: "BNY"
+    careers_url: https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Northern Trust"
+    careers_url: https://ntrs.wd1.myworkdayjobs.com/northerntrust
+    # added by find-ats (workday) 2026-11-05
+  - name: "ING"
+    careers_url: https://careers.ing.com
+    provider: radancy
+    # added by find-ats (radancy) 2026-11-05
+  - name: "Lazard"
+    careers_url: https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "Boston Consulting Group"
+    careers_url: https://bcg.eightfold.ai/careers
+    # added by find-ats (eightfold) 2026-11-05
+  - name: "MSCI"
+    careers_url: https://ukcareers-msci.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-05
+  - name: "Moody's"
+    careers_url: https://careers.moodys.com
+    provider: radancy
+    # added by find-ats (radancy) 2026-11-05
+  - name: "EQT"
+    careers_url: https://job-boards.greenhouse.io/eqtpartners
+    # added by find-ats (greenhouse) 2026-11-05
+  - name: "Millennium"
+    careers_url: https://mlp.eightfold.ai/careers
+    # added by find-ats (eightfold) 2026-11-05
+  - name: "Chubb"
+    careers_url: https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs
+    # added by find-ats (oraclecloud) 2026-11-05
+  - name: "QBE"
+    careers_url: https://careers.qbe.com
+    provider: phenom
+    # added by find-ats (phenom) 2026-11-05
+  - name: "BP"
+    careers_url: https://bpinternational.wd3.myworkdayjobs.com/bpCareers
+    # added by find-ats (workday) 2026-11-05
+  - name: "Nomura"
+    careers_url: https://careers.nomura.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "SMBC"
+    careers_url: https://careers.smbcgroup.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "Sopra Steria"
+    careers_url: https://careers.smartrecruiters.com/SopraSteria1
+    # added by find-ats (smartrecruiters) 2026-11-07
+  - name: "Janus Henderson"
+    careers_url: https://jobs.janushenderson.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "BT Group"
+    careers_url: https://jobs.bt.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "Reckitt"
+    careers_url: https://careers.reckitt.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-07
+  - name: "EY"
+    careers_url: https://careers.ey.com
+    provider: successfactors
+    # added by hand 2026-11-07 (SAP SuccessFactors career site)

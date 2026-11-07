@@ -1,0 +1,155 @@
+# Employers in India the weekly discovery job tries to add to portals.yml.
+#
+# For each company the job:
+#   1. asks career-ops' discover-ats.mjs to find a Greenhouse / Lever / Ashby /
+#      Workable / SmartRecruiters / etc. board from the name;
+#   2. if that fails, scripts/find-ats.mjs opens the company's website and
+#      careers pages and looks for links to a hiring system career-ops can scan
+#      (Workday, Oracle, Eightfold, iCIMS, Taleo, SuccessFactors, ...).
+# Anything found is appended to portals.yml; anything not found is listed in
+# reports/discovery.md. Many Indian firms use Darwinbox, Keka or their own
+# portals, which can't be scanned; for those, set up alerts on their site.
+#
+# `name` is required, `website` helps, `careers` (careers page URL) helps most.
+
+companies:
+
+  # ===== Global banks and their India centres =====
+  - { name: Goldman Sachs, website: goldmansachs.com, careers: "https://higher.gs.com/" }
+  - { name: HSBC, website: hsbc.co.in, careers: "https://www.hsbc.com/careers" }
+  - { name: Standard Chartered, website: sc.com, careers: "https://www.sc.com/en/careers/" }
+  - { name: Deutsche Bank, website: db.com, careers: "https://careers.db.com/" }
+  - { name: UBS, website: ubs.com, careers: "https://www.ubs.com/global/en/careers.html" }
+  - { name: BNP Paribas, website: bnpparibas.co.in, careers: "https://group.bnpparibas/en/careers" }
+  - { name: Bank of America, website: bankofamerica.com, careers: "https://careers.bankofamerica.com/" }
+  - { name: Wells Fargo, website: wellsfargo.com, careers: "https://www.wellsfargojobs.com/" }
+  - { name: American Express, website: americanexpress.com, careers: "https://www.americanexpress.com/en-us/careers/" }
+  - { name: Societe Generale, website: societegenerale.com }
+  - { name: Credit Agricole CIB, website: ca-cib.com }
+  - { name: DBS Bank, website: dbs.com, careers: "https://www.dbs.com/careers/" }
+  - { name: Natixis, website: natixis.com }
+  - { name: Macquarie, website: macquarie.com, careers: "https://www.macquarie.com/careers" }
+  - { name: Jefferies, website: jefferies.com, careers: "https://www.jefferies.com/careers/" }
+  - { name: Fidelity Investments, website: fidelity.com, careers: "https://jobs.fidelity.com/" }
+  - { name: Synchrony, website: synchrony.com }
+  - { name: Ameriprise Financial, website: ameriprise.com }
+  - { name: Principal Global Services, website: principal.com }
+  - { name: Bain & Company, website: bain.com, careers: "https://www.bain.com/careers/" }
+  - { name: McKinsey & Company, website: mckinsey.com, careers: "https://www.mckinsey.com/careers" }
+  - { name: Deloitte India, website: deloitte.com, careers: "https://www2.deloitte.com/in/en/careers.html" }
+  - { name: KPMG India, website: kpmg.com, careers: "https://kpmg.com/in/en/careers.html" }
+  - { name: PwC India, website: pwc.in, careers: "https://www.pwc.in/careers.html" }
+  - { name: Grant Thornton Bharat, website: grantthornton.in }
+  - { name: Alvarez & Marsal, website: alvarezandmarsal.com }
+  - { name: Duff & Phelps (Kroll), website: kroll.com, careers: "https://careers.kroll.com/" }
+  - { name: Evalueserve, website: evalueserve.com, careers: "https://www.evalueserve.com/careers/" }
+  - { name: Acuity Knowledge Partners, website: acuitykp.com, careers: "https://www.acuitykp.com/careers/" }
+  - { name: CRISIL, website: crisil.com, careers: "https://www.crisil.com/en/home/careers.html" }
+  - { name: ICRA, website: icra.in }
+  - { name: CARE Ratings, website: careratings.com }
+  - { name: India Ratings and Research, website: indiaratings.co.in }
+  - { name: Morningstar, website: morningstar.com, careers: "https://careers.morningstar.com/" }
+  - { name: FactSet, website: factset.com, careers: "https://www.factset.com/careers" }
+  - { name: Bloomberg, website: bloomberg.com, careers: "https://www.bloomberg.com/company/careers/" }
+  - { name: Gartner, website: gartner.com }
+  - { name: ZS Associates, website: zs.com, careers: "https://www.zs.com/careers" }
+  - { name: Genpact, website: genpact.com, careers: "https://www.genpact.com/careers" }
+  - { name: WNS, website: wns.com }
+  - { name: EXL, website: exlservice.com }
+  - { name: Infosys BPM, website: infosysbpm.com }
+  - { name: Tata Consultancy Services, website: tcs.com }
+  - { name: Wipro, website: wipro.com }
+  - { name: HCLTech, website: hcltech.com }
+  - { name: Cognizant, website: cognizant.com }
+
+  # ===== Indian banks, NBFCs and insurers =====
+  - { name: HDFC Bank, website: hdfcbank.com }
+  - { name: ICICI Bank, website: icicibank.com }
+  - { name: Axis Bank, website: axisbank.com }
+  - { name: Kotak Mahindra Bank, website: kotak.com }
+  - { name: IndusInd Bank, website: indusind.com }
+  - { name: Yes Bank, website: yesbank.in }
+  - { name: IDFC FIRST Bank, website: idfcfirstbank.com }
+  - { name: RBL Bank, website: rblbank.com }
+  - { name: AU Small Finance Bank, website: au.bank.in }
+  - { name: Bajaj Finance, website: bajajfinserv.in }
+  - { name: Tata Capital, website: tatacapital.com }
+  - { name: Aditya Birla Capital, website: adityabirlacapital.com }
+  - { name: Cholamandalam Investment and Finance, website: cholamandalam.com }
+  - { name: Mahindra Finance, website: mahindrafinance.com }
+  - { name: Shriram Finance, website: shriramfinance.in }
+  - { name: L&T Finance, website: ltfs.com }
+  - { name: Piramal Finance, website: piramalfinance.com }
+  - { name: Poonawalla Fincorp, website: poonawallafincorp.com }
+  - { name: HDFC Life, website: hdfclife.com }
+  - { name: ICICI Lombard, website: icicilombard.com }
+  - { name: SBI Life, website: sbilife.co.in }
+
+  # ===== Investment banks, brokers, asset & wealth managers =====
+  - { name: Kotak Investment Banking, website: investmentbank.kotak.com }
+  - { name: Avendus Capital, website: avendus.com }
+  - { name: JM Financial, website: jmfl.com }
+  - { name: Axis Capital, website: axiscapital.co.in }
+  - { name: ICICI Securities, website: icicisecurities.com }
+  - { name: Motilal Oswal, website: motilaloswalgroup.com }
+  - { name: Nuvama, website: nuvama.com }
+  - { name: 360 ONE, website: 360.one }
+  - { name: Anand Rathi, website: anandrathi.com }
+  - { name: Ambit, website: ambit.co }
+  - { name: Equirus, website: equirus.com }
+  - { name: Systematix, website: systematixgroup.in }
+  - { name: Elara Capital, website: elaracapital.com }
+  - { name: HDFC AMC, website: hdfcfund.com }
+  - { name: SBI Funds Management, website: sbimf.com }
+  - { name: ICICI Prudential AMC, website: icicipruamc.com }
+  - { name: Nippon India Mutual Fund, website: mf.nipponindiaim.com }
+  - { name: Kotak AMC, website: kotakmf.com }
+  - { name: Axis AMC, website: axismf.com }
+  - { name: Mirae Asset, website: miraeassetmf.co.in }
+  - { name: DSP Asset Managers, website: dspim.com }
+  - { name: PPFAS, website: amc.ppfas.com }
+  - { name: Edelweiss, website: edelweissfin.com }
+  - { name: ASK Investment Managers, website: askfinancials.com }
+  - { name: Marcellus, website: marcellus.in }
+  - { name: Kedaara Capital, website: kedaara.com }
+  - { name: ChrysCapital, website: chryscapital.com }
+  - { name: True North, website: truenorth.co.in }
+  - { name: Everstone, website: everstonecapital.com }
+  - { name: KKR, website: kkr.com }
+  - { name: Warburg Pincus, website: warburgpincus.com }
+  - { name: Carlyle, website: carlyle.com }
+  - { name: Brookfield, website: brookfield.com }
+  - { name: Temasek, website: temasek.com.sg }
+  - { name: GIC, website: gic.com.sg }
+
+  # ===== Trading firms =====
+  - { name: Graviton Research Capital, website: gravitontrading.com }
+  - { name: Quadeye, website: quadeye.com }
+  - { name: AlphaGrep, website: alpha-grep.com }
+  - { name: iRage, website: irage.in }
+  - { name: NK Securities, website: nksecurities.com }
+  - { name: Futures First, website: futuresfirst.com }
+  - { name: Optiver, website: optiver.com }
+  - { name: DE Shaw India, website: deshawindia.com }
+
+  # ===== Indian corporates (FP&A, treasury, corporate finance) =====
+  - { name: Reliance Industries, website: ril.com }
+  - { name: Tata Group, website: tata.com }
+  - { name: Adani Group, website: adani.com }
+  - { name: Mahindra Group, website: mahindra.com }
+  - { name: Larsen & Toubro, website: larsentoubro.com }
+  - { name: Hindustan Unilever, website: hul.co.in }
+  - { name: ITC, website: itcportal.com }
+  - { name: Asian Paints, website: asianpaints.com }
+  - { name: Nestle India, website: nestle.in }
+  - { name: Procter & Gamble India, website: pg.com }
+  - { name: Bharti Airtel, website: airtel.in }
+  - { name: Maruti Suzuki, website: marutisuzuki.com }
+  - { name: Eicher Motors, website: eicher.in }
+  - { name: Amazon, website: amazon.jobs }
+  - { name: Google, website: careers.google.com }
+  - { name: Microsoft, website: careers.microsoft.com }
+  - { name: Walmart Global Tech, website: walmart.com }
+  - { name: Target India, website: target.com }
+  - { name: Tesco Bengaluru, website: tescobengaluru.com }
+  - { name: Lowe's India, website: lowes.co.in }

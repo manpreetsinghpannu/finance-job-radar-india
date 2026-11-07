@@ -1,0 +1,64 @@
+# One profile per CV. After each scan every open role is scored against every
+# profile, and the top 2 per CV are shown in JOBS.md and in phone alerts.
+#
+# Scoring (title only; most boards don't give the full description):
+#   strong keyword in title   +10 each (counted once per keyword)
+#   related keyword in title   +4 each
+#   junior signal              +4   (Analyst, Graduate, Junior, Trainee, Executive, ...)
+#   "Associate"                +1   (often 2-4 years' experience in banking: weight it lightly)
+#   experienced-hire signal    -6   (Experienced, Specialist, Senior-ish wording)
+#   posted in last 2 days      +4,  last 7 days +2,  older than 30 days -3
+#   Mumbai                     +1
+# A role needs at least one strong or related keyword to count for a CV.
+#
+# Nothing personal is stored here: only the role keywords each CV is aimed at.
+
+profiles:
+
+  - id: finance
+    cv: Finance (FP&A) CV
+    strong: [FP&A, Financial Planning, Financial Analyst, Finance Analyst, Commercial Finance,
+             Finance Business Partner, Management Accountant, Budget, Forecast, Business Performance]
+    related: [Accountant, Financial Reporting, Regulatory Reporting, Reporting Accountant, Treasury,
+              Commercial Analyst, Pricing Analyst, Product Control, Finance Associate, Finance Transformation,
+              Financial Controller, Modeling & Forecasting, Modelling & Forecasting]
+
+  - id: credit
+    cv: Credit CV
+    strong: [Credit Risk, Credit Analyst, Credit Research, Wholesale Credit, Credit Portfolio, Global Credit,
+             Underwriting Analyst, Lending, Credit Policy]
+    related: [Credit, Risk Analyst, Risk Associate, Market Risk, Liquidity Risk, Counterparty, XVA,
+              Model Risk, Corporate Banking, Leveraged Finance, Private Credit, Structured Finance, Debt]
+
+  - id: equity
+    cv: Equity CV
+    strong: [Equity Research, Research Analyst, Investment Research, Equity Analyst, Sector Analyst]
+    related: [Equities, Equity, Portfolio Analyst, Portfolio Analytics, Investment Analyst, Research Associate,
+              Fund Analyst, Quantitative Investment]
+
+  - id: investment
+    cv: Investment (IB / PE) CV
+    strong: [Investment Banking, M&A, Mergers, Corporate Finance, Transaction Services, Deal Advisory,
+             Valuation, Leveraged Finance, Private Equity, Strategic Advisory, Capital Advisory]
+    related: [Capital Markets, Restructuring, Debt Advisory, Transaction, Deals, Corporate Banking,
+              Financial Advisory, Investment Associate, Private Markets, Fund Investments, Structured Finance]
+
+  - id: consulting
+    cv: Consulting CV
+    strong: [Management Consultant, Strategy Consultant, Strategy Analyst, Strategy Associate, Consulting Analyst]
+    related: [Consultant, Consulting, Strategy, Advisory, Transformation, Business Consultant, Economic]
+
+  - id: real_estate
+    cv: Real Estate CV
+    strong: [Real Estate, Property, REIT, Development Finance, Commercial Mortgage, Real Assets]
+    related: [Asset Management, Investment Analyst, Valuation, Lending, Infrastructure, Housing, Lloyds Living]
+
+  - id: fund
+    cv: Fund CV (written for India; tweak the header for UK roles)
+    strong: [Fund Accountant, Fund Accounting, Fund Administration, Fund Operations, NAV, Fund Analyst,
+             Portfolio Monitoring, Investment Operations]
+    related: [Fund, Reconciliation, Transfer Agency, Middle Office, Portfolio Analytics, Reporting Analyst,
+              Client Reporting, Performance Analyst, Valuation Oversight]
+
+junior_words: [Analyst, Graduate, Junior, Trainee, Executive, Assistant, Entry, Programme, Program, Scheme, "2027"]
+experienced_words: [Experienced, Specialist, Expert, "(2)", Lateral]

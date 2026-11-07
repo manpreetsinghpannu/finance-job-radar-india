@@ -1,0 +1,32 @@
+# Job boards searched every hour by scripts/boards.mjs, on top of the employer
+# careers sites in portals.yml. Results go through the same title, seniority
+# and India-location filters, and are grouped by CV like everything else.
+#
+# Only LinkedIn is used for India: Naukri, foundit, iimjobs, Instahyre and
+# Indeed India either block automated access or forbid it in their terms.
+# Set up email alerts on those sites directly.
+
+max_age_days: 3        # ignore postings older than this
+
+queries:
+  - financial analyst
+  - FP&A analyst
+  - finance analyst
+  - credit analyst
+  - credit risk analyst
+  - risk analyst
+  - investment analyst
+  - equity research
+  - equity research associate
+  - investment banking analyst
+  - M&A analyst
+  - corporate finance analyst
+  - valuation analyst
+  - fund accountant
+  - treasury analyst
+  - portfolio analyst
+
+boards:
+  linkedin:
+    location: India
+    hours: 24          # posted in the last 24 hours

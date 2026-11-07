@@ -1,0 +1,97 @@
+name: Find more company boards
+
+# Weekly (Monday 06:43 UK winter time), or run it by hand from the Actions tab
+# after adding firms to companies.yml.
+on:
+  schedule:
+    - cron: '13 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finance-job-radar-india
+  cancel-in-progress: false
+
+env:
+  CAREER_OPS_VERSION: career-ops-v1.38.0
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Download career-ops
+        run: |
+          git clone --quiet --depth 1 --branch "$CAREER_OPS_VERSION" \
+            https://github.com/career-ops-hq/career-ops.git "$RUNNER_TEMP/engine"
+          cd "$RUNNER_TEMP/engine"
+          npm install --ignore-scripts --no-audit --no-fund --loglevel=error
+
+      - name: Step 1 - look up boards by company name
+        env:
+          CAREER_OPS_ROOT: ${{ github.workspace }}
+        run: |
+          grep -E '^  - name:' portals.yml | sed -E 's/^  - name: *"?([^"]*)"?$/\1/' | sort > "$RUNNER_TEMP/before.txt"
+          node "$RUNNER_TEMP/engine/discover-ats.mjs" --in companies.yml --write > "$RUNNER_TEMP/discover.json" || true
+          node -e 'const d=require(process.argv[1]);console.log(JSON.stringify(d.metadata,null,2));console.log("added:",(d.resolved||[]).map(r=>r.name+" -> "+r.careers_url).join("\n"))' "$RUNNER_TEMP/discover.json" || true
+
+      - name: Step 2 - check careers pages of the rest
+        run: |
+          node scripts/find-ats.mjs --engine "$RUNNER_TEMP/engine" \
+            --companies companies.yml --discover "$RUNNER_TEMP/discover.json" \
+            --portals portals.yml --report reports/discovery.md --write
+
+      - name: Step 3 - scan everything once, recording the new firms' existing roles
+        env:
+          CAREER_OPS_ROOT: ${{ github.workspace }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          mkdir -p data
+          grep -E '^  - name:' portals.yml | sed -E 's/^  - name: *"?([^"]*)"?$/\1/' | sort > "$RUNNER_TEMP/after.txt"
+          comm -13 "$RUNNER_TEMP/before.txt" "$RUNNER_TEMP/after.txt" > "$RUNNER_TEMP/new-firms.txt"
+          echo "New firms this week: $(wc -l < "$RUNNER_TEMP/new-firms.txt")"
+          node "$RUNNER_TEMP/engine/scan.mjs" --since 2 --json --quiet > "$RUNNER_TEMP/dry.json" 2>/dev/null || true
+          # Roles already open at newly added firms are recorded silently;
+          # genuinely new roles at existing firms are still alerted.
+          node scripts/log-scan.mjs "$RUNNER_TEMP/dry.json" new-firms
+          node scripts/jobs-page.mjs --engine "$RUNNER_TEMP/engine" --out JOBS.md
+          if [ -f data/scan-history.tsv ]; then
+            SUPPRESS_FILE="$RUNNER_TEMP/new-firms.txt" node scripts/notify.mjs "$RUNNER_TEMP/dry.json" data/pipeline.md
+          fi
+
+      - name: Step 4 - report boards that could not be read
+        run: |
+          node -e '
+            const fs=require("fs");
+            const r=JSON.parse(fs.readFileSync(process.argv[1],"utf8").trim().split("\n").filter(l=>l.startsWith("{")).pop()||"{}");
+            const errs=r.errors||[];
+            const out=["","## Boards that could not be read this week ("+errs.length+")","","The hourly scan keeps trying these, but they return nothing until fixed. Usually the company moved to a new careers site.",""];
+            for (const e of errs) out.push("- **"+e.company+"**: "+String(e.error).slice(0,200));
+            fs.appendFileSync("reports/discovery.md", out.join("\n")+"\n");
+            console.log("boards tested:", r.scanned, "failed:", errs.length);
+          ' "$RUNNER_TEMP/dry.json"
+
+      - name: Save changes
+        run: |
+          git config user.name "finance-job-radar"
+          git config user.email "finance-job-radar@users.noreply.github.com"
+          git add portals.yml reports/ JOBS.md
+          git add -f data/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "weekly discovery $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git fetch -q origin main
+            if git rebase -q -X theirs origin/main && git push -q origin HEAD:main; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          echo "could not save results after 3 tries"; exit 1

@@ -1,0 +1,50 @@
+name: Check startup list
+
+# Run by hand after editing companies_startups.yaml: tests every company's
+# job-board API and writes reports/startups-check.md (status, UK jobs,
+# junior finance matches). Records nothing and sends no alerts.
+on: workflow_dispatch
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finance-job-radar-india
+  cancel-in-progress: false
+
+env:
+  CAREER_OPS_VERSION: career-ops-v1.38.0
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Download career-ops
+        run: |
+          git clone --quiet --depth 1 --branch "$CAREER_OPS_VERSION" https://github.com/career-ops-hq/career-ops.git "$RUNNER_TEMP/engine"
+          cd "$RUNNER_TEMP/engine" && npm install --ignore-scripts --no-audit --no-fund --loglevel=error
+      - name: Check every company
+        env:
+          CAREER_OPS_ROOT: ${{ github.workspace }}
+        run: node scripts/startups.mjs --engine "$RUNNER_TEMP/engine" --check
+      - name: Look for missing or wrong slugs
+        env:
+          CAREER_OPS_ROOT: ${{ github.workspace }}
+        run: node scripts/startup-slugs.mjs --engine "$RUNNER_TEMP/engine"
+      - name: Save the report
+        run: |
+          git config user.name "finance-job-radar"
+          git config user.email "finance-job-radar@users.noreply.github.com"
+          git add reports/startups-check.md reports/startup-slugs.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "startup list check $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git fetch -q origin main
+            if git rebase -q -X theirs origin/main && git push -q origin HEAD:main; then exit 0; fi
+            git rebase --abort 2>/dev/null || true; sleep 5
+          done
