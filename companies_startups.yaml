@@ -18,4 +18,25 @@
 # A company's first scan records its open roles without alerting. Firms
 # already in portals.yml are skipped automatically.
 
-companies: []
+companies:
+
+  # ---- Fintech, payments & lending
+  - { name: Paytm, ats: lever, slug: paytm }
+  - { name: CRED, ats: lever, slug: cred }
+  - { name: Groww, ats: greenhouse, slug: groww }
+  - { name: Zeta, ats: lever, slug: zeta }
+  - { name: Fampay, ats: lever, slug: fampay }
+  - { name: Slice, ats: greenhouse, slug: slice }
+  - { name: Coinbase, ats: greenhouse, slug: coinbase }
+
+  # ---- Trading & private equity
+  - { name: Graviton Research Capital, ats: greenhouse, slug: gravitonresearchcapital }
+  - { name: Kedaara Capital, ats: lever, slug: kedaara }
+
+  # ---- Scale-ups with finance teams
+  - { name: Meesho, ats: lever, slug: meesho }
+  - { name: Druva, ats: greenhouse, slug: druva }
+
+# Checked 7 Nov 2026: most Indian firms (Razorpay, PhonePe, Zerodha, Upstox,
+# Jupiter, Swiggy, Zomato, Flipkart, Avendus, CRISIL...) use other hiring
+# systems (Darwinbox, Keka, own sites), so they can't be added here.
