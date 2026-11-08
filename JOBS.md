@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 22:38** (UK time) · **61 open roles** at 34 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 22:51** (UK time) · **61 open roles** at 34 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 22:36** · hourly scan · checked 70 boards · **1 new role**
+**Sun 8 Nov, 22:51** · hourly scan · checked 70 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Sun 8 Nov, 22:36** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<sub>Nothing new at: 22:51</sub>
 
 <details>
 <summary><b>22:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
