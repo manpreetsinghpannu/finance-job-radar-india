@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T17:36:41.504Z",
+ "generated_at": "2026-11-08T18:37:54.001Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 19,
+   "matching": 16,
    "picks": [
     {
      "title": "Financial Planning & Analysis (FP&A)",
@@ -40,11 +40,11 @@
      "sponsor": null
     },
     {
-     "title": "Financial Analyst II",
-     "company": "Fluor Corporation",
-     "location": "Vadodara, Gujarat, India",
-     "posted": "2026-11-08",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959",
+     "title": "Financial Analyst",
+     "company": "S&P Global",
+     "location": "Hyderabad, Telangana",
+     "posted": "2026-11-07",
+     "url": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1",
      "score": 18,
      "why": [
       "Financial Analyst"
@@ -419,11 +419,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/fp-a-executive-at-flexiple-4488736151": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/specialist-credit-services-ii-at-bny-4462890565": {
    "id": "credit",
    "cv": "Credit CV",
@@ -479,11 +474,6 @@
    "cv": "Equity CV",
    "score": 28
   },
-  "https://www.linkedin.com/jobs/view/treasury-executive-at-flexiple-4488724679": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/treasury-research-and-analytics-associate-at-jpmorganchase-4480550953": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -518,11 +508,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700": {
    "id": "credit",

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 17:36** (UK time) · **63 open roles** at 35 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 18:37** (UK time) · **60 open roles** at 33 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,28 +10,18 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 17:36** · hourly scan · checked 70 boards · **2 new roles**
+**Sun 8 Nov, 18:36** · hourly scan · checked 70 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Research Analyst, Financials (MENA/Australia/India/ASEAN)](https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721) | Millennium | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Sun 8 Nov, 17:36** (2: Finance 1 · Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (19 matching)
+**Finance (FP&A) CV** (16 matching)
 
 1. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
-2. [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959) · Fluor Corporation · Vadodara, Gujarat, India · posted 2026-11-08
+2. [Financial Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1) · S&P Global · Hyderabad, Telangana · posted 2026-11-07
 
 **Credit CV** (27 matching)
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<sub>Nothing new at: 18:36</sub>
 
 <details>
 <summary><b>17:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
@@ -118,19 +110,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>10:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959) | Fluor Corporation | Vadodara, Gujarat, India |
+<summary><b>10:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
 
 #### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-08 | [Commercial & Investment Bank Risk Associate - GHHN](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700) | JPMorganChase | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -244,13 +232,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (19)](#finance-fpa-cv-19) · [Credit (25)](#credit-cv-25) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
+Everything matched so far, newest first within each CV: [Finance (16)](#finance-fpa-cv-16) · [Credit (25)](#credit-cv-25) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
 
-### Finance (FP&A) CV: 19
+### Finance (FP&A) CV: 16
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-08 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959) | Fluor Corporation | Vadodara, Gujarat, India |
 | 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
 | 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
@@ -260,10 +247,8 @@ Everything matched so far, newest first within each CV: [Finance (19)](#finance-
 | 2026-11-07 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-precision-for-medicine-4470014106) | Precision For Medicine | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Finance Analyst-Contra Revenue](https://www.linkedin.com/jobs/view/finance-analyst-contra-revenue-at-hp-4488499191) | HP | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Financial Analyst II, FOAA Leo](https://www.linkedin.com/jobs/view/financial-analyst-ii-foaa-leo-at-amazon-4471886962) | Amazon | Pune/Pimpri-Chinchwad Area |
-| 2026-11-07 | [FP&A Executive](https://www.linkedin.com/jobs/view/fp-a-executive-at-flexiple-4488736151) | Flexiple | India |
 | 2026-11-07 | [Associate, FP&A](https://www.linkedin.com/jobs/view/associate-fp-a-at-elanco-4352634349) | Elanco | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Financial Reporting (Analyst) -Bengaluru](https://www.linkedin.com/jobs/view/financial-reporting-analyst-bengaluru-at-bnp-paribas-4480392493) | BNP Paribas | Bengaluru, Karnataka, India |
-| 2026-11-07 | [Treasury Executive](https://www.linkedin.com/jobs/view/treasury-executive-at-flexiple-4488724679) | Flexiple | India |
 | — | [Associate - Operations - Operations - CBS - FIN - FP&A Account Support - Bangalore](https://careers.ey.com/ey/job/Bengaluru-Associate-Operations-Operations-CBS-FIN-FP&A-Account-Support-Bangalore-KA-560001/1455368433/) | EY | Bengaluru |
 | 2026-11-07 | [Treasury Research and Analytics-Associate](https://www.linkedin.com/jobs/view/treasury-research-and-analytics-associate-at-jpmorganchase-4480550953) | JPMorganChase | Bengaluru, Karnataka, India |
 | — | [FIN_Treasury_AS](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AS/1447114200/) | Nomura | Mumbai |
@@ -347,10 +332,13 @@ Everything matched so far, newest first within each CV: [Finance (19)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>3 roles taken off the list because the firm closed the posting</summary>
+<summary>6 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 8 Nov, 18:37 | Financial Analyst II | Fluor Corporation |
+| Sun 8 Nov, 18:37 | Treasury Executive | Flexiple |
+| Sun 8 Nov, 18:36 | FP&A Executive | Flexiple |
 | Sun 8 Nov, 10:37 | Investment Banking Analyst | Zetheta Algorithms Private Limited |
 | Sun 8 Nov, 10:37 | Equity Research Analyst | Zetheta Algorithms Private Limited |
 | Sun 8 Nov, 10:36 | Financial Analyst | Scoutit |
