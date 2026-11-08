@@ -64,5 +64,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891 | YES BANK | Credit and Risk Officer | Gandhinagar, Gujarat, India | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959 | Fluor Corporation | Financial Analyst II | Vadodara, Gujarat, India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700 | JPMorganChase | Commercial & Investment Bank Risk Associate - GHHN | Bengaluru, Karnataka, India | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573 | JPMorganChase | Financial Controller - Associate | Bengaluru, Karnataka, India | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860 | VOIS | Treasury Cash Management & Banking Operations Specialist - VOIS | Ahmedabad, Gujarat, India | posted: 2026-11-07 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T10:38:00.478Z",
+ "generated_at": "2026-11-08T11:36:35.354Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 15,
+   "matching": 17,
    "picks": [
     {
      "title": "Financial Planning & Analysis (FP&A)",
@@ -528,6 +528,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 2
   }
  }
 }
