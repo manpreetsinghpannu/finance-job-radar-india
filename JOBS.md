@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 02:37** (UK time) · **55 open roles** at 30 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 03:39** (UK time) · **57 open roles** at 31 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 02:37** · hourly scan · checked 70 boards · **0 new roles**
+**Sun 8 Nov, 03:37** · hourly scan · checked 70 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 8 Nov, 00:15** (1: Other 1); open it in the scan log below.
+### Equity CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-08 | [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945) | Joblet-AI | India |
+| 2026-11-08 | [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246) | Joblet-AI | India |
 
 ## Top picks for each CV
 
@@ -28,15 +33,15 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
 2. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 
-**Equity CV** (4 matching)
+**Equity CV** (6 matching)
 
-1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
-2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-zetheta-algorithms-private-limited-4487601626) · Zetheta Algorithms Private Limited · India · posted 2026-11-07
+1. [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945) · Joblet-AI · India · posted 2026-11-08
+2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (6 matching)
+**Investment (IB / PE) CV** (7 matching)
 
-1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
-2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-zetheta-algorithms-private-limited-4487600776) · Zetheta Algorithms Private Limited · India · posted 2026-11-07
+1. [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246) · Joblet-AI · India · posted 2026-11-08
+2. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
 
 **Consulting CV** (3 matching)
 
@@ -58,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>03:37</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
+
+#### Equity CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-08 | [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945) | Joblet-AI | India |
+| 2026-11-08 | [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246) | Joblet-AI | India |
+
+</details>
 
 <sub>Nothing new at: 02:37, 01:37, 00:37</sub>
 
@@ -144,7 +161,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (15)](#finance-fpa-cv-15) · [Credit (23)](#credit-cv-23) · [Equity (4)](#equity-cv-4) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
+Everything matched so far, newest first within each CV: [Finance (15)](#finance-fpa-cv-15) · [Credit (23)](#credit-cv-23) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
 
 ### Finance (FP&A) CV: 15
 
@@ -194,10 +211,12 @@ Everything matched so far, newest first within each CV: [Finance (15)](#finance-
 | 2026-11-05 | [Market Risk Associate – CIO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Equity CV: 4
+### Equity CV: 6
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-08 | [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945) | Joblet-AI | India |
+| 2026-11-08 | [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246) | Joblet-AI | India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-zetheta-algorithms-private-limited-4487601626) | Zetheta Algorithms Private Limited | India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |

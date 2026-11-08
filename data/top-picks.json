@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T02:37:16.195Z",
+ "generated_at": "2026-11-08T03:39:01.080Z",
  "order": [
   "finance",
   "credit",
@@ -88,8 +88,21 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 4,
+   "matching": 6,
    "picks": [
+    {
+     "title": "Equity Research Analyst (Remote)",
+     "company": "Joblet-AI",
+     "location": "India",
+     "posted": "2026-11-08",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945",
+     "score": 28,
+     "why": [
+      "Equity Research",
+      "Research Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Equity Research Analyst",
      "company": "Millennium",
@@ -102,27 +115,26 @@
       "Research Analyst"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Equity Research Analyst",
-     "company": "Zetheta Algorithms Private Limited",
-     "location": "India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-zetheta-algorithms-private-limited-4487601626",
-     "score": 28,
-     "why": [
-      "Equity Research",
-      "Research Analyst"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 6,
+   "matching": 7,
    "picks": [
+    {
+     "title": "M&A Research Analyst (Remote)",
+     "company": "Joblet-AI",
+     "location": "India",
+     "posted": "2026-11-08",
+     "url": "https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246",
+     "score": 18,
+     "why": [
+      "M&A"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Trainee, Valuation Services",
      "company": "Kroll",
@@ -132,18 +144,6 @@
      "score": 18,
      "why": [
       "Valuation"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Investment Banking Analyst",
-     "company": "Zetheta Algorithms Private Limited",
-     "location": "India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-zetheta-algorithms-private-limited-4487600776",
-     "score": 18,
-     "why": [
-      "Investment Banking"
      ],
      "sponsor": null
     }
@@ -518,6 +518,16 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
   }
  }
 }

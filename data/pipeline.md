@@ -59,5 +59,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466 | Signify | Treasury Operations Specialist | Gurgaon, Haryana, India | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/team-member-debt-market-operations-at-aditya-birla-capital-4463363463 | Aditya Birla Capital | Team Member- Debt Market Operations | Maharashtra, India | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615 | LSEG | Business Graduate Associate (Finance) | Bengaluru, Karnataka, India | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246 | Joblet-AI | M&A Research Analyst (Remote) | India | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945 | Joblet-AI | Equity Research Analyst (Remote) | India | posted: 2026-11-08 | note: via LinkedIn
 
 ## Processed
