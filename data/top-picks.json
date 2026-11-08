@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:36:38.797Z",
+ "generated_at": "2026-11-08T22:38:15.724Z",
  "order": [
   "finance",
   "credit",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Risk Analyst Structured Finance",
@@ -543,6 +543,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

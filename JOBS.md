@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 21:36** (UK time) · **60 open roles** at 33 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 22:38** (UK time) · **61 open roles** at 34 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 21:36** · hourly scan · checked 70 boards · **0 new roles**
+**Sun 8 Nov, 22:36** · hourly scan · checked 70 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 8 Nov, 17:36** (2: Finance 1 · Equity 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Financial Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1) · S&P Global · Hyderabad, Telangana · posted 2026-11-07
 
-**Credit CV** (27 matching)
+**Credit CV** (28 matching)
 
 1. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 2. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>22:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
+
+</details>
 
 <sub>Nothing new at: 21:36, 20:36, 19:36, 19:10, 18:50, 18:36</sub>
 
@@ -232,7 +247,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (16)](#finance-fpa-cv-16) · [Credit (25)](#credit-cv-25) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
+Everything matched so far, newest first within each CV: [Finance (16)](#finance-fpa-cv-16) · [Credit (26)](#credit-cv-26) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
 
 ### Finance (FP&A) CV: 16
 
@@ -255,10 +270,11 @@ Everything matched so far, newest first within each CV: [Finance (16)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 25
+### Credit CV: 26
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
 | 2026-11-08 | [Commercial & Investment Bank Risk Associate - GHHN](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) | JPMorganChase | Mumbai, Maharashtra, India |
 | — | [Analyst, Portfolio Management US Direct Lending](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8606) | Ares Management | Mumbai, India |
