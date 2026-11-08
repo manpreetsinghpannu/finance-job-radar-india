@@ -184,7 +184,15 @@
   "checked_at": "2026-11-08T03:39:00Z"
  },
  "https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615": {
-  "status": "unknown",
-  "checked_at": "2026-11-08T00:37:37Z"
+  "status": "live",
+  "checked_at": "2026-11-08T04:37:21Z"
+ },
+ "https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246": {
+  "status": "live",
+  "checked_at": "2026-11-08T04:37:14Z"
+ },
+ "https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945": {
+  "status": "live",
+  "checked_at": "2026-11-08T04:37:17Z"
  }
 }
