@@ -1,22 +1,22 @@
 {
-  "finished_at": "2026-11-08T19:36:45.849Z",
+  "finished_at": "2026-11-08T20:36:25.590Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 70,
-  "postings_seen": 21258,
-  "filtered_out": 21220,
+  "postings_seen": 21256,
+  "filtered_out": 21218,
   "new_matches": 0,
   "boards_failed": 2,
   "failed": [
     {
-      "company": "Blackstone",
-      "error": "workday: Blackstone confirmed dead (maintenance page)"
-    },
-    {
       "company": "Blackstone (Campus)",
       "error": "workday: Blackstone (Campus) confirmed dead (maintenance page)"
+    },
+    {
+      "company": "Blackstone",
+      "error": "workday: Blackstone confirmed dead (maintenance page)"
     }
   ]
 }
