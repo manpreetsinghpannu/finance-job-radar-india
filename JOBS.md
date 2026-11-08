@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 00:16** (UK time) · **55 open roles** at 30 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 00:37** (UK time) · **55 open roles** at 30 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 00:15** · hourly scan · checked 70 boards · **1 new role**
+**Sun 8 Nov, 00:37** · hourly scan · checked 70 boards · **0 new roles**
 
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-07 | [Business Graduate Associate (Finance)](https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615) | LSEG | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Sun 8 Nov, 00:15** (1: Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<sub>Nothing new at: 00:37</sub>
 
 <details>
 <summary><b>00:15</b> · hourly scan · <b>1 new</b> → Other 1</summary>
