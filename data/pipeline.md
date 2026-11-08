@@ -62,5 +62,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246 | Joblet-AI | M&A Research Analyst (Remote) | India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945 | Joblet-AI | Equity Research Analyst (Remote) | India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891 | YES BANK | Credit and Risk Officer | Gandhinagar, Gujarat, India | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959 | Fluor Corporation | Financial Analyst II | Vadodara, Gujarat, India | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700 | JPMorganChase | Commercial & Investment Bank Risk Associate - GHHN | Bengaluru, Karnataka, India | posted: 2026-11-08 | note: via LinkedIn
 
 ## Processed

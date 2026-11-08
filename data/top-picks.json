@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T09:36:28.793Z",
+ "generated_at": "2026-11-08T10:38:00.478Z",
  "order": [
   "finance",
   "credit",
@@ -40,11 +40,11 @@
      "sponsor": null
     },
     {
-     "title": "Financial Analyst",
-     "company": "S&P Global",
-     "location": "Hyderabad, Telangana",
-     "posted": "2026-11-07",
-     "url": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1",
+     "title": "Financial Analyst II",
+     "company": "Fluor Corporation",
+     "location": "Vadodara, Gujarat, India",
+     "posted": "2026-11-08",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959",
      "score": 18,
      "why": [
       "Financial Analyst"
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 26,
+   "matching": 27,
    "picks": [
     {
      "title": "Analyst - Wholesale Credit Sanctioning - LevFin",
@@ -88,7 +88,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 6,
+   "matching": 5,
    "picks": [
     {
      "title": "Equity Research Analyst (Remote)",
@@ -121,7 +121,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 7,
+   "matching": 6,
    "picks": [
     {
      "title": "M&A Research Analyst (Remote)",
@@ -389,11 +389,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-scoutit-4487389988": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-precision-for-medicine-4470014106": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -474,11 +469,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-zetheta-algorithms-private-limited-4487601626": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 28
-  },
   "https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -488,11 +478,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 28
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-zetheta-algorithms-private-limited-4487600776": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/treasury-executive-at-flexiple-4488724679": {
    "id": "finance",
@@ -533,6 +518,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-ii-at-fluor-corporation-4488763959": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
   }
  }
 }
