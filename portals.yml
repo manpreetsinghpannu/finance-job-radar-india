@@ -282,7 +282,11 @@ location_filter:
     - "Philippines"
     - "China"
     - "Japan"
-  allow: []
+  # Anything with a location must be in India (always_allow above); roles
+  # elsewhere are dropped even if the country isn't in the block list.
+  allow:
+    - "India"
+  remote_title_fallback: false
 
 # Visa wording doesn't apply to roles in India.
 visa_filter:
