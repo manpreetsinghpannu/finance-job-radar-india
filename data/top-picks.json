@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T11:36:35.354Z",
+ "generated_at": "2026-11-08T12:36:36.031Z",
  "order": [
   "finance",
   "credit",
@@ -59,18 +59,6 @@
    "matching": 27,
    "picks": [
     {
-     "title": "Analyst - Wholesale Credit Sanctioning - LevFin",
-     "company": "Barclays",
-     "location": "Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor",
-     "posted": "2026-11-05",
-     "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1",
-     "score": 19,
-     "why": [
-      "Wholesale Credit"
-     ],
-     "sponsor": null
-    },
-    {
      "title": "Risk Analyst Structured Finance",
      "company": "JPMorganChase",
      "location": "Mumbai, Maharashtra, India",
@@ -80,6 +68,18 @@
      "why": [
       "Risk Analyst",
       "Structured Finance"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Analyst - Wholesale Credit Sanctioning - LevFin",
+     "company": "Barclays",
+     "location": "Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor",
+     "posted": "2026-11-05",
+     "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1",
+     "score": 17,
+     "why": [
+      "Wholesale Credit"
      ],
      "sponsor": null
     }
@@ -222,7 +222,7 @@
      "location": "Pune Maharashtra India",
      "posted": "2026-11-05",
      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424",
-     "score": 18,
+     "score": 16,
      "why": [
       "Fund Accounting"
      ],
@@ -247,12 +247,12 @@
   "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 10
+   "score": 8
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 19
+   "score": 17
   },
   "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1": {
    "id": "finance",
@@ -367,12 +367,12 @@
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 7
+   "score": 5
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 14
+   "score": 12
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768": {
    "id": "investment",
@@ -382,7 +382,7 @@
   "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-hp-4488489736": {
    "id": "finance",

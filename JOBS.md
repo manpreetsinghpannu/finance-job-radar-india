@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 11:36** (UK time) · **59 open roles** at 32 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 12:36** (UK time) · **59 open roles** at 32 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 11:36** · hourly scan · checked 70 boards · **2 new roles**
+**Sun 8 Nov, 12:36** · hourly scan · checked 70 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
-| 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
+Nothing new this time. The last scan that found something was **Sun 8 Nov, 11:36** (2: Finance 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -30,8 +25,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 
 **Credit CV** (27 matching)
 
-1. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
-2. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
+1. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
+2. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
 
 **Equity CV** (5 matching)
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<sub>Nothing new at: 12:36</sub>
 
 <details>
 <summary><b>11:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -156,11 +153,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-06 | [Associate Consultant, Financial Institution & Counterparty Risk](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1) | Northern Trust | Bangalore, India |
 | — | [Risk Analyst](https://careers.nomura.com/Nomura/job/Mumbai-Risk-Analyst/1433314600/) | Nomura | Mumbai |
 | 2026-11-06 | [Consultant - Financial Institutions & Counterparty Risk](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant---Financial-Institutions---Counterparty-Risk_R163825-1) | Northern Trust | Bangalore, India |
-| 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate, Credit IR](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Credit-IR_R6980) | Ares Management | Mumbai, India |
 | — | [Associate, Shared Business Services (Secondaries Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Strategic-Initiatives--Secondaries-Credit-_R8502-2) | Ares Management | Mumbai, India |
 | — | [RSK-Market Risk](https://careers.nomura.com/Nomura/job/Mumbai-RSK-Market-Risk/1447143100/) | Nomura | Mumbai |
 | — | [Credit Risk Specialist](https://careers.nomura.com/Nomura/job/Mumbai-Credit-Risk-Specialist/1435693200/) | Nomura | Mumbai |
+| 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
 #### Equity CV: 1
 
