@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T08:36:30.445Z",
+ "generated_at": "2026-11-08T09:36:28.793Z",
  "order": [
   "finance",
   "credit",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Analyst - Wholesale Credit Sanctioning - LevFin",
@@ -528,6 +528,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
   }
  }
 }

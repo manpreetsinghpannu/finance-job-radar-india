@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 08:36** (UK time) · **57 open roles** at 31 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 09:36** (UK time) · **58 open roles** at 32 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 08:36** · hourly scan · checked 70 boards · **0 new roles**
+**Sun 8 Nov, 09:36** · hourly scan · checked 70 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 8 Nov, 03:37** (2: Equity 2); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-07 | [Credit and Risk Officer](https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891) | YES BANK | Gandhinagar, Gujarat, India |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Financial Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1) · S&P Global · Hyderabad, Telangana · posted 2026-11-07
 
-**Credit CV** (25 matching)
+**Credit CV** (26 matching)
 
 1. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
 2. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>09:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-07 | [Credit and Risk Officer](https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891) | YES BANK | Gandhinagar, Gujarat, India |
+
+</details>
 
 <sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56, 05:37, 04:37</sub>
 
@@ -158,7 +173,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (15)](#finance-fpa-cv-15) · [Credit (23)](#credit-cv-23) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
+Everything matched so far, newest first within each CV: [Finance (15)](#finance-fpa-cv-15) · [Credit (24)](#credit-cv-24) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
 
 ### Finance (FP&A) CV: 15
 
@@ -180,7 +195,7 @@ Everything matched so far, newest first within each CV: [Finance (15)](#finance-
 | — | [FIN_Treasury_AS](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AS/1447114200/) | Nomura | Mumbai |
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 
-### Credit CV: 23
+### Credit CV: 24
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -197,6 +212,7 @@ Everything matched so far, newest first within each CV: [Finance (15)](#finance-
 | 2026-11-07 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-at-abc-aditya-birla-housing-finance-limited-4463366436) | ABC - Aditya Birla Housing Finance Limited | Maharashtra, India |
 | 2026-11-07 | [Credit Officer-Housing](https://www.linkedin.com/jobs/view/credit-officer-housing-at-ujjivan-small-finance-bank-4488730802) | Ujjivan Small Finance Bank | Dhamnod, Madhya Pradesh, India |
 | 2026-11-07 | [Team Member- Debt Market Operations](https://www.linkedin.com/jobs/view/team-member-debt-market-operations-at-aditya-birla-capital-4463363463) | Aditya Birla Capital | Maharashtra, India |
+| 2026-11-07 | [Credit and Risk Officer](https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891) | YES BANK | Gandhinagar, Gujarat, India |
 | — | [Associate, Credit IR](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Credit-IR_R6980) | Ares Management | Mumbai, India |
 | — | [Associate, Shared Business Services (Secondaries Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Strategic-Initiatives--Secondaries-Credit-_R8502-2) | Ares Management | Mumbai, India |
 | — | [RSK-Market Risk](https://careers.nomura.com/Nomura/job/Mumbai-RSK-Market-Risk/1447143100/) | Nomura | Mumbai |
