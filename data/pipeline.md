@@ -66,5 +66,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700 | JPMorganChase | Commercial & Investment Bank Risk Associate - GHHN | Bengaluru, Karnataka, India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573 | JPMorganChase | Financial Controller - Associate | Bengaluru, Karnataka, India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860 | VOIS | Treasury Cash Management & Banking Operations Specialist - VOIS | Ahmedabad, Gujarat, India | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974 | PwC Acceleration Center India | 1065 Private Equity_Senior Associate | Bengaluru, Karnataka, India | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-officer-4486687879 | Govt of west bengal | Treasury Officer | Kolkata, West Bengal, India | posted: 2026-11-08 | note: via LinkedIn
 
 ## Processed

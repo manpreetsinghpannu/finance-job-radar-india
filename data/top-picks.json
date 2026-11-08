@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T15:36:47.350Z",
+ "generated_at": "2026-11-08T16:36:31.955Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 17,
+   "matching": 18,
    "picks": [
     {
      "title": "Financial Planning & Analysis (FP&A)",
@@ -88,7 +88,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 5,
+   "matching": 6,
    "picks": [
     {
      "title": "Equity Research Analyst (Remote)",
@@ -121,7 +121,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 6,
+   "matching": 7,
    "picks": [
     {
      "title": "M&A Research Analyst (Remote)",
@@ -538,6 +538,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/treasury-officer-4486687879": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
