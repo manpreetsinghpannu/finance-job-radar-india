@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T00:05:26.431Z",
+ "generated_at": "2026-11-08T00:16:45.878Z",
  "order": [
   "finance",
   "credit",
@@ -513,6 +513,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

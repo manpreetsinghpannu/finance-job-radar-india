@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 8 Nov, 00:05** (UK time) · **54 open roles** at 29 firms · the radar checks every board about once an hour.
+Updated **Sun 8 Nov, 00:16** (UK time) · **55 open roles** at 30 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,70 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 8 Nov, 00:01** · starting scan: roles already open when the radar started (no alerts sent) · checked 70 boards · **28 new roles**
-
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-07 | [Financial Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1) | S&P Global | Hyderabad, Telangana |
-| — | [Associate - Operations - Operations - CBS - FIN - FP&A Account Support - Bangalore](https://careers.ey.com/ey/job/Bengaluru-Associate-Operations-Operations-CBS-FIN-FP&A-Account-Support-Bangalore-KA-560001/1455368433/) | EY | Bengaluru |
-| — | [FIN_Treasury_AS](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AS/1447114200/) | Nomura | Mumbai |
-
-### Credit CV: 15
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-05 | [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
-| — | [Analyst, Portfolio Management US Direct Lending](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8606) | Ares Management | Mumbai, India |
-| 2026-11-05 | [Market Risk Associate – CIO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678) | JPMorgan Chase | Mumbai, Maharashtra, India |
-| — | [RSK-Credit Risk](https://careers.nomura.com/Nomura/job/Mumbai-RSK-Credit-Risk/1427853400/) | Nomura | Mumbai |
-| — | [Risk Analyst – Data Science & Analytics](https://jobs.smartrecruiters.com/experian/744000159050969-risk-analyst-data-science-analytics) | Experian | Mumbai, Maharashtra, India |
-| — | [Risk Analyst – Data Science & Analytics](https://jobs.smartrecruiters.com/experian/744000158665379-risk-analyst-data-science-analytics) | Experian | Mumbai, , India |
-| — | [Risk Analyst – Data Science & Analytics](https://jobs.smartrecruiters.com/experian/744000158664969-risk-analyst-data-science-analytics) | Experian | Mumbai, , India |
-| 2026-11-06 | [Associate Consultant, Financial Institution & Counterparty Risk](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1) | Northern Trust | Bangalore, India |
-| — | [Risk Analyst](https://careers.nomura.com/Nomura/job/Mumbai-Risk-Analyst/1433314600/) | Nomura | Mumbai |
-| 2026-11-06 | [Consultant - Financial Institutions & Counterparty Risk](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant---Financial-Institutions---Counterparty-Risk_R163825-1) | Northern Trust | Bangalore, India |
-| 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
-| — | [Associate, Credit IR](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Credit-IR_R6980) | Ares Management | Mumbai, India |
-| — | [Associate, Shared Business Services (Secondaries Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Strategic-Initiatives--Secondaries-Credit-_R8502-2) | Ares Management | Mumbai, India |
-| — | [RSK-Market Risk](https://careers.nomura.com/Nomura/job/Mumbai-RSK-Market-Risk/1447143100/) | Nomura | Mumbai |
-| — | [Credit Risk Specialist](https://careers.nomura.com/Nomura/job/Mumbai-Credit-Risk-Specialist/1435693200/) | Nomura | Mumbai |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
-
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
-| 2026-11-07 | [Transaction Services - US Operations](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768) | Citi | Pune Maharashtra India |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
-
-### Fund CV (written for India; tweak the header for UK roles): 5
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
-| — | [Associate, Fund Accounting (Public Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303) | Ares Management | Mumbai, India |
-| — | [Associate, Fund Accounting ( Strategic Partnership)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting---Strategic-Partnership-_R8560) | Ares Management | Mumbai, India |
-| — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
-| 2026-11-05 | [Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079) | BlackRock | Mumbai, India |
+**Sun 8 Nov, 00:15** · hourly scan · checked 70 boards · **1 new role**
 
 ### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| — | [Quants](https://careers.nomura.com/Nomura/job/Mumbai-Quants-400076/1397978700/) | Nomura | Mumbai |
+| 2026-11-07 | [Business Graduate Associate (Finance)](https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615) | LSEG | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
@@ -119,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 8 November
+
+<details>
+<summary><b>00:15</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-07 | [Business Graduate Associate (Finance)](https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615) | LSEG | Bengaluru, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>00:01</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>28 new</b> → Finance 3 · Credit 15 · Equity 1 · Investment 2 · Real Estate 1 · Fund 5 · Other 1</summary>
@@ -192,7 +146,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (15)](#finance-fpa-cv-15) · [Credit (23)](#credit-cv-23) · [Equity (4)](#equity-cv-4) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (1)](#other-fits-no-cv-closely-may-still-be-worth-a-look-1)
+Everything matched so far, newest first within each CV: [Finance (15)](#finance-fpa-cv-15) · [Credit (23)](#credit-cv-23) · [Equity (4)](#equity-cv-4) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (2)](#other-fits-no-cv-closely-may-still-be-worth-a-look-2)
 
 ### Finance (FP&A) CV: 15
 
@@ -277,11 +231,12 @@ Everything matched so far, newest first within each CV: [Finance (15)](#finance-
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 | 2026-11-05 | [Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079) | BlackRock | Mumbai, India |
 
-### Other (fits no CV closely, may still be worth a look): 1
+### Other (fits no CV closely, may still be worth a look): 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Quants](https://careers.nomura.com/Nomura/job/Mumbai-Quants-400076/1397978700/) | Nomura | Mumbai |
+| 2026-11-07 | [Business Graduate Associate (Finance)](https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615) | LSEG | Bengaluru, Karnataka, India |
 
 ## Removed: posting closed (last 7 days)
 

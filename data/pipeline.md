@@ -58,5 +58,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-research-and-analytics-associate-at-jpmorganchase-4480550953 | JPMorganChase | Treasury Research and Analytics-Associate | Bengaluru, Karnataka, India | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466 | Signify | Treasury Operations Specialist | Gurgaon, Haryana, India | posted: 2026-11-07 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/team-member-debt-market-operations-at-aditya-birla-capital-4463363463 | Aditya Birla Capital | Team Member- Debt Market Operations | Maharashtra, India | posted: 2026-11-07 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615 | LSEG | Business Graduate Associate (Finance) | Bengaluru, Karnataka, India | posted: 2026-11-07 | note: via LinkedIn
 
 ## Processed
