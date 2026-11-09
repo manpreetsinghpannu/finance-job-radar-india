@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T07:37:59.950Z",
+ "generated_at": "2026-11-09T08:35:38.571Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 29,
+   "matching": 30,
    "picks": [
     {
      "title": "Risk Analyst Structured Finance",
@@ -89,7 +89,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 6,
+   "matching": 7,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -569,6 +569,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
   }
  }
 }

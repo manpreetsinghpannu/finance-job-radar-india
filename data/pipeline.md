@@ -79,5 +79,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182 | Entain India | Risk Associate | Hyderabad, Telangana, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228 | Applicantz | Financial Analyst – FP&A | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-4487142018 | Lucky Distributors | Accountant | Bhubaneswar, Odisha, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452 | Algo One AI | AI Investment Research Builder | India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181 | Misha Capital | Debt Syndication Associate | Delhi, India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

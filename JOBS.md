@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 07:37** (UK time) · **65 open roles** at 39 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 08:35** (UK time) · **67 open roles** at 41 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 07:37** · hourly scan · checked 70 boards · **2 new roles**
+**Mon 9 Nov, 08:35** · hourly scan · checked 70 boards · **2 new roles**
 
-### Finance (FP&A) CV: 2
+### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) | Applicantz | Bengaluru, Karnataka, India |
-| 2026-11-09 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4487142018) | Lucky Distributors | Bhubaneswar, Odisha, India |
+| 2026-11-09 | [Debt Syndication Associate](https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181) | Misha Capital | Delhi, India |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [AI Investment Research Builder](https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452) | Algo One AI | India |
 
 ## Top picks for each CV
 
@@ -28,12 +33,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) · Applicantz · Bengaluru, Karnataka, India · posted 2026-11-09
 2. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Credit CV** (29 matching)
+**Credit CV** (30 matching)
 
 1. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 2. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
 
-**Equity CV** (6 matching)
+**Equity CV** (7 matching)
 
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
@@ -63,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>08:35</b> · hourly scan · <b>2 new</b> → Credit 1 · Equity 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Debt Syndication Associate](https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181) | Misha Capital | Delhi, India |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [AI Investment Research Builder](https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452) | Algo One AI | India |
+
+</details>
 
 <details>
 <summary><b>07:37</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -295,7 +317,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (19)](#finance-fpa-cv-19) · [Credit (27)](#credit-cv-27) · [Equity (4)](#equity-cv-4) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
+Everything matched so far, newest first within each CV: [Finance (19)](#finance-fpa-cv-19) · [Credit (28)](#credit-cv-28) · [Equity (5)](#equity-cv-5) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
 
 ### Finance (FP&A) CV: 19
 
@@ -321,10 +343,11 @@ Everything matched so far, newest first within each CV: [Finance (19)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 27
+### Credit CV: 28
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Debt Syndication Associate](https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181) | Misha Capital | Delhi, India |
 | 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
 | 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
 | 2026-11-08 | [Commercial & Investment Bank Risk Associate - GHHN](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700) | JPMorganChase | Bengaluru, Karnataka, India |
@@ -353,10 +376,11 @@ Everything matched so far, newest first within each CV: [Finance (19)](#finance-
 | 2026-11-05 | [Market Risk Associate – CIO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Equity CV: 4
+### Equity CV: 5
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [AI Investment Research Builder](https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452) | Algo One AI | India |
 | 2026-11-08 | [Research Analyst, Financials (MENA/Australia/India/ASEAN)](https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721) | Millennium | Mumbai, Maharashtra, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |

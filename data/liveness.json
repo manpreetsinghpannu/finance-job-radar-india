@@ -268,5 +268,13 @@
   "checked_at": "2026-11-09T07:37:41Z",
   "closed_at": "2026-11-09T07:37:41Z",
   "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
+ },
+ "https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228": {
+  "status": "live",
+  "checked_at": "2026-11-09T08:35:34Z"
+ },
+ "https://www.linkedin.com/jobs/view/accountant-4487142018": {
+  "status": "unknown",
+  "checked_at": "2026-11-09T08:35:38Z"
  }
 }
