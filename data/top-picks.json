@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T13:36:49.666Z",
+ "generated_at": "2026-11-09T14:37:50.171Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 10,
+   "matching": 14,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -664,6 +664,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 2
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 2
   }
  }
 }

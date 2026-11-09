@@ -102,4 +102,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1 | Accenture | Capital Markets Services Analyst | Bengaluru | posted: 2026-11-09
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264 | Stellar Fusion | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
 
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1 | Accenture | Capital Markets Services Specialist | Bengaluru | posted: 2026-11-09
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-09
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-09
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-09
+
 ## Processed

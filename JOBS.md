@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 13:36** (UK time) · **84 open roles** at 52 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 14:37** (UK time) · **88 open roles** at 52 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,16 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 13:36** · hourly scan · checked 70 boards · **3 new roles**
+**Mon 9 Nov, 14:35** · hourly scan · checked 70 boards · **4 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264) | Stellar Fusion | Bengaluru, Karnataka, India |
-
-### Investment (IB / PE) CV: 2
+### Investment (IB / PE) CV: 4
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1) | Accenture | Bengaluru |
-| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Services Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1) | Accenture | Bengaluru |
 
 ## Top picks for each CV
 
@@ -44,7 +40,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (10 matching)
+**Investment (IB / PE) CV** (14 matching)
 
 1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
@@ -69,6 +65,20 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>14:35</b> · hourly scan · <b>4 new</b> → Investment 4</summary>
+
+#### Investment (IB / PE) CV: 4
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Services Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1) | Accenture | Bengaluru |
+
+</details>
 
 <details>
 <summary><b>13:36</b> · hourly scan · <b>3 new</b> → Finance 1 · Investment 2</summary>
@@ -420,7 +430,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (25)](#finance-fpa-cv-25) · [Credit (30)](#credit-cv-30) · [Equity (7)](#equity-cv-7) · [Investment (9)](#investment-ib--pe-cv-9) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
+Everything matched so far, newest first within each CV: [Finance (25)](#finance-fpa-cv-25) · [Credit (30)](#credit-cv-30) · [Equity (7)](#equity-cv-7) · [Investment (13)](#investment-ib--pe-cv-13) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
 
 ### Finance (FP&A) CV: 25
 
@@ -499,7 +509,7 @@ Everything matched so far, newest first within each CV: [Finance (25)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 9
+### Investment (IB / PE) CV: 13
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -507,6 +517,10 @@ Everything matched so far, newest first within each CV: [Finance (25)](#finance-
 | 2026-11-09 | [Private Equity Fund Accounting](https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764) | CES | Hyderabad, Telangana, India |
 | 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1) | Accenture | Bengaluru |
 | 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Services Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1) | Accenture | Bengaluru |
 | 2026-11-08 | [1065 Private Equity_Senior Associate](https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974) | PwC Acceleration Center India | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) | Kroll | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) | Kroll | Mumbai Metropolitan Region |
