@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 02:46** (UK time) · **62 open roles** at 35 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 03:02** (UK time) · **62 open roles** at 35 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 02:44** · hourly scan · checked 70 boards · **1 new role**
+**Mon 9 Nov, 03:02** · hourly scan · checked 70 boards · **0 new roles**
 
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Quantitative Researcher - Experienced Hires (India)](https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680) | Trexquant Investment LP | Gurugram, Haryana, India |
+Nothing new this time. The last scan that found something was **Mon 9 Nov, 02:44** (1: Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<sub>Nothing new at: 03:02</sub>
 
 <details>
 <summary><b>02:44</b> · hourly scan · <b>1 new</b> → Other 1</summary>
