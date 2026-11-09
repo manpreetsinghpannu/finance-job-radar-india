@@ -107,6 +107,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-09
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-09
 - [ ] https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363 | Morgan Stanley | Corporate Treasury Desk Strategist, Associate, Quantitative Strategists | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-modeler-at-ford-motor-company-4488893634 | Ford Motor Company | Credit Risk Modeler | Chennai, Tamil Nadu, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/holt-production-model-research-analyst-at-ubs-4487947088 | UBS | HOLT Production & Model Research Analyst | Hyderabad, Telangana, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-tekwissen-india-4485601341 | TekWissen India | Financial Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-09 | note: via LinkedIn
 
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/ | Deloitte India | Consultant / Tagetik / Bengaluru / Finance Transformation / Business Finance | Bengaluru
 - [ ] https://southasiacareers.deloitte.com/job/Pune-Consultant-Workday-Planning-Pune-Finance-Transformation-Business-Finance/58777644/ | Deloitte India | Consultant / Workday Planning / Pune / Finance Transformation / Business Finance | Pune

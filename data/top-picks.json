@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T17:34:25.984Z",
+ "generated_at": "2026-11-09T17:42:36.024Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 35,
+   "matching": 27,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 36,
+   "matching": 33,
    "picks": [
     {
      "title": "Risk Management CA Industrial Trainee – Credit Risk",
@@ -646,11 +646,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 28
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 28
-  },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -691,90 +686,20 @@
    "cv": "Finance (FP&A) CV",
    "score": 10
   },
-  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
-  },
-  "https://southasiacareers.deloitte.com/job/Pune-Consultant-Workday-Planning-Pune-Finance-Transformation-Business-Finance/58777644/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
-  },
-  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Anaplan-Bengaluru-Finance-Transformation-Business-Finance/60524644/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
-  },
-  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/60510544/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 12
-  },
-  "https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPM-All-Ahmedabad-Finance-Transformation-Business-Finance/60511144/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
-  },
-  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Data-Science-Bengaluru-Finance-Transformation/61353244/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
-  },
-  "https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/": {
+  "https://www.linkedin.com/jobs/view/credit-risk-modeler-at-ford-motor-company-4488893634": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
-  },
-  "https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 4
-  },
-  "https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
-  },
-  "https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
    "score": 14
   },
-  "https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
+  "https://www.linkedin.com/jobs/view/holt-production-model-research-analyst-at-ubs-4487947088": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
   },
-  "https://southasiacareers.deloitte.com/job/Gurugram-Consultant-APM-BFSI-BA-Gurugram-Finance-Transformation-Finance-Strategy/61059644/": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 12
-  },
-  "https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 11
-  },
-  "https://jobs.temasek.com.sg/job/AssociateSenior-Associate-%2812-months-contract%29%2C-Operations-%28Trading-Assistant%29-238891/1374307957/": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
-  "https://careers.gic.com.sg/job/Singapore-SVPMD%2C-Head%2C-Credit-Risk-Management/1357172566/": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 10
-  },
-  "https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 14
-  },
-  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 15
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-tekwissen-india-4485601341": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
