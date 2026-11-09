@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T01:36:51.066Z",
+ "generated_at": "2026-11-09T02:38:25.945Z",
  "order": [
   "finance",
   "credit",
@@ -548,6 +548,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
