@@ -82,4 +82,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452 | Algo One AI | AI Investment Research Builder | India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181 | Misha Capital | Debt Syndication Associate | Delhi, India | posted: 2026-11-09 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061 | JPMorgan Chase | Quant Analytics Associate | Bengaluru, Karnataka, India | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866 | Signode | Financial Planning & Analyst (FP&A) | Greater Hyderabad Area | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407 | Intuitive | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818 | Nomura | Risk Management CA Industrial Trainee – Credit Risk | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597 | V2U Consultancy Services Pvt. Ltd. | -Hiring Equity Research Analyst - CFA Level 1 | Delhi, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466 | SIHO Research | Technical Analyst - Trader | Noida, Uttar Pradesh, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510 | Nomura | Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471 | SWASTIK FINANCE LTD | Treasury Specialist | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
+
 ## Processed

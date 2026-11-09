@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T08:35:38.571Z",
+ "generated_at": "2026-11-09T09:35:42.149Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 19,
+   "matching": 22,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -40,12 +40,12 @@
      "sponsor": null
     },
     {
-     "title": "Financial Planning & Analysis (FP&A)",
-     "company": "ISG",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063",
-     "score": 24,
+     "title": "Financial Planning & Analyst (FP&A)",
+     "company": "Signode",
+     "location": "Greater Hyderabad Area",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866",
+     "score": 28,
      "why": [
       "FP&A",
       "Financial Planning"
@@ -57,8 +57,20 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 30,
+   "matching": 32,
    "picks": [
+    {
+     "title": "Risk Management CA Industrial Trainee – Credit Risk",
+     "company": "Nomura",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818",
+     "score": 19,
+     "why": [
+      "Credit Risk"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Risk Analyst Structured Finance",
      "company": "JPMorganChase",
@@ -71,32 +83,20 @@
       "Structured Finance"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Analyst - Wholesale Credit Sanctioning - LevFin",
-     "company": "Barclays",
-     "location": "Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor",
-     "posted": "2026-11-05",
-     "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1",
-     "score": 17,
-     "why": [
-      "Wholesale Credit"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 7,
+   "matching": 8,
    "picks": [
     {
-     "title": "Equity Research Analyst",
-     "company": "Millennium",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347",
+     "title": "-Hiring Equity Research Analyst - CFA Level 1",
+     "company": "V2U Consultancy Services Pvt. Ltd.",
+     "location": "Delhi, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597",
      "score": 28,
      "why": [
       "Equity Research",
@@ -106,10 +106,10 @@
     },
     {
      "title": "Equity Research Analyst",
-     "company": "Simpledha",
-     "location": "Chennai, Tamil Nadu, India",
+     "company": "Millennium",
+     "location": "Bengaluru, Karnataka, India",
      "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347",
      "score": 28,
      "why": [
       "Equity Research",
@@ -579,6 +579,46 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 3
   }
  }
 }

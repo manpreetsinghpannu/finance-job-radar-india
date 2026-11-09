@@ -276,5 +276,13 @@
  "https://www.linkedin.com/jobs/view/accountant-4487142018": {
   "status": "unknown",
   "checked_at": "2026-11-09T08:35:38Z"
+ },
+ "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
+  "status": "unknown",
+  "checked_at": "2026-11-09T09:35:38Z"
+ },
+ "https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181": {
+  "status": "live",
+  "checked_at": "2026-11-09T09:35:41Z"
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 08:35** (UK time) · **67 open roles** at 41 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 09:35** (UK time) · **75 open roles** at 46 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,38 +10,54 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 08:35** · hourly scan · checked 70 boards · **2 new roles**
+**Mon 9 Nov, 09:35** · hourly scan · checked 70 boards · **8 new roles**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Debt Syndication Associate](https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181) | Misha Capital | Delhi, India |
+| 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407) | Intuitive | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471) | SWASTIK FINANCE LTD | Mumbai, Maharashtra, India |
+
+### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) | Nomura | Mumbai, Maharashtra, India |
+| 2026-11-09 | [Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit](https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510) | Nomura | Mumbai, Maharashtra, India |
 
 ### Equity CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [AI Investment Research Builder](https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452) | Algo One AI | India |
+| 2026-11-09 | [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
+
+### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (19 matching)
+**Finance (FP&A) CV** (22 matching)
 
 1. [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) · Applicantz · Bengaluru, Karnataka, India · posted 2026-11-09
-2. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
+2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 
-**Credit CV** (30 matching)
+**Credit CV** (32 matching)
 
-1. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
-2. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
+1. [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) · Nomura · Mumbai, Maharashtra, India · posted 2026-11-09
+2. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 
-**Equity CV** (7 matching)
+**Equity CV** (8 matching)
 
-1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
-2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
+1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
+2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
 **Investment (IB / PE) CV** (6 matching)
 
@@ -68,6 +84,39 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>09:35</b> · hourly scan · <b>8 new</b> → Finance 3 · Credit 2 · Equity 1 · Other 2</summary>
+
+#### Finance (FP&A) CV: 3
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407) | Intuitive | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471) | SWASTIK FINANCE LTD | Mumbai, Maharashtra, India |
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) | Nomura | Mumbai, Maharashtra, India |
+| 2026-11-09 | [Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit](https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510) | Nomura | Mumbai, Maharashtra, India |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
+
+#### Other (fits no CV closely, may still be worth a look): 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |
+
+</details>
 
 <details>
 <summary><b>08:35</b> · hourly scan · <b>2 new</b> → Credit 1 · Equity 1</summary>
@@ -317,15 +366,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (19)](#finance-fpa-cv-19) · [Credit (28)](#credit-cv-28) · [Equity (5)](#equity-cv-5) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
+Everything matched so far, newest first within each CV: [Finance (22)](#finance-fpa-cv-22) · [Credit (30)](#credit-cv-30) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
 
-### Finance (FP&A) CV: 19
+### Finance (FP&A) CV: 22
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) | Applicantz | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
 | 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407) | Intuitive | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4487142018) | Lucky Distributors | Bhubaneswar, Odisha, India |
+| 2026-11-09 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471) | SWASTIK FINANCE LTD | Mumbai, Maharashtra, India |
 | 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
 | 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
@@ -343,10 +395,12 @@ Everything matched so far, newest first within each CV: [Finance (19)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 28
+### Credit CV: 30
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) | Nomura | Mumbai, Maharashtra, India |
+| 2026-11-09 | [Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit](https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510) | Nomura | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Debt Syndication Associate](https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181) | Misha Capital | Delhi, India |
 | 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
 | 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
@@ -376,10 +430,11 @@ Everything matched so far, newest first within each CV: [Finance (19)](#finance-
 | 2026-11-05 | [Market Risk Associate – CIO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Equity CV: 5
+### Equity CV: 6
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
 | 2026-11-09 | [AI Investment Research Builder](https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452) | Algo One AI | India |
 | 2026-11-08 | [Research Analyst, Financials (MENA/Australia/India/ASEAN)](https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721) | Millennium | Mumbai, Maharashtra, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
@@ -413,10 +468,12 @@ Everything matched so far, newest first within each CV: [Finance (19)](#finance-
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 | 2026-11-05 | [Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079) | BlackRock | Mumbai, India |
 
-### Other (fits no CV closely, may still be worth a look): 3
+### Other (fits no CV closely, may still be worth a look): 5
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |
 | 2026-11-08 | [Quantitative Researcher - Experienced Hires (India)](https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680) | Trexquant Investment LP | Gurugram, Haryana, India |
 | — | [Quants](https://careers.nomura.com/Nomura/job/Mumbai-Quants-400076/1397978700/) | Nomura | Mumbai |
 | 2026-11-07 | [Business Graduate Associate (Finance)](https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615) | LSEG | Bengaluru, Karnataka, India |
