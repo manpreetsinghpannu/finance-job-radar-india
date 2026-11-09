@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 22:20** (UK time) · **116 open roles** at 65 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 22:35** (UK time) · **116 open roles** at 65 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 22:19** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 9 Nov, 22:35** · hourly scan · checked 99 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Associate - Strategic Advisory (India Coverage)](https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405) | PJT Partners | Mumbai, Maharashtra, India |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [SME - Asset Management, ServiceNow](https://careers.hcltech.com/job/SME-Asset-Management%2C-ServiceNow/189165-en_US) | HCLTech |  |
+Nothing new this time. The last scan that found something was **Mon 9 Nov, 22:19** (2: Investment 1 · Real Estate 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<sub>Nothing new at: 22:35</sub>
 
 <details>
 <summary><b>22:19</b> · hourly scan · <b>2 new</b> → Investment 1 · Real Estate 1</summary>
