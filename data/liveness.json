@@ -279,11 +279,11 @@
  },
  "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
   "status": "unknown",
-  "checked_at": "2026-11-09T09:35:38Z"
+  "checked_at": "2026-11-09T12:35:49Z"
  },
  "https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181": {
   "status": "live",
-  "checked_at": "2026-11-09T09:35:41Z"
+  "checked_at": "2026-11-09T12:35:52Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061": {
   "status": "live",
@@ -336,5 +336,9 @@
  "https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-business-unit-at-caterpillar-inc-4488852050": {
   "status": "live",
   "checked_at": "2026-11-09T12:09:01Z"
+ },
+ "https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993": {
+  "status": "live",
+  "checked_at": "2026-11-09T12:35:45Z"
  }
 }

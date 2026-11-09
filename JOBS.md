@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 12:09** (UK time) · **81 open roles** at 51 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 12:35** (UK time) · **82 open roles** at 51 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 12:08** · hourly scan · checked 70 boards · **1 new role**
+**Mon 9 Nov, 12:35** · hourly scan · checked 70 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
+### Equity CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) | Oracle | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246) | V2U Consultancy Services Pvt. Ltd. | Noida, Uttar Pradesh, India |
 
 ## Top picks for each CV
 
@@ -32,7 +32,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) · Nomura · Mumbai, Maharashtra, India · posted 2026-11-09
 2. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 
-**Equity CV** (9 matching)
+**Equity CV** (10 matching)
 
 1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>12:35</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246) | V2U Consultancy Services Pvt. Ltd. | Noida, Uttar Pradesh, India |
+
+</details>
 
 <details>
 <summary><b>12:08</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -395,7 +406,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (25)](#finance-fpa-cv-25) · [Credit (30)](#credit-cv-30) · [Equity (6)](#equity-cv-6) · [Investment (7)](#investment-ib--pe-cv-7) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
+Everything matched so far, newest first within each CV: [Finance (25)](#finance-fpa-cv-25) · [Credit (30)](#credit-cv-30) · [Equity (7)](#equity-cv-7) · [Investment (7)](#investment-ib--pe-cv-7) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
 
 ### Finance (FP&A) CV: 25
 
@@ -462,11 +473,12 @@ Everything matched so far, newest first within each CV: [Finance (25)](#finance-
 | 2026-11-05 | [Market Risk Associate – CIO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Equity CV: 6
+### Equity CV: 7
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
+| 2026-11-09 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246) | V2U Consultancy Services Pvt. Ltd. | Noida, Uttar Pradesh, India |
 | 2026-11-09 | [AI Investment Research Builder](https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452) | Algo One AI | India |
 | 2026-11-08 | [Research Analyst, Financials (MENA/Australia/India/ASEAN)](https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721) | Millennium | Mumbai, Maharashtra, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |

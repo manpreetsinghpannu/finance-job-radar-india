@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T12:09:01.500Z",
+ "generated_at": "2026-11-09T12:35:52.899Z",
  "order": [
   "finance",
   "credit",
@@ -89,7 +89,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 9,
+   "matching": 10,
    "picks": [
     {
      "title": "-Hiring Equity Research Analyst - CFA Level 1",
@@ -648,6 +648,11 @@
   "https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246": {
+   "id": "equity",
+   "cv": "Equity CV",
    "score": 28
   }
  }
