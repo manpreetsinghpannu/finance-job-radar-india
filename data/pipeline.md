@@ -72,5 +72,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721 | Millennium | Research Analyst, Financials (MENA/Australia/India/ASEAN) | Mumbai, Maharashtra, India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825 | Vodafone | Executive-Credit to collection analyst-VOIS | Pune Division, Maharashtra, India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680 | Trexquant Investment LP | Quantitative Researcher - Experienced Hires (India) | Gurugram, Haryana, India | posted: 2026-11-08 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712 | HRM Counsel | Financial Analyst | India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

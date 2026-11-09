@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 04:37** (UK time) · **62 open roles** at 35 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 05:37** (UK time) · **63 open roles** at 36 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,18 +10,22 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 04:36** · hourly scan · checked 70 boards · **0 new roles**
+**Mon 9 Nov, 05:37** · hourly scan · checked 70 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Mon 9 Nov, 02:44** (1: Other 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (16 matching)
+**Finance (FP&A) CV** (17 matching)
 
 1. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
-2. [Financial Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1) · S&P Global · Hyderabad, Telangana · posted 2026-11-07
+2. [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) · HRM Counsel · India · posted 2026-11-09
 
 **Credit CV** (28 matching)
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>05:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
+
+</details>
 
 <sub>Nothing new at: 04:36, 03:36, 03:02</sub>
 
@@ -262,12 +277,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (16)](#finance-fpa-cv-16) · [Credit (26)](#credit-cv-26) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
+Everything matched so far, newest first within each CV: [Finance (17)](#finance-fpa-cv-17) · [Credit (26)](#credit-cv-26) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
 
-### Finance (FP&A) CV: 16
+### Finance (FP&A) CV: 17
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
 | 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
 | 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
