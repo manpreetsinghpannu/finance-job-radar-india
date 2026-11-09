@@ -108,4 +108,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-09
 - [ ] https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363 | Morgan Stanley | Corporate Treasury Desk Strategist, Associate, Quantitative Strategists | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/ | Deloitte India | Consultant / Tagetik / Bengaluru / Finance Transformation / Business Finance | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Pune-Consultant-Workday-Planning-Pune-Finance-Transformation-Business-Finance/58777644/ | Deloitte India | Consultant / Workday Planning / Pune / Finance Transformation / Business Finance | Pune
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Anaplan-Bengaluru-Finance-Transformation-Business-Finance/60524644/ | Deloitte India | Consultant / Anaplan / Bengaluru / Finance Transformation / Business Finance | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/60510544/ | Deloitte India | Consultant / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPM-All-Ahmedabad-Finance-Transformation-Business-Finance/60511144/ | Deloitte India | Consultant / Oracle EPM: All / Ahmedabad / Finance Transformation / Business Finance | Ahmedabad
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Data-Science-Bengaluru-Finance-Transformation/61353244/ | Deloitte India | Consultant / Data Science / Bengaluru / Finance Transformation | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/ | Deloitte India | Credit Operations Analyst / Regulatory & Financial Risk | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/ | Deloitte India | Credit Underwriting / Bengaluru / Regulatory & Financial Risk | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/ | Deloitte India | Consultant / Anaplan / Kolkata / Finance Transformation / Business Finance | Kolkata
+- [ ] https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/ | Deloitte India | Technology & Transformation / OIDS / Consultant / Strategy Consultant (Oil and Gas) / Delhi | Delhi
+- [ ] https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/ | Deloitte India | Consultant / Oracle - EPBCS / Pune / Finance Transformation / Business Finance | Pune
+- [ ] https://southasiacareers.deloitte.com/job/Gurugram-Consultant-APM-BFSI-BA-Gurugram-Finance-Transformation-Finance-Strategy/61059644/ | Deloitte India | Consultant / APM: BFSI BA / Gurugram / Finance Transformation / Finance Strategy | Gurugram
+- [ ] https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/ | Temasek | Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)
+- [ ] https://jobs.temasek.com.sg/job/AssociateSenior-Associate-%2812-months-contract%29%2C-Operations-%28Trading-Assistant%29-238891/1374307957/ | Temasek | Associate/Senior Associate (12 months contract), Operations (Trading Assistant)
+- [ ] https://careers.gic.com.sg/job/Singapore-SVPMD%2C-Head%2C-Credit-Risk-Management/1357172566/ | GIC | SVP/MD, Head, Credit Risk Management
+- [ ] https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/ | GIC | Analyst/Associate, Real Estate Debt
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517 | Kotak Mahindra Bank | Operations Team Member_Capital Market Operation-Fund Accounting_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-09
+
 ## Processed

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 16:35** (UK time) · **89 open roles** at 52 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 17:34** (UK time) · **106 open roles** at 56 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,45 +10,90 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 16:35** · hourly scan · checked 70 boards · **0 new roles**
+**Mon 9 Nov, 17:34** · new firms added: roles already open at firms added this day (no alerts sent) · checked 99 boards · **17 new roles**
 
-Nothing new this time. The last scan that found something was **Mon 9 Nov, 15:36** (1: Finance 1); open it in the scan log below.
+### Credit CV: 3
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [SVP/MD, Head, Credit Risk Management](https://careers.gic.com.sg/job/Singapore-SVPMD%2C-Head%2C-Credit-Risk-Management/1357172566/) | GIC |  |
+| — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
+| — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
+
+### Consulting CV: 10
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Technology & Transformation / OIDS / Consultant / Strategy Consultant (Oil and Gas) / Delhi](https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/) | Deloitte India | Delhi |
+| — | [Consultant / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/60510544/) | Deloitte India | Bengaluru |
+| — | [Consultant / APM: BFSI BA / Gurugram / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Gurugram-Consultant-APM-BFSI-BA-Gurugram-Finance-Transformation-Finance-Strategy/61059644/) | Deloitte India | Gurugram |
+| — | [Consultant / Tagetik / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/) | Deloitte India | Bengaluru |
+| — | [Consultant / Workday Planning / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Workday-Planning-Pune-Finance-Transformation-Business-Finance/58777644/) | Deloitte India | Pune |
+| — | [Consultant / Anaplan / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Anaplan-Bengaluru-Finance-Transformation-Business-Finance/60524644/) | Deloitte India | Bengaluru |
+| — | [Consultant / Oracle EPM: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPM-All-Ahmedabad-Finance-Transformation-Business-Finance/60511144/) | Deloitte India | Ahmedabad |
+| — | [Consultant / Data Science / Bengaluru / Finance Transformation](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Data-Science-Bengaluru-Finance-Transformation/61353244/) | Deloitte India | Bengaluru |
+| — | [Consultant / Anaplan / Kolkata / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/) | Deloitte India | Kolkata |
+| — | [Consultant / Oracle - EPBCS / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/) | Deloitte India | Pune |
+
+### Real Estate CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
+
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Operations Team Member_Capital Market Operation-Fund Accounting_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Associate/Senior Associate (12 months contract), Operations (Trading Assistant)](https://jobs.temasek.com.sg/job/AssociateSenior-Associate-%2812-months-contract%29%2C-Operations-%28Trading-Assistant%29-238891/1374307957/) | Temasek |  |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (26 matching)
+**Finance (FP&A) CV** (35 matching)
 
 1. [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) · Applicantz · Bengaluru, Karnataka, India · posted 2026-11-09
 2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 
-**Credit CV** (32 matching)
+**Credit CV** (36 matching)
 
 1. [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) · Nomura · Mumbai, Maharashtra, India · posted 2026-11-09
 2. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 
-**Equity CV** (10 matching)
+**Equity CV** (11 matching)
 
 1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (14 matching)
+**Investment (IB / PE) CV** (15 matching)
 
 1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
 
-**Consulting CV** (4 matching)
+**Consulting CV** (14 matching)
 
-1. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
-2. [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) · Kroll · Mumbai Metropolitan Region · posted 2026-11-07
+1. [Technology & Transformation / OIDS / Consultant / Strategy Consultant (Oil and Gas) / Delhi](https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/) · Deloitte India · Delhi
+2. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
 
-**Real Estate CV** (8 matching)
+**Real Estate CV** (9 matching)
 
-1. [Asset Management Analyst](https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073) · Gallagher & Mohan · Delhi, India · posted 2026-11-09
-2. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
+1. [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) · GIC · India
+2. [Asset Management Analyst](https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073) · Gallagher & Mohan · Delhi, India · posted 2026-11-09
 
-**Fund CV (written for India; tweak the header for UK roles)** (7 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (8 matching)
 
 1. [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) · Citi · Pune Maharashtra India · posted 2026-11-05
 2. [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) · Morgan Stanley · Bengaluru, Karnataka, India · posted 2026-11-09
@@ -58,6 +103,58 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>17:34</b> · new firms added: roles already open at firms added this day (no alerts sent) · <b>17 new</b> → Credit 3 · Investment 1 · Consulting 10 · Real Estate 1 · Fund 1 · Other 1</summary>
+
+#### Credit CV: 3
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [SVP/MD, Head, Credit Risk Management](https://careers.gic.com.sg/job/Singapore-SVPMD%2C-Head%2C-Credit-Risk-Management/1357172566/) | GIC |  |
+| — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
+| — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
+
+#### Consulting CV: 10
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Technology & Transformation / OIDS / Consultant / Strategy Consultant (Oil and Gas) / Delhi](https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/) | Deloitte India | Delhi |
+| — | [Consultant / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/60510544/) | Deloitte India | Bengaluru |
+| — | [Consultant / APM: BFSI BA / Gurugram / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Gurugram-Consultant-APM-BFSI-BA-Gurugram-Finance-Transformation-Finance-Strategy/61059644/) | Deloitte India | Gurugram |
+| — | [Consultant / Tagetik / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/) | Deloitte India | Bengaluru |
+| — | [Consultant / Workday Planning / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Workday-Planning-Pune-Finance-Transformation-Business-Finance/58777644/) | Deloitte India | Pune |
+| — | [Consultant / Anaplan / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Anaplan-Bengaluru-Finance-Transformation-Business-Finance/60524644/) | Deloitte India | Bengaluru |
+| — | [Consultant / Oracle EPM: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPM-All-Ahmedabad-Finance-Transformation-Business-Finance/60511144/) | Deloitte India | Ahmedabad |
+| — | [Consultant / Data Science / Bengaluru / Finance Transformation](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Data-Science-Bengaluru-Finance-Transformation/61353244/) | Deloitte India | Bengaluru |
+| — | [Consultant / Anaplan / Kolkata / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/) | Deloitte India | Kolkata |
+| — | [Consultant / Oracle - EPBCS / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/) | Deloitte India | Pune |
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Operations Team Member_Capital Market Operation-Fund Accounting_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Associate/Senior Associate (12 months contract), Operations (Trading Assistant)](https://jobs.temasek.com.sg/job/AssociateSenior-Associate-%2812-months-contract%29%2C-Operations-%28Trading-Assistant%29-238891/1374307957/) | Temasek |  |
+
+</details>
 
 <sub>Nothing new at: 16:35</sub>
 
@@ -436,7 +533,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (26)](#finance-fpa-cv-26) · [Credit (30)](#credit-cv-30) · [Equity (7)](#equity-cv-7) · [Investment (13)](#investment-ib--pe-cv-13) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
+Everything matched so far, newest first within each CV: [Finance (26)](#finance-fpa-cv-26) · [Credit (33)](#credit-cv-33) · [Equity (7)](#equity-cv-7) · [Investment (14)](#investment-ib--pe-cv-14) · [Consulting (10)](#consulting-cv-10) · [Real Estate (3)](#real-estate-cv-3) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
 ### Finance (FP&A) CV: 26
 
@@ -469,14 +566,17 @@ Everything matched so far, newest first within each CV: [Finance (26)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 30
+### Credit CV: 33
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) | Nomura | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit](https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510) | Nomura | Mumbai, Maharashtra, India |
+| — | [SVP/MD, Head, Credit Risk Management](https://careers.gic.com.sg/job/Singapore-SVPMD%2C-Head%2C-Credit-Risk-Management/1357172566/) | GIC |  |
 | 2026-11-09 | [Debt Syndication Associate](https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181) | Misha Capital | Delhi, India |
 | 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
+| — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
+| — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 | 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
 | 2026-11-08 | [Commercial & Investment Bank Risk Associate - GHHN](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) | JPMorganChase | Mumbai, Maharashtra, India |
@@ -516,7 +616,7 @@ Everything matched so far, newest first within each CV: [Finance (26)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 13
+### Investment (IB / PE) CV: 14
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -526,6 +626,7 @@ Everything matched so far, newest first within each CV: [Finance (26)](#finance-
 | 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1) | Accenture | Bengaluru |
 | 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1) | Accenture | Bengaluru |
 | 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1) | Accenture | Bengaluru |
+| — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 | 2026-11-09 | [Capital Markets Services Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1) | Accenture | Bengaluru |
 | 2026-11-09 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1) | Accenture | Bengaluru |
 | 2026-11-08 | [1065 Private Equity_Senior Associate](https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974) | PwC Acceleration Center India | Bengaluru, Karnataka, India |
@@ -534,30 +635,48 @@ Everything matched so far, newest first within each CV: [Finance (26)](#finance-
 | 2026-11-07 | [Transaction Services - US Operations](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768) | Citi | Pune Maharashtra India |
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Real Estate CV: 2
+### Consulting CV: 10
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [Technology & Transformation / OIDS / Consultant / Strategy Consultant (Oil and Gas) / Delhi](https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/) | Deloitte India | Delhi |
+| — | [Consultant / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/60510544/) | Deloitte India | Bengaluru |
+| — | [Consultant / APM: BFSI BA / Gurugram / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Gurugram-Consultant-APM-BFSI-BA-Gurugram-Finance-Transformation-Finance-Strategy/61059644/) | Deloitte India | Gurugram |
+| — | [Consultant / Tagetik / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/) | Deloitte India | Bengaluru |
+| — | [Consultant / Workday Planning / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Workday-Planning-Pune-Finance-Transformation-Business-Finance/58777644/) | Deloitte India | Pune |
+| — | [Consultant / Anaplan / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Anaplan-Bengaluru-Finance-Transformation-Business-Finance/60524644/) | Deloitte India | Bengaluru |
+| — | [Consultant / Oracle EPM: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPM-All-Ahmedabad-Finance-Transformation-Business-Finance/60511144/) | Deloitte India | Ahmedabad |
+| — | [Consultant / Data Science / Bengaluru / Finance Transformation](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Data-Science-Bengaluru-Finance-Transformation/61353244/) | Deloitte India | Bengaluru |
+| — | [Consultant / Anaplan / Kolkata / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/) | Deloitte India | Kolkata |
+| — | [Consultant / Oracle - EPBCS / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/) | Deloitte India | Pune |
+
+### Real Estate CV: 3
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 | 2026-11-09 | [Asset Management Analyst](https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073) | Gallagher & Mohan | Delhi, India |
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 
-### Fund CV (written for India; tweak the header for UK roles): 6
+### Fund CV (written for India; tweak the header for UK roles): 7
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Operations Team Member_Capital Market Operation-Fund Accounting_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | — | [Associate, Fund Accounting (Public Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303) | Ares Management | Mumbai, India |
 | — | [Associate, Fund Accounting ( Strategic Partnership)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting---Strategic-Partnership-_R8560) | Ares Management | Mumbai, India |
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 | 2026-11-05 | [Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079) | BlackRock | Mumbai, India |
 
-### Other (fits no CV closely, may still be worth a look): 5
+### Other (fits no CV closely, may still be worth a look): 6
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |
+| — | [Associate/Senior Associate (12 months contract), Operations (Trading Assistant)](https://jobs.temasek.com.sg/job/AssociateSenior-Associate-%2812-months-contract%29%2C-Operations-%28Trading-Assistant%29-238891/1374307957/) | Temasek |  |
 | 2026-11-08 | [Quantitative Researcher - Experienced Hires (India)](https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680) | Trexquant Investment LP | Gurugram, Haryana, India |
 | — | [Quants](https://careers.nomura.com/Nomura/job/Mumbai-Quants-400076/1397978700/) | Nomura | Mumbai |
 | 2026-11-07 | [Business Graduate Associate (Finance)](https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615) | LSEG | Bengaluru, Karnataka, India |

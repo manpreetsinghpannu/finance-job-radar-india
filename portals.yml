@@ -480,3 +480,106 @@ tracked_companies:
     careers_url: https://careers.ey.com
     provider: successfactors
     # added by hand 2026-11-07 (SAP SuccessFactors career site)
+
+  - name: Wipro
+    careers_url: https://wipro.bamboohr.com
+    enabled: true
+    # verify: only 4 posting(s) — confirm this is the right board
+
+  - name: Google
+    careers_url: https://google.breezy.hr
+    enabled: true
+    # verify: only 1 posting(s) — confirm this is the right board
+  - name: "Societe Generale"
+    careers_url: https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl
+    # added by find-ats (taleo) 2026-11-09
+  - name: "DBS Bank"
+    careers_url: https://dbs.wd3.myworkdayjobs.com/DBS_Careers
+    # added by find-ats (workday) 2026-11-09
+  - name: "Synchrony"
+    careers_url: https://www.synchronycareers.com
+    provider: radancy
+    # added by find-ats (radancy) 2026-11-09
+  - name: "Ameriprise Financial"
+    careers_url: https://ameriprise.wd5.myworkdayjobs.com/Ameriprise
+    # added by find-ats (workday) 2026-11-09
+  - name: "Principal Global Services"
+    careers_url: https://internalspanish-principal.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-09
+  - name: "Deloitte India"
+    careers_url: https://southasiacareers.deloitte.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-09
+  - name: "KPMG India"
+    careers_url: https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/jobs
+    # added by find-ats (oraclecloud) 2026-11-09
+  - name: "Duff & Phelps (Kroll)"
+    careers_url: https://careers.kroll.com
+    provider: radancy
+    # added by find-ats (radancy) 2026-11-09
+  - name: "Bloomberg"
+    careers_url: https://bloomberg.avature.net/careers
+    # added by find-ats (avature) 2026-11-09
+  - name: "ZS Associates"
+    careers_url: https://careers-zs.icims.com/jobs/search?ss=1
+    # added by find-ats (icims) 2026-11-09
+  - name: "Genpact"
+    careers_url: https://genpact.wd108.myworkdayjobs.com/External_Careers
+    # added by find-ats (workday) 2026-11-09
+  - name: "EXL"
+    careers_url: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs
+    # added by find-ats (oraclecloud) 2026-11-09
+  - name: "HCLTech"
+    careers_url: https://careers.hcltech.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-09
+  - name: "Kotak Mahindra Bank"
+    careers_url: https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
+    # added by find-ats (oraclecloud) 2026-11-09
+  - name: "IDFC FIRST Bank"
+    careers_url: https://careers.idfcfirst.bank.in
+    provider: phenom
+    # added by find-ats (phenom) 2026-11-09
+  - name: "Tata Capital"
+    careers_url: https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
+    # added by find-ats (oraclecloud) 2026-11-09
+  - name: "ICICI Securities"
+    careers_url: https://careers.icicisecurities.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-09
+  - name: "KKR"
+    careers_url: https://job-boards.greenhouse.io/stage
+    # added by find-ats (greenhouse-embed) 2026-11-09
+  - name: "Brookfield"
+    careers_url: https://brookfield.wd5.myworkdayjobs.com/brookfield
+    # added by find-ats (workday) 2026-11-09
+  - name: "Temasek"
+    careers_url: https://jobs.temasek.com.sg
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-09
+  - name: "GIC"
+    careers_url: https://careers.gic.com.sg
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-09
+  - name: "Mahindra Group"
+    careers_url: https://jobs.mahindracareers.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-09
+  - name: "Asian Paints"
+    careers_url: https://careers.asianpaints.com
+    provider: successfactors
+    # added by find-ats (successfactors) 2026-11-09
+  - name: "Procter & Gamble India"
+    careers_url: https://www.pgcareers.com
+    provider: phenom
+    # added by find-ats (phenom) 2026-11-09
+  - name: "Walmart Global Tech"
+    careers_url: https://walmart.avature.net/careers
+    # added by find-ats (avature) 2026-11-09
+  - name: "Target India"
+    careers_url: https://target.wd5.myworkdayjobs.com/targetcareers
+    # added by find-ats (workday) 2026-11-09
+  - name: "Lowe's India"
+    careers_url: https://talent.lowes.com
+    provider: phenom
+    # added by find-ats (phenom) 2026-11-09

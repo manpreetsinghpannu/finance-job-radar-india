@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:35:58.136Z",
+ "generated_at": "2026-11-09T17:34:25.984Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 26,
+   "matching": 35,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 32,
+   "matching": 36,
    "picks": [
     {
      "title": "Risk Management CA Industrial Trainee – Credit Risk",
@@ -89,7 +89,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 10,
+   "matching": 11,
    "picks": [
     {
      "title": "-Hiring Equity Research Analyst - CFA Level 1",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 14,
+   "matching": 15,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -153,8 +153,21 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 4,
+   "matching": 14,
    "picks": [
+    {
+     "title": "Technology & Transformation / OIDS / Consultant / Strategy Consultant (Oil and Gas) / Delhi",
+     "company": "Deloitte India",
+     "location": "Delhi",
+     "posted": null,
+     "url": "https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/",
+     "score": 14,
+     "why": [
+      "Strategy Consultant",
+      "Transformation"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Associate Consultant- M&A",
      "company": "KPMG India",
@@ -166,26 +179,26 @@
       "Consultant"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Consultant, Valuation Services",
-     "company": "Kroll",
-     "location": "Mumbai Metropolitan Region",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072",
-     "score": 9,
-     "why": [
-      "Consultant"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 8,
+   "matching": 9,
    "picks": [
+    {
+     "title": "Analyst/Associate, Real Estate Debt",
+     "company": "GIC",
+     "location": "",
+     "posted": null,
+     "url": "https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/",
+     "score": 14,
+     "why": [
+      "Real Estate"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Asset Management Analyst",
      "company": "Gallagher & Mohan",
@@ -197,25 +210,13 @@
       "Asset Management"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Trainee, Valuation Services",
-     "company": "Kroll",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924",
-     "score": 12,
-     "why": [
-      "Valuation"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 7,
+   "matching": 8,
    "picks": [
     {
      "title": "Fund Accounting Analyst",
@@ -689,6 +690,91 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Pune-Consultant-Workday-Planning-Pune-Finance-Transformation-Business-Finance/58777644/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Anaplan-Bengaluru-Finance-Transformation-Business-Finance/60524644/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/60510544/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPM-All-Ahmedabad-Finance-Transformation-Business-Finance/60511144/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Data-Science-Bengaluru-Finance-Transformation/61353244/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 4
+  },
+  "https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Delhi-Technology-&-Transformation-OIDS-Consultant-Strategy-Consultant-%28Oil-and-Gas%29-Delhi/56303544/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 14
+  },
+  "https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://southasiacareers.deloitte.com/job/Gurugram-Consultant-APM-BFSI-BA-Gurugram-Finance-Transformation-Finance-Strategy/61059644/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 11
+  },
+  "https://jobs.temasek.com.sg/job/AssociateSenior-Associate-%2812-months-contract%29%2C-Operations-%28Trading-Assistant%29-238891/1374307957/": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://careers.gic.com.sg/job/Singapore-SVPMD%2C-Head%2C-Credit-Risk-Management/1357172566/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 14
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
   }
  }
 }
