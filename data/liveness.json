@@ -103,7 +103,7 @@
  },
  "https://www.linkedin.com/jobs/view/associate-fp-a-at-elanco-4352634349": {
   "status": "live",
-  "checked_at": "2026-11-09T10:36:10Z"
+  "checked_at": "2026-11-09T13:36:49Z"
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-contra-revenue-at-hp-4488499191": {
   "status": "live",
@@ -241,11 +241,11 @@
  },
  "https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669": {
   "status": "live",
-  "checked_at": "2026-11-09T10:36:03Z"
+  "checked_at": "2026-11-09T13:36:42Z"
  },
  "https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721": {
   "status": "live",
-  "checked_at": "2026-11-09T10:36:07Z"
+  "checked_at": "2026-11-09T13:36:45Z"
  },
  "https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825": {
   "status": "live",
@@ -256,8 +256,10 @@
   "checked_at": "2026-11-09T10:37:34Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712": {
-  "status": "live",
-  "checked_at": "2026-11-09T10:36:00Z"
+  "status": "closed",
+  "checked_at": "2026-11-09T13:36:39Z",
+  "closed_at": "2026-11-09T13:36:39Z",
+  "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
  },
  "https://www.linkedin.com/jobs/view/credit-analysis-4487673866": {
   "status": "unknown",
@@ -287,35 +289,35 @@
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061": {
   "status": "live",
-  "checked_at": "2026-11-09T10:35:35Z"
+  "checked_at": "2026-11-09T13:36:11Z"
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866": {
   "status": "live",
-  "checked_at": "2026-11-09T10:35:35Z"
+  "checked_at": "2026-11-09T13:36:14Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407": {
   "status": "live",
-  "checked_at": "2026-11-09T10:35:39Z"
+  "checked_at": "2026-11-09T13:36:17Z"
  },
  "https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818": {
   "status": "unknown",
-  "checked_at": "2026-11-09T10:35:42Z"
+  "checked_at": "2026-11-09T13:36:21Z"
  },
  "https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597": {
   "status": "live",
-  "checked_at": "2026-11-09T10:35:46Z"
+  "checked_at": "2026-11-09T13:36:24Z"
  },
  "https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466": {
   "status": "live",
-  "checked_at": "2026-11-09T10:35:49Z"
+  "checked_at": "2026-11-09T13:36:28Z"
  },
  "https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510": {
   "status": "live",
-  "checked_at": "2026-11-09T10:35:53Z"
+  "checked_at": "2026-11-09T13:36:31Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471": {
   "status": "live",
-  "checked_at": "2026-11-09T10:35:56Z"
+  "checked_at": "2026-11-09T13:36:35Z"
  },
  "https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073": {
   "status": "live",
@@ -340,5 +342,9 @@
  "https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993": {
   "status": "live",
   "checked_at": "2026-11-09T12:35:45Z"
+ },
+ "https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246": {
+  "status": "live",
+  "checked_at": "2026-11-09T13:36:11Z"
  }
 }

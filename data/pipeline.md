@@ -98,4 +98,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993 | Oracle | Financial Analyst 4 Corp FP&A | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246 | V2U Consultancy Services Pvt. Ltd. | Equity Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-09 | note: via LinkedIn
 
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1 | Accenture | Capital Markets Services Analyst | Bengaluru | posted: 2026-11-09
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1 | Accenture | Capital Markets Services Analyst | Bengaluru | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264 | Stellar Fusion | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
+
 ## Processed

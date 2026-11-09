@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T12:35:52.899Z",
+ "generated_at": "2026-11-09T13:36:49.666Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 8,
+   "matching": 10,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -545,11 +545,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -654,6 +649,21 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 28
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

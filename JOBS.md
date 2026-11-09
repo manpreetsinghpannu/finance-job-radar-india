@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 12:35** (UK time) · **82 open roles** at 51 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 13:36** (UK time) · **84 open roles** at 52 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 12:35** · hourly scan · checked 70 boards · **1 new role**
+**Mon 9 Nov, 13:36** · hourly scan · checked 70 boards · **3 new roles**
 
-### Equity CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-v2u-consultancy-services-pvt-ltd-4487909246) | V2U Consultancy Services Pvt. Ltd. | Noida, Uttar Pradesh, India |
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264) | Stellar Fusion | Bengaluru, Karnataka, India |
+
+### Investment (IB / PE) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1) | Accenture | Bengaluru |
 
 ## Top picks for each CV
 
@@ -37,7 +44,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (8 matching)
+**Investment (IB / PE) CV** (10 matching)
 
 1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
@@ -62,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>13:36</b> · hourly scan · <b>3 new</b> → Finance 1 · Investment 2</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264) | Stellar Fusion | Bengaluru, Karnataka, India |
+
+#### Investment (IB / PE) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1) | Accenture | Bengaluru |
+
+</details>
 
 <details>
 <summary><b>12:35</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -206,18 +231,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>05:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
-
-</details>
-
-<sub>Nothing new at: 04:36, 03:36, 03:02</sub>
+<sub>Nothing new at: 05:37, 04:36, 03:36, 03:02</sub>
 
 <details>
 <summary><b>02:44</b> · hourly scan · <b>1 new</b> → Other 1</summary>
@@ -406,7 +420,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (25)](#finance-fpa-cv-25) · [Credit (30)](#credit-cv-30) · [Equity (7)](#equity-cv-7) · [Investment (7)](#investment-ib--pe-cv-7) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
+Everything matched so far, newest first within each CV: [Finance (25)](#finance-fpa-cv-25) · [Credit (30)](#credit-cv-30) · [Equity (7)](#equity-cv-7) · [Investment (9)](#investment-ib--pe-cv-9) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
 
 ### Finance (FP&A) CV: 25
 
@@ -415,10 +429,10 @@ Everything matched so far, newest first within each CV: [Finance (25)](#finance-
 | 2026-11-09 | [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) | Applicantz | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
 | 2026-11-09 | [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) | Oracle | Bengaluru, Karnataka, India |
-| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
 | 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407) | Intuitive | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Financial Analyst 4](https://www.linkedin.com/jobs/view/financial-analyst-4-at-hp-4488842916) | HP | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Finance Analyst (Finance Analyst Business Unit)](https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-business-unit-at-caterpillar-inc-4488852050) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
+| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264) | Stellar Fusion | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4487142018) | Lucky Distributors | Bhubaneswar, Odisha, India |
 | 2026-11-09 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471) | SWASTIK FINANCE LTD | Mumbai, Maharashtra, India |
 | 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
@@ -485,12 +499,14 @@ Everything matched so far, newest first within each CV: [Finance (25)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 7
+### Investment (IB / PE) CV: 9
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) | KPMG India | Gurgaon, Haryana, India |
 | 2026-11-09 | [Private Equity Fund Accounting](https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764) | CES | Hyderabad, Telangana, India |
+| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1) | Accenture | Bengaluru |
+| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1) | Accenture | Bengaluru |
 | 2026-11-08 | [1065 Private Equity_Senior Associate](https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974) | PwC Acceleration Center India | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) | Kroll | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) | Kroll | Mumbai Metropolitan Region |
@@ -528,10 +544,11 @@ Everything matched so far, newest first within each CV: [Finance (25)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>9 roles taken off the list because the firm closed the posting</summary>
+<summary>10 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 9 Nov, 13:36 | Financial Analyst | HRM Counsel |
 | Mon 9 Nov, 07:37 | Risk Associate | Entain India |
 | Mon 9 Nov, 06:38 | Equity Research Analyst (Remote) | Joblet-AI |
 | Mon 9 Nov, 06:38 | M&A Research Analyst (Remote) | Joblet-AI |
