@@ -91,5 +91,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510 | Nomura | Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471 | SWASTIK FINANCE LTD | Treasury Specialist | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073 | Gallagher & Mohan | Asset Management Analyst | Delhi, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470 | KPMG India | Associate Consultant- M&A | Gurgaon, Haryana, India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

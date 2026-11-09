@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 10:37** (UK time) · **76 open roles** at 47 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 11:22** (UK time) · **77 open roles** at 48 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 10:35** · hourly scan · checked 70 boards · **1 new role**
+**Mon 9 Nov, 11:21** · hourly scan · checked 70 boards · **1 new role**
 
-### Real Estate CV: 1
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Asset Management Analyst](https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073) | Gallagher & Mohan | Delhi, India |
+| 2026-11-09 | [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) | KPMG India | Gurgaon, Haryana, India |
 
 ## Top picks for each CV
 
@@ -37,15 +37,15 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (6 matching)
+**Investment (IB / PE) CV** (7 matching)
 
 1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-06
 
-**Consulting CV** (3 matching)
+**Consulting CV** (4 matching)
 
-1. [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) · Kroll · Mumbai Metropolitan Region · posted 2026-11-07
-2. [Associate Consultant, Financial Institution & Counterparty Risk](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1) · Northern Trust · Bangalore, India · posted 2026-11-06
+1. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
+2. [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) · Kroll · Mumbai Metropolitan Region · posted 2026-11-07
 
 **Real Estate CV** (8 matching)
 
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>11:21</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) | KPMG India | Gurgaon, Haryana, India |
+
+</details>
 
 <details>
 <summary><b>10:35</b> · hourly scan · <b>1 new</b> → Real Estate 1</summary>
@@ -355,7 +366,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (22)](#finance-fpa-cv-22) · [Credit (30)](#credit-cv-30) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
+Everything matched so far, newest first within each CV: [Finance (22)](#finance-fpa-cv-22) · [Credit (30)](#credit-cv-30) · [Equity (6)](#equity-cv-6) · [Investment (6)](#investment-ib--pe-cv-6) · [Real Estate (2)](#real-estate-cv-2) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (5)](#other-fits-no-cv-closely-may-still-be-worth-a-look-5)
 
 ### Finance (FP&A) CV: 22
 
@@ -430,10 +441,11 @@ Everything matched so far, newest first within each CV: [Finance (22)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 5
+### Investment (IB / PE) CV: 6
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) | KPMG India | Gurgaon, Haryana, India |
 | 2026-11-08 | [1065 Private Equity_Senior Associate](https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974) | PwC Acceleration Center India | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) | Kroll | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) | Kroll | Mumbai Metropolitan Region |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T10:37:35.772Z",
+ "generated_at": "2026-11-09T11:22:20.807Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 6,
+   "matching": 7,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -153,14 +153,14 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 3,
+   "matching": 4,
    "picks": [
     {
-     "title": "Consultant, Valuation Services",
-     "company": "Kroll",
-     "location": "Mumbai Metropolitan Region",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072",
+     "title": "Associate Consultant- M&A",
+     "company": "KPMG India",
+     "location": "Gurgaon, Haryana, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470",
      "score": 9,
      "why": [
       "Consultant"
@@ -168,11 +168,11 @@
      "sponsor": null
     },
     {
-     "title": "Associate Consultant, Financial Institution & Counterparty Risk",
-     "company": "Northern Trust",
-     "location": "Bangalore, India",
-     "posted": "2026-11-06",
-     "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1",
+     "title": "Consultant, Valuation Services",
+     "company": "Kroll",
+     "location": "Mumbai Metropolitan Region",
+     "posted": "2026-11-07",
+     "url": "https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072",
      "score": 9,
      "why": [
       "Consultant"
@@ -624,6 +624,11 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }
