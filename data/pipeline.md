@@ -133,5 +133,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-data-unit-as-at-deutsche-bank-4489112892 | Deutsche Bank | Credit Risk Data Unit, AS | Pune Division, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-emergence-4489103833 | Emergence | M&A Associate | India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-bank-reconciliations-at-millennium-4480260146 | Millennium | Finance Analyst (Bank reconciliations) | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-partnerone-4489137574 | PartnerOne | Investment Associate | India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed
