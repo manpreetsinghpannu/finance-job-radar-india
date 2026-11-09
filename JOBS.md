@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 21:38** (UK time) · **114 open roles** at 63 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 22:20** (UK time) · **116 open roles** at 65 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 21:35** · hourly scan · checked 99 boards · **1 new role**
+**Mon 9 Nov, 22:19** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-partnerone-4489137574) | PartnerOne | India |
+| 2026-11-09 | [Associate - Strategic Advisory (India Coverage)](https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405) | PJT Partners | Mumbai, Maharashtra, India |
+
+### Real Estate CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [SME - Asset Management, ServiceNow](https://careers.hcltech.com/job/SME-Asset-Management%2C-ServiceNow/189165-en_US) | HCLTech |  |
 
 ## Top picks for each CV
 
@@ -37,17 +43,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (17 matching)
+**Investment (IB / PE) CV** (18 matching)
 
 1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Associate - SaT - National - SaT - TCF - Valuation - Mumbai](https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-valuation-mumbai-at-ey-4478258501) · EY · Mumbai, Maharashtra, India · posted 2026-11-09
 
-**Consulting CV** (4 matching)
+**Consulting CV** (5 matching)
 
-1. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
-2. [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) · Kroll · Mumbai Metropolitan Region · posted 2026-11-07
+1. [Associate - Strategic Advisory (India Coverage)](https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405) · PJT Partners · Mumbai, Maharashtra, India · posted 2026-11-09
+2. [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-09
 
-**Real Estate CV** (9 matching)
+**Real Estate CV** (10 matching)
 
 1. [Asset Management Analyst](https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073) · Gallagher & Mohan · Delhi, India · posted 2026-11-09
 2. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>22:19</b> · hourly scan · <b>2 new</b> → Investment 1 · Real Estate 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Associate - Strategic Advisory (India Coverage)](https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405) | PJT Partners | Mumbai, Maharashtra, India |
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [SME - Asset Management, ServiceNow](https://careers.hcltech.com/job/SME-Asset-Management%2C-ServiceNow/189165-en_US) | HCLTech |  |
+
+</details>
 
 <details>
 <summary><b>21:35</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -502,7 +525,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (29)](#finance-fpa-cv-29) · [Credit (35)](#credit-cv-35) · [Equity (7)](#equity-cv-7) · [Investment (17)](#investment-ib--pe-cv-17) · [Consulting (10)](#consulting-cv-10) · [Real Estate (3)](#real-estate-cv-3) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (29)](#finance-fpa-cv-29) · [Credit (35)](#credit-cv-35) · [Equity (7)](#equity-cv-7) · [Investment (18)](#investment-ib--pe-cv-18) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
 ### Finance (FP&A) CV: 29
 
@@ -590,11 +613,12 @@ Everything matched so far, newest first within each CV: [Finance (29)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 17
+### Investment (IB / PE) CV: 18
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Associate - SaT - National - SaT - TCF - Valuation - Mumbai](https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-valuation-mumbai-at-ey-4478258501) | EY | Mumbai, Maharashtra, India |
+| 2026-11-09 | [Associate - Strategic Advisory (India Coverage)](https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405) | PJT Partners | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Associate Consultant- M&A](https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470) | KPMG India | Gurgaon, Haryana, India |
 | 2026-11-09 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-emergence-4489103833) | Emergence | India |
 | 2026-11-09 | [Private Equity Fund Accounting](https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764) | CES | Hyderabad, Telangana, India |
@@ -627,11 +651,12 @@ Everything matched so far, newest first within each CV: [Finance (29)](#finance-
 | — | [Consultant / Anaplan / Kolkata / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/) | Deloitte India | Kolkata |
 | — | [Consultant / Oracle - EPBCS / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/) | Deloitte India | Pune |
 
-### Real Estate CV: 3
+### Real Estate CV: 4
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Asset Management Analyst](https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073) | Gallagher & Mohan | Delhi, India |
+| 2026-11-09 | [SME - Asset Management, ServiceNow](https://careers.hcltech.com/job/SME-Asset-Management%2C-ServiceNow/189165-en_US) | HCLTech |  |
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 

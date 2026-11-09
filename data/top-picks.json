@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:38:31.188Z",
+ "generated_at": "2026-11-09T22:20:07.940Z",
  "order": [
   "finance",
   "credit",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 17,
+   "matching": 18,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -153,8 +153,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 4,
+   "matching": 5,
    "picks": [
+    {
+     "title": "Associate - Strategic Advisory (India Coverage)",
+     "company": "PJT Partners",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405",
+     "score": 10,
+     "why": [
+      "Advisory"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Associate Consultant- M&A",
      "company": "KPMG India",
@@ -166,25 +178,13 @@
       "Consultant"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Consultant, Valuation Services",
-     "company": "Kroll",
-     "location": "Mumbai Metropolitan Region",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072",
-     "score": 9,
-     "why": [
-      "Consultant"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 9,
+   "matching": 10,
    "picks": [
     {
      "title": "Asset Management Analyst",
@@ -814,6 +814,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 9
+  },
+  "https://careers.hcltech.com/job/SME-Asset-Management%2C-ServiceNow/189165-en_US": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
   }
  }
 }
