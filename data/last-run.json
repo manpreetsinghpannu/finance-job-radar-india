@@ -1,30 +1,13 @@
 {
-  "finished_at": "2026-11-09T15:36:56.872Z",
+  "finished_at": "2026-11-09T16:35:58.387Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 70,
-  "postings_seen": 19139,
-  "filtered_out": 19098,
-  "new_matches": 1,
-  "boards_failed": 4,
-  "failed": [
-    {
-      "company": "Blackstone (Campus)",
-      "error": "workday: Blackstone (Campus) confirmed dead (maintenance page)"
-    },
-    {
-      "company": "Blackstone",
-      "error": "workday: Blackstone confirmed dead (maintenance page)"
-    },
-    {
-      "company": "Reckitt",
-      "error": "This operation was aborted"
-    },
-    {
-      "company": "EY",
-      "error": "This operation was aborted"
-    }
-  ]
+  "postings_seen": 20801,
+  "filtered_out": 20759,
+  "new_matches": 0,
+  "boards_failed": 0,
+  "failed": []
 }

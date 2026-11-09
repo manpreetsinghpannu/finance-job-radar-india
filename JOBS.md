@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 15:36** (UK time) · **89 open roles** at 52 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 16:35** (UK time) · **89 open roles** at 52 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 15:36** · hourly scan · checked 70 boards · **1 new role**
+**Mon 9 Nov, 16:35** · hourly scan · checked 70 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Corporate Treasury Desk Strategist, Associate, Quantitative Strategists](https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363) | Morgan Stanley | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Mon 9 Nov, 15:36** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<sub>Nothing new at: 16:35</sub>
 
 <details>
 <summary><b>15:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
