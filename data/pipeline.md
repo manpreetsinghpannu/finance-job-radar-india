@@ -77,5 +77,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com | Morgan Stanley | Institutional Equity Division - Associate, Fund Accounting (Bangalore) | Bengaluru, Karnataka, India | posted: 2026-11-09
 - [ ] https://www.linkedin.com/jobs/view/credit-analysis-4487673866 | Rishi K Sharma & Associates | Credit Analysis | New Delhi, Delhi, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182 | Entain India | Risk Associate | Hyderabad, Telangana, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228 | Applicantz | Financial Analyst – FP&A | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-4487142018 | Lucky Distributors | Accountant | Bhubaneswar, Odisha, India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

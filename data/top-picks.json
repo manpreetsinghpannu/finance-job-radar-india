@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T06:38:57.479Z",
+ "generated_at": "2026-11-09T07:37:59.950Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 17,
+   "matching": 19,
    "picks": [
+    {
+     "title": "Financial Analyst – FP&A",
+     "company": "Applicantz",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Financial Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Financial Planning & Analysis (FP&A)",
      "company": "ISG",
@@ -38,25 +51,13 @@
       "Financial Planning"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Financial Analyst",
-     "company": "HRM Counsel",
-     "location": "India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712",
-     "score": 18,
-     "why": [
-      "Financial Analyst"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 30,
+   "matching": 29,
    "picks": [
     {
      "title": "Risk Analyst Structured Finance",
@@ -559,10 +560,15 @@
    "cv": "Credit CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 9
+  "https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/accountant-4487142018": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

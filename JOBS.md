@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 06:38** (UK time) · **64 open roles** at 38 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 07:37** (UK time) · **65 open roles** at 39 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,31 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 06:37** · hourly scan · checked 70 boards · **3 new roles**
+**Mon 9 Nov, 07:37** · hourly scan · checked 70 boards · **2 new roles**
 
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182) | Entain India | Hyderabad, Telangana, India |
-| 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) | Applicantz | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4487142018) | Lucky Distributors | Bhubaneswar, Odisha, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (17 matching)
+**Finance (FP&A) CV** (19 matching)
 
-1. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
-2. [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) · HRM Counsel · India · posted 2026-11-09
+1. [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) · Applicantz · Bengaluru, Karnataka, India · posted 2026-11-09
+2. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Credit CV** (30 matching)
+**Credit CV** (29 matching)
 
 1. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 2. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
@@ -71,13 +65,24 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Monday 9 November
 
 <details>
-<summary><b>06:37</b> · hourly scan · <b>3 new</b> → Credit 2 · Fund 1</summary>
+<summary><b>07:37</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
 
-#### Credit CV: 2
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182) | Entain India | Hyderabad, Telangana, India |
+| 2026-11-09 | [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) | Applicantz | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4487142018) | Lucky Distributors | Bhubaneswar, Odisha, India |
+
+</details>
+
+<details>
+<summary><b>06:37</b> · hourly scan · <b>2 new</b> → Credit 1 · Fund 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
 | 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
 
 #### Fund CV (written for India; tweak the header for UK roles): 1
@@ -85,6 +90,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -288,13 +295,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (17)](#finance-fpa-cv-17) · [Credit (28)](#credit-cv-28) · [Equity (4)](#equity-cv-4) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
+Everything matched so far, newest first within each CV: [Finance (19)](#finance-fpa-cv-19) · [Credit (27)](#credit-cv-27) · [Equity (4)](#equity-cv-4) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
 
-### Finance (FP&A) CV: 17
+### Finance (FP&A) CV: 19
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) | Applicantz | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
+| 2026-11-09 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4487142018) | Lucky Distributors | Bhubaneswar, Odisha, India |
 | 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
 | 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
@@ -312,11 +321,10 @@ Everything matched so far, newest first within each CV: [Finance (17)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 28
+### Credit CV: 27
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182) | Entain India | Hyderabad, Telangana, India |
 | 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
 | 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
 | 2026-11-08 | [Commercial & Investment Bank Risk Associate - GHHN](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700) | JPMorganChase | Bengaluru, Karnataka, India |
@@ -392,10 +400,11 @@ Everything matched so far, newest first within each CV: [Finance (17)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>8 roles taken off the list because the firm closed the posting</summary>
+<summary>9 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 9 Nov, 07:37 | Risk Associate | Entain India |
 | Mon 9 Nov, 06:38 | Equity Research Analyst (Remote) | Joblet-AI |
 | Mon 9 Nov, 06:38 | M&A Research Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 18:37 | Financial Analyst II | Fluor Corporation |
