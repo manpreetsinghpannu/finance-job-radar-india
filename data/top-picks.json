@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:35:54.515Z",
+ "generated_at": "2026-11-09T12:09:01.500Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 24,
+   "matching": 25,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -137,14 +137,14 @@
      "sponsor": null
     },
     {
-     "title": "Valuation Control - Associate",
-     "company": "JPMorgan Chase",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-06",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011",
-     "score": 16,
+     "title": "Associate Consultant- M&A",
+     "company": "KPMG India",
+     "location": "Gurgaon, Haryana, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470",
+     "score": 15,
      "why": [
-      "Valuation"
+      "M&A"
      ],
      "sponsor": null
     }
@@ -308,12 +308,12 @@
   "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant---Financial-Institutions---Counterparty-Risk_R163825-1": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
+   "score": 6
   },
   "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 9
+   "score": 7
   },
   "https://careers.nomura.com/Nomura/job/Mumbai-RSK-Credit-Risk/1427853400/": {
    "id": "credit",
@@ -358,12 +358,12 @@
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 16
+   "score": 14
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463": {
    "id": "equity",
    "cv": "Equity CV",
-   "score": 19
+   "score": 17
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553": {
    "id": "credit",
@@ -644,6 +644,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
   }
  }
 }
