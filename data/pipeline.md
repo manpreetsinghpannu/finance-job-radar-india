@@ -129,5 +129,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/ | GIC | Analyst/Associate, Real Estate Debt
 - [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517 | Kotak Mahindra Bank | Operations Team Member_Capital Market Operation-Fund Accounting_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-09
 - [ ] https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-valuation-mumbai-at-ey-4478258501 | EY | Associate - SaT - National - SaT - TCF - Valuation - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-techno-functional-financial-analyst-%E2%80%93-finance-ai-advanced-analytics-6%2Byrs-exp-at-cisco-4472712125 | Cisco | Finance Analyst-Techno-Functional Financial Analyst – Finance, AI & Advanced Analytics - 6+yrs exp | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-data-unit-as-at-deutsche-bank-4489112892 | Deutsche Bank | Credit Risk Data Unit, AS | Pune Division, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-associate-at-emergence-4489103833 | Emergence | M&A Associate | India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-bank-reconciliations-at-millennium-4480260146 | Millennium | Finance Analyst (Bank reconciliations) | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed
