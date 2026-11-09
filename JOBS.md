@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 19:36** (UK time) · **113 open roles** at 62 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 20:36** (UK time) · **113 open roles** at 62 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 19:36** · hourly scan · checked 99 boards · **4 new roles**
+**Mon 9 Nov, 20:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Finance Analyst-Techno-Functional Financial Analyst – Finance, AI & Advanced Analytics - 6+yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-techno-functional-financial-analyst-%E2%80%93-finance-ai-advanced-analytics-6%2Byrs-exp-at-cisco-4472712125) | Cisco | Bengaluru, Karnataka, India |
-| 2026-11-09 | [Finance Analyst (Bank reconciliations)](https://www.linkedin.com/jobs/view/finance-analyst-bank-reconciliations-at-millennium-4480260146) | Millennium | Bengaluru, Karnataka, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Credit Risk Data Unit, AS](https://www.linkedin.com/jobs/view/credit-risk-data-unit-as-at-deutsche-bank-4489112892) | Deutsche Bank | Pune Division, Maharashtra, India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [M&A Associate](https://www.linkedin.com/jobs/view/m-a-associate-at-emergence-4489103833) | Emergence | India |
+Nothing new this time. The last scan that found something was **Mon 9 Nov, 19:36** (4: Finance 2 · Credit 1 · Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -75,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<sub>Nothing new at: 20:36</sub>
 
 <details>
 <summary><b>19:36</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Investment 1</summary>
