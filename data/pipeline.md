@@ -106,5 +106,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-09
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-09
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363 | Morgan Stanley | Corporate Treasury Desk Strategist, Associate, Quantitative Strategists | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

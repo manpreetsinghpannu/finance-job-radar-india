@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:37:50.171Z",
+ "generated_at": "2026-11-09T15:36:56.409Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -684,6 +684,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
   }
  }
 }
