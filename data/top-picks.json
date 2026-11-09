@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:22:20.807Z",
+ "generated_at": "2026-11-09T11:35:54.515Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 22,
+   "matching": 24,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -89,7 +89,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 8,
+   "matching": 9,
    "picks": [
     {
      "title": "-Hiring Equity Research Analyst - CFA Level 1",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 7,
+   "matching": 8,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -215,7 +215,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 6,
+   "matching": 7,
    "picks": [
     {
      "title": "Fund Accounting Analyst",
@@ -629,6 +629,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-4-at-hp-4488842916": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-business-unit-at-caterpillar-inc-4488852050": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

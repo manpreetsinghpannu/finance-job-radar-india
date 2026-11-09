@@ -92,5 +92,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471 | SWASTIK FINANCE LTD | Treasury Specialist | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073 | Gallagher & Mohan | Asset Management Analyst | Delhi, India | posted: 2026-11-09 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470 | KPMG India | Associate Consultant- M&A | Gurgaon, Haryana, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-4-at-hp-4488842916 | HP | Financial Analyst 4 | Bengaluru, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764 | CES | Private Equity Fund Accounting | Hyderabad, Telangana, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-business-unit-at-caterpillar-inc-4488852050 | Caterpillar Inc. | Finance Analyst (Finance Analyst Business Unit) | Bengaluru East, Karnataka, India | posted: 2026-11-09 | note: via LinkedIn
 
 ## Processed

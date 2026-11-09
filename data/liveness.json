@@ -271,11 +271,11 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228": {
   "status": "live",
-  "checked_at": "2026-11-09T08:35:34Z"
+  "checked_at": "2026-11-09T11:35:50Z"
  },
  "https://www.linkedin.com/jobs/view/accountant-4487142018": {
   "status": "unknown",
-  "checked_at": "2026-11-09T08:35:38Z"
+  "checked_at": "2026-11-09T11:35:54Z"
  },
  "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
   "status": "unknown",
@@ -320,5 +320,9 @@
  "https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073": {
   "status": "live",
   "checked_at": "2026-11-09T11:21:58Z"
+ },
+ "https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470": {
+  "status": "live",
+  "checked_at": "2026-11-09T11:35:47Z"
  }
 }
