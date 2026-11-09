@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T09:35:42.149Z",
+ "generated_at": "2026-11-09T10:37:35.772Z",
  "order": [
   "finance",
   "credit",
@@ -184,8 +184,20 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 7,
+   "matching": 8,
    "picks": [
+    {
+     "title": "Asset Management Analyst",
+     "company": "Gallagher & Mohan",
+     "location": "Delhi, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073",
+     "score": 12,
+     "why": [
+      "Asset Management"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Trainee, Valuation Services",
      "company": "Kroll",
@@ -193,18 +205,6 @@
      "posted": "2026-11-07",
      "url": "https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924",
      "score": 12,
-     "why": [
-      "Valuation"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Valuation Control - Associate",
-     "company": "JPMorgan Chase",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-06",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011",
-     "score": 10,
      "why": [
       "Valuation"
      ],
@@ -619,6 +619,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 12
   }
  }
 }
