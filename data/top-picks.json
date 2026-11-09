@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T05:37:11.952Z",
+ "generated_at": "2026-11-09T06:38:57.479Z",
  "order": [
   "finance",
   "credit",
@@ -56,7 +56,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 28,
+   "matching": 30,
    "picks": [
     {
      "title": "Risk Analyst Structured Finance",
@@ -88,21 +88,8 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 7,
+   "matching": 6,
    "picks": [
-    {
-     "title": "Equity Research Analyst (Remote)",
-     "company": "Joblet-AI",
-     "location": "India",
-     "posted": "2026-11-08",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945",
-     "score": 28,
-     "why": [
-      "Equity Research",
-      "Research Analyst"
-     ],
-     "sponsor": null
-    },
     {
      "title": "Equity Research Analyst",
      "company": "Millennium",
@@ -115,26 +102,27 @@
       "Research Analyst"
      ],
      "sponsor": null
+    },
+    {
+     "title": "Equity Research Analyst",
+     "company": "Simpledha",
+     "location": "Chennai, Tamil Nadu, India",
+     "posted": "2026-11-07",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675",
+     "score": 28,
+     "why": [
+      "Equity Research",
+      "Research Analyst"
+     ],
+     "sponsor": null
     }
    ]
   },
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 7,
+   "matching": 6,
    "picks": [
-    {
-     "title": "M&A Research Analyst (Remote)",
-     "company": "Joblet-AI",
-     "location": "India",
-     "posted": "2026-11-08",
-     "url": "https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246",
-     "score": 18,
-     "why": [
-      "M&A"
-     ],
-     "sponsor": null
-    },
     {
      "title": "Trainee, Valuation Services",
      "company": "Kroll",
@@ -142,6 +130,18 @@
      "posted": "2026-11-07",
      "url": "https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924",
      "score": 18,
+     "why": [
+      "Valuation"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Valuation Control - Associate",
+     "company": "JPMorgan Chase",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-06",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011",
+     "score": 16,
      "why": [
       "Valuation"
      ],
@@ -214,7 +214,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 5,
+   "matching": 6,
    "picks": [
     {
      "title": "Fund Accounting Analyst",
@@ -229,12 +229,12 @@
      "sponsor": null
     },
     {
-     "title": "Associate, Fund Accounting (Public Credit)",
-     "company": "Ares Management",
-     "location": "Mumbai, India",
-     "posted": null,
-     "url": "https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303",
-     "score": 12,
+     "title": "Institutional Equity Division - Associate, Fund Accounting (Bangalore)",
+     "company": "Morgan Stanley",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-09",
+     "url": "https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com",
+     "score": 15,
      "why": [
       "Fund Accounting"
      ],
@@ -494,16 +494,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 28
-  },
   "https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891": {
    "id": "credit",
    "cv": "Credit CV",
@@ -558,6 +548,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/credit-analysis-4487673866": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
   }
  }
 }

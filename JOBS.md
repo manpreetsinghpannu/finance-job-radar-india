@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 9 Nov, 05:37** (UK time) · **63 open roles** at 36 firms · the radar checks every board about once an hour.
+Updated **Mon 9 Nov, 06:38** (UK time) · **64 open roles** at 38 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 9 Nov, 05:37** · hourly scan · checked 70 boards · **1 new role**
+**Mon 9 Nov, 06:37** · hourly scan · checked 70 boards · **3 new roles**
 
-### Finance (FP&A) CV: 1
+### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) | HRM Counsel | India |
+| 2026-11-09 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182) | Entain India | Hyderabad, Telangana, India |
+| 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
+
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
@@ -27,20 +34,20 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) · ISG · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712) · HRM Counsel · India · posted 2026-11-09
 
-**Credit CV** (28 matching)
+**Credit CV** (30 matching)
 
 1. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
 2. [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-05
 
-**Equity CV** (7 matching)
+**Equity CV** (6 matching)
 
-1. [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945) · Joblet-AI · India · posted 2026-11-08
-2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
+1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
+2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (7 matching)
+**Investment (IB / PE) CV** (6 matching)
 
-1. [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246) · Joblet-AI · India · posted 2026-11-08
-2. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
+1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
+2. [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-06
 
 **Consulting CV** (3 matching)
 
@@ -52,16 +59,34 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) · Kroll · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-06
 
-**Fund CV (written for India; tweak the header for UK roles)** (5 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (6 matching)
 
 1. [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) · Citi · Pune Maharashtra India · posted 2026-11-05
-2. [Associate, Fund Accounting (Public Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303) · Ares Management · Mumbai, India
+2. [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) · Morgan Stanley · Bengaluru, Karnataka, India · posted 2026-11-09
 
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 9 November
+
+<details>
+<summary><b>06:37</b> · hourly scan · <b>3 new</b> → Credit 2 · Fund 1</summary>
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182) | Entain India | Hyderabad, Telangana, India |
+| 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>05:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -178,21 +203,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56, 05:37, 04:37</sub>
-
-<details>
-<summary><b>03:37</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
-
-#### Equity CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945) | Joblet-AI | India |
-| 2026-11-08 | [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246) | Joblet-AI | India |
-
-</details>
-
-<sub>Nothing new at: 02:37, 01:37, 00:37</sub>
+<sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56, 05:37, 04:37, 03:37, 02:37, 01:37, 00:37</sub>
 
 <details>
 <summary><b>00:15</b> · hourly scan · <b>1 new</b> → Other 1</summary>
@@ -277,7 +288,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (17)](#finance-fpa-cv-17) · [Credit (26)](#credit-cv-26) · [Equity (6)](#equity-cv-6) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (5)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-5) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
+Everything matched so far, newest first within each CV: [Finance (17)](#finance-fpa-cv-17) · [Credit (28)](#credit-cv-28) · [Equity (4)](#equity-cv-4) · [Investment (5)](#investment-ib--pe-cv-5) · [Real Estate (1)](#real-estate-cv-1) · [Fund (6)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-6) · [Other (3)](#other-fits-no-cv-closely-may-still-be-worth-a-look-3)
 
 ### Finance (FP&A) CV: 17
 
@@ -301,10 +312,12 @@ Everything matched so far, newest first within each CV: [Finance (17)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 26
+### Credit CV: 28
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Risk Associate](https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182) | Entain India | Hyderabad, Telangana, India |
+| 2026-11-09 | [Credit Analysis](https://www.linkedin.com/jobs/view/credit-analysis-4487673866) | Rishi K Sharma & Associates | New Delhi, Delhi, India |
 | 2026-11-08 | [Executive-Credit to collection analyst-VOIS](https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825) | Vodafone | Pune Division, Maharashtra, India |
 | 2026-11-08 | [Commercial & Investment Bank Risk Associate - GHHN](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) | JPMorganChase | Mumbai, Maharashtra, India |
@@ -332,13 +345,11 @@ Everything matched so far, newest first within each CV: [Finance (17)](#finance-
 | 2026-11-05 | [Market Risk Associate – CIO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Equity CV: 6
+### Equity CV: 4
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-08 | [Equity Research Analyst (Remote)](https://www.linkedin.com/jobs/view/equity-research-analyst-remote-at-joblet-ai-4487625945) | Joblet-AI | India |
 | 2026-11-08 | [Research Analyst, Financials (MENA/Australia/India/ASEAN)](https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721) | Millennium | Mumbai, Maharashtra, India |
-| 2026-11-08 | [M&A Research Analyst (Remote)](https://www.linkedin.com/jobs/view/m-a-research-analyst-remote-at-joblet-ai-4487635246) | Joblet-AI | India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
@@ -359,10 +370,11 @@ Everything matched so far, newest first within each CV: [Finance (17)](#finance-
 |---|---|---|---|
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 
-### Fund CV (written for India; tweak the header for UK roles): 5
+### Fund CV (written for India; tweak the header for UK roles): 6
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-09 | [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 | — | [Associate, Fund Accounting (Public Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303) | Ares Management | Mumbai, India |
 | — | [Associate, Fund Accounting ( Strategic Partnership)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting---Strategic-Partnership-_R8560) | Ares Management | Mumbai, India |
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
@@ -380,10 +392,12 @@ Everything matched so far, newest first within each CV: [Finance (17)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>6 roles taken off the list because the firm closed the posting</summary>
+<summary>8 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 9 Nov, 06:38 | Equity Research Analyst (Remote) | Joblet-AI |
+| Mon 9 Nov, 06:38 | M&A Research Analyst (Remote) | Joblet-AI |
 | Sun 8 Nov, 18:37 | Financial Analyst II | Fluor Corporation |
 | Sun 8 Nov, 18:37 | Treasury Executive | Flexiple |
 | Sun 8 Nov, 18:36 | FP&A Executive | Flexiple |

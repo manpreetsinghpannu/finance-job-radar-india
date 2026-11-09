@@ -74,4 +74,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680 | Trexquant Investment LP | Quantitative Researcher - Experienced Hires (India) | Gurugram, Haryana, India | posted: 2026-11-08 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hrm-counsel-4487726712 | HRM Counsel | Financial Analyst | India | posted: 2026-11-09 | note: via LinkedIn
 
+- [ ] https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com | Morgan Stanley | Institutional Equity Division - Associate, Fund Accounting (Bangalore) | Bengaluru, Karnataka, India | posted: 2026-11-09
+- [ ] https://www.linkedin.com/jobs/view/credit-analysis-4487673866 | Rishi K Sharma & Associates | Credit Analysis | New Delhi, Delhi, India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-associate-at-entain-india-4488838182 | Entain India | Risk Associate | Hyderabad, Telangana, India | posted: 2026-11-09 | note: via LinkedIn
+
 ## Processed
