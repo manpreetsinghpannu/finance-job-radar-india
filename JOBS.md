@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 10 Nov, 08:39** (UK time) · **127 open roles** at 72 firms · the radar checks every board about once an hour.
+Updated **Tue 10 Nov, 09:36** (UK time) · **128 open roles** at 73 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 10 Nov, 08:36** · hourly scan · checked 99 boards · **1 new role**
+**Tue 10 Nov, 09:36** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-10 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4487444610) | GL and Associate Company | Bengaluru, Karnataka, India |
+| 2026-11-10 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841) | Lennox | Chennai, Tamil Nadu, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (36 matching)
+**Finance (FP&A) CV** (37 matching)
 
 1. [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) · Applicantz · Bengaluru, Karnataka, India · posted 2026-11-09
 2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>09:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-10 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841) | Lennox | Chennai, Tamil Nadu, India |
+
+</details>
 
 <details>
 <summary><b>08:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -613,9 +624,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (36)](#finance-fpa-cv-36) · [Credit (39)](#credit-cv-39) · [Equity (7)](#equity-cv-7) · [Investment (18)](#investment-ib--pe-cv-18) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (37)](#finance-fpa-cv-37) · [Credit (39)](#credit-cv-39) · [Equity (7)](#equity-cv-7) · [Investment (18)](#investment-ib--pe-cv-18) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
-### Finance (FP&A) CV: 36
+### Finance (FP&A) CV: 37
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -624,6 +635,7 @@ Everything matched so far, newest first within each CV: [Finance (36)](#finance-
 | 2026-11-10 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522) | Bottomline | Bengaluru, Karnataka, India |
 | 2026-11-10 | [FP&A Specialist](https://www.linkedin.com/jobs/view/fp-a-specialist-at-sidel-4487988920) | Sidel | Pune City, Maharashtra, India |
 | 2026-11-10 | [Specialist, FP&A](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915) | Invesco | Hyderabad, Telangana |
+| 2026-11-10 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841) | Lennox | Chennai, Tamil Nadu, India |
 | 2026-11-09 | [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) | Applicantz | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
 | 2026-11-09 | [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) | Oracle | Bengaluru, Karnataka, India |
