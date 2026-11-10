@@ -146,4 +146,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522 | Bottomline | Finance Associate | Bengaluru, Karnataka, India | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-specialist-at-sidel-4487988920 | Sidel | FP&A Specialist | Pune City, Maharashtra, India | posted: 2026-11-10 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137283 | Barclays | Liquidity Risk Reporting - Analyst | Chennai, DLF IT Park · Noida, Candor TechSpace | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-srv-media-4489420455 | SRV Media | Financial Analyst | Pune District, Maharashtra, India | posted: 2026-11-10 | note: via LinkedIn
+
 ## Processed
