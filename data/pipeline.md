@@ -168,5 +168,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-associate-india-at-alliancebernstein-4480258651 | AllianceBernstein | Research Associate (India) | Mumbai Metropolitan Region | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-management-specialist-at-avient-corporation-4424899430 | Avient Corporation | Credit Management, Specialist | Pune Division, Maharashtra, India | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-private-markets-fund-controllership-spvs-associate-at-kkr-4461174581 | KKR | Finance - Private Markets Fund Controllership (SPVs) - Associate | Gurugram, Haryana, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943 | Franklin Templeton | Junior Research Associate | Mumbai Metropolitan Region | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

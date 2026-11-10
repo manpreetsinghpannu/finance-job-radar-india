@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 10 Nov, 15:36** (UK time) · **140 open roles** at 85 firms · the radar checks every board about once an hour.
+Updated **Tue 10 Nov, 16:39** (UK time) · **139 open roles** at 84 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 10 Nov, 15:36** · hourly scan · checked 99 boards · **2 new roles**
+**Tue 10 Nov, 16:36** · hourly scan · checked 99 boards · **1 new role**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-10 | [Credit Management, Specialist](https://www.linkedin.com/jobs/view/credit-management-specialist-at-avient-corporation-4424899430) | Avient Corporation | Pune Division, Maharashtra, India |
-
-### Investment (IB / PE) CV: 1
+### Equity CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-10 | [Finance - Private Markets Fund Controllership (SPVs) - Associate](https://www.linkedin.com/jobs/view/finance-private-markets-fund-controllership-spvs-associate-at-kkr-4461174581) | KKR | Gurugram, Haryana, India |
+| 2026-11-10 | [Junior Research Associate](https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943) | Franklin Templeton | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (40 matching)
+**Finance (FP&A) CV** (39 matching)
 
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
@@ -40,8 +34,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 
 **Equity CV** (13 matching)
 
-1. [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-09
-2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
+1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
+2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
 
 **Investment (IB / PE) CV** (23 matching)
 
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>16:36</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-10 | [Junior Research Associate](https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943) | Franklin Templeton | Mumbai Metropolitan Region |
+
+</details>
 
 <details>
 <summary><b>15:36</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
@@ -460,7 +465,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>09:35</b> · hourly scan · <b>8 new</b> → Finance 3 · Credit 2 · Equity 1 · Other 2</summary>
+<summary><b>09:35</b> · hourly scan · <b>7 new</b> → Finance 3 · Credit 2 · Other 2</summary>
 
 #### Finance (FP&A) CV: 3
 
@@ -477,18 +482,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-09 | [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) | Nomura | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit](https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510) | Nomura | Mumbai, Maharashtra, India |
 
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
-
 #### Other (fits no CV closely, may still be worth a look): 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -659,13 +660,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:01</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>28 new</b> → Finance 3 · Credit 15 · Equity 1 · Investment 2 · Real Estate 1 · Fund 5 · Other 1</summary>
+<summary><b>00:01</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>27 new</b> → Finance 2 · Credit 15 · Equity 1 · Investment 2 · Real Estate 1 · Fund 5 · Other 1</summary>
 
-#### Finance (FP&A) CV: 3
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-07 | [Financial Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1) | S&P Global | Hyderabad, Telangana |
 | — | [Associate - Operations - Operations - CBS - FIN - FP&A Account Support - Bangalore](https://careers.ey.com/ey/job/Bengaluru-Associate-Operations-Operations-CBS-FIN-FP&A-Account-Support-Bangalore-KA-560001/1455368433/) | EY | Bengaluru |
 | — | [FIN_Treasury_AS](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AS/1447114200/) | Nomura | Mumbai |
 
@@ -724,15 +724,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | — | [Quants](https://careers.nomura.com/Nomura/job/Mumbai-Quants-400076/1397978700/) | Nomura | Mumbai |
 
-<sub>139 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>140 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (40)](#finance-fpa-cv-40) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (39)](#finance-fpa-cv-39) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
-### Finance (FP&A) CV: 40
+### Finance (FP&A) CV: 39
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -764,7 +764,6 @@ Everything matched so far, newest first within each CV: [Finance (40)](#finance-
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
 | 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
 | 2026-11-07 | [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) | ISG | Bengaluru, Karnataka, India |
-| 2026-11-07 | [Financial Analyst](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1) | S&P Global | Hyderabad, Telangana |
 | 2026-11-07 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hp-4488489736) | HP | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-precision-for-medicine-4470014106) | Precision For Medicine | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Finance Analyst-Contra Revenue](https://www.linkedin.com/jobs/view/finance-analyst-contra-revenue-at-hp-4488499191) | HP | Bengaluru, Karnataka, India |
@@ -828,8 +827,8 @@ Everything matched so far, newest first within each CV: [Finance (40)](#finance-
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-10 | [Junior Research Associate](https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943) | Franklin Templeton | Mumbai Metropolitan Region |
 | 2026-11-10 | [Research Associate (India)](https://www.linkedin.com/jobs/view/research-associate-india-at-alliancebernstein-4480258651) | AllianceBernstein | Mumbai Metropolitan Region |
-| 2026-11-09 | [-Hiring Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
 | 2026-11-09 | [HOLT Production & Model Research Analyst](https://www.linkedin.com/jobs/view/holt-production-model-research-analyst-at-ubs-4487947088) | UBS | Hyderabad, Telangana, India |
 | 2026-11-09 | [AI Investment Research Builder](https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452) | Algo One AI | India |
 | 2026-11-08 | [Research Analyst, Financials (MENA/Australia/India/ASEAN)](https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721) | Millennium | Mumbai, Maharashtra, India |
@@ -915,10 +914,12 @@ Everything matched so far, newest first within each CV: [Finance (40)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>13 roles taken off the list because the firm closed the posting</summary>
+<summary>15 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 10 Nov, 16:38 | Financial Analyst | S&P Global |
+| Tue 10 Nov, 16:36 | -Hiring Equity Research Analyst - CFA Level 1 | V2U Consultancy Services Pvt. Ltd. |
 | Tue 10 Nov, 12:39 | Financial Analyst – FP&A | Applicantz |
 | Tue 10 Nov, 12:36 | WSO Private Debt Analyst, DATA SERVICES | S&P Global |
 | Mon 9 Nov, 17:39 | Equity Research Analyst | V2U Consultancy Services Pvt. Ltd. |
