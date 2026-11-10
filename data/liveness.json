@@ -293,7 +293,7 @@
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061": {
   "status": "live",
-  "checked_at": "2026-11-10T15:36:44Z"
+  "checked_at": "2026-11-10T19:36:13Z"
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866": {
   "status": "live",
@@ -416,12 +416,14 @@
   "checked_at": "2026-11-10T17:37:12Z"
  },
  "https://www.linkedin.com/jobs/view/m-a-associate-at-emergence-4489103833": {
-  "status": "live",
-  "checked_at": "2026-11-10T15:36:40Z"
+  "status": "closed",
+  "checked_at": "2026-11-10T19:36:12Z",
+  "closed_at": "2026-11-10T19:36:12Z",
+  "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-bank-reconciliations-at-millennium-4480260146": {
   "status": "live",
-  "checked_at": "2026-11-10T15:36:44Z"
+  "checked_at": "2026-11-10T19:36:16Z"
  },
  "https://www.linkedin.com/jobs/view/investment-associate-at-partnerone-4489137574": {
   "status": "live",
@@ -457,11 +459,11 @@
  },
  "https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915": {
   "status": "live",
-  "checked_at": "2026-11-10T15:36:40Z"
+  "checked_at": "2026-11-10T19:36:12Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137282": {
   "status": "live",
-  "checked_at": "2026-11-10T15:36:41Z"
+  "checked_at": "2026-11-10T19:36:13Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-4487444610": {
   "status": "unknown",
@@ -536,5 +538,13 @@
  "https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705": {
   "status": "live",
   "checked_at": "2026-11-10T18:36:32Z"
+ },
+ "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952": {
+  "status": "live",
+  "checked_at": "2026-11-10T19:36:05Z"
+ },
+ "https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024": {
+  "status": "live",
+  "checked_at": "2026-11-10T19:36:09Z"
  }
 }
