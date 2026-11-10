@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T11:36:48.216Z",
+ "generated_at": "2026-11-10T12:39:34.524Z",
  "order": [
   "finance",
   "credit",
@@ -24,21 +24,8 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 38,
+   "matching": 37,
    "picks": [
-    {
-     "title": "Financial Analyst – FP&A",
-     "company": "Applicantz",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228",
-     "score": 28,
-     "why": [
-      "FP&A",
-      "Financial Analyst"
-     ],
-     "sponsor": null
-    },
     {
      "title": "Financial Planning & Analyst (FP&A)",
      "company": "Signode",
@@ -51,13 +38,26 @@
       "Financial Planning"
      ],
      "sponsor": null
+    },
+    {
+     "title": "Financial Analyst 4 Corp FP&A",
+     "company": "Oracle",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Financial Analyst"
+     ],
+     "sponsor": null
     }
    ]
   },
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 41,
+   "matching": 40,
    "picks": [
     {
      "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
@@ -111,7 +111,7 @@
      "location": "Bengaluru, Karnataka, India",
      "posted": "2026-11-07",
      "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347",
-     "score": 28,
+     "score": 26,
      "why": [
       "Equity Research",
       "Research Analyst"
@@ -126,18 +126,6 @@
    "matching": 20,
    "picks": [
     {
-     "title": "Trainee, Valuation Services",
-     "company": "Kroll",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924",
-     "score": 18,
-     "why": [
-      "Valuation"
-     ],
-     "sponsor": null
-    },
-    {
      "title": "Associate - SaT - National - SaT - TCF - Valuation - Mumbai",
      "company": "EY",
      "location": "Mumbai, Maharashtra, India",
@@ -146,6 +134,18 @@
      "score": 16,
      "why": [
       "Valuation"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Associate - Strategic Advisory (India Coverage)",
+     "company": "PJT Partners",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-09",
+     "url": "https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405",
+     "score": 16,
+     "why": [
+      "Strategic Advisory"
      ],
      "sponsor": null
     }
@@ -260,7 +260,7 @@
   "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Hyderabad-Telangana/Financial-Analyst_332503-1": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303": {
    "id": "fund",
@@ -380,7 +380,7 @@
   "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 14
+   "score": 12
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424": {
    "id": "fund",
@@ -390,107 +390,107 @@
   "https://www.linkedin.com/jobs/view/financial-analyst-at-hp-4488489736": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-precision-for-medicine-4470014106": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 24
+   "score": 22
   },
   "https://www.linkedin.com/jobs/view/financial-reporting-analyst-bengaluru-at-bnp-paribas-4480392493": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 12
+   "score": 10
   },
   "https://www.linkedin.com/jobs/view/associate-fp-a-at-elanco-4352634349": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-contra-revenue-at-hp-4488499191": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-ii-foaa-leo-at-amazon-4471886962": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/specialist-credit-services-ii-at-bny-4462890565": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 2
+   "score": 0
   },
   "https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 17
+   "score": 15
   },
   "https://www.linkedin.com/jobs/view/credit-officer-housing-tamil-nadu-kerala-at-ujjivan-small-finance-bank-4488490001": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/credit-officer-at-abc-aditya-birla-housing-finance-limited-4463366436": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/credit-officer-housing-at-ujjivan-small-finance-bank-4488730802": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/market-risk-associate-cio-at-jpmorganchase-4480155028": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/associate-market-risk-at-coindcx-4452388343": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 9
+   "score": 7
   },
   "https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347": {
    "id": "equity",
    "cv": "Equity CV",
-   "score": 28
+   "score": 26
   },
   "https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675": {
    "id": "equity",
    "cv": "Equity CV",
-   "score": 28
+   "score": 26
   },
   "https://www.linkedin.com/jobs/view/treasury-research-and-analytics-associate-at-jpmorganchase-4480550953": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 9
+   "score": 7
   },
   "https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 2
+   "score": 0
   },
   "https://www.linkedin.com/jobs/view/team-member-debt-market-operations-at-aditya-birla-capital-4463363463": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615": {
    "id": "other",
@@ -500,7 +500,7 @@
   "https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700": {
    "id": "credit",
@@ -515,7 +515,7 @@
   "https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 2
+   "score": 0
   },
   "https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974": {
    "id": "investment",
@@ -556,11 +556,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 28
   },
   "https://www.linkedin.com/jobs/view/accountant-4487142018": {
    "id": "finance",
@@ -905,11 +900,6 @@
   "https://www.linkedin.com/jobs/view/analyst-treasury-at-mckinsey-company-4463606112": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
-  "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Gurugram-Haryana/WSO-Private-Debt-Analyst--DATA-SERVICES_332214": {
-   "id": "credit",
-   "cv": "Credit CV",
    "score": 12
   },
   "https://www.linkedin.com/jobs/view/credit-analyst-at-russell-investments-4478861109": {
