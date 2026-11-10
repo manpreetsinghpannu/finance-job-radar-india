@@ -160,5 +160,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Gurugram-Haryana/WSO-Private-Debt-Analyst--DATA-SERVICES_332214 | S&P Global | WSO Private Debt Analyst, DATA SERVICES | Gurugram, Haryana · Hyderabad, Telangana | posted: 2026-11-10
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-russell-investments-4478861109 | Russell Investments | Credit Analyst | Mumbai Metropolitan Region | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analaysis-at-viraaj-hr-solutions-private-limited-4488347736 | Viraaj HR Solutions Private Limited | Financial Planning & Analaysis | Hyderabad, Telangana, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442 | RHC India | Financial Analyst - Real Estate Underwriter | Vadodara, Gujarat, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-fundament-capital-investment-management-4487489406 | Fundament Capital Investment Management | Investment Associate | Bengaluru, Karnataka, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461 | The HIRD | Valuation /Private Equity/Mergers Acquisitions | Bengaluru, Karnataka, India | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

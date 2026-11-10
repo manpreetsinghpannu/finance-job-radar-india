@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T12:39:34.524Z",
+ "generated_at": "2026-11-10T13:29:42.758Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 37,
+   "matching": 39,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 11,
+   "matching": 12,
    "picks": [
     {
      "title": "-Hiring Equity Research Analyst - CFA Level 1",
@@ -123,8 +123,22 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 20,
+   "matching": 22,
    "picks": [
+    {
+     "title": "Valuation /Private Equity/Mergers Acquisitions",
+     "company": "The HIRD",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461",
+     "score": 34,
+     "why": [
+      "Mergers",
+      "Valuation",
+      "Private Equity"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Associate - SaT - National - SaT - TCF - Valuation - Mumbai",
      "company": "EY",
@@ -134,18 +148,6 @@
      "score": 16,
      "why": [
       "Valuation"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Associate - Strategic Advisory (India Coverage)",
-     "company": "PJT Partners",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405",
-     "score": 16,
-     "why": [
-      "Strategic Advisory"
      ],
      "sponsor": null
     }
@@ -185,8 +187,20 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 12,
+   "matching": 14,
    "picks": [
+    {
+     "title": "Financial Analyst - Real Estate Underwriter",
+     "company": "RHC India",
+     "location": "Vadodara, Gujarat, India",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442",
+     "score": 18,
+     "why": [
+      "Real Estate"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
      "company": "Bank of America",
@@ -196,18 +210,6 @@
      "score": 13,
      "why": [
       "Lending"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Asset Management Analyst",
-     "company": "Gallagher & Mohan",
-     "location": "Delhi, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073",
-     "score": 12,
-     "why": [
-      "Asset Management"
      ],
      "sponsor": null
     }
@@ -906,6 +908,26 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analaysis-at-viraaj-hr-solutions-private-limited-4488347736": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-at-fundament-capital-investment-management-4487489406": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 34
   }
  }
 }
