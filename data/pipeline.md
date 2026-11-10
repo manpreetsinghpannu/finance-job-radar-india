@@ -170,5 +170,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-private-markets-fund-controllership-spvs-associate-at-kkr-4461174581 | KKR | Finance - Private Markets Fund Controllership (SPVs) - Associate | Gurugram, Haryana, India | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943 | Franklin Templeton | Junior Research Associate | Mumbai Metropolitan Region | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705 | IQ-EQ | Associate Executive - Fund Accounting | Gandhinagar, Gujarat, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952 | Wolters Kluwer | Financial Planning Analyst | Pune/Pimpri-Chinchwad Area | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024 | CAclubindia | FP&A Executive | Ankleshwar, Gujarat, India | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

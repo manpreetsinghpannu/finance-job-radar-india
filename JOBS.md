@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 10 Nov, 17:37** (UK time) · **140 open roles** at 85 firms · the radar checks every board about once an hour.
+Updated **Tue 10 Nov, 18:36** (UK time) · **142 open roles** at 87 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 10 Nov, 17:36** · hourly scan · checked 99 boards · **1 new role**
+**Tue 10 Nov, 18:36** · hourly scan · checked 99 boards · **2 new roles**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-10 | [Associate Executive - Fund Accounting](https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705) | IQ-EQ | Gandhinagar, Gujarat, India |
+| 2026-11-10 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952) | Wolters Kluwer | Pune/Pimpri-Chinchwad Area |
+| 2026-11-10 | [FP&A Executive](https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024) | CAclubindia | Ankleshwar, Gujarat, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (39 matching)
+**Finance (FP&A) CV** (41 matching)
 
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
@@ -62,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>18:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-10 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952) | Wolters Kluwer | Pune/Pimpri-Chinchwad Area |
+| 2026-11-10 | [FP&A Executive](https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024) | CAclubindia | Ankleshwar, Gujarat, India |
+
+</details>
 
 <details>
 <summary><b>17:36</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -741,9 +754,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (39)](#finance-fpa-cv-39) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (41)](#finance-fpa-cv-41) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
-### Finance (FP&A) CV: 39
+### Finance (FP&A) CV: 41
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -751,6 +764,8 @@ Everything matched so far, newest first within each CV: [Finance (39)](#finance-
 | 2026-11-10 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4487444610) | GL and Associate Company | Bengaluru, Karnataka, India |
 | 2026-11-10 | [Financial Analyst - Real Estate Underwriter](https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442) | RHC India | Vadodara, Gujarat, India |
 | 2026-11-10 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-alstom-4477092964) | Alstom | Bengaluru, Karnataka, India |
+| 2026-11-10 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952) | Wolters Kluwer | Pune/Pimpri-Chinchwad Area |
+| 2026-11-10 | [FP&A Executive](https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024) | CAclubindia | Ankleshwar, Gujarat, India |
 | 2026-11-10 | [Financial Planning & Analaysis](https://www.linkedin.com/jobs/view/financial-planning-analaysis-at-viraaj-hr-solutions-private-limited-4488347736) | Viraaj HR Solutions Private Limited | Hyderabad, Telangana, India |
 | 2026-11-10 | [Analyst - Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-mckinsey-company-4463606112) | McKinsey & Company | Gurugram, Haryana, India |
 | 2026-11-10 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522) | Bottomline | Bengaluru, Karnataka, India |
