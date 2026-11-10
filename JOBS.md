@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 10 Nov, 16:39** (UK time) · **139 open roles** at 84 firms · the radar checks every board about once an hour.
+Updated **Tue 10 Nov, 17:37** (UK time) · **140 open roles** at 85 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 10 Nov, 16:36** · hourly scan · checked 99 boards · **1 new role**
+**Tue 10 Nov, 17:36** · hourly scan · checked 99 boards · **1 new role**
 
-### Equity CV: 1
+### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-10 | [Junior Research Associate](https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943) | Franklin Templeton | Mumbai Metropolitan Region |
+| 2026-11-10 | [Associate Executive - Fund Accounting](https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705) | IQ-EQ | Gandhinagar, Gujarat, India |
 
 ## Top picks for each CV
 
@@ -52,16 +52,27 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - Real Estate Underwriter](https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442) · RHC India · Vadodara, Gujarat, India · posted 2026-11-10
 2. [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) · Bank of America · Mumbai Metropolitan Region · posted 2026-11-10
 
-**Fund CV (written for India; tweak the header for UK roles)** (10 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (11 matching)
 
-1. [Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL](https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129) · Synechron · Greater Hyderabad Area · posted 2026-11-10
-2. [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) · Citi · Pune Maharashtra India · posted 2026-11-05
+1. [Associate Executive - Fund Accounting](https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705) · IQ-EQ · Gandhinagar, Gujarat, India · posted 2026-11-10
+2. [Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL](https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129) · Synechron · Greater Hyderabad Area · posted 2026-11-10
 
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>17:36</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-10 | [Associate Executive - Fund Accounting](https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705) | IQ-EQ | Gandhinagar, Gujarat, India |
+
+</details>
 
 <details>
 <summary><b>16:36</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -730,7 +741,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (39)](#finance-fpa-cv-39) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (39)](#finance-fpa-cv-39) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
 ### Finance (FP&A) CV: 39
 
@@ -887,10 +898,11 @@ Everything matched so far, newest first within each CV: [Finance (39)](#finance-
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 8
+### Fund CV (written for India; tweak the header for UK roles): 9
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-10 | [Associate Executive - Fund Accounting](https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705) | IQ-EQ | Gandhinagar, Gujarat, India |
 | 2026-11-10 | [Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL](https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129) | Synechron | Greater Hyderabad Area |
 | 2026-11-09 | [Institutional Equity Division - Associate, Fund Accounting (Bangalore)](https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Operations Team Member_Capital Market Operation-Fund Accounting_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |

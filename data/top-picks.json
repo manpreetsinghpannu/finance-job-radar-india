@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:39:37.070Z",
+ "generated_at": "2026-11-10T17:37:12.518Z",
  "order": [
   "finance",
   "credit",
@@ -218,8 +218,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 10,
+   "matching": 11,
    "picks": [
+    {
+     "title": "Associate Executive - Fund Accounting",
+     "company": "IQ-EQ",
+     "location": "Gandhinagar, Gujarat, India",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705",
+     "score": 18,
+     "why": [
+      "Fund Accounting"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
      "company": "Synechron",
@@ -230,18 +242,6 @@
      "why": [
       "Portfolio Analytics",
       "Reporting Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Fund Accounting Analyst",
-     "company": "Citi",
-     "location": "Pune Maharashtra India",
-     "posted": "2026-11-05",
-     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424",
-     "score": 16,
-     "why": [
-      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -943,6 +943,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
   }
  }
 }
