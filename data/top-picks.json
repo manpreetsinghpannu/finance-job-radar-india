@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:50:09.408Z",
+ "generated_at": "2026-11-10T14:36:19.631Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 39,
+   "matching": 40,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -90,7 +90,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 12,
+   "matching": 13,
    "picks": [
     {
      "title": "-Hiring Equity Research Analyst - CFA Level 1",
@@ -928,6 +928,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 34
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-alstom-4477092964": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-associate-india-at-alliancebernstein-4480258651": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 10
   }
  }
 }
