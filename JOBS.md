@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 10 Nov, 01:38** (UK time) · **116 open roles** at 65 firms · the radar checks every board about once an hour.
+Updated **Tue 10 Nov, 02:36** (UK time) · **119 open roles** at 67 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,23 +10,34 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 10 Nov, 01:35** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 10 Nov, 02:35** · hourly scan · checked 99 boards · **3 new roles**
 
-Nothing new this time. The last scan that found something was **Mon 9 Nov, 22:19** (2: Investment 1 · Real Estate 1); open it in the scan log below.
+### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Controlling Financial Analyst](https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298) | Hitachi Energy | Gurugram, Haryana, India |
+| 2026-11-09 | [Financial Reporting](https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327) | Intelex Technologies ULC | India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) | EY | Mumbai |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (29 matching)
+**Finance (FP&A) CV** (31 matching)
 
 1. [Financial Analyst – FP&A](https://www.linkedin.com/jobs/view/financial-analyst-%E2%80%93-fp-a-at-applicantz-4488839228) · Applicantz · Bengaluru, Karnataka, India · posted 2026-11-09
 2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 
-**Credit CV** (34 matching)
+**Credit CV** (35 matching)
 
-1. [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) · Nomura · Mumbai, Maharashtra, India · posted 2026-11-09
-2. [Risk Analyst Structured Finance](https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-07
+1. [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) · EY · Mumbai
+2. [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) · Nomura · Mumbai, Maharashtra, India · posted 2026-11-09
 
 **Equity CV** (10 matching)
 
@@ -58,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>02:35</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-09 | [Controlling Financial Analyst](https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298) | Hitachi Energy | Gurugram, Haryana, India |
+| 2026-11-09 | [Financial Reporting](https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327) | Intelex Technologies ULC | India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) | EY | Mumbai |
+
+</details>
 
 <sub>Nothing new at: 01:35, 00:35</sub>
 
@@ -521,9 +550,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (29)](#finance-fpa-cv-29) · [Credit (35)](#credit-cv-35) · [Equity (7)](#equity-cv-7) · [Investment (18)](#investment-ib--pe-cv-18) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (31)](#finance-fpa-cv-31) · [Credit (36)](#credit-cv-36) · [Equity (7)](#equity-cv-7) · [Investment (18)](#investment-ib--pe-cv-18) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (7)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-7) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
-### Finance (FP&A) CV: 29
+### Finance (FP&A) CV: 31
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -537,8 +566,10 @@ Everything matched so far, newest first within each CV: [Finance (29)](#finance-
 | 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264) | Stellar Fusion | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-tekwissen-india-4485601341) | TekWissen India | Chennai, Tamil Nadu, India |
 | 2026-11-09 | [Finance Analyst (Bank reconciliations)](https://www.linkedin.com/jobs/view/finance-analyst-bank-reconciliations-at-millennium-4480260146) | Millennium | Bengaluru, Karnataka, India |
+| 2026-11-09 | [Controlling Financial Analyst](https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298) | Hitachi Energy | Gurugram, Haryana, India |
 | 2026-11-09 | [Corporate Treasury Desk Strategist, Associate, Quantitative Strategists](https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4487142018) | Lucky Distributors | Bhubaneswar, Odisha, India |
+| 2026-11-09 | [Financial Reporting](https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327) | Intelex Technologies ULC | India |
 | 2026-11-09 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471) | SWASTIK FINANCE LTD | Mumbai, Maharashtra, India |
 | 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
@@ -557,10 +588,11 @@ Everything matched so far, newest first within each CV: [Finance (29)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 35
+### Credit CV: 36
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) | EY | Mumbai |
 | 2026-11-09 | [Risk Management CA Industrial Trainee – Credit Risk](https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818) | Nomura | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Global Markets CA Industrial Trainee – AeJ Securitized Products & Private Credit](https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510) | Nomura | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Credit Risk Modeler](https://www.linkedin.com/jobs/view/credit-risk-modeler-at-ford-motor-company-4488893634) | Ford Motor Company | Chennai, Tamil Nadu, India |

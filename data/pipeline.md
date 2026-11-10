@@ -138,4 +138,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.hcltech.com/job/SME-Asset-Management%2C-ServiceNow/189165-en_US | HCLTech | SME - Asset Management, ServiceNow | posted: 2026-11-09
 - [ ] https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405 | PJT Partners | Associate - Strategic Advisory (India Coverage) | Mumbai, Maharashtra, India | posted: 2026-11-09 | note: via LinkedIn
 
+- [ ] https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/ | EY | FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM | Mumbai
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327 | Intelex Technologies ULC | Financial Reporting | India | posted: 2026-11-09 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298 | Hitachi Energy | Controlling Financial Analyst | Gurugram, Haryana, India | posted: 2026-11-09 | note: via LinkedIn
+
 ## Processed

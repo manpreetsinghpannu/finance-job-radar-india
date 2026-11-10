@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:38:48.108Z",
+ "generated_at": "2026-11-10T02:36:35.694Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 29,
+   "matching": 31,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -57,8 +57,21 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 34,
+   "matching": 35,
    "picks": [
+    {
+     "title": "FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM",
+     "company": "EY",
+     "location": "Mumbai",
+     "posted": null,
+     "url": "https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/",
+     "score": 21,
+     "why": [
+      "Credit Risk",
+      "Wholesale Credit"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Risk Management CA Industrial Trainee – Credit Risk",
      "company": "Nomura",
@@ -68,19 +81,6 @@
      "score": 19,
      "why": [
       "Credit Risk"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Risk Analyst Structured Finance",
-     "company": "JPMorganChase",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/risk-analyst-structured-finance-at-jpmorganchase-4452005709",
-     "score": 17,
-     "why": [
-      "Risk Analyst",
-      "Structured Finance"
      ],
      "sponsor": null
     }
@@ -824,6 +824,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
+  },
+  "https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 21
+  },
+  "https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
