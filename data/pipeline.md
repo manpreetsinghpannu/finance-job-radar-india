@@ -143,5 +143,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298 | Hitachi Energy | Controlling Financial Analyst | Gurugram, Haryana, India | posted: 2026-11-09 | note: via LinkedIn
 
 - [ ] https://careers.ey.com/ey/job/Hyderabad-Associate-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Hyderabad-500032/1455827733/ | EY | Associate - SaT - National - SaT - TCF - Capital and Debt Advisory - Hyderabad | Hyderabad
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522 | Bottomline | Finance Associate | Bengaluru, Karnataka, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-specialist-at-sidel-4487988920 | Sidel | FP&A Specialist | Pune City, Maharashtra, India | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed

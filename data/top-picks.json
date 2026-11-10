@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T04:51:59.775Z",
+ "generated_at": "2026-11-10T05:36:34.410Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 31,
+   "matching": 33,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -844,6 +844,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 5
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-specialist-at-sidel-4487988920": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
