@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-10T04:36:21.578Z",
+  "finished_at": "2026-11-10T04:45:07.551Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 41871,
-  "filtered_out": 41809,
+  "postings_seen": 41940,
+  "filtered_out": 41878,
   "new_matches": 0,
-  "boards_failed": 4,
+  "boards_failed": 3,
   "failed": [
     {
       "company": "IMC Trading",
