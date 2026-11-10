@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 10 Nov, 19:36** (UK time) · **141 open roles** at 86 firms · the radar checks every board about once an hour.
+Updated **Tue 10 Nov, 20:39** (UK time) · **142 open roles** at 87 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 10 Nov, 19:36** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 10 Nov, 20:36** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 10 Nov, 18:36** (2: Finance 2); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-10 | [Treasury & Settlement Operations Executive](https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076) | Riverpe | Gurugram, Haryana, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (41 matching)
+**Finance (FP&A) CV** (42 matching)
 
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<details>
+<summary><b>20:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-10 | [Treasury & Settlement Operations Executive](https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076) | Riverpe | Gurugram, Haryana, India |
+
+</details>
 
 <sub>Nothing new at: 19:36</sub>
 
@@ -747,9 +762,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (41)](#finance-fpa-cv-41) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (21)](#investment-ib--pe-cv-21) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (42)](#finance-fpa-cv-42) · [Credit (42)](#credit-cv-42) · [Equity (8)](#equity-cv-8) · [Investment (21)](#investment-ib--pe-cv-21) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
-### Finance (FP&A) CV: 41
+### Finance (FP&A) CV: 42
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -761,6 +776,7 @@ Everything matched so far, newest first within each CV: [Finance (41)](#finance-
 | 2026-11-10 | [FP&A Executive](https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024) | CAclubindia | Ankleshwar, Gujarat, India |
 | 2026-11-10 | [Financial Planning & Analaysis](https://www.linkedin.com/jobs/view/financial-planning-analaysis-at-viraaj-hr-solutions-private-limited-4488347736) | Viraaj HR Solutions Private Limited | Hyderabad, Telangana, India |
 | 2026-11-10 | [Analyst - Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-mckinsey-company-4463606112) | McKinsey & Company | Gurugram, Haryana, India |
+| 2026-11-10 | [Treasury & Settlement Operations Executive](https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076) | Riverpe | Gurugram, Haryana, India |
 | 2026-11-10 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522) | Bottomline | Bengaluru, Karnataka, India |
 | 2026-11-10 | [FP&A Specialist](https://www.linkedin.com/jobs/view/fp-a-specialist-at-sidel-4487988920) | Sidel | Pune City, Maharashtra, India |
 | 2026-11-10 | [Specialist, FP&A](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915) | Invesco | Hyderabad, Telangana |
