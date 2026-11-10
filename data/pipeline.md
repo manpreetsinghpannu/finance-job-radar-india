@@ -149,4 +149,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137283 | Barclays | Liquidity Risk Reporting - Analyst | Chennai, DLF IT Park · Noida, Candor TechSpace | posted: 2026-11-10
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-srv-media-4489420455 | SRV Media | Financial Analyst | Pune District, Maharashtra, India | posted: 2026-11-10 | note: via LinkedIn
 
+- [ ] https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915 | Invesco | Specialist, FP&A | Hyderabad, Telangana | posted: 2026-11-10
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137282 | Barclays | Liquidity Risk Reporting - Analyst | Chennai, DLF IT Park · Noida, Candor TechSpace | posted: 2026-11-10
+
 ## Processed

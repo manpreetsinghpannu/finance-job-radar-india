@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T06:37:10.476Z",
+ "generated_at": "2026-11-10T07:36:32.003Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 34,
+   "matching": 35,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 37,
+   "matching": 38,
    "picks": [
     {
      "title": "FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM",
@@ -864,6 +864,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137282": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
