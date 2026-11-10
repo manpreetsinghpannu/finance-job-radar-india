@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T09:36:25.096Z",
+ "generated_at": "2026-11-10T10:36:59.460Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 37,
+   "matching": 38,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -57,8 +57,21 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 38,
+   "matching": 39,
    "picks": [
+    {
+     "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
+     "company": "Bank of America",
+     "location": "Mumbai Metropolitan Region",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986",
+     "score": 23,
+     "why": [
+      "Lending",
+      "Credit"
+     ],
+     "sponsor": null
+    },
     {
      "title": "FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM",
      "company": "EY",
@@ -71,25 +84,13 @@
       "Wholesale Credit"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Risk Management CA Industrial Trainee – Credit Risk",
-     "company": "Nomura",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818",
-     "score": 19,
-     "why": [
-      "Credit Risk"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 10,
+   "matching": 11,
    "picks": [
     {
      "title": "-Hiring Equity Research Analyst - CFA Level 1",
@@ -122,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 19,
+   "matching": 20,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -184,8 +185,20 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 10,
+   "matching": 12,
    "picks": [
+    {
+     "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
+     "company": "Bank of America",
+     "location": "Mumbai Metropolitan Region",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986",
+     "score": 13,
+     "why": [
+      "Lending"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Asset Management Analyst",
      "company": "Gallagher & Mohan",
@@ -197,26 +210,27 @@
       "Asset Management"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Trainee, Valuation Services",
-     "company": "Kroll",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924",
-     "score": 12,
-     "why": [
-      "Valuation"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 8,
+   "matching": 9,
    "picks": [
+    {
+     "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
+     "company": "Synechron",
+     "location": "Greater Hyderabad Area",
+     "posted": "2026-11-10",
+     "url": "https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129",
+     "score": 16,
+     "why": [
+      "Portfolio Analytics",
+      "Reporting Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Fund Accounting Analyst",
      "company": "Citi",
@@ -224,18 +238,6 @@
      "posted": "2026-11-05",
      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424",
      "score": 16,
-     "why": [
-      "Fund Accounting"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Institutional Equity Division - Associate, Fund Accounting (Bangalore)",
-     "company": "Morgan Stanley",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-09",
-     "url": "https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com",
-     "score": 15,
      "why": [
       "Fund Accounting"
      ],
@@ -884,6 +886,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/valuation-associate-4489428965": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/analyst-treasury-at-mckinsey-company-4463606112": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

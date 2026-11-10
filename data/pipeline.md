@@ -153,5 +153,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137282 | Barclays | Liquidity Risk Reporting - Analyst | Chennai, DLF IT Park · Noida, Candor TechSpace | posted: 2026-11-10
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-4487444610 | GL and Associate Company (CA Firm) | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841 | Lennox | Specialist - FP&A | Chennai, Tamil Nadu, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986 | Bank of America | Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India | Mumbai Metropolitan Region | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-associate-4489428965 | valuer | Valuation Associate | Greater Chennai Area | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129 | Synechron | Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL | Greater Hyderabad Area | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-treasury-at-mckinsey-company-4463606112 | McKinsey & Company | Analyst - Treasury | Gurugram, Haryana, India | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed
