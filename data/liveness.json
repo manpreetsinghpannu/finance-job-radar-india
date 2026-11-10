@@ -403,11 +403,11 @@
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-techno-functional-financial-analyst-%E2%80%93-finance-ai-advanced-analytics-6%2Byrs-exp-at-cisco-4472712125": {
   "status": "live",
-  "checked_at": "2026-11-10T00:35:55Z"
+  "checked_at": "2026-11-10T03:36:07Z"
  },
  "https://www.linkedin.com/jobs/view/credit-risk-data-unit-as-at-deutsche-bank-4489112892": {
   "status": "live",
-  "checked_at": "2026-11-10T00:35:58Z"
+  "checked_at": "2026-11-10T03:36:10Z"
  },
  "https://www.linkedin.com/jobs/view/m-a-associate-at-emergence-4489103833": {
   "status": "live",
@@ -424,5 +424,13 @@
  "https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405": {
   "status": "live",
   "checked_at": "2026-11-10T02:35:56Z"
+ },
+ "https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327": {
+  "status": "live",
+  "checked_at": "2026-11-10T03:36:00Z"
+ },
+ "https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298": {
+  "status": "unknown",
+  "checked_at": "2026-11-10T03:36:03Z"
  }
 }

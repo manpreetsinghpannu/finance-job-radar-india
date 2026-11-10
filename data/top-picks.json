@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:36:35.694Z",
+ "generated_at": "2026-11-10T03:36:11.132Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 35,
+   "matching": 36,
    "picks": [
     {
      "title": "FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM",
@@ -122,7 +122,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 18,
+   "matching": 19,
    "picks": [
     {
      "title": "Trainee, Valuation Services",
@@ -153,7 +153,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 5,
+   "matching": 6,
    "picks": [
     {
      "title": "Associate - Strategic Advisory (India Coverage)",
@@ -839,6 +839,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://careers.ey.com/ey/job/Hyderabad-Associate-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Hyderabad-500032/1455827733/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 5
   }
  }
 }
