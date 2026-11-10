@@ -166,5 +166,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461 | The HIRD | Valuation /Private Equity/Mergers Acquisitions | Bengaluru, Karnataka, India | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-alstom-4477092964 | Alstom | FP&A Analyst | Bengaluru, Karnataka, India | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-associate-india-at-alliancebernstein-4480258651 | AllianceBernstein | Research Associate (India) | Mumbai Metropolitan Region | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-management-specialist-at-avient-corporation-4424899430 | Avient Corporation | Credit Management, Specialist | Pune Division, Maharashtra, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-private-markets-fund-controllership-spvs-associate-at-kkr-4461174581 | KKR | Finance - Private Markets Fund Controllership (SPVs) - Associate | Gurugram, Haryana, India | posted: 2026-11-10 | note: via LinkedIn
 
 ## Processed
