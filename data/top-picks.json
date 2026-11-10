@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:36:32.003Z",
+ "generated_at": "2026-11-10T08:39:26.657Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 35,
+   "matching": 36,
    "picks": [
     {
      "title": "Financial Analyst – FP&A",
@@ -874,6 +874,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-4487444610": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
