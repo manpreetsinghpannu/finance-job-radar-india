@@ -158,4 +158,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129 | Synechron | Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL | Greater Hyderabad Area | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-treasury-at-mckinsey-company-4463606112 | McKinsey & Company | Analyst - Treasury | Gurugram, Haryana, India | posted: 2026-11-10 | note: via LinkedIn
 
+- [ ] https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Gurugram-Haryana/WSO-Private-Debt-Analyst--DATA-SERVICES_332214 | S&P Global | WSO Private Debt Analyst, DATA SERVICES | Gurugram, Haryana · Hyderabad, Telangana | posted: 2026-11-10
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-russell-investments-4478861109 | Russell Investments | Credit Analyst | Mumbai Metropolitan Region | posted: 2026-11-10 | note: via LinkedIn
+
 ## Processed

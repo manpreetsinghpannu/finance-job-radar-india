@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T10:36:59.460Z",
+ "generated_at": "2026-11-10T11:36:48.216Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 39,
+   "matching": 41,
    "picks": [
     {
      "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
@@ -906,6 +906,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Gurugram-Haryana/WSO-Private-Debt-Analyst--DATA-SERVICES_332214": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-russell-investments-4478861109": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
   }
  }
 }
