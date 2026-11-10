@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 10 Nov, 03:36** (UK time) · **120 open roles** at 67 firms · the radar checks every board about once an hour.
+Updated **Tue 10 Nov, 04:36** (UK time) · **120 open roles** at 67 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 10 Nov, 03:36** · hourly scan · checked 99 boards · **1 new role**
+**Tue 10 Nov, 04:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Associate - SaT - National - SaT - TCF - Capital and Debt Advisory - Hyderabad](https://careers.ey.com/ey/job/Hyderabad-Associate-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Hyderabad-500032/1455827733/) | EY | Hyderabad |
+Nothing new this time. The last scan that found something was **Tue 10 Nov, 03:36** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 10 November
+
+<sub>Nothing new at: 04:36</sub>
 
 <details>
 <summary><b>03:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>

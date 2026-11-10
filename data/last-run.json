@@ -1,15 +1,19 @@
 {
-  "finished_at": "2026-11-10T03:36:11.557Z",
+  "finished_at": "2026-11-10T04:36:21.578Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 42098,
-  "filtered_out": 42036,
-  "new_matches": 1,
-  "boards_failed": 3,
+  "postings_seen": 41871,
+  "filtered_out": 41809,
+  "new_matches": 0,
+  "boards_failed": 4,
   "failed": [
+    {
+      "company": "IMC Trading",
+      "error": "This operation was aborted"
+    },
     {
       "company": "Societe Generale",
       "error": "fetch failed"
