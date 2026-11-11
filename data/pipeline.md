@@ -198,4 +198,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493 | V2U Consultancy Services Pvt. Ltd. | \Equity Research Analyst - CFA Level 1 | Delhi, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656 | PwC India | Deals - Deal Valuation - Specialist - CS - G | Gurugram, Haryana, India | posted: 2026-11-11 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299 | JPMorgan Chase | Associate - Financial Planning and Analysis | Bengaluru, Karnataka, India | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545 | HC Global Fund Services, LLC | Associate Accountant (Fund Administration) | Borivali, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895 | TerraPay | Associate Treasury Forex and Liquidity Management | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
+
 ## Processed

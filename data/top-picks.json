@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T08:36:38.716Z",
+ "generated_at": "2026-11-11T09:21:05.434Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 48,
+   "matching": 51,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 10,
+   "matching": 11,
    "picks": [
     {
      "title": "Associate Executive - Fund Accounting",
@@ -1056,6 +1056,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 12
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
