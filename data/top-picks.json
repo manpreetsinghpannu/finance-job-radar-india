@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T11:39:39.194Z",
+ "generated_at": "2026-11-11T12:38:54.812Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 53,
+   "matching": 57,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 49,
+   "matching": 51,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -225,18 +225,6 @@
    "matching": 11,
    "picks": [
     {
-     "title": "Associate Executive - Fund Accounting",
-     "company": "IQ-EQ",
-     "location": "Gandhinagar, Gujarat, India",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705",
-     "score": 18,
-     "why": [
-      "Fund Accounting"
-     ],
-     "sponsor": null
-    },
-    {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
      "company": "Synechron",
      "location": "Greater Hyderabad Area",
@@ -246,6 +234,18 @@
      "why": [
       "Portfolio Analytics",
       "Reporting Analyst"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Fund Accounting Analyst",
+     "company": "Citi",
+     "location": "Pune Maharashtra India",
+     "posted": "2026-11-05",
+     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424",
+     "score": 16,
+     "why": [
+      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -501,12 +501,12 @@
   "https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 9
+   "score": 7
   },
   "https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 9
+   "score": 7
   },
   "https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860": {
    "id": "finance",
@@ -516,27 +516,27 @@
   "https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/treasury-officer-4486687879": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/research-analyst-financials-mena-australia-india-asean-at-millennium-4203284721": {
    "id": "equity",
    "cv": "Equity CV",
-   "score": 19
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 12
+   "score": 10
   },
   "https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680": {
    "id": "other",
@@ -938,11 +938,6 @@
    "cv": "Equity CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1097,6 +1092,36 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-associate-at-fnz-4488228200": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/analyst-credit-analysis-at-first-citizens-india-4489949406": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-swiss-re-4488683607": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-gallagher-mohan-4482054940": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-rrd-global-delivery-centers-4488696281": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/group-treasury-operations-specialist-emea-at-ubs-4488683443": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 2
   }
  }
 }

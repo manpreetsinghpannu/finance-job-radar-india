@@ -207,5 +207,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623 | JENOPTIK | Corporate Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-fp-a-at-tryst-iit-bombay-4488214440 | TRYST IIT Bombay | Analyst FP&A | Mumbai Metropolitan Region | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/consultant-business-valuation-at-kpmg-india-4462995406 | KPMG India | Consultant - Business Valuation | Gurgaon, Haryana, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-associate-at-fnz-4488228200 | FNZ | FP&A Associate | Gurugram, Haryana, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-credit-analysis-at-first-citizens-india-4489949406 | First Citizens India | Analyst - Credit Analysis | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-swiss-re-4488683607 | Swiss Re | Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-gallagher-mohan-4482054940 | Gallagher & Mohan | Financial Analyst | Delhi, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-rrd-global-delivery-centers-4488696281 | RRD Global Delivery Centers | Fund Accountant | Chennai, Tamil Nadu, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/group-treasury-operations-specialist-emea-at-ubs-4488683443 | UBS | Group Treasury Operations Specialist (EMEA) | Hyderabad, Telangana, India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed
