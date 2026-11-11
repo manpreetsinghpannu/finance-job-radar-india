@@ -191,4 +191,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-sme-bwc-at-standard-chartered-india-4488655744 | Standard Chartered India | Credit Analyst - SME BWC | Mumbai Metropolitan Region | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143 | Outgrow Consulting Pvt Ltd. | Technology Investment Banking Associate | Mumbai, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
 
+- [ ] https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Post-Trade-Services---Risk-Analyst--India_34967-1 | CME Group | Post-Trade Services & Risk Analyst– India | Bangalore - Bagmane Tridib | posted: 2026-11-11
+- [ ] https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051768 | KPMG India | Portfolio Valuations_Associate Consultant | Gurgaon, Haryana, India | posted: 2026-11-11
+- [ ] https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051769 | KPMG India | Consultant - Portfolio Valuations (Equity Valuation) | Gurgaon, Haryana, India | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-alaris-aerospace-systems-india-4489924280 | Alaris Aerospace Systems India | Financial Planning Analyst | New Delhi, Delhi, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493 | V2U Consultancy Services Pvt. Ltd. | \Equity Research Analyst - CFA Level 1 | Delhi, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656 | PwC India | Deals - Deal Valuation - Specialist - CS - G | Gurugram, Haryana, India | posted: 2026-11-11 | note: via LinkedIn
+
 ## Processed

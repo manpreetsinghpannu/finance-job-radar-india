@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T06:36:59.020Z",
+ "generated_at": "2026-11-11T07:38:03.776Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 47,
+   "matching": 48,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Wholesale Credit Risk Sanctioning - LevFin - Analyst",
@@ -90,8 +90,21 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 13,
+   "matching": 15,
    "picks": [
+    {
+     "title": "\\Equity Research Analyst - CFA Level 1",
+     "company": "V2U Consultancy Services Pvt. Ltd.",
+     "location": "Delhi, India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493",
+     "score": 28,
+     "why": [
+      "Equity Research",
+      "Research Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Equity Research Analyst",
      "company": "Millennium",
@@ -104,26 +117,13 @@
       "Research Analyst"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Equity Research Analyst",
-     "company": "Simpledha",
-     "location": "Chennai, Tamil Nadu, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675",
-     "score": 26,
-     "why": [
-      "Equity Research",
-      "Research Analyst"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 25,
+   "matching": 27,
    "picks": [
     {
      "title": "Valuation /Private Equity/Mergers Acquisitions",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 8,
+   "matching": 10,
    "picks": [
     {
      "title": "Consultant-Finance Transformation Pune",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 14,
+   "matching": 16,
    "picks": [
     {
      "title": "Financial Analyst - Real Estate Underwriter",
@@ -1031,6 +1031,36 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
+  },
+  "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Post-Trade-Services---Risk-Analyst--India_34967-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051768": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051769": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-alaris-aerospace-systems-india-4489924280": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
   }
  }
 }
