@@ -224,5 +224,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-at-jpmorganchase-4489986133 | JPMorganChase | Associate - Financial Planning and Analysis | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-sandoz-india-4489993063 | Sandoz India | Finance Analyst | Telangana, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-private-equity-real-estate-at-mnc-4480850263 | MNC | Fund Accounting : Private Equity/ Real estate | Pune City, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-ib-pe-m-a-at-mavi-4482128750 | MAVI | FP&A - IB, PE, M&A | India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/team-member-treasury-corporate-finance-at-adani-ports-and-sez-4464475303 | Adani Ports and SEZ | Team Member - Treasury & Corporate Finance | Ahmedabad, Gujarat, India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed
