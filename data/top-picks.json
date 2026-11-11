@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T04:39:32.211Z",
+ "generated_at": "2026-11-11T05:38:43.412Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 44,
+   "matching": 47,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -156,29 +156,32 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 6,
+   "matching": 8,
    "picks": [
     {
-     "title": "Associate - Strategic Advisory (India Coverage)",
-     "company": "PJT Partners",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405",
-     "score": 10,
+     "title": "Consultant-Finance Transformation Pune",
+     "company": "KPMG India",
+     "location": "Pune, Maharashtra, India",
+     "posted": "2026-11-11",
+     "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754",
+     "score": 12,
      "why": [
-      "Advisory"
+      "Consultant",
+      "Transformation"
      ],
      "sponsor": null
     },
     {
-     "title": "Associate Consultant- M&A",
-     "company": "KPMG India",
-     "location": "Gurgaon, Haryana, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470",
-     "score": 9,
+     "title": "Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy",
+     "company": "Deloitte India",
+     "location": "Bengaluru",
+     "posted": null,
+     "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/",
+     "score": 12,
      "why": [
-      "Consultant"
+      "Consultant",
+      "Strategy",
+      "Transformation"
      ],
      "sponsor": null
     }
@@ -993,6 +996,21 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 10
+  },
+  "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

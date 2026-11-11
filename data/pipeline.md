@@ -182,4 +182,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246 | Cap Connect | Investment Banking Analyst | New Delhi, Delhi, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679 | Company | Associate - Credit Analysis + Hedge Funds | Mumbai, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
 
+- [ ] https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754 | KPMG India | Consultant-Finance Transformation Pune | Pune, Maharashtra, India | posted: 2026-11-11
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/ | Deloitte India | Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
+- [ ] https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690 | HDFC Bank | Corporate Dealer - TAG - Treasury | Hyderabad, Telangana, India | posted: 2026-11-10 | note: via LinkedIn
+
 ## Processed
