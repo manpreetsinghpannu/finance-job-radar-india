@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 01:17** (UK time) · **145 open roles** at 87 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 01:32** (UK time) · **145 open roles** at 87 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 01:16** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 11 Nov, 01:32** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Wed 11 Nov, 00:36** (3: Finance 1 · Credit 2); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 11 November
 
-<sub>Nothing new at: 01:16</sub>
+<sub>Nothing new at: 01:32, 01:16</sub>
 
 <details>
 <summary><b>00:36</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
