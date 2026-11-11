@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 03:36** (UK time) · **147 open roles** at 89 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 04:39** (UK time) · **149 open roles** at 90 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 03:36** · hourly scan · checked 99 boards · **2 new roles**
+**Wed 11 Nov, 04:36** · hourly scan · checked 99 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-heyev-4488647658) | HeyEV | New Delhi, Delhi, India |
+| 2026-11-11 | [Associate - Credit Analysis + Hedge Funds](https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679) | Company | Mumbai, Maharashtra, India |
 
 ### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544) | Cap Connect | New Delhi, Delhi, India |
+| 2026-11-11 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) | Cap Connect | New Delhi, Delhi, India |
 
 ## Top picks for each CV
 
@@ -33,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
 
-**Credit CV** (43 matching)
+**Credit CV** (44 matching)
 
 1. [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) · Bank of America · Mumbai Metropolitan Region · posted 2026-11-10
 2. [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) · EY · Mumbai
@@ -43,10 +43,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (23 matching)
+**Investment (IB / PE) CV** (24 matching)
 
 1. [Valuation /Private Equity/Mergers Acquisitions](https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461) · The HIRD · Bengaluru, Karnataka, India · posted 2026-11-10
-2. [Associate - SaT - National - SaT - TCF - Valuation - Mumbai](https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-valuation-mumbai-at-ey-4478258501) · EY · Mumbai, Maharashtra, India · posted 2026-11-09
+2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
 
 **Consulting CV** (6 matching)
 
@@ -68,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>04:36</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Associate - Credit Analysis + Hedge Funds](https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679) | Company | Mumbai, Maharashtra, India |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) | Cap Connect | New Delhi, Delhi, India |
+
+</details>
 
 <details>
 <summary><b>03:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
@@ -809,7 +826,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (44)](#finance-fpa-cv-44) · [Credit (44)](#credit-cv-44) · [Equity (8)](#equity-cv-8) · [Investment (22)](#investment-ib--pe-cv-22) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (44)](#finance-fpa-cv-44) · [Credit (45)](#credit-cv-45) · [Equity (8)](#equity-cv-8) · [Investment (23)](#investment-ib--pe-cv-23) · [Consulting (10)](#consulting-cv-10) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
 
 ### Finance (FP&A) CV: 44
 
@@ -860,11 +877,12 @@ Everything matched so far, newest first within each CV: [Finance (44)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 44
+### Credit CV: 45
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Credit Analyst_Support Services-Credit_New Delhi](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782) | Kotak Mahindra Bank | Delhi, India |
+| 2026-11-11 | [Associate - Credit Analysis + Hedge Funds](https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679) | Company | Mumbai, Maharashtra, India |
 | 2026-11-10 | [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) | Bank of America | Mumbai Metropolitan Region |
 | — | [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) | EY | Mumbai |
 | 2026-11-10 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-russell-investments-4478861109) | Russell Investments | Mumbai Metropolitan Region |
@@ -922,10 +940,11 @@ Everything matched so far, newest first within each CV: [Finance (44)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 22
+### Investment (IB / PE) CV: 23
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-11 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) | Cap Connect | New Delhi, Delhi, India |
 | 2026-11-11 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544) | Cap Connect | New Delhi, Delhi, India |
 | 2026-11-10 | [Valuation /Private Equity/Mergers Acquisitions](https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461) | The HIRD | Bengaluru, Karnataka, India |
 | 2026-11-10 | [Valuation Associate](https://www.linkedin.com/jobs/view/valuation-associate-4489428965) | valuer | Greater Chennai Area |

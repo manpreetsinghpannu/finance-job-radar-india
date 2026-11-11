@@ -179,5 +179,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-supplier-risk-analyst-tprm-operations-at-bnp-paribas-4489607120 | BNP Paribas | Associate - Supplier Risk Analyst - TPRM Operations | Tamil Nadu, India | posted: 2026-11-10 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-heyev-4488647658 | HeyEV | Financial Analyst | New Delhi, Delhi, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544 | Cap Connect | Investment Banking Associate | New Delhi, Delhi, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246 | Cap Connect | Investment Banking Analyst | New Delhi, Delhi, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679 | Company | Associate - Credit Analysis + Hedge Funds | Mumbai, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed

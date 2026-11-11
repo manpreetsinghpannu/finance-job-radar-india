@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T03:36:24.130Z",
+ "generated_at": "2026-11-11T04:39:32.211Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 43,
+   "matching": 44,
    "picks": [
     {
      "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 23,
+   "matching": 24,
    "picks": [
     {
      "title": "Valuation /Private Equity/Mergers Acquisitions",
@@ -140,14 +140,14 @@
      "sponsor": null
     },
     {
-     "title": "Associate - SaT - National - SaT - TCF - Valuation - Mumbai",
-     "company": "EY",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-valuation-mumbai-at-ey-4478258501",
-     "score": 16,
+     "title": "Investment Banking Analyst",
+     "company": "Cap Connect",
+     "location": "New Delhi, Delhi, India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246",
+     "score": 18,
      "why": [
-      "Valuation"
+      "Investment Banking"
      ],
      "sponsor": null
     }
@@ -983,6 +983,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
   }
  }
 }
