@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 17:56** (UK time) · **184 open roles** at 113 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 18:36** (UK time) · **184 open roles** at 113 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,21 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 17:55** · hourly scan · checked 99 boards · **4 new roles**
+**Wed 11 Nov, 18:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) | Bottomline | Bengaluru, Karnataka, India |
-| 2026-11-11 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-sandoz-india-4489993063) | Sandoz India | Telangana, India |
-| 2026-11-11 | [Associate - Financial Planning and Analysis](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-at-jpmorganchase-4489986133) | JPMorganChase | Bengaluru, Karnataka, India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Fund Accounting : Private Equity/ Real estate](https://www.linkedin.com/jobs/view/fund-accounting-private-equity-real-estate-at-mnc-4480850263) | MNC | Pune City, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Wed 11 Nov, 17:55** (4: Finance 3 · Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -70,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<sub>Nothing new at: 18:36</sub>
 
 <details>
 <summary><b>17:55</b> · hourly scan · <b>4 new</b> → Finance 3 · Investment 1</summary>
