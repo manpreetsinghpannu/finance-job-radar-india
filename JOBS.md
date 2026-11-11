@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 05:38** (UK time) · **152 open roles** at 91 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 06:36** (UK time) · **156 open roles** at 93 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,26 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 05:36** · hourly scan · checked 99 boards · **3 new roles**
+**Wed 11 Nov, 06:36** · hourly scan · checked 99 boards · **4 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-10 | [Corporate Dealer - TAG - Treasury](https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690) | HDFC Bank | Hyderabad, Telangana, India |
-
-### Consulting CV: 2
+### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) | KPMG India | Pune, Maharashtra, India |
-| — | [Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/) | Deloitte India | Bengaluru |
+| 2026-11-11 | [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
+| 2026-11-11 | [Credit Analyst - SME BWC](https://www.linkedin.com/jobs/view/credit-analyst-sme-bwc-at-standard-chartered-india-4488655744) | Standard Chartered India | Mumbai Metropolitan Region |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Technology Investment Banking Associate](https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143) | Outgrow Consulting Pvt Ltd. | Mumbai, Maharashtra, India |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Market Data Vendor Onboarding Associate, Investment Management](https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -34,17 +40,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
 
-**Credit CV** (44 matching)
+**Credit CV** (46 matching)
 
-1. [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) · Bank of America · Mumbai Metropolitan Region · posted 2026-11-10
-2. [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) · EY · Mumbai
+1. [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-11
+2. [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) · Bank of America · Mumbai Metropolitan Region · posted 2026-11-10
 
 **Equity CV** (13 matching)
 
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (24 matching)
+**Investment (IB / PE) CV** (25 matching)
 
 1. [Valuation /Private Equity/Mergers Acquisitions](https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461) · The HIRD · Bengaluru, Karnataka, India · posted 2026-11-10
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
@@ -69,6 +75,30 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>06:36</b> · hourly scan · <b>4 new</b> → Credit 2 · Investment 1 · Other 1</summary>
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
+| 2026-11-11 | [Credit Analyst - SME BWC](https://www.linkedin.com/jobs/view/credit-analyst-sme-bwc-at-standard-chartered-india-4488655744) | Standard Chartered India | Mumbai Metropolitan Region |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Technology Investment Banking Associate](https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143) | Outgrow Consulting Pvt Ltd. | Mumbai, Maharashtra, India |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Market Data Vendor Onboarding Associate, Investment Management](https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>05:36</b> · hourly scan · <b>3 new</b> → Finance 1 · Consulting 2</summary>
@@ -845,7 +875,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (45)](#finance-fpa-cv-45) · [Credit (45)](#credit-cv-45) · [Equity (8)](#equity-cv-8) · [Investment (23)](#investment-ib--pe-cv-23) · [Consulting (12)](#consulting-cv-12) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (6)](#other-fits-no-cv-closely-may-still-be-worth-a-look-6)
+Everything matched so far, newest first within each CV: [Finance (45)](#finance-fpa-cv-45) · [Credit (47)](#credit-cv-47) · [Equity (8)](#equity-cv-8) · [Investment (24)](#investment-ib--pe-cv-24) · [Consulting (12)](#consulting-cv-12) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
 
 ### Finance (FP&A) CV: 45
 
@@ -897,10 +927,12 @@ Everything matched so far, newest first within each CV: [Finance (45)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 45
+### Credit CV: 47
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-11 | [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
+| 2026-11-11 | [Credit Analyst - SME BWC](https://www.linkedin.com/jobs/view/credit-analyst-sme-bwc-at-standard-chartered-india-4488655744) | Standard Chartered India | Mumbai Metropolitan Region |
 | 2026-11-11 | [Credit Analyst_Support Services-Credit_New Delhi](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782) | Kotak Mahindra Bank | Delhi, India |
 | 2026-11-11 | [Associate - Credit Analysis + Hedge Funds](https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679) | Company | Mumbai, Maharashtra, India |
 | 2026-11-10 | [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) | Bank of America | Mumbai Metropolitan Region |
@@ -960,11 +992,12 @@ Everything matched so far, newest first within each CV: [Finance (45)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 23
+### Investment (IB / PE) CV: 24
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) | Cap Connect | New Delhi, Delhi, India |
+| 2026-11-11 | [Technology Investment Banking Associate](https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143) | Outgrow Consulting Pvt Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-11 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544) | Cap Connect | New Delhi, Delhi, India |
 | 2026-11-10 | [Valuation /Private Equity/Mergers Acquisitions](https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461) | The HIRD | Bengaluru, Karnataka, India |
 | 2026-11-10 | [Valuation Associate](https://www.linkedin.com/jobs/view/valuation-associate-4489428965) | valuer | Greater Chennai Area |
@@ -1028,10 +1061,11 @@ Everything matched so far, newest first within each CV: [Finance (45)](#finance-
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 | 2026-11-05 | [Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079) | BlackRock | Mumbai, India |
 
-### Other (fits no CV closely, may still be worth a look): 6
+### Other (fits no CV closely, may still be worth a look): 7
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-11 | [Market Data Vendor Onboarding Associate, Investment Management](https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |
 | 2026-11-08 | [Quantitative Researcher - Experienced Hires (India)](https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680) | Trexquant Investment LP | Gurugram, Haryana, India |

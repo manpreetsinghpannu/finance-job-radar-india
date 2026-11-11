@@ -186,4 +186,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/ | Deloitte India | Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
 - [ ] https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690 | HDFC Bank | Corporate Dealer - TAG - Treasury | Hyderabad, Telangana, India | posted: 2026-11-10 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1 | Barclays | Wholesale Credit Risk Sanctioning - LevFin - Analyst | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | posted: 2026-11-11
+- [ ] https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com | Morgan Stanley | Market Data Vendor Onboarding Associate, Investment Management | Mumbai, Maharashtra, India | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-sme-bwc-at-standard-chartered-india-4488655744 | Standard Chartered India | Credit Analyst - SME BWC | Mumbai Metropolitan Region | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143 | Outgrow Consulting Pvt Ltd. | Technology Investment Banking Associate | Mumbai, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
+
 ## Processed
