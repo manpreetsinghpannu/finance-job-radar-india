@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 16:47** (UK time) · **179 open roles** at 110 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 17:36** (UK time) · **180 open roles** at 111 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 16:44** · hourly scan · checked 99 boards · **2 new roles**
+**Wed 11 Nov, 17:36** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Financial Reporting Analyst](https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796) | UPS | Chennai, Tamil Nadu, India |
-
-### Credit CV: 1
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Structured Credit](https://www.linkedin.com/jobs/view/structured-credit-at-tipsons-group-4489942074) | Tipsons Group | Mumbai, Maharashtra, India |
+| 2026-11-11 | [Wells Fargo Investment Banking Analyst (Securities Research Associate)](https://www.linkedin.com/jobs/view/wells-fargo-investment-banking-analyst-securities-research-associate-at-wells-fargo-4489993145) | Wells Fargo | Greater Hyderabad Area |
 
 ## Top picks for each CV
 
@@ -38,12 +32,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) · CarCred · Raipur, Chhattisgarh, India · posted 2026-11-11
 2. [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-11
 
-**Equity CV** (16 matching)
+**Equity CV** (17 matching)
 
 1. [\Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-11
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (30 matching)
+**Investment (IB / PE) CV** (31 matching)
 
 1. [Valuation /Private Equity/Mergers Acquisitions](https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461) · The HIRD · Bengaluru, Karnataka, India · posted 2026-11-10
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>17:36</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Wells Fargo Investment Banking Analyst (Securities Research Associate)](https://www.linkedin.com/jobs/view/wells-fargo-investment-banking-analyst-securities-research-associate-at-wells-fargo-4489993145) | Wells Fargo | Greater Hyderabad Area |
+
+</details>
 
 <details>
 <summary><b>16:44</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
@@ -1021,7 +1026,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (56)](#finance-fpa-cv-56) · [Credit (53)](#credit-cv-53) · [Equity (9)](#equity-cv-9) · [Investment (28)](#investment-ib--pe-cv-28) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
+Everything matched so far, newest first within each CV: [Finance (56)](#finance-fpa-cv-56) · [Credit (53)](#credit-cv-53) · [Equity (9)](#equity-cv-9) · [Investment (29)](#investment-ib--pe-cv-29) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
 
 ### Finance (FP&A) CV: 56
 
@@ -1033,7 +1038,6 @@ Everything matched so far, newest first within each CV: [Finance (56)](#finance-
 | 2026-11-11 | [Corporate Finance Analyst](https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623) | JENOPTIK | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-gallagher-mohan-4482054940) | Gallagher & Mohan | Delhi, India |
 | 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4489006183) | Ironlight Markets | Greater Nagpur Area |
-| 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439) | Duruper | Hyderabad, Telangana, India |
 | 2026-11-11 | [Associate - Financial Planning and Analysis](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-11 | [FP&A Associate](https://www.linkedin.com/jobs/view/fp-a-associate-at-fnz-4488228200) | FNZ | Gurugram, Haryana, India |
 | 2026-11-11 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584) | Puma Energy | Mumbai Metropolitan Region |
@@ -1157,11 +1161,12 @@ Everything matched so far, newest first within each CV: [Finance (56)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 28
+### Investment (IB / PE) CV: 29
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) | Cap Connect | New Delhi, Delhi, India |
+| 2026-11-11 | [Wells Fargo Investment Banking Analyst (Securities Research Associate)](https://www.linkedin.com/jobs/view/wells-fargo-investment-banking-analyst-securities-research-associate-at-wells-fargo-4489993145) | Wells Fargo | Greater Hyderabad Area |
 | 2026-11-11 | [Technology Investment Banking Associate](https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143) | Outgrow Consulting Pvt Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-11 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544) | Cap Connect | New Delhi, Delhi, India |
 | 2026-11-11 | [Hiring Private Equity Accounting Professionals!](https://www.linkedin.com/jobs/view/hiring-private-equity-accounting-professionals%21-at-ss-c-technologies-4219655014) | SS&C Technologies | Navi Mumbai, Maharashtra, India |

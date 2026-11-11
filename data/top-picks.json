@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:47:48.462Z",
+ "generated_at": "2026-11-11T17:36:17.274Z",
  "order": [
   "finance",
   "credit",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 16,
+   "matching": 17,
    "picks": [
     {
      "title": "\\Equity Research Analyst - CFA Level 1",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Valuation /Private Equity/Mergers Acquisitions",
@@ -1147,6 +1147,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/wells-fargo-investment-banking-analyst-securities-research-associate-at-wells-fargo-4489993145": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }
