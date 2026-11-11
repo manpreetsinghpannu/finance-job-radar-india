@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 07:38** (UK time) · **162 open roles** at 97 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 08:28** (UK time) · **161 open roles** at 96 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,38 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 07:37** · hourly scan · checked 99 boards · **6 new roles**
+**Wed 11 Nov, 08:26** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-alaris-aerospace-systems-india-4489924280) | Alaris Aerospace Systems India | New Delhi, Delhi, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Post-Trade Services & Risk Analyst– India](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Post-Trade-Services---Risk-Analyst--India_34967-1) | CME Group | Bangalore - Bagmane Tridib |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [\Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
-
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Consultant - Portfolio Valuations (Equity Valuation)](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051769) | KPMG India | Gurgaon, Haryana, India |
-| 2026-11-11 | [Deals - Deal Valuation - Specialist - CS - G](https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656) | PwC India | Gurugram, Haryana, India |
-
-### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Portfolio Valuations_Associate Consultant](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051768) | KPMG India | Gurgaon, Haryana, India |
+Nothing new this time. The last scan that found something was **Wed 11 Nov, 07:37** (6: Finance 1 · Credit 1 · Equity 1 · Investment 2 · Consulting 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -77,7 +48,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - Real Estate Underwriter](https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442) · RHC India · Vadodara, Gujarat, India · posted 2026-11-10
 2. [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) · Bank of America · Mumbai Metropolitan Region · posted 2026-11-10
 
-**Fund CV (written for India; tweak the header for UK roles)** (11 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (10 matching)
 
 1. [Associate Executive - Fund Accounting](https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705) · IQ-EQ · Gandhinagar, Gujarat, India · posted 2026-11-10
 2. [Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL](https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129) · Synechron · Greater Hyderabad Area · posted 2026-11-10
@@ -87,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<sub>Nothing new at: 08:26</sub>
 
 <details>
 <summary><b>07:37</b> · hourly scan · <b>6 new</b> → Finance 1 · Credit 1 · Equity 1 · Investment 2 · Consulting 1</summary>
@@ -853,7 +826,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:01</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>27 new</b> → Finance 2 · Credit 15 · Equity 1 · Investment 2 · Real Estate 1 · Fund 5 · Other 1</summary>
+<summary><b>00:01</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>26 new</b> → Finance 2 · Credit 15 · Equity 1 · Investment 2 · Real Estate 1 · Fund 4 · Other 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -901,7 +874,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 
-#### Fund CV (written for India; tweak the header for UK roles): 5
+#### Fund CV (written for India; tweak the header for UK roles): 4
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -909,7 +882,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Associate, Fund Accounting (Public Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303) | Ares Management | Mumbai, India |
 | — | [Associate, Fund Accounting ( Strategic Partnership)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting---Strategic-Partnership-_R8560) | Ares Management | Mumbai, India |
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
-| 2026-11-05 | [Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079) | BlackRock | Mumbai, India |
 
 #### Other (fits no CV closely, may still be worth a look): 1
 
@@ -917,13 +889,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | — | [Quants](https://careers.nomura.com/Nomura/job/Mumbai-Quants-400076/1397978700/) | Nomura | Mumbai |
 
-<sub>140 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>141 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (46)](#finance-fpa-cv-46) · [Credit (48)](#credit-cv-48) · [Equity (9)](#equity-cv-9) · [Investment (26)](#investment-ib--pe-cv-26) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
+Everything matched so far, newest first within each CV: [Finance (46)](#finance-fpa-cv-46) · [Credit (48)](#credit-cv-48) · [Equity (9)](#equity-cv-9) · [Investment (26)](#investment-ib--pe-cv-26) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (8)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-8) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
 
 ### Finance (FP&A) CV: 46
 
@@ -1101,7 +1073,7 @@ Everything matched so far, newest first within each CV: [Finance (46)](#finance-
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 9
+### Fund CV (written for India; tweak the header for UK roles): 8
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1113,7 +1085,6 @@ Everything matched so far, newest first within each CV: [Finance (46)](#finance-
 | — | [Associate, Fund Accounting ( Strategic Partnership)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting---Strategic-Partnership-_R8560) | Ares Management | Mumbai, India |
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
-| 2026-11-05 | [Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079) | BlackRock | Mumbai, India |
 
 ### Other (fits no CV closely, may still be worth a look): 7
 
@@ -1130,10 +1101,11 @@ Everything matched so far, newest first within each CV: [Finance (46)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>16 roles taken off the list because the firm closed the posting</summary>
+<summary>17 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 11 Nov, 08:26 | Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions | BlackRock |
 | Tue 10 Nov, 19:36 | M&A Associate | Emergence |
 | Tue 10 Nov, 16:38 | Financial Analyst | S&P Global |
 | Tue 10 Nov, 16:36 | -Hiring Equity Research Analyst - CFA Level 1 | V2U Consultancy Services Pvt. Ltd. |

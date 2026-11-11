@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T07:38:03.776Z",
+ "generated_at": "2026-11-11T08:28:55.948Z",
  "order": [
   "finance",
   "credit",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 11,
+   "matching": 10,
    "picks": [
     {
      "title": "Associate Executive - Fund Accounting",
@@ -252,11 +252,6 @@
   }
  ],
  "assign": {
-  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267079": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 8
-  },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1": {
    "id": "credit",
    "cv": "Credit CV",
