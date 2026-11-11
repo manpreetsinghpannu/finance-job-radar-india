@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:36:33.762Z",
+ "generated_at": "2026-11-11T03:36:24.130Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 43,
+   "matching": 44,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -123,7 +123,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 22,
+   "matching": 23,
    "picks": [
     {
      "title": "Valuation /Private Equity/Mergers Acquisitions",
@@ -973,6 +973,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-heyev-4488647658": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

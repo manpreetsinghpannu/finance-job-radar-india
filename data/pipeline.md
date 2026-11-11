@@ -177,5 +177,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782 | Kotak Mahindra Bank | Credit Analyst_Support Services-Credit_New Delhi | Delhi, India | posted: 2026-11-11
 - [ ] https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055 | Oracle | Specialist Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-supplier-risk-analyst-tprm-operations-at-bnp-paribas-4489607120 | BNP Paribas | Associate - Supplier Risk Analyst - TPRM Operations | Tamil Nadu, India | posted: 2026-11-10 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-heyev-4488647658 | HeyEV | Financial Analyst | New Delhi, Delhi, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544 | Cap Connect | Investment Banking Associate | New Delhi, Delhi, India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed
