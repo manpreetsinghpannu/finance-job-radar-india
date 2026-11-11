@@ -624,5 +624,17 @@
  "https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656": {
   "status": "unknown",
   "checked_at": "2026-11-11T08:26:22Z"
+ },
+ "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299": {
+  "status": "live",
+  "checked_at": "2026-11-11T09:36:38Z"
+ },
+ "https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545": {
+  "status": "live",
+  "checked_at": "2026-11-11T09:36:38Z"
+ },
+ "https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895": {
+  "status": "live",
+  "checked_at": "2026-11-11T09:36:41Z"
  }
 }
