@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T19:39:36.535Z",
+ "generated_at": "2026-11-11T21:45:10.183Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 65,
+   "matching": 64,
    "picks": [
     {
      "title": "Corp FP&A - Financial Analyst",
@@ -1117,11 +1117,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 2
-  },
-  "https://www.linkedin.com/jobs/view/accountant-at-induckt-ventures-4488375433": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584": {
    "id": "finance",

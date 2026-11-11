@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 19:39** (UK time) · **186 open roles** at 115 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 21:45** (UK time) · **185 open roles** at 114 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 19:36** · hourly scan · checked 99 boards · **2 new roles**
+**Wed 11 Nov, 21:41** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [FP&A - IB, PE, M&A](https://www.linkedin.com/jobs/view/fp-a-ib-pe-m-a-at-mavi-4482128750) | MAVI | India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Team Member - Treasury & Corporate Finance](https://www.linkedin.com/jobs/view/team-member-treasury-corporate-finance-at-adani-ports-and-sez-4464475303) | Adani Ports and SEZ | Ahmedabad, Gujarat, India |
+Nothing new this time. The last scan that found something was **Wed 11 Nov, 19:36** (2: Finance 1 · Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (65 matching)
+**Finance (FP&A) CV** (64 matching)
 
 1. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
 2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<sub>Nothing new at: 21:41</sub>
 
 <details>
 <summary><b>19:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
@@ -155,14 +147,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>13:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+<summary><b>13:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584) | Puma Energy | Mumbai Metropolitan Region |
-| 2026-11-10 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-induckt-ventures-4488375433) | Induckt Ventures | North Delhi, Delhi, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1070,9 +1063,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (60)](#finance-fpa-cv-60) · [Credit (53)](#credit-cv-53) · [Equity (9)](#equity-cv-9) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
+Everything matched so far, newest first within each CV: [Finance (59)](#finance-fpa-cv-59) · [Credit (53)](#credit-cv-53) · [Equity (9)](#equity-cv-9) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
 
-### Finance (FP&A) CV: 60
+### Finance (FP&A) CV: 59
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1106,7 +1099,6 @@ Everything matched so far, newest first within each CV: [Finance (60)](#finance-
 | 2026-11-10 | [Specialist, FP&A](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915) | Invesco | Hyderabad, Telangana |
 | 2026-11-10 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841) | Lennox | Chennai, Tamil Nadu, India |
 | 2026-11-10 | [Corporate Dealer - TAG - Treasury](https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690) | HDFC Bank | Hyderabad, Telangana, India |
-| 2026-11-10 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-induckt-ventures-4488375433) | Induckt Ventures | North Delhi, Delhi, India |
 | 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
 | 2026-11-09 | [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) | Oracle | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Finance Analyst-Techno-Functional Financial Analyst – Finance, AI & Advanced Analytics - 6+yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-techno-functional-financial-analyst-%E2%80%93-finance-ai-advanced-analytics-6%2Byrs-exp-at-cisco-4472712125) | Cisco | Bengaluru, Karnataka, India |
@@ -1301,10 +1293,11 @@ Everything matched so far, newest first within each CV: [Finance (60)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>19 roles taken off the list because the firm closed the posting</summary>
+<summary>20 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 11 Nov, 21:44 | Accountant | Induckt Ventures |
 | Wed 11 Nov, 13:37 | Associate Treasury Forex and Liquidity Management | TerraPay |
 | Wed 11 Nov, 12:38 | Associate Executive - Fund Accounting | IQ-EQ |
 | Wed 11 Nov, 08:26 | Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions | BlackRock |
