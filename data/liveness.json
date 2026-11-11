@@ -299,15 +299,15 @@
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866": {
   "status": "live",
-  "checked_at": "2026-11-11T10:36:35Z"
+  "checked_at": "2026-11-11T13:37:19Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407": {
   "status": "live",
-  "checked_at": "2026-11-11T10:36:38Z"
+  "checked_at": "2026-11-11T13:37:22Z"
  },
  "https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818": {
   "status": "unknown",
-  "checked_at": "2026-11-11T10:36:42Z"
+  "checked_at": "2026-11-11T13:37:26Z"
  },
  "https://www.linkedin.com/jobs/view/hiring-equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4487637597": {
   "status": "closed",
@@ -499,7 +499,7 @@
  },
  "https://www.linkedin.com/jobs/view/credit-analyst-at-russell-investments-4478861109": {
   "status": "live",
-  "checked_at": "2026-11-11T10:36:31Z"
+  "checked_at": "2026-11-11T13:37:15Z"
  },
  "https://www.linkedin.com/jobs/view/financial-planning-analaysis-at-viraaj-hr-solutions-private-limited-4488347736": {
   "status": "live",
@@ -585,11 +585,11 @@
  },
  "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754": {
   "status": "live",
-  "checked_at": "2026-11-11T10:36:27Z"
+  "checked_at": "2026-11-11T13:37:09Z"
  },
  "https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690": {
   "status": "live",
-  "checked_at": "2026-11-11T10:36:28Z"
+  "checked_at": "2026-11-11T13:37:12Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1": {
   "status": "live",
@@ -629,15 +629,17 @@
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299": {
   "status": "live",
-  "checked_at": "2026-11-11T09:36:38Z"
+  "checked_at": "2026-11-11T13:37:02Z"
  },
  "https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545": {
   "status": "live",
-  "checked_at": "2026-11-11T09:36:38Z"
+  "checked_at": "2026-11-11T13:37:05Z"
  },
  "https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895": {
-  "status": "live",
-  "checked_at": "2026-11-11T09:36:41Z"
+  "status": "closed",
+  "checked_at": "2026-11-11T13:37:08Z",
+  "closed_at": "2026-11-11T13:37:08Z",
+  "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
  },
  "https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873": {
   "status": "live",
@@ -654,5 +656,29 @@
  "https://www.linkedin.com/jobs/view/consultant-business-valuation-at-kpmg-india-4462995406": {
   "status": "live",
   "checked_at": "2026-11-11T12:36:29Z"
+ },
+ "https://www.linkedin.com/jobs/view/fp-a-associate-at-fnz-4488228200": {
+  "status": "live",
+  "checked_at": "2026-11-11T13:36:44Z"
+ },
+ "https://www.linkedin.com/jobs/view/analyst-credit-analysis-at-first-citizens-india-4489949406": {
+  "status": "live",
+  "checked_at": "2026-11-11T13:36:47Z"
+ },
+ "https://www.linkedin.com/jobs/view/risk-analyst-at-swiss-re-4488683607": {
+  "status": "live",
+  "checked_at": "2026-11-11T13:36:51Z"
+ },
+ "https://www.linkedin.com/jobs/view/financial-analyst-at-gallagher-mohan-4482054940": {
+  "status": "live",
+  "checked_at": "2026-11-11T13:36:54Z"
+ },
+ "https://www.linkedin.com/jobs/view/fund-accountant-at-rrd-global-delivery-centers-4488696281": {
+  "status": "live",
+  "checked_at": "2026-11-11T13:36:58Z"
+ },
+ "https://www.linkedin.com/jobs/view/group-treasury-operations-specialist-emea-at-ubs-4488683443": {
+  "status": "live",
+  "checked_at": "2026-11-11T13:37:01Z"
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 12:38** (UK time) · **174 open roles** at 105 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 13:37** (UK time) · **175 open roles** at 106 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,34 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 12:36** · hourly scan · checked 99 boards · **6 new roles**
+**Wed 11 Nov, 13:36** · hourly scan · checked 99 boards · **2 new roles**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-gallagher-mohan-4482054940) | Gallagher & Mohan | Delhi, India |
-| 2026-11-11 | [FP&A Associate](https://www.linkedin.com/jobs/view/fp-a-associate-at-fnz-4488228200) | FNZ | Gurugram, Haryana, India |
-| 2026-11-11 | [Group Treasury Operations Specialist (EMEA)](https://www.linkedin.com/jobs/view/group-treasury-operations-specialist-emea-at-ubs-4488683443) | UBS | Hyderabad, Telangana, India |
-
-### Credit CV: 2
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Analyst - Credit Analysis](https://www.linkedin.com/jobs/view/analyst-credit-analysis-at-first-citizens-india-4489949406) | First Citizens India | Bengaluru, Karnataka, India |
-| 2026-11-11 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-swiss-re-4488683607) | Swiss Re | Bengaluru, Karnataka, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-rrd-global-delivery-centers-4488696281) | RRD Global Delivery Centers | Chennai, Tamil Nadu, India |
+| 2026-11-11 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584) | Puma Energy | Mumbai Metropolitan Region |
+| 2026-11-10 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-induckt-ventures-4488375433) | Induckt Ventures | North Delhi, Delhi, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (57 matching)
+**Finance (FP&A) CV** (58 matching)
 
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
@@ -77,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>13:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584) | Puma Energy | Mumbai Metropolitan Region |
+| 2026-11-10 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-induckt-ventures-4488375433) | Induckt Ventures | North Delhi, Delhi, India |
+
+</details>
 
 <details>
 <summary><b>12:36</b> · hourly scan · <b>6 new</b> → Finance 3 · Credit 2 · Fund 1</summary>
@@ -137,20 +135,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 09:36</sub>
 
 <details>
-<summary><b>09:19</b> · hourly scan · <b>3 new</b> → Finance 2 · Fund 1</summary>
+<summary><b>09:19</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Associate - Financial Planning and Analysis](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299) | JPMorgan Chase | Bengaluru, Karnataka, India |
-| 2026-11-11 | [Associate Treasury Forex and Liquidity Management](https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895) | TerraPay | Bengaluru, Karnataka, India |
 
 #### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Associate Accountant (Fund Administration)](https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545) | HC Global Fund Services, LLC | Borivali, Maharashtra, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -981,9 +980,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (53)](#finance-fpa-cv-53) · [Credit (52)](#credit-cv-52) · [Equity (9)](#equity-cv-9) · [Investment (27)](#investment-ib--pe-cv-27) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
+Everything matched so far, newest first within each CV: [Finance (54)](#finance-fpa-cv-54) · [Credit (52)](#credit-cv-52) · [Equity (9)](#equity-cv-9) · [Investment (27)](#investment-ib--pe-cv-27) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
 
-### Finance (FP&A) CV: 53
+### Finance (FP&A) CV: 54
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -994,8 +993,8 @@ Everything matched so far, newest first within each CV: [Finance (53)](#finance-
 | 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-gallagher-mohan-4482054940) | Gallagher & Mohan | Delhi, India |
 | 2026-11-11 | [Associate - Financial Planning and Analysis](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-11 | [FP&A Associate](https://www.linkedin.com/jobs/view/fp-a-associate-at-fnz-4488228200) | FNZ | Gurugram, Haryana, India |
+| 2026-11-11 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584) | Puma Energy | Mumbai Metropolitan Region |
 | 2026-11-11 | [Specialist Financial Analyst](https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055) | Oracle | Bengaluru, Karnataka, India |
-| 2026-11-11 | [Associate Treasury Forex and Liquidity Management](https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895) | TerraPay | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Group Treasury Operations Specialist (EMEA)](https://www.linkedin.com/jobs/view/group-treasury-operations-specialist-emea-at-ubs-4488683443) | UBS | Hyderabad, Telangana, India |
 | 2026-11-10 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-srv-media-4489420455) | SRV Media | Pune District, Maharashtra, India |
 | 2026-11-10 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4487444610) | GL and Associate Company | Bengaluru, Karnataka, India |
@@ -1011,6 +1010,7 @@ Everything matched so far, newest first within each CV: [Finance (53)](#finance-
 | 2026-11-10 | [Specialist, FP&A](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915) | Invesco | Hyderabad, Telangana |
 | 2026-11-10 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841) | Lennox | Chennai, Tamil Nadu, India |
 | 2026-11-10 | [Corporate Dealer - TAG - Treasury](https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690) | HDFC Bank | Hyderabad, Telangana, India |
+| 2026-11-10 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-induckt-ventures-4488375433) | Induckt Ventures | North Delhi, Delhi, India |
 | 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
 | 2026-11-09 | [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) | Oracle | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Finance Analyst-Techno-Functional Financial Analyst – Finance, AI & Advanced Analytics - 6+yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-techno-functional-financial-analyst-%E2%80%93-finance-ai-advanced-analytics-6%2Byrs-exp-at-cisco-4472712125) | Cisco | Bengaluru, Karnataka, India |
@@ -1200,10 +1200,11 @@ Everything matched so far, newest first within each CV: [Finance (53)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>18 roles taken off the list because the firm closed the posting</summary>
+<summary>19 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 11 Nov, 13:37 | Associate Treasury Forex and Liquidity Management | TerraPay |
 | Wed 11 Nov, 12:38 | Associate Executive - Fund Accounting | IQ-EQ |
 | Wed 11 Nov, 08:26 | Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions | BlackRock |
 | Tue 10 Nov, 19:36 | M&A Associate | Emergence |
