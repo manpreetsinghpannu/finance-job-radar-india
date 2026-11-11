@@ -220,5 +220,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796 | UPS | Financial Reporting Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/structured-credit-at-tipsons-group-4489942074 | Tipsons Group | Structured Credit | Mumbai, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/wells-fargo-investment-banking-analyst-securities-research-associate-at-wells-fargo-4489993145 | Wells Fargo | Wells Fargo Investment Banking Analyst (Securities Research Associate) | Greater Hyderabad Area | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637 | Bottomline | Corp FP&A - Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-at-jpmorganchase-4489986133 | JPMorganChase | Associate - Financial Planning and Analysis | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-sandoz-india-4489993063 | Sandoz India | Finance Analyst | Telangana, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-private-equity-real-estate-at-mnc-4480850263 | MNC | Fund Accounting : Private Equity/ Real estate | Pune City, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:36:17.274Z",
+ "generated_at": "2026-11-11T17:56:23.757Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 60,
+   "matching": 63,
    "picks": [
+    {
+     "title": "Corp FP&A - Financial Analyst",
+     "company": "Bottomline",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Financial Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Financial Planning & Analyst (FP&A)",
      "company": "Signode",
@@ -36,19 +49,6 @@
      "why": [
       "FP&A",
       "Financial Planning"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Financial Analyst 4 Corp FP&A",
-     "company": "Oracle",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993",
-     "score": 28,
-     "why": [
-      "FP&A",
-      "Financial Analyst"
      ],
      "sponsor": null
     }
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 17,
+   "matching": 18,
    "picks": [
     {
      "title": "\\Equity Research Analyst - CFA Level 1",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Valuation /Private Equity/Mergers Acquisitions",
@@ -191,7 +191,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 18,
+   "matching": 19,
    "picks": [
     {
      "title": "Financial Analyst - Real Estate Underwriter",
@@ -206,14 +206,14 @@
      "sponsor": null
     },
     {
-     "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
-     "company": "Bank of America",
-     "location": "Mumbai Metropolitan Region",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986",
-     "score": 13,
+     "title": "Fund Accounting : Private Equity/ Real estate",
+     "company": "MNC",
+     "location": "Pune City, Maharashtra, India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/fund-accounting-private-equity-real-estate-at-mnc-4480850263",
+     "score": 14,
      "why": [
-      "Lending"
+      "Real Estate"
      ],
      "sponsor": null
     }
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 12,
+   "matching": 13,
    "picks": [
     {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
@@ -1152,6 +1152,26 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-at-jpmorganchase-4489986133": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-sandoz-india-4489993063": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-private-equity-real-estate-at-mnc-4480850263": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
   }
  }
 }
