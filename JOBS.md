@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 00:39** (UK time) · **145 open roles** at 87 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 01:17** (UK time) · **145 open roles** at 87 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 00:36** · hourly scan · checked 99 boards · **3 new roles**
+**Wed 11 Nov, 01:16** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Specialist Financial Analyst](https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055) | Oracle | Bengaluru, Karnataka, India |
-
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Credit Analyst_Support Services-Credit_New Delhi](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782) | Kotak Mahindra Bank | Delhi, India |
-| 2026-11-10 | [Associate - Supplier Risk Analyst - TPRM Operations](https://www.linkedin.com/jobs/view/associate-supplier-risk-analyst-tprm-operations-at-bnp-paribas-4489607120) | BNP Paribas | Tamil Nadu, India |
+Nothing new this time. The last scan that found something was **Wed 11 Nov, 00:36** (3: Finance 1 · Credit 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -69,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<sub>Nothing new at: 01:16</sub>
 
 <details>
 <summary><b>00:36</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
