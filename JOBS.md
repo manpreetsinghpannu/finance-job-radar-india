@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 16:38** (UK time) · **179 open roles** at 110 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 16:47** (UK time) · **179 open roles** at 110 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,30 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 16:36** · hourly scan · checked 99 boards · **2 new roles**
+**Wed 11 Nov, 16:44** · hourly scan · checked 99 boards · **2 new roles**
 
-### Finance (FP&A) CV: 2
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439) | Duruper | Hyderabad, Telangana, India |
 | 2026-11-11 | [Financial Reporting Analyst](https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796) | UPS | Chennai, Tamil Nadu, India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Structured Credit](https://www.linkedin.com/jobs/view/structured-credit-at-tipsons-group-4489942074) | Tipsons Group | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (61 matching)
+**Finance (FP&A) CV** (60 matching)
 
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
 
-**Credit CV** (51 matching)
+**Credit CV** (52 matching)
 
 1. [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) · CarCred · Raipur, Chhattisgarh, India · posted 2026-11-11
 2. [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-11
@@ -65,14 +70,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 11 November
 
 <details>
-<summary><b>16:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+<summary><b>16:44</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439) | Duruper | Hyderabad, Telangana, India |
 | 2026-11-11 | [Financial Reporting Analyst](https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796) | UPS | Chennai, Tamil Nadu, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Structured Credit](https://www.linkedin.com/jobs/view/structured-credit-at-tipsons-group-4489942074) | Tipsons Group | Mumbai, Maharashtra, India |
 
 </details>
 
@@ -1011,9 +1021,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (57)](#finance-fpa-cv-57) · [Credit (52)](#credit-cv-52) · [Equity (9)](#equity-cv-9) · [Investment (28)](#investment-ib--pe-cv-28) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
+Everything matched so far, newest first within each CV: [Finance (56)](#finance-fpa-cv-56) · [Credit (53)](#credit-cv-53) · [Equity (9)](#equity-cv-9) · [Investment (28)](#investment-ib--pe-cv-28) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
 
-### Finance (FP&A) CV: 57
+### Finance (FP&A) CV: 56
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1075,7 +1085,7 @@ Everything matched so far, newest first within each CV: [Finance (57)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 52
+### Credit CV: 53
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1088,6 +1098,7 @@ Everything matched so far, newest first within each CV: [Finance (57)](#finance-
 | 2026-11-11 | [Analyst - Credit Analysis](https://www.linkedin.com/jobs/view/analyst-credit-analysis-at-first-citizens-india-4489949406) | First Citizens India | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-swiss-re-4488683607) | Swiss Re | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Associate - Credit Analysis + Hedge Funds](https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679) | Company | Mumbai, Maharashtra, India |
+| 2026-11-11 | [Structured Credit](https://www.linkedin.com/jobs/view/structured-credit-at-tipsons-group-4489942074) | Tipsons Group | Mumbai, Maharashtra, India |
 | 2026-11-10 | [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) | Bank of America | Mumbai Metropolitan Region |
 | — | [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) | EY | Mumbai |
 | 2026-11-10 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-russell-investments-4478861109) | Russell Investments | Mumbai Metropolitan Region |
