@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T23:36:19.967Z",
+ "generated_at": "2026-11-11T00:39:30.487Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 42,
+   "matching": 43,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 41,
+   "matching": 43,
    "picks": [
     {
      "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
@@ -957,6 +957,21 @@
   "https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/associate-supplier-risk-analyst-tprm-operations-at-bnp-paribas-4489607120": {
+   "id": "credit",
+   "cv": "Credit CV",
    "score": 12
   }
  }
