@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 11 Nov, 10:36** (UK time) · **166 open roles** at 100 firms · the radar checks every board about once an hour.
+Updated **Wed 11 Nov, 11:39** (UK time) · **169 open roles** at 102 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,26 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 11 Nov, 10:36** · hourly scan · checked 99 boards · **2 new roles**
+**Wed 11 Nov, 11:36** · hourly scan · checked 99 boards · **3 new roles**
 
-### Credit CV: 2
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-11 | [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) | CarCred | Raipur, Chhattisgarh, India |
-| 2026-11-11 | [Credit Analyst-FIG](https://careers.idfcfirst.bank.in/global/en/job/P-231313/Credit-Analyst-FIG) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
+| 2026-11-11 | [Analyst FP&A](https://www.linkedin.com/jobs/view/analyst-fp-a-at-tryst-iit-bombay-4488214440) | TRYST IIT Bombay | Mumbai Metropolitan Region |
+| 2026-11-11 | [Corporate Finance Analyst](https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623) | JENOPTIK | Bengaluru, Karnataka, India |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Consultant - Business Valuation](https://www.linkedin.com/jobs/view/consultant-business-valuation-at-kpmg-india-4462995406) | KPMG India | Gurgaon, Haryana, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (51 matching)
+**Finance (FP&A) CV** (53 matching)
 
 1. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 2. [Financial Analyst 4 Corp FP&A](https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993) · Oracle · Bengaluru, Karnataka, India · posted 2026-11-09
@@ -38,17 +44,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [\Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-11
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (27 matching)
+**Investment (IB / PE) CV** (29 matching)
 
 1. [Valuation /Private Equity/Mergers Acquisitions](https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461) · The HIRD · Bengaluru, Karnataka, India · posted 2026-11-10
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
 
-**Consulting CV** (10 matching)
+**Consulting CV** (11 matching)
 
 1. [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) · KPMG India · Pune, Maharashtra, India · posted 2026-11-11
 2. [Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/) · Deloitte India · Bengaluru
 
-**Real Estate CV** (17 matching)
+**Real Estate CV** (18 matching)
 
 1. [Financial Analyst - Real Estate Underwriter](https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442) · RHC India · Vadodara, Gujarat, India · posted 2026-11-10
 2. [Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India](https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986) · Bank of America · Mumbai Metropolitan Region · posted 2026-11-10
@@ -63,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 11 November
+
+<details>
+<summary><b>11:36</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Analyst FP&A](https://www.linkedin.com/jobs/view/analyst-fp-a-at-tryst-iit-bombay-4488214440) | TRYST IIT Bombay | Mumbai Metropolitan Region |
+| 2026-11-11 | [Corporate Finance Analyst](https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623) | JENOPTIK | Bengaluru, Karnataka, India |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Consultant - Business Valuation](https://www.linkedin.com/jobs/view/consultant-business-valuation-at-kpmg-india-4462995406) | KPMG India | Gurgaon, Haryana, India |
+
+</details>
 
 <details>
 <summary><b>10:36</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
@@ -932,14 +956,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (48)](#finance-fpa-cv-48) · [Credit (50)](#credit-cv-50) · [Equity (9)](#equity-cv-9) · [Investment (26)](#investment-ib--pe-cv-26) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
+Everything matched so far, newest first within each CV: [Finance (50)](#finance-fpa-cv-50) · [Credit (50)](#credit-cv-50) · [Equity (9)](#equity-cv-9) · [Investment (27)](#investment-ib--pe-cv-27) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
 
-### Finance (FP&A) CV: 48
+### Finance (FP&A) CV: 50
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-11 | [Analyst FP&A](https://www.linkedin.com/jobs/view/analyst-fp-a-at-tryst-iit-bombay-4488214440) | TRYST IIT Bombay | Mumbai Metropolitan Region |
 | 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-heyev-4488647658) | HeyEV | New Delhi, Delhi, India |
 | 2026-11-11 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-alaris-aerospace-systems-india-4489924280) | Alaris Aerospace Systems India | New Delhi, Delhi, India |
+| 2026-11-11 | [Corporate Finance Analyst](https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623) | JENOPTIK | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Associate - Financial Planning and Analysis](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Specialist Financial Analyst](https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055) | Oracle | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Associate Treasury Forex and Liquidity Management](https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895) | TerraPay | Bengaluru, Karnataka, India |
@@ -1056,7 +1082,7 @@ Everything matched so far, newest first within each CV: [Finance (48)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 26
+### Investment (IB / PE) CV: 27
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1064,6 +1090,7 @@ Everything matched so far, newest first within each CV: [Finance (48)](#finance-
 | 2026-11-11 | [Technology Investment Banking Associate](https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143) | Outgrow Consulting Pvt Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-11 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-cap-connect-4488648544) | Cap Connect | New Delhi, Delhi, India |
 | 2026-11-11 | [Consultant - Portfolio Valuations (Equity Valuation)](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051769) | KPMG India | Gurgaon, Haryana, India |
+| 2026-11-11 | [Consultant - Business Valuation](https://www.linkedin.com/jobs/view/consultant-business-valuation-at-kpmg-india-4462995406) | KPMG India | Gurgaon, Haryana, India |
 | 2026-11-11 | [Deals - Deal Valuation - Specialist - CS - G](https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656) | PwC India | Gurugram, Haryana, India |
 | 2026-11-10 | [Valuation /Private Equity/Mergers Acquisitions](https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461) | The HIRD | Bengaluru, Karnataka, India |
 | 2026-11-10 | [Valuation Associate](https://www.linkedin.com/jobs/view/valuation-associate-4489428965) | valuer | Greater Chennai Area |

@@ -204,5 +204,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://careers.idfcfirst.bank.in/global/en/job/P-231313/Credit-Analyst-FIG | IDFC FIRST Bank | Credit Analyst-FIG | Mumbai, Maharashtra, India | posted: 2026-11-11
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873 | CarCred | Credit Risk Analyst – Digital Lending | Raipur, Chhattisgarh, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623 | JENOPTIK | Corporate Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-fp-a-at-tryst-iit-bombay-4488214440 | TRYST IIT Bombay | Analyst FP&A | Mumbai Metropolitan Region | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/consultant-business-valuation-at-kpmg-india-4462995406 | KPMG India | Consultant - Business Valuation | Gurgaon, Haryana, India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed
