@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T15:39:54.839Z",
+ "generated_at": "2026-11-11T16:38:48.614Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 59,
+   "matching": 61,
    "picks": [
     {
      "title": "Financial Planning & Analyst (FP&A)",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 11,
+   "matching": 12,
    "picks": [
     {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
@@ -1137,6 +1137,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

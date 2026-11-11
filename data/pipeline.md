@@ -217,5 +217,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584 | Puma Energy | Treasury Analyst | Mumbai Metropolitan Region | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-4489006183 | Ironlight Markets | Financial Analyst | Greater Nagpur Area | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/hiring-private-equity-accounting-professionals%21-at-ss-c-technologies-4219655014 | SS&C Technologies | Hiring Private Equity Accounting Professionals! | Navi Mumbai, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439 | Duruper | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796 | UPS | Financial Reporting Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed
