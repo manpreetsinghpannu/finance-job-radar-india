@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T09:36:41.993Z",
+ "generated_at": "2026-11-11T10:36:42.362Z",
  "order": [
   "finance",
   "credit",
@@ -57,8 +57,22 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 47,
+   "matching": 49,
    "picks": [
+    {
+     "title": "Credit Risk Analyst – Digital Lending",
+     "company": "CarCred",
+     "location": "Raipur, Chhattisgarh, India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873",
+     "score": 32,
+     "why": [
+      "Credit Risk",
+      "Lending",
+      "Risk Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Wholesale Credit Risk Sanctioning - LevFin - Analyst",
      "company": "Barclays",
@@ -69,19 +83,6 @@
      "why": [
       "Credit Risk",
       "Wholesale Credit"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Analyst/Assistant Vice-President, Subsidiary Lending Group (SLG), Enterprise Credit, India",
-     "company": "Bank of America",
-     "location": "Mumbai Metropolitan Region",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/analyst-assistant-vice-president-subsidiary-lending-group-slg-enterprise-credit-india-at-bank-of-america-4472748986",
-     "score": 23,
-     "why": [
-      "Lending",
-      "Credit"
      ],
      "sponsor": null
     }
@@ -190,7 +191,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 16,
+   "matching": 17,
    "picks": [
     {
      "title": "Financial Analyst - Real Estate Underwriter",
@@ -1071,6 +1072,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://careers.idfcfirst.bank.in/global/en/job/P-231313/Credit-Analyst-FIG": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 32
   }
  }
 }

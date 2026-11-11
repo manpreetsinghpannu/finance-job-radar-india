@@ -202,4 +202,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545 | HC Global Fund Services, LLC | Associate Accountant (Fund Administration) | Borivali, Maharashtra, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-treasury-forex-and-liquidity-management-at-terrapay-4489907895 | TerraPay | Associate Treasury Forex and Liquidity Management | Bengaluru, Karnataka, India | posted: 2026-11-11 | note: via LinkedIn
 
+- [ ] https://careers.idfcfirst.bank.in/global/en/job/P-231313/Credit-Analyst-FIG | IDFC FIRST Bank | Credit Analyst-FIG | Mumbai, Maharashtra, India | posted: 2026-11-11
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873 | CarCred | Credit Risk Analyst – Digital Lending | Raipur, Chhattisgarh, India | posted: 2026-11-11 | note: via LinkedIn
+
 ## Processed
