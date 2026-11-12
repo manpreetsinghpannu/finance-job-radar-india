@@ -304,4 +304,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/analyst-2-financial-planning-analysis-at-newmark-4489255715 | Newmark | Analyst 2 - Financial Planning & Analysis | Hyderabad, Telangana, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/market-risk-officer-at-bnp-paribas-4490360717 | BNP Paribas | Market Risk Officer | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Analyst-II_261008652 | Citi | Credit Portfolio Analyst II | Mumbai Maharashtra India | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-abb-4490365454 | ABB | Financial Planning and Analysis Analyst | Bengaluru East, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-consulting-beyond-4489266565 | Consulting & Beyond | Corporate Finance Specialist | Chennai, Tamil Nadu, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-treasury-operations-investments-at-axa-xl-4490359931 | AXA XL | Associate - Treasury Operations, Investments | Gurugram, Haryana, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed
