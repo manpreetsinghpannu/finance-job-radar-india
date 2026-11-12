@@ -229,4 +229,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963 | Kotak Mahindra Bank | Credit Executive_Tractors and Farm Equipments (TFE)-Credit_Thane | Thane, Maharashtra, India | posted: 2026-11-12
 
+- [ ] https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Mumbai-MH-400028/1427139833/ | EY | Industrial Trainee - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai | Mumbai
+
 ## Processed
