@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T08:38:03.660Z",
+ "generated_at": "2026-11-12T09:41:07.172Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 66,
+   "matching": 68,
    "picks": [
     {
      "title": "Corp FP&A - Financial Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 59,
+   "matching": 60,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -125,22 +125,8 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 39,
+   "matching": 38,
    "picks": [
-    {
-     "title": "Valuation /Private Equity/Mergers Acquisitions",
-     "company": "The HIRD",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461",
-     "score": 34,
-     "why": [
-      "Mergers",
-      "Valuation",
-      "Private Equity"
-     ],
-     "sponsor": null
-    },
     {
      "title": "Investment Banking Analyst",
      "company": "Cap Connect",
@@ -150,6 +136,18 @@
      "score": 18,
      "why": [
       "Investment Banking"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Corporate Finance Analyst",
+     "company": "JENOPTIK",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623",
+     "score": 18,
+     "why": [
+      "Corporate Finance"
      ],
      "sponsor": null
     }
@@ -902,11 +900,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/valuation-private-equity-mergers-acquisitions-at-the-hird-4487487461": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 34
-  },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-at-alstom-4477092964": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1011,11 +1004,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 19
-  },
-  "https://www.linkedin.com/jobs/view/technology-investment-banking-associate-at-outgrow-consulting-pvt-ltd-4488674143": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
   },
   "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Post-Trade-Services---Risk-Analyst--India_34967-1": {
    "id": "credit",
@@ -1256,6 +1244,31 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-associate-c-si-middle-market-corporate-at-jpmorganchase-4440828991": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-at-wcc-investment-advisors-pvt-ltd-4489087488": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

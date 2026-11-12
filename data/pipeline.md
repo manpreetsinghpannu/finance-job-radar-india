@@ -251,5 +251,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674471-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-12
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537 | ecH-aaR Manpower Solutions | Credit Analyst - Working Capital | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955 | One Paper | TECHNICAL RESEARCH ANALYST-Intraday Trading | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536 | Deloitte | Specialist, Financial Planning and Analysis-Hyderabad | Hyderabad, Telangana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-associate-c-si-middle-market-corporate-at-jpmorganchase-4440828991 | JPMorganChase | Credit Risk Associate - C&SI Middle Market Corporate | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-wcc-investment-advisors-pvt-ltd-4489087488 | WCC Investment Advisors Pvt. Ltd. | Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052 | Treelife | Finance Associate - Due Diligence (CA only) | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388 | JPMorganChase | Valuation Controller - Anayst | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 
 ## Processed
