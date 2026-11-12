@@ -266,4 +266,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680 | StoneX Group Inc. | Associate - Treasury | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/specialist-treasury-at-stonex-group-inc-4466913370 | StoneX Group Inc. | Specialist - Treasury | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://jobs.bt.com/job/Financial-Planning-Analysis-Analyst/64569-en_GB | BT Group | Financial Planning & Analysis Analyst | Gurugram IQ, Gurugram, India, | posted: 2026-11-12
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808225 | JPMorgan Chase | Commercial & Investment Bank Risk Associate | Bengaluru, Karnataka, India | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/associate-consultant-debt-at-kpmg-india-4472328250 | KPMG India | Associate Consultant - Debt | Gurgaon, Haryana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-pms-aif-club-4489095878 | PMS AIF Club | Research Analyst | Gurugram, Haryana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961 | PwC Acceleration Center India | Assurance - Financial Market – Real Estate Valuation – Associate | Bengaluru East, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-csc-4488522065 | CSC | Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-analyst2-c10-at-citi-4489203496 | Citi | Fund Accounting Analyst2 - C10 | Pune Division, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

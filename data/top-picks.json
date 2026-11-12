@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:40:19.185Z",
+ "generated_at": "2026-11-12T11:37:58.683Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 73,
+   "matching": 75,
    "picks": [
     {
      "title": "Corp FP&A - Financial Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 61,
+   "matching": 63,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 19,
+   "matching": 20,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 38,
+   "matching": 39,
    "picks": [
     {
      "title": "Investment Banking Analyst",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 15,
+   "matching": 16,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -188,8 +188,21 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 19,
+   "matching": 20,
    "picks": [
+    {
+     "title": "Assurance - Financial Market – Real Estate Valuation – Associate",
+     "company": "PwC Acceleration Center India",
+     "location": "Bengaluru East, Karnataka, India",
+     "posted": "2026-11-12",
+     "url": "https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961",
+     "score": 19,
+     "why": [
+      "Real Estate",
+      "Valuation"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Financial Analyst - Real Estate Underwriter",
      "company": "RHC India",
@@ -201,25 +214,13 @@
       "Real Estate"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Fund Accounting : Private Equity/ Real estate",
-     "company": "MNC",
-     "location": "Pune City, Maharashtra, India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/fund-accounting-private-equity-real-estate-at-mnc-4480850263",
-     "score": 14,
-     "why": [
-      "Real Estate"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 14,
+   "matching": 16,
    "picks": [
     {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
@@ -1304,6 +1305,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 2
+  },
+  "https://jobs.bt.com/job/Financial-Planning-Analysis-Analyst/64569-en_GB": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808225": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/associate-consultant-debt-at-kpmg-india-4472328250": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-at-pms-aif-club-4489095878": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-csc-4488522065": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-analyst2-c10-at-citi-4489203496": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }
