@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 05:41** (UK time) · **190 open roles** at 115 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 06:40** (UK time) · **192 open roles** at 117 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,45 +10,39 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 05:37** · hourly scan · checked 99 boards · **4 new roles**
+**Thu 12 Nov, 06:37** · hourly scan · checked 99 boards · **3 new roles**
 
 ### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-12 | [Financial Analyst( Fund Accountant)](https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876) | ONE BCG - ONE Business Consulting Group | Mohali district, India |
-| 2026-11-12 | [FP&A SME (Finance Transformation & Digital Products)](https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1) | Unilever | Uniops Bangalore Centre |
+| 2026-11-11 | [Transfer pricing Analyst](https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069) | Numerator | Vadodara, Gujarat, India |
+| 2026-11-12 | [Treasury Operations](https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064) | Alpha Alternatives | Mumbai, Maharashtra, India |
 
 ### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-12 | [Quantitative Analytics Market Risk Modeler](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779) | News Capital Market | Ahmedabad, Gujarat, India |
+| 2026-11-12 | [Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115) | Tata Capital | Sarapaka, Telangana, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (64 matching)
+**Finance (FP&A) CV** (66 matching)
 
 1. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
 2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 
-**Credit CV** (55 matching)
+**Credit CV** (56 matching)
 
 1. [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) · CarCred · Raipur, Chhattisgarh, India · posted 2026-11-11
 2. [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) · Barclays · Mumbai, Nirlon Knowledge Park (BX) 9th & · posted 2026-11-11
 
-**Equity CV** (19 matching)
+**Equity CV** (18 matching)
 
-1. [\Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493) · V2U Consultancy Services Pvt. Ltd. · Delhi, India · posted 2026-11-11
-2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
+1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
+2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
 
 **Investment (IB / PE) CV** (35 matching)
 
@@ -75,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>06:37</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-11 | [Transfer pricing Analyst](https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069) | Numerator | Vadodara, Gujarat, India |
+| 2026-11-12 | [Treasury Operations](https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064) | Alpha Alternatives | Mumbai, Maharashtra, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115) | Tata Capital | Sarapaka, Telangana, India |
+
+</details>
 
 <details>
 <summary><b>05:37</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Equity 1</summary>
@@ -317,7 +329,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 08:36, 08:26</sub>
 
 <details>
-<summary><b>07:37</b> · hourly scan · <b>6 new</b> → Finance 1 · Credit 1 · Equity 1 · Investment 2 · Consulting 1</summary>
+<summary><b>07:37</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 1 · Investment 2 · Consulting 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -331,12 +343,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-11 | [Post-Trade Services & Risk Analyst– India](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Post-Trade-Services---Risk-Analyst--India_34967-1) | CME Group | Bangalore - Bagmane Tridib |
 
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [\Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
-
 #### Investment (IB / PE) CV: 2
 
 | Posted | Role | Firm | Location |
@@ -349,6 +355,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Portfolio Valuations_Associate Consultant](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051768) | KPMG India | Gurgaon, Haryana, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1142,14 +1150,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (59)](#finance-fpa-cv-59) · [Credit (56)](#credit-cv-56) · [Equity (10)](#equity-cv-10) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (8)](#other-fits-no-cv-closely-may-still-be-worth-a-look-8)
+Everything matched so far, newest first within each CV: [Finance (61)](#finance-fpa-cv-61) · [Credit (57)](#credit-cv-57) · [Equity (9)](#equity-cv-9) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (8)](#other-fits-no-cv-closely-may-still-be-worth-a-look-8)
 
-### Finance (FP&A) CV: 59
+### Finance (FP&A) CV: 61
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [Financial Analyst( Fund Accountant)](https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876) | ONE BCG - ONE Business Consulting Group | Mohali district, India |
 | 2026-11-12 | [FP&A SME (Finance Transformation & Digital Products)](https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1) | Unilever | Uniops Bangalore Centre |
+| 2026-11-12 | [Treasury Operations](https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064) | Alpha Alternatives | Mumbai, Maharashtra, India |
 | 2026-11-11 | [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) | Bottomline | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Analyst FP&A](https://www.linkedin.com/jobs/view/analyst-fp-a-at-tryst-iit-bombay-4488214440) | TRYST IIT Bombay | Mumbai Metropolitan Region |
 | 2026-11-11 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-heyev-4488647658) | HeyEV | New Delhi, Delhi, India |
@@ -1164,6 +1173,7 @@ Everything matched so far, newest first within each CV: [Finance (59)](#finance-
 | 2026-11-11 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-puma-energy-4471399584) | Puma Energy | Mumbai Metropolitan Region |
 | 2026-11-11 | [Specialist Financial Analyst](https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055) | Oracle | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Financial Reporting Analyst](https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796) | UPS | Chennai, Tamil Nadu, India |
+| 2026-11-11 | [Transfer pricing Analyst](https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069) | Numerator | Vadodara, Gujarat, India |
 | 2026-11-11 | [Group Treasury Operations Specialist (EMEA)](https://www.linkedin.com/jobs/view/group-treasury-operations-specialist-emea-at-ubs-4488683443) | UBS | Hyderabad, Telangana, India |
 | 2026-11-10 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-srv-media-4489420455) | SRV Media | Pune District, Maharashtra, India |
 | 2026-11-10 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4487444610) | GL and Associate Company | Bengaluru, Karnataka, India |
@@ -1208,11 +1218,12 @@ Everything matched so far, newest first within each CV: [Finance (59)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 56
+### Credit CV: 57
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [Credit Executive_Tractors and Farm Equipments (TFE)-Credit_Thane](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963) | Kotak Mahindra Bank | Thane, Maharashtra, India |
+| 2026-11-12 | [Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115) | Tata Capital | Sarapaka, Telangana, India |
 | — | [Industrial Trainee - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai](https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Mumbai-MH-400028/1427139833/) | EY | Mumbai |
 | 2026-11-12 | [Quantitative Analytics Market Risk Modeler](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
 | 2026-11-11 | [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) | CarCred | Raipur, Chhattisgarh, India |
@@ -1269,12 +1280,11 @@ Everything matched so far, newest first within each CV: [Finance (59)](#finance-
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 10
+### Equity CV: 9
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779) | News Capital Market | Ahmedabad, Gujarat, India |
-| 2026-11-11 | [\Equity Research Analyst - CFA Level 1](https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493) | V2U Consultancy Services Pvt. Ltd. | Delhi, India |
 | 2026-11-10 | [Junior Research Associate](https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943) | Franklin Templeton | Mumbai Metropolitan Region |
 | 2026-11-10 | [Research Associate (India)](https://www.linkedin.com/jobs/view/research-associate-india-at-alliancebernstein-4480258651) | AllianceBernstein | Mumbai Metropolitan Region |
 | 2026-11-09 | [HOLT Production & Model Research Analyst](https://www.linkedin.com/jobs/view/holt-production-model-research-analyst-at-ubs-4487947088) | UBS | Hyderabad, Telangana, India |
@@ -1377,10 +1387,11 @@ Everything matched so far, newest first within each CV: [Finance (59)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>22 roles taken off the list because the firm closed the posting</summary>
+<summary>23 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 12 Nov, 06:38 | \Equity Research Analyst - CFA Level 1 | V2U Consultancy Services Pvt. Ltd. |
 | Thu 12 Nov, 05:40 | Financial Analyst | Ironlight Markets |
 | Thu 12 Nov, 05:37 | Financial Planning & Analaysis | Viraaj HR Solutions Private Limited |
 | Wed 11 Nov, 21:44 | Accountant | Induckt Ventures |

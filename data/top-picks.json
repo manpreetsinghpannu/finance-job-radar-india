@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T05:41:19.880Z",
+ "generated_at": "2026-11-12T06:40:23.151Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 64,
+   "matching": 66,
    "picks": [
     {
      "title": "Corp FP&A - Financial Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 55,
+   "matching": 56,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -91,15 +91,15 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 19,
+   "matching": 18,
    "picks": [
     {
-     "title": "\\Equity Research Analyst - CFA Level 1",
-     "company": "V2U Consultancy Services Pvt. Ltd.",
-     "location": "Delhi, India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493",
-     "score": 28,
+     "title": "Equity Research Analyst",
+     "company": "Millennium",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-07",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347",
+     "score": 26,
      "why": [
       "Equity Research",
       "Research Analyst"
@@ -108,10 +108,10 @@
     },
     {
      "title": "Equity Research Analyst",
-     "company": "Millennium",
-     "location": "Bengaluru, Karnataka, India",
+     "company": "Simpledha",
+     "location": "Chennai, Tamil Nadu, India",
      "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675",
      "score": 26,
      "why": [
       "Equity Research",
@@ -1038,11 +1038,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-cfa-level-1-at-v2u-consultancy-services-pvt-ltd-4489430493": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 28
-  },
   "https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -1202,6 +1197,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 22
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }

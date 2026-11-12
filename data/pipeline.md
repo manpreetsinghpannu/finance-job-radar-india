@@ -238,4 +238,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779 | News Capital Market | Research Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876 | ONE BCG - ONE Business Consulting Group | Financial Analyst( Fund Accountant) | Mohali district, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115 | Tata Capital | Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades | Sarapaka, Telangana, India | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069 | Numerator | Transfer pricing Analyst | Vadodara, Gujarat, India | posted: 2026-11-11 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064 | Alpha Alternatives | Treasury Operations | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed
