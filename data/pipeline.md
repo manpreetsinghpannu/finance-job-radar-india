@@ -244,4 +244,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-associate-ca-at-corenza-4490096731 | Corenza | Credit Associate - CA | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592 | MatchPoint | Strategy Consultant | India | posted: 2026-11-11 | note: via LinkedIn
 
+- [ ] https://careers.ey.com/ey/job/Mumbai-Associate-SaT-TMT-SaT-TCF-M&A-Advisory-Mumbai-MH-400028/1456692633/ | EY | Associate - SaT - TMT - SaT - TCF - M&A Advisory - Mumbai | Mumbai
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196 | JPMorgan Chase | Wholesale Credit Risk Associate | Mumbai, Maharashtra, India | posted: 2026-11-12
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674472-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-12
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674473-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-12
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674471-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537 | ecH-aaR Manpower Solutions | Credit Analyst - Working Capital | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955 | One Paper | TECHNICAL RESEARCH ANALYST-Intraday Trading | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T07:38:19.096Z",
+ "generated_at": "2026-11-12T08:16:57.800Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 57,
+   "matching": 59,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -74,15 +74,16 @@
      "sponsor": null
     },
     {
-     "title": "Wholesale Credit Risk Sanctioning - LevFin - Analyst",
-     "company": "Barclays",
-     "location": "Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor",
-     "posted": "2026-11-11",
-     "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1",
-     "score": 29,
+     "title": "Wholesale Credit Risk Associate",
+     "company": "JPMorgan Chase",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-12",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196",
+     "score": 30,
      "why": [
       "Credit Risk",
-      "Wholesale Credit"
+      "Wholesale Credit",
+      "Risk Associate"
      ],
      "sponsor": null
     }
@@ -91,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 18,
+   "matching": 19,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -124,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 35,
+   "matching": 39,
    "picks": [
     {
      "title": "Valuation /Private Equity/Mergers Acquisitions",
@@ -157,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 14,
+   "matching": 15,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -1220,6 +1221,41 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 14
+  },
+  "https://careers.ey.com/ey/job/Mumbai-Associate-SaT-TMT-SaT-TCF-M&A-Advisory-Mumbai-MH-400028/1456692633/": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 30
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674472-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674473-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674471-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
   }
  }
 }
