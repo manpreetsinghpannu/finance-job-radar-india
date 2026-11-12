@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-12T13:37:39.743Z",
+  "finished_at": "2026-11-12T14:39:57.044Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 41412,
-  "filtered_out": 41341,
-  "new_matches": 0,
-  "boards_failed": 4,
+  "postings_seen": 42590,
+  "filtered_out": 42506,
+  "new_matches": 8,
+  "boards_failed": 3,
   "failed": [
     {
       "company": "Societe Generale",
@@ -17,10 +17,6 @@
     {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Deloitte India",
-      "error": "This operation was aborted"
     },
     {
       "company": "Walmart Global Tech",

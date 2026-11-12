@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T13:37:39.212Z",
+ "generated_at": "2026-11-12T14:39:56.555Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 67,
+   "matching": 70,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 20,
+   "matching": 22,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 41,
+   "matching": 42,
    "picks": [
     {
      "title": "Investment Banking Analyst",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 16,
+   "matching": 17,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -640,11 +640,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1": {
    "id": "investment",
@@ -1380,6 +1375,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Product-Control-Financial-reporting_JR-0000131990": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/credit-research-banking-analyst-at-acuity-analytics-4480033723": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-executive-at-vinmar-international-4472115447": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/business-risk-analyst-supply-chain-finance-at-idfc-first-bank-4471999589": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/product-research-analyst-at-evoke-hr-solutions-pvt-ltd-4490325935": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/institutional-equity-research-at-bajaj-broking-4488516657": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-india-4490342228": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
   }
  }
 }

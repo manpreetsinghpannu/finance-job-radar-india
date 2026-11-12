@@ -286,4 +286,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Capital-Markets-Operations-Associate_AIOC-S01674582 | Accenture | Capital Markets Operations Associate | Mumbai | posted: 2026-11-12
 - [ ] https://www.linkedin.com/jobs/view/analyst-controlling-finance-business-partner-at-harman-india-4488507879 | HARMAN India | Analyst-Controlling (Finance Business Partner) | Pimpri Chinchwad, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Product-Control-Financial-reporting_JR-0000131990 | Barclays | Analyst - Product Control Financial reporting | Chennai, DLF IT Park | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/credit-research-banking-analyst-at-acuity-analytics-4480033723 | Acuity Analytics | Credit Research - Banking Analyst | Pune Division, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-executive-at-vinmar-international-4472115447 | Vinmar International | Credit Executive | Mumbai Metropolitan Region | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-risk-analyst-supply-chain-finance-at-idfc-first-bank-4471999589 | IDFC FIRST Bank | Business Risk Analyst - Supply Chain Finance | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/product-research-analyst-at-evoke-hr-solutions-pvt-ltd-4490325935 | Evoke HR Solutions Pvt. Ltd. | PRODUCT & RESEARCH ANALYST | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/institutional-equity-research-at-bajaj-broking-4488516657 | Bajaj Broking | Institutional Equity Research | Mumbai Metropolitan Region | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/cfa-equity-research-analyst-international-report-experience-technical-analysis-must-ctc-upto-40-k-pm-at-v2u-consultancy-services-pvt-ltd-4489251504 | V2U Consultancy Services Pvt. Ltd. | CFA- Equity Research Analyst- International Report Experience | Technical Analysis Must- CTC- Upto 40 K PM | Noida, Uttar Pradesh, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-india-4490342228 | PwC India | IN_Associate_FDD_Transaction Services_Advisory_Bangalore | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed
