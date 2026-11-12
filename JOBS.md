@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 17:47** (UK time) · **243 open roles** at 138 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 18:38** (UK time) · **247 open roles** at 139 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,35 +10,30 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 17:44** · hourly scan · checked 99 boards · **4 new roles**
+**Thu 12 Nov, 18:37** · hourly scan · checked 99 boards · **4 new roles**
 
 ### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-12 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-abb-4490365454) | ABB | Bengaluru East, Karnataka, India |
-| 2026-11-12 | [Associate - Treasury Operations, Investments](https://www.linkedin.com/jobs/view/associate-treasury-operations-investments-at-axa-xl-4490359931) | AXA XL | Gurugram, Haryana, India |
+| 2026-11-12 | [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) | Cisco | Bengaluru, Karnataka, India |
+| 2026-11-12 | [Analyst, Treasury Operations](https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963) | Ciena | Gurugram, Haryana, India |
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Credit Portfolio Analyst II](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Analyst-II_261008652) | Citi | Mumbai Maharashtra India |
-
-### Investment (IB / PE) CV: 1
+### Consulting CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-12 | [Corporate Finance Specialist](https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-consulting-beyond-4489266565) | Consulting & Beyond | Chennai, Tamil Nadu, India |
+| — | [Consultant / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/61267244/) | Deloitte India | Ahmedabad |
+| 2026-11-12 | [IN_Specialist 2_ Financial Modelling_Valuations_Advisory_ Hyderabad](https://www.linkedin.com/jobs/view/in-specialist-2-financial-modelling-valuations-advisory-hyderabad-at-pwc-india-4490399518) | PwC India | Greater Hyderabad Area |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (82 matching)
+**Finance (FP&A) CV** (85 matching)
 
-1. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
-2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
+1. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
+2. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
 
 **Credit CV** (74 matching)
 
@@ -55,7 +50,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) · CoKaCo · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
 
-**Consulting CV** (19 matching)
+**Consulting CV** (21 matching)
 
 1. [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) · MatchPoint · India · posted 2026-11-11
 2. [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) · KPMG India · Pune, Maharashtra, India · posted 2026-11-11
@@ -75,6 +70,25 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>18:37</b> · hourly scan · <b>4 new</b> → Finance 2 · Consulting 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) | Cisco | Bengaluru, Karnataka, India |
+| 2026-11-12 | [Analyst, Treasury Operations](https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963) | Ciena | Gurugram, Haryana, India |
+
+#### Consulting CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/61267244/) | Deloitte India | Ahmedabad |
+| 2026-11-12 | [IN_Specialist 2_ Financial Modelling_Valuations_Advisory_ Hyderabad](https://www.linkedin.com/jobs/view/in-specialist-2-financial-modelling-valuations-advisory-hyderabad-at-pwc-india-4490399518) | PwC India | Greater Hyderabad Area |
+
+</details>
 
 <details>
 <summary><b>17:44</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Investment 1</summary>
@@ -1453,12 +1467,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (73)](#finance-fpa-cv-73) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (38)](#investment-ib--pe-cv-38) · [Consulting (16)](#consulting-cv-16) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
+Everything matched so far, newest first within each CV: [Finance (75)](#finance-fpa-cv-75) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (38)](#investment-ib--pe-cv-38) · [Consulting (18)](#consulting-cv-18) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
 
-### Finance (FP&A) CV: 73
+### Finance (FP&A) CV: 75
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-12 | [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) | Cisco | Bengaluru, Karnataka, India |
 | 2026-11-12 | [FP&A SME (Finance Transformation & Digital Products)](https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1) | Unilever | Uniops Bangalore Centre |
 | 2026-11-12 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-imi-4473548161) | IMI | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4488505244) | Mythri Hospital | Hyderabad, Telangana, India |
@@ -1469,6 +1484,7 @@ Everything matched so far, newest first within each CV: [Finance (73)](#finance-
 | 2026-11-12 | [Analyst - Product Control Financial reporting](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Product-Control-Financial-reporting_JR-0000131990) | Barclays | Chennai, DLF IT Park |
 | 2026-11-12 | [AO/ANALYST TREASURY](https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109) | AllianceBernstein | Pune Division, Maharashtra, India |
 | 2026-11-12 | [Product Control Valuations -Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
+| 2026-11-12 | [Analyst, Treasury Operations](https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963) | Ciena | Gurugram, Haryana, India |
 | 2026-11-12 | [Finance Associate - Due Diligence (CA only)](https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052) | Treelife | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Treasury Operations](https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064) | Alpha Alternatives | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Associate - Treasury](https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680) | StoneX Group Inc. | Bengaluru, Karnataka, India |
@@ -1676,12 +1692,14 @@ Everything matched so far, newest first within each CV: [Finance (73)](#finance-
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 16
+### Consulting CV: 18
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/) | Deloitte India | Bengaluru |
 | — | [Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/) | Deloitte India | Bengaluru |
+| — | [Consultant / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/61267244/) | Deloitte India | Ahmedabad |
+| 2026-11-12 | [IN_Specialist 2_ Financial Modelling_Valuations_Advisory_ Hyderabad](https://www.linkedin.com/jobs/view/in-specialist-2-financial-modelling-valuations-advisory-hyderabad-at-pwc-india-4490399518) | PwC India | Greater Hyderabad Area |
 | 2026-11-11 | [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) | MatchPoint | India |
 | 2026-11-11 | [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) | KPMG India | Pune, Maharashtra, India |
 | — | [Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/) | Deloitte India | Bengaluru |

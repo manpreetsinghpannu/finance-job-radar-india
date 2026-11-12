@@ -309,4 +309,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-consulting-beyond-4489266565 | Consulting & Beyond | Corporate Finance Specialist | Chennai, Tamil Nadu, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-treasury-operations-investments-at-axa-xl-4490359931 | AXA XL | Associate - Treasury Operations, Investments | Gurugram, Haryana, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/61267244/ | Deloitte India | Consultant / Onestream: All / Ahmedabad / Finance Transformation / Business Finance | Ahmedabad
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000 | Cisco | Finance Analyst- CA, FP&A -1-2yrs exp | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/in-specialist-2-financial-modelling-valuations-advisory-hyderabad-at-pwc-india-4490399518 | PwC India | IN_Specialist 2_ Financial Modelling_Valuations_Advisory_ Hyderabad | Greater Hyderabad Area | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963 | Ciena | Analyst, Treasury Operations | Gurugram, Haryana, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

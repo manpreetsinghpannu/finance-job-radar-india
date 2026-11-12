@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:47:44.771Z",
+ "generated_at": "2026-11-12T18:38:20.338Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 82,
+   "matching": 85,
    "picks": [
+    {
+     "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
+     "company": "Cisco",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-12",
+     "url": "https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Finance Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Corp FP&A - Financial Analyst",
      "company": "Bottomline",
@@ -36,19 +49,6 @@
      "why": [
       "FP&A",
       "Financial Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Financial Planning & Analyst (FP&A)",
-     "company": "Signode",
-     "location": "Greater Hyderabad Area",
-     "posted": "2026-11-09",
-     "url": "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866",
-     "score": 26,
-     "why": [
-      "FP&A",
-      "Financial Planning"
      ],
      "sponsor": null
     }
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 19,
+   "matching": 21,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -1465,6 +1465,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/61267244/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/in-specialist-2-financial-modelling-valuations-advisory-hyderabad-at-pwc-india-4490399518": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }
