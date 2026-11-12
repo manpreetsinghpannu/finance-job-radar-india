@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T06:40:23.151Z",
+ "generated_at": "2026-11-12T07:38:19.096Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -157,8 +157,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 13,
+   "matching": 14,
    "picks": [
+    {
+     "title": "Strategy Consultant",
+     "company": "MatchPoint",
+     "location": "India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592",
+     "score": 14,
+     "why": [
+      "Strategy Consultant"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Consultant-Finance Transformation Pune",
      "company": "KPMG India",
@@ -168,20 +180,6 @@
      "score": 12,
      "why": [
       "Consultant",
-      "Transformation"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy",
-     "company": "Deloitte India",
-     "location": "Bengaluru",
-     "posted": null,
-     "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/",
-     "score": 12,
-     "why": [
-      "Consultant",
-      "Strategy",
       "Transformation"
      ],
      "sponsor": null
@@ -1212,6 +1210,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/credit-associate-ca-at-corenza-4490096731": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 14
   }
  }
 }

@@ -241,5 +241,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115 | Tata Capital | Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades | Sarapaka, Telangana, India | posted: 2026-11-12
 - [ ] https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069 | Numerator | Transfer pricing Analyst | Vadodara, Gujarat, India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064 | Alpha Alternatives | Treasury Operations | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-associate-ca-at-corenza-4490096731 | Corenza | Credit Associate - CA | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592 | MatchPoint | Strategy Consultant | India | posted: 2026-11-11 | note: via LinkedIn
 
 ## Processed

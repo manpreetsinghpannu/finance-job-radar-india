@@ -283,7 +283,7 @@
  },
  "https://www.linkedin.com/jobs/view/accountant-4487142018": {
   "status": "unknown",
-  "checked_at": "2026-11-12T04:36:29Z"
+  "checked_at": "2026-11-12T07:38:15Z"
  },
  "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
   "status": "unknown",
@@ -337,7 +337,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-4-at-hp-4488842916": {
   "status": "live",
-  "checked_at": "2026-11-12T04:36:33Z"
+  "checked_at": "2026-11-12T07:38:18Z"
  },
  "https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764": {
   "status": "live",
@@ -735,15 +735,15 @@
  },
  "https://www.linkedin.com/jobs/view/fp-a-ib-pe-m-a-at-mavi-4482128750": {
   "status": "live",
-  "checked_at": "2026-11-12T04:36:22Z"
+  "checked_at": "2026-11-12T07:38:08Z"
  },
  "https://www.linkedin.com/jobs/view/team-member-treasury-corporate-finance-at-adani-ports-and-sez-4464475303": {
   "status": "live",
-  "checked_at": "2026-11-12T04:36:26Z"
+  "checked_at": "2026-11-12T07:38:11Z"
  },
  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963": {
   "status": "live",
-  "checked_at": "2026-11-12T04:36:24Z"
+  "checked_at": "2026-11-12T07:38:09Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1": {
   "status": "live",
@@ -760,5 +760,17 @@
  "https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876": {
   "status": "live",
   "checked_at": "2026-11-12T06:37:33Z"
+ },
+ "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115": {
+  "status": "live",
+  "checked_at": "2026-11-12T07:38:01Z"
+ },
+ "https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069": {
+  "status": "live",
+  "checked_at": "2026-11-12T07:38:01Z"
+ },
+ "https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064": {
+  "status": "live",
+  "checked_at": "2026-11-12T07:38:04Z"
  }
 }
