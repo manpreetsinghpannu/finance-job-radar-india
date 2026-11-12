@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T14:39:56.555Z",
+ "generated_at": "2026-11-12T15:38:26.551Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 77,
+   "matching": 78,
    "picks": [
     {
      "title": "Corp FP&A - Financial Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 70,
+   "matching": 72,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 22,
+   "matching": 23,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -125,8 +125,20 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 42,
+   "matching": 43,
    "picks": [
+    {
+     "title": "Research Analyst - Investment Banking",
+     "company": "CoKaCo",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-12",
+     "url": "https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195",
+     "score": 19,
+     "why": [
+      "Investment Banking"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Investment Banking Analyst",
      "company": "Cap Connect",
@@ -138,25 +150,13 @@
       "Investment Banking"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Corporate Finance Analyst",
-     "company": "JENOPTIK",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623",
-     "score": 18,
-     "why": [
-      "Corporate Finance"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 17,
+   "matching": 18,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -1410,6 +1410,26 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---BA4_JR-0000137572": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Liquidity-Risk-Reporting_JR-0000134751": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
   }
  }
 }

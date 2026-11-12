@@ -295,4 +295,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/cfa-equity-research-analyst-international-report-experience-technical-analysis-must-ctc-upto-40-k-pm-at-v2u-consultancy-services-pvt-ltd-4489251504 | V2U Consultancy Services Pvt. Ltd. | CFA- Equity Research Analyst- International Report Experience | Technical Analysis Must- CTC- Upto 40 K PM | Noida, Uttar Pradesh, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-india-4490342228 | PwC India | IN_Associate_FDD_Transaction Services_Advisory_Bangalore | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---BA4_JR-0000137572 | Barclays | Liquidity Risk Reporting - BA4 | Chennai, DLF IT Park | posted: 2026-11-12
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Liquidity-Risk-Reporting_JR-0000134751 | Barclays | Analyst - Liquidity Risk Reporting | Chennai, DLF IT Park | posted: 2026-11-12
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/ | Deloitte India | Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195 | CoKaCo | Research Analyst - Investment Banking | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed
