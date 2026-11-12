@@ -316,5 +316,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-ARCS-Mumbai-Finance-Transformation-Business-Finance/61502144/ | Deloitte India | Consultant / Oracle - ARCS / Mumbai / Finance Transformation / Business Finance | Mumbai
 - [ ] https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-FCCS-Mumbai-Finance-Transformation-Business-Finance/61502844/ | Deloitte India | Consultant / Oracle - FCCS / Mumbai / Finance Transformation / Business Finance | Mumbai
+- [ ] https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235 | SGS | GBS Financial Planning & Analyst (FP&A) | Hyderabad, Telangana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502 | Dassault Systèmes | Financial Planning and Analysis (FP&A) Specialist | Pune/Pimpri-Chinchwad Area | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452 | Adani Group | BD and M&A (Roads) | Ahmedabad, Gujarat, India | posted: 2026-11-12 | note: via LinkedIn
 
 ## Processed

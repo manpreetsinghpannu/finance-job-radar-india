@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 21:36** (UK time) · **248 open roles** at 138 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 22:37** (UK time) · **251 open roles** at 141 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,18 +10,29 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 21:36** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 12 Nov, 22:36** · hourly scan · checked 99 boards · **3 new roles**
 
-Nothing new this time. The last scan that found something was **Thu 12 Nov, 19:37** (2: Consulting 2); open it in the scan log below.
+### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) | SGS | Hyderabad, Telangana, India |
+| 2026-11-12 | [Financial Planning and Analysis (FP&A) Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [BD and M&A (Roads)](https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452) | Adani Group | Ahmedabad, Gujarat, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (86 matching)
+**Finance (FP&A) CV** (88 matching)
 
 1. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
-2. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
+2. [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) · SGS · Hyderabad, Telangana, India · posted 2026-11-12
 
 **Credit CV** (74 matching)
 
@@ -33,7 +44,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
 
-**Investment (IB / PE) CV** (44 matching)
+**Investment (IB / PE) CV** (45 matching)
 
 1. [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) · CoKaCo · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
@@ -58,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>22:36</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) | SGS | Hyderabad, Telangana, India |
+| 2026-11-12 | [Financial Planning and Analysis (FP&A) Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [BD and M&A (Roads)](https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452) | Adani Group | Ahmedabad, Gujarat, India |
+
+</details>
 
 <sub>Nothing new at: 21:36, 21:10, 20:36</sub>
 
@@ -1465,13 +1494,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (74)](#finance-fpa-cv-74) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (38)](#investment-ib--pe-cv-38) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
+Everything matched so far, newest first within each CV: [Finance (76)](#finance-fpa-cv-76) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (39)](#investment-ib--pe-cv-39) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
 
-### Finance (FP&A) CV: 74
+### Finance (FP&A) CV: 76
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) | Cisco | Bengaluru, Karnataka, India |
+| 2026-11-12 | [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) | SGS | Hyderabad, Telangana, India |
 | 2026-11-12 | [FP&A SME (Finance Transformation & Digital Products)](https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1) | Unilever | Uniops Bangalore Centre |
 | 2026-11-12 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-imi-4473548161) | IMI | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4488505244) | Mythri Hospital | Hyderabad, Telangana, India |
@@ -1479,6 +1509,7 @@ Everything matched so far, newest first within each CV: [Finance (74)](#finance-
 | 2026-11-12 | [Analyst-Controlling (Finance Business Partner)](https://www.linkedin.com/jobs/view/analyst-controlling-finance-business-partner-at-harman-india-4488507879) | HARMAN India | Pimpri Chinchwad, Maharashtra, India |
 | 2026-11-12 | [Analyst 2 - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-2-financial-planning-analysis-at-newmark-4489255715) | Newmark | Hyderabad, Telangana, India |
 | 2026-11-12 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-abb-4490365454) | ABB | Bengaluru East, Karnataka, India |
+| 2026-11-12 | [Financial Planning and Analysis (FP&A) Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
 | 2026-11-12 | [Analyst - Product Control Financial reporting](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Product-Control-Financial-reporting_JR-0000131990) | Barclays | Chennai, DLF IT Park |
 | 2026-11-12 | [AO/ANALYST TREASURY](https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109) | AllianceBernstein | Pune Division, Maharashtra, India |
 | 2026-11-12 | [Product Control Valuations -Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
@@ -1646,13 +1677,14 @@ Everything matched so far, newest first within each CV: [Finance (74)](#finance-
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 38
+### Investment (IB / PE) CV: 39
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [Valuation Controller - Anayst](https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-12 | [M&A- Integration and Separation](https://www.linkedin.com/jobs/view/m-a-integration-and-separation-mumbai-chennai-bangalore-at-kpmg-india-4490334145) | KPMG India | Mumbai |
 | 2026-11-12 | [IN_Associate_FDD_Transaction Services_Advisory_Bangalore](https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-india-4490342228) | PwC India | Bengaluru, Karnataka, India |
+| 2026-11-12 | [BD and M&A (Roads)](https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452) | Adani Group | Ahmedabad, Gujarat, India |
 | — | [Associate - SaT - TMT - SaT - TCF - M&A Advisory - Mumbai](https://careers.ey.com/ey/job/Mumbai-Associate-SaT-TMT-SaT-TCF-M&A-Advisory-Mumbai-MH-400028/1456692633/) | EY | Mumbai |
 | 2026-11-12 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674472-1) | Accenture | Bengaluru |
 | 2026-11-12 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674473-1) | Accenture | Bengaluru |

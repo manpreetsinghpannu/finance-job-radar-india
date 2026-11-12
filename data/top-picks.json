@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T21:36:42.415Z",
+ "generated_at": "2026-11-12T22:37:57.462Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 86,
+   "matching": 88,
    "picks": [
     {
      "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
@@ -40,15 +40,15 @@
      "sponsor": null
     },
     {
-     "title": "Corp FP&A - Financial Analyst",
-     "company": "Bottomline",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637",
+     "title": "GBS Financial Planning & Analyst (FP&A)",
+     "company": "SGS",
+     "location": "Hyderabad, Telangana, India",
+     "posted": "2026-11-12",
+     "url": "https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235",
      "score": 28,
      "why": [
       "FP&A",
-      "Financial Analyst"
+      "Financial Planning"
      ],
      "sponsor": null
     }
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 44,
+   "matching": 45,
    "picks": [
     {
      "title": "Research Analyst - Investment Banking",
@@ -1490,6 +1490,21 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
   }
  }
 }
