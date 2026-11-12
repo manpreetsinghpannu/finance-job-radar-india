@@ -813,19 +813,19 @@
  },
  "https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536": {
   "status": "live",
-  "checked_at": "2026-11-12T10:37:10Z"
+  "checked_at": "2026-11-12T13:37:28Z"
  },
  "https://www.linkedin.com/jobs/view/credit-risk-associate-c-si-middle-market-corporate-at-jpmorganchase-4440828991": {
   "status": "live",
-  "checked_at": "2026-11-12T10:37:14Z"
+  "checked_at": "2026-11-12T13:37:31Z"
  },
  "https://www.linkedin.com/jobs/view/research-analyst-at-wcc-investment-advisors-pvt-ltd-4489087488": {
   "status": "unknown",
-  "checked_at": "2026-11-12T10:37:17Z"
+  "checked_at": "2026-11-12T13:37:35Z"
  },
  "https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052": {
   "status": "live",
-  "checked_at": "2026-11-12T10:37:21Z"
+  "checked_at": "2026-11-12T13:37:38Z"
  },
  "https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388": {
   "status": "live",
@@ -912,5 +912,17 @@
  "https://www.linkedin.com/jobs/view/m-a-integration-and-separation-mumbai-chennai-bangalore-at-kpmg-india-4490334145": {
   "status": "live",
   "checked_at": "2026-11-12T13:19:11Z"
+ },
+ "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57155": {
+  "status": "live",
+  "checked_at": "2026-11-12T13:37:22Z"
+ },
+ "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Capital-Markets-Operations-Associate_AIOC-S01674582": {
+  "status": "live",
+  "checked_at": "2026-11-12T13:37:24Z"
+ },
+ "https://www.linkedin.com/jobs/view/analyst-controlling-finance-business-partner-at-harman-india-4488507879": {
+  "status": "live",
+  "checked_at": "2026-11-12T13:37:25Z"
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 13:22** (UK time) · **226 open roles** at 130 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 13:37** (UK time) · **226 open roles** at 130 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 13:19** · hourly scan · checked 99 boards · **3 new roles**
+**Thu 12 Nov, 13:37** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Analyst-Controlling (Finance Business Partner)](https://www.linkedin.com/jobs/view/analyst-controlling-finance-business-partner-at-harman-india-4488507879) | HARMAN India | Pimpri Chinchwad, Maharashtra, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Quality Executive - Retail MFB - Credit - Bejjanki - Ganneruvaram - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57155) | Tata Capital | Bejjanki, Telangana, India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Capital Markets Operations Associate](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Capital-Markets-Operations-Associate_AIOC-S01674582) | Accenture | Mumbai |
+Nothing new this time. The last scan that found something was **Thu 12 Nov, 13:19** (3: Finance 1 · Credit 1 · Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<sub>Nothing new at: 13:37</sub>
 
 <details>
 <summary><b>13:19</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Investment 1</summary>
