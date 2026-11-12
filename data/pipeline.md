@@ -274,4 +274,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-csc-4488522065 | CSC | Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-analyst2-c10-at-citi-4489203496 | Citi | Fund Accounting Analyst2 - C10 | Pune Division, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Model-Risk-Management-BA3_JR-0000129936-1 | Barclays | Model Risk Management-BA3 | Noida, Candor TechSpace | posted: 2026-11-12
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353 | Barclays | Product Control Valuations -Analyst | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ | posted: 2026-11-12
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/46683 | Tata Capital | Quality Executive - Retail MFB - Credit - Adilabad - Asifabad - J Grades | Asifabad, Telangana, India | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/corporate-loans-credit-analyst-b2b-at-blueberry-infratech-pvt-ltd-4488509883 | Blueberry Infratech Pvt. Ltd. | Corporate loans Credit Analyst(B2B) | Hyderabad, Telangana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-hos-bharat-services-private-limited-4488509960 | HOS Bharat Services Private Limited | Investment Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hedge-fund-analyst-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4403890269 | ALESAYI HOLDING | العيسائي القابضة | Hedge fund analyst | Chennai, Tamil Nadu, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-integration-and-separation-mumbai-chennai-bangalore-at-kpmg-india-4490334145 | KPMG India | M&A- Integration and Separation | Mumbai | Chennai | Bangalore | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

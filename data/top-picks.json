@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:37:58.683Z",
+ "generated_at": "2026-11-12T12:38:07.084Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 75,
+   "matching": 76,
    "picks": [
     {
      "title": "Corp FP&A - Financial Analyst",
@@ -45,7 +45,7 @@
      "location": "Greater Hyderabad Area",
      "posted": "2026-11-09",
      "url": "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866",
-     "score": 28,
+     "score": 26,
      "why": [
       "FP&A",
       "Financial Planning"
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 63,
+   "matching": 66,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 39,
+   "matching": 40,
    "picks": [
     {
      "title": "Investment Banking Analyst",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 20,
+   "matching": 21,
    "picks": [
     {
      "title": "Assurance - Financial Market – Real Estate Valuation – Associate",
@@ -544,27 +544,27 @@
   "https://morganstanley.eightfold.ai/careers?pid=549800758950&domain=morganstanley.com": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/credit-analysis-4487673866": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/accountant-4487142018": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
    "id": "equity",
    "cv": "Equity CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 9
+   "score": 7
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061": {
    "id": "other",
@@ -574,17 +574,17 @@
   "https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 28
+   "score": 26
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-intuitive-4454529407": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/risk-management-ca-industrial-trainee-%E2%80%93-credit-risk-at-nomura-4488827818": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 19
+   "score": 17
   },
   "https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466": {
    "id": "other",
@@ -594,97 +594,97 @@
   "https://www.linkedin.com/jobs/view/global-markets-ca-industrial-trainee-%E2%80%93-aej-securitized-products-private-credit-at-nomura-4488838510": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 17
+   "score": 15
   },
   "https://www.linkedin.com/jobs/view/treasury-specialist-at-swastik-finance-ltd-4487680471": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 3
+   "score": 1
   },
   "https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073": {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "score": 12
+   "score": 10
   },
   "https://www.linkedin.com/jobs/view/associate-consultant-m-a-at-kpmg-india-4479987470": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-4-at-hp-4488842916": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-finance-analyst-business-unit-at-caterpillar-inc-4488852050": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-4-corp-fp-a-at-oracle-4487140993": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 28
+   "score": 26
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 12
+   "score": 10
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 12
+   "score": 10
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-stellar-fusion-4487910264": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 2
+   "score": 0
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 12
+   "score": 10
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 12
+   "score": 10
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 2
+   "score": 0
   },
   "https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 10
+   "score": 8
   },
   "https://www.linkedin.com/jobs/view/credit-risk-modeler-at-ford-motor-company-4488893634": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/holt-production-model-research-analyst-at-ubs-4487947088": {
    "id": "equity",
    "cv": "Equity CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-tekwissen-india-4485601341": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Tagetik-Bengaluru-Finance-Transformation-Business-Finance/59673744/": {
    "id": "consulting",
@@ -769,42 +769,42 @@
   "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274517": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 15
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-valuation-mumbai-at-ey-4478258501": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 16
+   "score": 14
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-techno-functional-financial-analyst-%E2%80%93-finance-ai-advanced-analytics-6%2Byrs-exp-at-cisco-4472712125": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 28
+   "score": 26
   },
   "https://www.linkedin.com/jobs/view/credit-risk-data-unit-as-at-deutsche-bank-4489112892": {
    "id": "credit",
    "cv": "Credit CV",
-   "score": 14
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-bank-reconciliations-at-millennium-4480260146": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://www.linkedin.com/jobs/view/investment-associate-at-partnerone-4489137574": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 9
+   "score": 7
   },
   "https://careers.hcltech.com/job/SME-Asset-Management%2C-ServiceNow/189165-en_US": {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/associate-strategic-advisory-india-coverage-at-pjt-partners-4487959405": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 16
+   "score": 14
   },
   "https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/": {
    "id": "credit",
@@ -814,12 +814,12 @@
   "https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 8
+   "score": 6
   },
   "https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 18
+   "score": 16
   },
   "https://careers.ey.com/ey/job/Hyderabad-Associate-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Hyderabad-500032/1455827733/": {
    "id": "credit",
@@ -1321,11 +1321,6 @@
    "cv": "Credit CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/research-analyst-at-pms-aif-club-4489095878": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961": {
    "id": "real_estate",
    "cv": "Real Estate CV",
@@ -1340,6 +1335,36 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Model-Risk-Management-BA3_JR-0000129936-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/46683": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/corporate-loans-credit-analyst-b2b-at-blueberry-infratech-pvt-ltd-4488509883": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-hos-bharat-services-private-limited-4488509960": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/m-a-integration-and-separation-mumbai-chennai-bangalore-at-kpmg-india-4490334145": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

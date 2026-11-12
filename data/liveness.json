@@ -379,11 +379,11 @@
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:54Z"
+  "checked_at": "2026-11-12T12:38:00Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1": {
   "status": "live",
-  "checked_at": "2026-11-12T08:38:02Z"
+  "checked_at": "2026-11-12T12:38:06Z"
  },
  "https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363": {
   "status": "live",
@@ -539,7 +539,7 @@
  },
  "https://www.linkedin.com/jobs/view/junior-research-associate-at-franklin-templeton-4489487943": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:48Z"
+  "checked_at": "2026-11-12T12:37:53Z"
  },
  "https://www.linkedin.com/jobs/view/associate-executive-fund-accounting-at-iq-eq-4489600705": {
   "status": "closed",
@@ -557,11 +557,11 @@
  },
  "https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:45Z"
+  "checked_at": "2026-11-12T12:37:50Z"
  },
  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782": {
   "status": "live",
-  "checked_at": "2026-11-12T08:38:03Z"
+  "checked_at": "2026-11-12T12:38:06Z"
  },
  "https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055": {
   "status": "live",
@@ -789,27 +789,27 @@
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:22Z"
+  "checked_at": "2026-11-12T12:37:27Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674472-1": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:26Z"
+  "checked_at": "2026-11-12T12:37:32Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674473-1": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:33Z"
+  "checked_at": "2026-11-12T12:37:37Z"
  },
  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674471-1": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:38Z"
+  "checked_at": "2026-11-12T12:37:43Z"
  },
  "https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:38Z"
+  "checked_at": "2026-11-12T12:37:43Z"
  },
  "https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955": {
   "status": "live",
-  "checked_at": "2026-11-12T08:37:41Z"
+  "checked_at": "2026-11-12T12:37:46Z"
  },
  "https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536": {
   "status": "live",
@@ -862,5 +862,31 @@
  "https://www.linkedin.com/jobs/view/specialist-treasury-at-stonex-group-inc-4466913370": {
   "status": "live",
   "checked_at": "2026-11-12T11:37:30Z"
+ },
+ "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808225": {
+  "status": "live",
+  "checked_at": "2026-11-12T12:37:12Z"
+ },
+ "https://www.linkedin.com/jobs/view/associate-consultant-debt-at-kpmg-india-4472328250": {
+  "status": "live",
+  "checked_at": "2026-11-12T12:37:12Z"
+ },
+ "https://www.linkedin.com/jobs/view/research-analyst-at-pms-aif-club-4489095878": {
+  "status": "closed",
+  "checked_at": "2026-11-12T12:37:16Z",
+  "closed_at": "2026-11-12T12:37:16Z",
+  "reason": "LinkedIn shows \"No longer accepting applications\" and no apply control"
+ },
+ "https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961": {
+  "status": "live",
+  "checked_at": "2026-11-12T12:37:19Z"
+ },
+ "https://www.linkedin.com/jobs/view/fund-accountant-at-csc-4488522065": {
+  "status": "live",
+  "checked_at": "2026-11-12T12:37:23Z"
+ },
+ "https://www.linkedin.com/jobs/view/fund-accounting-analyst2-c10-at-citi-4489203496": {
+  "status": "live",
+  "checked_at": "2026-11-12T12:37:26Z"
  }
 }
