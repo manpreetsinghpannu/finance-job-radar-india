@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 15:38** (UK time) · **236 open roles** at 134 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 16:41** (UK time) · **239 open roles** at 135 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,37 +10,36 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 15:37** · hourly scan · checked 99 boards · **4 new roles**
+**Thu 12 Nov, 16:37** · hourly scan · checked 99 boards · **3 new roles**
 
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Analyst - Liquidity Risk Reporting](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Liquidity-Risk-Reporting_JR-0000134751) | Barclays | Chennai, DLF IT Park |
-| 2026-11-12 | [Liquidity Risk Reporting - BA4](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---BA4_JR-0000137572) | Barclays | Chennai, DLF IT Park |
-
-### Equity CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-12 | [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) | CoKaCo | Mumbai, Maharashtra, India |
+| 2026-11-12 | [Analyst 2 - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-2-financial-planning-analysis-at-newmark-4489255715) | Newmark | Hyderabad, Telangana, India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [Market Risk Officer](https://www.linkedin.com/jobs/view/market-risk-officer-at-bnp-paribas-4490360717) | BNP Paribas | Mumbai, Maharashtra, India |
 
 ### Consulting CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| — | [Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/) | Deloitte India | Bengaluru |
+| — | [Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/) | Deloitte India | Bengaluru |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (78 matching)
+**Finance (FP&A) CV** (80 matching)
 
 1. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
 2. [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) · Signode · Greater Hyderabad Area · posted 2026-11-09
 
-**Credit CV** (72 matching)
+**Credit CV** (73 matching)
 
 1. [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) · CarCred · Raipur, Chhattisgarh, India · posted 2026-11-11
 2. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
@@ -55,7 +54,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) · CoKaCo · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
 
-**Consulting CV** (18 matching)
+**Consulting CV** (19 matching)
 
 1. [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) · MatchPoint · India · posted 2026-11-11
 2. [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) · KPMG India · Pune, Maharashtra, India · posted 2026-11-11
@@ -75,6 +74,29 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>16:37</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Consulting 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [Analyst 2 - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-2-financial-planning-analysis-at-newmark-4489255715) | Newmark | Hyderabad, Telangana, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [Market Risk Officer](https://www.linkedin.com/jobs/view/market-risk-officer-at-bnp-paribas-4490360717) | BNP Paribas | Mumbai, Maharashtra, India |
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/) | Deloitte India | Bengaluru |
+
+</details>
 
 <details>
 <summary><b>15:37</b> · hourly scan · <b>4 new</b> → Credit 2 · Equity 1 · Consulting 1</summary>
@@ -1406,9 +1428,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (70)](#finance-fpa-cv-70) · [Credit (73)](#credit-cv-73) · [Equity (15)](#equity-cv-15) · [Investment (37)](#investment-ib--pe-cv-37) · [Consulting (15)](#consulting-cv-15) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
+Everything matched so far, newest first within each CV: [Finance (71)](#finance-fpa-cv-71) · [Credit (74)](#credit-cv-74) · [Equity (15)](#equity-cv-15) · [Investment (37)](#investment-ib--pe-cv-37) · [Consulting (16)](#consulting-cv-16) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
 
-### Finance (FP&A) CV: 70
+### Finance (FP&A) CV: 71
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1417,6 +1439,7 @@ Everything matched so far, newest first within each CV: [Finance (70)](#finance-
 | 2026-11-12 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4488505244) | Mythri Hospital | Hyderabad, Telangana, India |
 | 2026-11-12 | [Financial Planning & Analysis Analyst](https://jobs.bt.com/job/Financial-Planning-Analysis-Analyst/64569-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
 | 2026-11-12 | [Analyst-Controlling (Finance Business Partner)](https://www.linkedin.com/jobs/view/analyst-controlling-finance-business-partner-at-harman-india-4488507879) | HARMAN India | Pimpri Chinchwad, Maharashtra, India |
+| 2026-11-12 | [Analyst 2 - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-2-financial-planning-analysis-at-newmark-4489255715) | Newmark | Hyderabad, Telangana, India |
 | 2026-11-12 | [Analyst - Product Control Financial reporting](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Product-Control-Financial-reporting_JR-0000131990) | Barclays | Chennai, DLF IT Park |
 | 2026-11-12 | [AO/ANALYST TREASURY](https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109) | AllianceBernstein | Pune Division, Maharashtra, India |
 | 2026-11-12 | [Product Control Valuations -Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
@@ -1483,7 +1506,7 @@ Everything matched so far, newest first within each CV: [Finance (70)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 73
+### Credit CV: 74
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1505,6 +1528,7 @@ Everything matched so far, newest first within each CV: [Finance (70)](#finance-
 | 2026-11-12 | [Credit Associate - CA](https://www.linkedin.com/jobs/view/credit-associate-ca-at-corenza-4490096731) | Corenza | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Commercial & Investment Bank Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808225) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Associate Consultant - Debt](https://www.linkedin.com/jobs/view/associate-consultant-debt-at-kpmg-india-4472328250) | KPMG India | Gurgaon, Haryana, India |
+| 2026-11-12 | [Market Risk Officer](https://www.linkedin.com/jobs/view/market-risk-officer-at-bnp-paribas-4490360717) | BNP Paribas | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Model Risk Management-BA3](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Model-Risk-Management-BA3_JR-0000129936-1) | Barclays | Noida, Candor TechSpace |
 | 2026-11-12 | [Liquidity Risk Reporting - BA4](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---BA4_JR-0000137572) | Barclays | Chennai, DLF IT Park |
 | 2026-11-11 | [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) | CarCred | Raipur, Chhattisgarh, India |
@@ -1623,11 +1647,12 @@ Everything matched so far, newest first within each CV: [Finance (70)](#finance-
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 15
+### Consulting CV: 16
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/) | Deloitte India | Bengaluru |
+| — | [Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/) | Deloitte India | Bengaluru |
 | 2026-11-11 | [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) | MatchPoint | India |
 | 2026-11-11 | [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) | KPMG India | Pune, Maharashtra, India |
 | — | [Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/) | Deloitte India | Bengaluru |

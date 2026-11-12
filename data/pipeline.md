@@ -300,4 +300,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/ | Deloitte India | Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195 | CoKaCo | Research Analyst - Investment Banking | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/ | Deloitte India | Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
+- [ ] https://www.linkedin.com/jobs/view/analyst-2-financial-planning-analysis-at-newmark-4489255715 | Newmark | Analyst 2 - Financial Planning & Analysis | Hyderabad, Telangana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-officer-at-bnp-paribas-4490360717 | BNP Paribas | Market Risk Officer | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

@@ -1,15 +1,23 @@
 {
-  "finished_at": "2026-11-12T15:38:27.458Z",
+  "finished_at": "2026-11-12T16:41:03.780Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 42655,
-  "filtered_out": 42566,
-  "new_matches": 4,
-  "boards_failed": 3,
+  "postings_seen": 41264,
+  "filtered_out": 41195,
+  "new_matches": 3,
+  "boards_failed": 7,
   "failed": [
+    {
+      "company": "Nomura",
+      "error": "fetch failed"
+    },
+    {
+      "company": "SMBC",
+      "error": "fetch failed"
+    },
     {
       "company": "Societe Generale",
       "error": "fetch failed"
@@ -19,8 +27,16 @@
       "error": "HTTP 404 Not Found"
     },
     {
+      "company": "Asian Paints",
+      "error": "HTTP 503 Service Unavailable"
+    },
+    {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Mahindra Group",
+      "error": "This operation was aborted"
     }
   ]
 }
