@@ -257,4 +257,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052 | Treelife | Finance Associate - Due Diligence (CA only) | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388 | JPMorganChase | Valuation Controller - Anayst | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst--Valuations-Cotrol_JR-0000135525 | Barclays | Analyst -Valuations Cotrol | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-imi-4473548161 | IMI | Financial Planning and Analysis Analyst | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-investment-bank-credit-risk-analyst-at-jpmorganchase-4473706100 | JPMorganChase | Corporate & Investment Bank Credit Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-4488505244 | Mythri Hospital | Financial Planning Analyst | Hyderabad, Telangana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706 | SGGG Fund Services Inc. | Fund Accountant | Panchkula, Haryana, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109 | AllianceBernstein | AO/ANALYST TREASURY | Pune Division, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680 | StoneX Group Inc. | Associate - Treasury | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/specialist-treasury-at-stonex-group-inc-4466913370 | StoneX Group Inc. | Specialist - Treasury | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

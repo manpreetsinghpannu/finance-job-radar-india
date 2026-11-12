@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T09:41:07.172Z",
+ "generated_at": "2026-11-12T10:40:19.185Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 68,
+   "matching": 73,
    "picks": [
     {
      "title": "Corp FP&A - Financial Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 60,
+   "matching": 61,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -222,18 +222,6 @@
    "matching": 14,
    "picks": [
     {
-     "title": "Financial Analyst( Fund Accountant)",
-     "company": "ONE BCG - ONE Business Consulting Group",
-     "location": "Mohali district, India",
-     "posted": "2026-11-12",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876",
-     "score": 18,
-     "why": [
-      "Fund Accountant"
-     ],
-     "sponsor": null
-    },
-    {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
      "company": "Synechron",
      "location": "Greater Hyderabad Area",
@@ -243,6 +231,18 @@
      "why": [
       "Portfolio Analytics",
       "Reporting Analyst"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Fund Accounting Analyst",
+     "company": "Citi",
+     "location": "Pune Maharashtra India",
+     "posted": "2026-11-05",
+     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424",
+     "score": 16,
+     "why": [
+      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -1180,11 +1180,6 @@
    "cv": "Equity CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 22
-  },
   "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115": {
    "id": "credit",
    "cv": "Credit CV",
@@ -1269,6 +1264,46 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst--Valuations-Cotrol_JR-0000135525": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-imi-4473548161": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/corporate-investment-bank-credit-risk-analyst-at-jpmorganchase-4473706100": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-4488505244": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/specialist-treasury-at-stonex-group-inc-4466913370": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 2
   }
  }
 }
