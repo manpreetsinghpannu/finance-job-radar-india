@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 19:38** (UK time) · **249 open roles** at 139 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 20:40** (UK time) · **248 open roles** at 138 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 19:37** · hourly scan · checked 99 boards · **2 new roles**
+**Thu 12 Nov, 20:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Consulting CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Consultant / Oracle - ARCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-ARCS-Mumbai-Finance-Transformation-Business-Finance/61502144/) | Deloitte India | Mumbai |
-| — | [Consultant / Oracle - FCCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-FCCS-Mumbai-Finance-Transformation-Business-Finance/61502844/) | Deloitte India | Mumbai |
+Nothing new this time. The last scan that found something was **Thu 12 Nov, 19:37** (2: Consulting 2); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (87 matching)
+**Finance (FP&A) CV** (86 matching)
 
 1. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
 2. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<sub>Nothing new at: 20:36</sub>
 
 <details>
 <summary><b>19:37</b> · hourly scan · <b>2 new</b> → Consulting 2</summary>
@@ -947,19 +944,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>07:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-10 | [Specialist, FP&A](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915) | Invesco | Hyderabad, Telangana |
+<summary><b>07:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
 
 #### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-10 | [Liquidity Risk Reporting - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137282) | Barclays | Chennai, DLF IT Park · Noida, Candor TechSpace |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1472,9 +1465,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (75)](#finance-fpa-cv-75) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (38)](#investment-ib--pe-cv-38) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
+Everything matched so far, newest first within each CV: [Finance (74)](#finance-fpa-cv-74) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (38)](#investment-ib--pe-cv-38) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
 
-### Finance (FP&A) CV: 75
+### Finance (FP&A) CV: 74
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1522,7 +1515,6 @@ Everything matched so far, newest first within each CV: [Finance (75)](#finance-
 | 2026-11-10 | [Treasury & Settlement Operations Executive](https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076) | Riverpe | Gurugram, Haryana, India |
 | 2026-11-10 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522) | Bottomline | Bengaluru, Karnataka, India |
 | 2026-11-10 | [FP&A Specialist](https://www.linkedin.com/jobs/view/fp-a-specialist-at-sidel-4487988920) | Sidel | Pune City, Maharashtra, India |
-| 2026-11-10 | [Specialist, FP&A](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Specialist--FP-A_R-15915) | Invesco | Hyderabad, Telangana |
 | 2026-11-10 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841) | Lennox | Chennai, Tamil Nadu, India |
 | 2026-11-10 | [Corporate Dealer - TAG - Treasury](https://www.linkedin.com/jobs/view/corporate-dealer-tag-treasury-at-hdfc-bank-4487812690) | HDFC Bank | Hyderabad, Telangana, India |
 | 2026-11-09 | [Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analyst-fp-a-at-signode-4488822866) | Signode | Greater Hyderabad Area |
@@ -1766,10 +1758,11 @@ Everything matched so far, newest first within each CV: [Finance (75)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>28 roles taken off the list because the firm closed the posting</summary>
+<summary>29 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 12 Nov, 20:39 | Specialist, FP&A | Invesco |
 | Thu 12 Nov, 14:37 | Financial Analyst | Stellar Fusion |
 | Thu 12 Nov, 12:37 | Research Analyst | PMS AIF Club |
 | Thu 12 Nov, 10:37 | Financial Analyst( Fund Accountant) | ONE BCG - ONE Business Consulting Group |
