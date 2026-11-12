@@ -282,4 +282,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/hedge-fund-analyst-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4403890269 | ALESAYI HOLDING | العيسائي القابضة | Hedge fund analyst | Chennai, Tamil Nadu, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/m-a-integration-and-separation-mumbai-chennai-bangalore-at-kpmg-india-4490334145 | KPMG India | M&A- Integration and Separation | Mumbai | Chennai | Bangalore | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57155 | Tata Capital | Quality Executive - Retail MFB - Credit - Bejjanki - Ganneruvaram - J Grades | Bejjanki, Telangana, India | posted: 2026-11-12
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Capital-Markets-Operations-Associate_AIOC-S01674582 | Accenture | Capital Markets Operations Associate | Mumbai | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/analyst-controlling-finance-business-partner-at-harman-india-4488507879 | HARMAN India | Analyst-Controlling (Finance Business Partner) | Pimpri Chinchwad, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed
