@@ -233,4 +233,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/ | Nomura | OPS-GMO / FI Credits MO | Mumbai
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1 | Barclays | Quantitative Analytics Market Risk Modeler | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | posted: 2026-11-12
+- [ ] https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1 | Unilever | FP&A SME (Finance Transformation & Digital Products) | Uniops Bangalore Centre | posted: 2026-11-12
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779 | News Capital Market | Research Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876 | ONE BCG - ONE Business Consulting Group | Financial Analyst( Fund Accountant) | Mohali district, India | posted: 2026-11-12 | note: via LinkedIn
+
 ## Processed

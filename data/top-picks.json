@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:36:33.189Z",
+ "generated_at": "2026-11-12T05:41:19.880Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 54,
+   "matching": 55,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 18,
+   "matching": 19,
    "picks": [
     {
      "title": "\\Equity Research Analyst - CFA Level 1",
@@ -157,7 +157,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 12,
+   "matching": 13,
    "picks": [
     {
      "title": "Consultant-Finance Transformation Pune",
@@ -222,8 +222,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 13,
+   "matching": 14,
    "picks": [
+    {
+     "title": "Financial Analyst( Fund Accountant)",
+     "company": "ONE BCG - ONE Business Consulting Group",
+     "location": "Mohali district, India",
+     "posted": "2026-11-12",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876",
+     "score": 18,
+     "why": [
+      "Fund Accountant"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
      "company": "Synechron",
@@ -234,18 +246,6 @@
      "why": [
       "Portfolio Analytics",
       "Reporting Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Fund Accounting Analyst",
-     "company": "Citi",
-     "location": "Pune Maharashtra India",
-     "posted": "2026-11-05",
-     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424",
-     "score": 16,
-     "why": [
-      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -893,11 +893,6 @@
    "cv": "Credit CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/financial-planning-analaysis-at-viraaj-hr-solutions-private-limited-4488347736": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1123,11 +1118,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-4489006183": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/hiring-private-equity-accounting-professionals%21-at-ss-c-technologies-4219655014": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -1192,6 +1182,26 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
   }
  }
 }
