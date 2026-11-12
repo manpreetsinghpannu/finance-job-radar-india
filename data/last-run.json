@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-12T17:38:10.096Z",
+  "finished_at": "2026-11-12T17:47:45.534Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 42739,
-  "filtered_out": 42647,
+  "postings_seen": 42713,
+  "filtered_out": 42623,
   "new_matches": 4,
-  "boards_failed": 3,
+  "boards_failed": 4,
   "failed": [
     {
       "company": "Societe Generale",
@@ -21,6 +21,10 @@
     {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "GIC",
+      "error": "This operation was aborted"
     }
   ]
 }
