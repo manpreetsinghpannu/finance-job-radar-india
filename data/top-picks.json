@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T23:36:03.090Z",
+ "generated_at": "2026-11-12T00:35:11.458Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 52,
+   "matching": 53,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -1177,6 +1177,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

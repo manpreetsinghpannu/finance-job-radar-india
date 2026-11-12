@@ -227,4 +227,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-ib-pe-m-a-at-mavi-4482128750 | MAVI | FP&A - IB, PE, M&A | India | posted: 2026-11-11 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/team-member-treasury-corporate-finance-at-adani-ports-and-sez-4464475303 | Adani Ports and SEZ | Team Member - Treasury & Corporate Finance | Ahmedabad, Gujarat, India | posted: 2026-11-11 | note: via LinkedIn
 
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963 | Kotak Mahindra Bank | Credit Executive_Tractors and Farm Equipments (TFE)-Credit_Thane | Thane, Maharashtra, India | posted: 2026-11-12
+
 ## Processed
