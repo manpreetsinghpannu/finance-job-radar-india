@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 08:16** (UK time) · **201 open roles** at 121 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 08:38** (UK time) · **201 open roles** at 121 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,29 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 08:16** · hourly scan · checked 99 boards · **7 new roles**
+**Thu 12 Nov, 08:37** · hourly scan · checked 99 boards · **0 new roles**
 
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) | JPMorgan Chase | Mumbai, Maharashtra, India |
-| 2026-11-12 | [Credit Analyst - Working Capital](https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537) | ecH-aaR Manpower Solutions | Bengaluru, Karnataka, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [TECHNICAL RESEARCH ANALYST-Intraday Trading](https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955) | One Paper | Bengaluru, Karnataka, India |
-
-### Investment (IB / PE) CV: 4
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Associate - SaT - TMT - SaT - TCF - M&A Advisory - Mumbai](https://careers.ey.com/ey/job/Mumbai-Associate-SaT-TMT-SaT-TCF-M&A-Advisory-Mumbai-MH-400028/1456692633/) | EY | Mumbai |
-| 2026-11-12 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674472-1) | Accenture | Bengaluru |
-| 2026-11-12 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674473-1) | Accenture | Bengaluru |
-| 2026-11-12 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674471-1) | Accenture | Bengaluru |
+Nothing new this time. The last scan that found something was **Thu 12 Nov, 08:16** (7: Credit 2 · Equity 1 · Investment 4); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -78,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<sub>Nothing new at: 08:37</sub>
 
 <details>
 <summary><b>08:16</b> · hourly scan · <b>7 new</b> → Credit 2 · Equity 1 · Investment 4</summary>
