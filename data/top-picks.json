@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T22:37:57.462Z",
+ "generated_at": "2026-11-12T23:36:03.048Z",
  "order": [
   "finance",
   "credit",
@@ -1505,6 +1505,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

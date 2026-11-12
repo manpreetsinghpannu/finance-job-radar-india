@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 22:37** (UK time) · **251 open roles** at 141 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 23:36** (UK time) · **252 open roles** at 141 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 22:36** · hourly scan · checked 99 boards · **3 new roles**
+**Thu 12 Nov, 23:34** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) | SGS | Hyderabad, Telangana, India |
-| 2026-11-12 | [Financial Planning and Analysis (FP&A) Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
-
-### Investment (IB / PE) CV: 1
+### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-12 | [BD and M&A (Roads)](https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452) | Adani Group | Ahmedabad, Gujarat, India |
+| 2026-11-12 | [Quantitative Analytics Specialist](https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478) | Wells Fargo | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
@@ -69,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>23:34</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-12 | [Quantitative Analytics Specialist](https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478) | Wells Fargo | Bengaluru, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>22:36</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
@@ -1494,7 +1498,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (76)](#finance-fpa-cv-76) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (39)](#investment-ib--pe-cv-39) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
+Everything matched so far, newest first within each CV: [Finance (76)](#finance-fpa-cv-76) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (39)](#investment-ib--pe-cv-39) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
 ### Finance (FP&A) CV: 76
 
@@ -1773,12 +1777,13 @@ Everything matched so far, newest first within each CV: [Finance (76)](#finance-
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 9
+### Other (fits no CV closely, may still be worth a look): 10
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [OPS-GMO / FI Credits MO](https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/) | Nomura | Mumbai |
 | 2026-11-12 | [Analyst -Valuations Cotrol](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst--Valuations-Cotrol_JR-0000135525) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
+| 2026-11-12 | [Quantitative Analytics Specialist](https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478) | Wells Fargo | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Market Data Vendor Onboarding Associate, Investment Management](https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |
