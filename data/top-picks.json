@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:38:20.338Z",
+ "generated_at": "2026-11-12T19:38:26.100Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 85,
+   "matching": 87,
    "picks": [
     {
      "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 21,
+   "matching": 23,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -1485,6 +1485,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-ARCS-Mumbai-Finance-Transformation-Business-Finance/61502144/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 9
+  },
+  "https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-FCCS-Mumbai-Finance-Transformation-Business-Finance/61502844/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 9
   }
  }
 }

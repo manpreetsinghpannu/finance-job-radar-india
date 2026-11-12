@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 18:38** (UK time) · **247 open roles** at 139 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 19:38** (UK time) · **249 open roles** at 139 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,27 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 18:37** · hourly scan · checked 99 boards · **4 new roles**
-
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) | Cisco | Bengaluru, Karnataka, India |
-| 2026-11-12 | [Analyst, Treasury Operations](https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963) | Ciena | Gurugram, Haryana, India |
+**Thu 12 Nov, 19:37** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Consulting CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| — | [Consultant / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/61267244/) | Deloitte India | Ahmedabad |
-| 2026-11-12 | [IN_Specialist 2_ Financial Modelling_Valuations_Advisory_ Hyderabad](https://www.linkedin.com/jobs/view/in-specialist-2-financial-modelling-valuations-advisory-hyderabad-at-pwc-india-4490399518) | PwC India | Greater Hyderabad Area |
+| — | [Consultant / Oracle - ARCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-ARCS-Mumbai-Finance-Transformation-Business-Finance/61502144/) | Deloitte India | Mumbai |
+| — | [Consultant / Oracle - FCCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-FCCS-Mumbai-Finance-Transformation-Business-Finance/61502844/) | Deloitte India | Mumbai |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (85 matching)
+**Finance (FP&A) CV** (87 matching)
 
 1. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
 2. [Corp FP&A - Financial Analyst](https://www.linkedin.com/jobs/view/corp-fp-a-financial-analyst-at-bottomline-4473742637) · Bottomline · Bengaluru, Karnataka, India · posted 2026-11-11
@@ -50,7 +43,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) · CoKaCo · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
 
-**Consulting CV** (21 matching)
+**Consulting CV** (23 matching)
 
 1. [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) · MatchPoint · India · posted 2026-11-11
 2. [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) · KPMG India · Pune, Maharashtra, India · posted 2026-11-11
@@ -70,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>19:37</b> · hourly scan · <b>2 new</b> → Consulting 2</summary>
+
+#### Consulting CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant / Oracle - ARCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-ARCS-Mumbai-Finance-Transformation-Business-Finance/61502144/) | Deloitte India | Mumbai |
+| — | [Consultant / Oracle - FCCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-FCCS-Mumbai-Finance-Transformation-Business-Finance/61502844/) | Deloitte India | Mumbai |
+
+</details>
 
 <details>
 <summary><b>18:37</b> · hourly scan · <b>4 new</b> → Finance 2 · Consulting 2</summary>
@@ -1467,7 +1472,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (75)](#finance-fpa-cv-75) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (38)](#investment-ib--pe-cv-38) · [Consulting (18)](#consulting-cv-18) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
+Everything matched so far, newest first within each CV: [Finance (75)](#finance-fpa-cv-75) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (38)](#investment-ib--pe-cv-38) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (9)](#other-fits-no-cv-closely-may-still-be-worth-a-look-9)
 
 ### Finance (FP&A) CV: 75
 
@@ -1692,12 +1697,14 @@ Everything matched so far, newest first within each CV: [Finance (75)](#finance-
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 18
+### Consulting CV: 20
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/) | Deloitte India | Bengaluru |
 | — | [Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/) | Deloitte India | Bengaluru |
+| — | [Consultant / Oracle - ARCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-ARCS-Mumbai-Finance-Transformation-Business-Finance/61502144/) | Deloitte India | Mumbai |
+| — | [Consultant / Oracle - FCCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-FCCS-Mumbai-Finance-Transformation-Business-Finance/61502844/) | Deloitte India | Mumbai |
 | — | [Consultant / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/61267244/) | Deloitte India | Ahmedabad |
 | 2026-11-12 | [IN_Specialist 2_ Financial Modelling_Valuations_Advisory_ Hyderabad](https://www.linkedin.com/jobs/view/in-specialist-2-financial-modelling-valuations-advisory-hyderabad-at-pwc-india-4490399518) | PwC India | Greater Hyderabad Area |
 | 2026-11-11 | [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) | MatchPoint | India |
