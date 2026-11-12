@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 12 Nov, 03:36** (UK time) · **187 open roles** at 114 firms · the radar checks every board about once an hour.
+Updated **Thu 12 Nov, 04:14** (UK time) · **188 open roles** at 114 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 12 Nov, 03:36** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 12 Nov, 04:14** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 12 Nov, 02:36** (1: Credit 1); open it in the scan log below.
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [OPS-GMO / FI Credits MO](https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/) | Nomura | Mumbai |
 
 ## Top picks for each CV
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 12 November
+
+<details>
+<summary><b>04:14</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [OPS-GMO / FI Credits MO](https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/) | Nomura | Mumbai |
+
+</details>
 
 <sub>Nothing new at: 03:36</sub>
 
@@ -1091,7 +1106,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (59)](#finance-fpa-cv-59) · [Credit (55)](#credit-cv-55) · [Equity (9)](#equity-cv-9) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (7)](#other-fits-no-cv-closely-may-still-be-worth-a-look-7)
+Everything matched so far, newest first within each CV: [Finance (59)](#finance-fpa-cv-59) · [Credit (55)](#credit-cv-55) · [Equity (9)](#equity-cv-9) · [Investment (31)](#investment-ib--pe-cv-31) · [Consulting (13)](#consulting-cv-13) · [Real Estate (4)](#real-estate-cv-4) · [Fund (9)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-9) · [Other (8)](#other-fits-no-cv-closely-may-still-be-worth-a-look-8)
 
 ### Finance (FP&A) CV: 59
 
@@ -1308,10 +1323,11 @@ Everything matched so far, newest first within each CV: [Finance (59)](#finance-
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 7
+### Other (fits no CV closely, may still be worth a look): 8
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [OPS-GMO / FI Credits MO](https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/) | Nomura | Mumbai |
 | 2026-11-11 | [Market Data Vendor Onboarding Associate, Investment Management](https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-09 | [Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-09 | [Technical Analyst - Trader](https://www.linkedin.com/jobs/view/technical-analyst-trader-at-siho-research-4487683466) | SIHO Research | Noida, Uttar Pradesh, India |

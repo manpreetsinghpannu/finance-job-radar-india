@@ -231,4 +231,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Mumbai-MH-400028/1427139833/ | EY | Industrial Trainee - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai | Mumbai
 
+- [ ] https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/ | Nomura | OPS-GMO / FI Credits MO | Mumbai
+
 ## Processed

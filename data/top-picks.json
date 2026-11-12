@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T03:36:33.411Z",
+ "generated_at": "2026-11-12T04:14:46.991Z",
  "order": [
   "finance",
   "credit",
@@ -1187,6 +1187,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
+  },
+  "https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
