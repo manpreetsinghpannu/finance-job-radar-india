@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:41:00.077Z",
+ "generated_at": "2026-11-13T10:03:31.993Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 98,
+   "matching": 99,
    "picks": [
     {
      "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 76,
+   "matching": 77,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -1589,6 +1589,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-control_JR-0000114732": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/trainee-%E2%80%93-credit-portfolio-management-societe-generale-india-mumbai-at-societe-generale-4474339377": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
   }
  }
 }
