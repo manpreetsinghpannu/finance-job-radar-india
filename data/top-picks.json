@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:38:37.984Z",
+ "generated_at": "2026-11-13T20:40:18.384Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 78,
+   "matching": 77,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 25,
+   "matching": 24,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -995,11 +995,6 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051768": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 8
-  },
   "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051769": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -1539,11 +1534,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
-  },
-  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Portfolio-Officer---C13---GURUGRAM_261009715": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/head-broking-research-analyst-at-aikyam-capital-private-limited-4488910583": {
    "id": "equity",
