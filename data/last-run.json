@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-13T15:38:07.078Z",
+  "finished_at": "2026-11-13T16:40:18.439Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 43172,
-  "filtered_out": 43068,
-  "new_matches": 0,
-  "boards_failed": 4,
+  "postings_seen": 42192,
+  "filtered_out": 42108,
+  "new_matches": 2,
+  "boards_failed": 7,
   "failed": [
     {
       "company": "Wipro",
@@ -19,7 +19,19 @@
       "error": "fetch failed"
     },
     {
+      "company": "Deloitte India",
+      "error": "HTTP 404 Not Found"
+    },
+    {
       "company": "Duff & Phelps (Kroll)",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "ICICI Securities",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "GIC",
       "error": "HTTP 404 Not Found"
     },
     {

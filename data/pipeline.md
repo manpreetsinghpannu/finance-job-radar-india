@@ -364,5 +364,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-JLN-Marg-STPI-Jaipur/Specialist---F-A---FP-A-4B_JR10034191 | Genpact | Specialist - F&A - FP&A 4B | 1401-G-India: JLN Marg, STPI, Jaipur | posted: 2026-11-13
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-finance-as-a-service-faas-at-amazon-4482728885 | Amazon | Financial Analyst, Finance-as-a-Service(FaaS) | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-reporting-portfolio-analytics-open-end-funds-at-bluestone-solutions-group-4489581224 | blueStone Solutions Group | Associate, Reporting & Portfolio Analytics (Open-End Funds) | Hyderabad, Telangana, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-hp-4490736881 | HP | Credit Analyst | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-accenture-in-india-4490736892 | Accenture in India | Capital Markets Operations Analyst | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T15:38:06.492Z",
+ "generated_at": "2026-11-13T16:40:17.802Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 77,
+   "matching": 78,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 47,
+   "matching": 48,
    "picks": [
     {
      "title": "Research Analyst - Investment Banking",
@@ -1643,6 +1643,16 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-hp-4490736881": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-accenture-in-india-4490736892": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
   }
  }
 }
