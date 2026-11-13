@@ -372,5 +372,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-treasury-at-tiaa-4472564544 | TIAA | Associate - Treasury | Mumbai Metropolitan Region | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045 | Goldman Sachs | Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672 | Amazon | Financial Analyst, GFS FP&A | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299 | Cargill | MSC Finance Analyst , CBI - APAC | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed

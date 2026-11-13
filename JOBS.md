@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 22:37** (UK time) · **284 open roles** at 153 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 23:34** (UK time) · **285 open roles** at 154 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 22:37** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 13 Nov, 23:33** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Fri 13 Nov, 18:37** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [MSC Finance Analyst , CBI - APAC](https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299) | Cargill | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (108 matching)
+**Finance (FP&A) CV** (109 matching)
 
 1. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<details>
+<summary><b>23:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [MSC Finance Analyst , CBI - APAC](https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299) | Cargill | Bengaluru, Karnataka, India |
+
+</details>
 
 <sub>Nothing new at: 22:37, 22:00, 21:37, 20:37, 19:37</sub>
 
@@ -1782,9 +1797,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (94)](#finance-fpa-cv-94) · [Credit (78)](#credit-cv-78) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (14)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-14) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (95)](#finance-fpa-cv-95) · [Credit (78)](#credit-cv-78) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (14)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-14) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
-### Finance (FP&A) CV: 94
+### Finance (FP&A) CV: 95
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1793,6 +1808,7 @@ Everything matched so far, newest first within each CV: [Finance (94)](#finance-
 | 2026-11-13 | [Financial Analyst II, ASSPL Finance Team](https://www.linkedin.com/jobs/view/financial-analyst-ii-asspl-finance-team-at-amazon-4455784771) | Amazon | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Financial Analyst - Financial Modelling & Project Financing of Utility Scale Solar Renewable Projects](https://www.linkedin.com/jobs/view/financial-analyst-financial-modelling-project-financing-of-utility-scale-solar-renewable-projects-at-engie-india-4488930649) | ENGIE India | Pune District, Maharashtra, India |
 | 2026-11-13 | [Financial Analyst, Finance-as-a-Service(FaaS)](https://www.linkedin.com/jobs/view/financial-analyst-finance-as-a-service-faas-at-amazon-4482728885) | Amazon | Bengaluru, Karnataka, India |
+| 2026-11-13 | [MSC Finance Analyst , CBI - APAC](https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299) | Cargill | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Financial Planning & Analysis Representa](https://www.linkedin.com/jobs/view/financial-planning-analysis-representa-at-accenture-in-india-4490736944) | Accenture in India | Chennai, Tamil Nadu, India |
 | 2026-11-13 | [Analyst - SP Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | 2026-11-13 | [Analyst - Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst---Product-Control_JR-0000116044) | Barclays | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park |
