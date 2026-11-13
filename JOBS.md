@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 01:37** (UK time) · **252 open roles** at 141 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 02:13** (UK time) · **255 open roles** at 141 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,36 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 01:36** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 13 Nov, 02:12** · hourly scan · checked 99 boards · **3 new roles**
 
-Nothing new this time. The last scan that found something was **Thu 12 Nov, 23:42** (1: Other 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultor/a Asesoramiento Financiero - Corporate Treasury](https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/) | EY |  |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) | EY | Mumbai |
+
+### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (88 matching)
+**Finance (FP&A) CV** (90 matching)
 
 1. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
 2. [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) · SGS · Hyderabad, Telangana, India · posted 2026-11-12
 
-**Credit CV** (74 matching)
+**Credit CV** (75 matching)
 
 1. [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) · CarCred · Raipur, Chhattisgarh, India · posted 2026-11-11
 2. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
@@ -38,10 +54,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) · CoKaCo · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
 
-**Consulting CV** (23 matching)
+**Consulting CV** (25 matching)
 
 1. [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) · MatchPoint · India · posted 2026-11-11
-2. [Consultant-Finance Transformation Pune](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754) · KPMG India · Pune, Maharashtra, India · posted 2026-11-11
+2. [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) · EY · Mumbai
 
 **Real Estate CV** (21 matching)
 
@@ -58,6 +74,29 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<details>
+<summary><b>02:12</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Consulting 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultor/a Asesoramiento Financiero - Corporate Treasury](https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/) | EY |  |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) | EY | Mumbai |
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  |
+
+</details>
 
 <sub>Nothing new at: 01:36, 00:36</sub>
 
@@ -1498,12 +1537,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (76)](#finance-fpa-cv-76) · [Credit (75)](#credit-cv-75) · [Equity (15)](#equity-cv-15) · [Investment (39)](#investment-ib--pe-cv-39) · [Consulting (20)](#consulting-cv-20) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (77)](#finance-fpa-cv-77) · [Credit (76)](#credit-cv-76) · [Equity (15)](#equity-cv-15) · [Investment (39)](#investment-ib--pe-cv-39) · [Consulting (21)](#consulting-cv-21) · [Real Estate (5)](#real-estate-cv-5) · [Fund (12)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-12) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
-### Finance (FP&A) CV: 76
+### Finance (FP&A) CV: 77
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [Consultor/a Asesoramiento Financiero - Corporate Treasury](https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/) | EY |  |
 | 2026-11-12 | [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) | Cisco | Bengaluru, Karnataka, India |
 | 2026-11-12 | [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) | SGS | Hyderabad, Telangana, India |
 | 2026-11-12 | [FP&A SME (Finance Transformation & Digital Products)](https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1) | Unilever | Uniops Bangalore Centre |
@@ -1581,10 +1621,11 @@ Everything matched so far, newest first within each CV: [Finance (76)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 75
+### Credit CV: 76
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) | EY | Mumbai |
 | 2026-11-12 | [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Corporate & Investment Bank Credit Risk Analyst](https://www.linkedin.com/jobs/view/corporate-investment-bank-credit-risk-analyst-at-jpmorganchase-4473706100) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Credit Risk Associate - C&SI Middle Market Corporate](https://www.linkedin.com/jobs/view/credit-risk-associate-c-si-middle-market-corporate-at-jpmorganchase-4440828991) | JPMorganChase | Bengaluru, Karnataka, India |
@@ -1725,10 +1766,11 @@ Everything matched so far, newest first within each CV: [Finance (76)](#finance-
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 20
+### Consulting CV: 21
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  |
 | — | [Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/) | Deloitte India | Bengaluru |
 | — | [Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/) | Deloitte India | Bengaluru |
 | — | [Consultant / Oracle - ARCS / Mumbai / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Mumbai-Consultant-Oracle-ARCS-Mumbai-Finance-Transformation-Business-Finance/61502144/) | Deloitte India | Mumbai |

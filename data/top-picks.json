@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:37:19.536Z",
+ "generated_at": "2026-11-13T02:13:03.913Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 88,
+   "matching": 90,
    "picks": [
     {
      "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 74,
+   "matching": 75,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 23,
+   "matching": 25,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -171,15 +171,15 @@
      "sponsor": null
     },
     {
-     "title": "Consultant-Finance Transformation Pune",
-     "company": "KPMG India",
-     "location": "Pune, Maharashtra, India",
-     "posted": "2026-11-11",
-     "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051754",
-     "score": 12,
+     "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
+     "company": "EY",
+     "location": "Mumbai",
+     "posted": null,
+     "url": "https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/",
+     "score": 13,
      "why": [
       "Consultant",
-      "Transformation"
+      "Consulting"
      ],
      "sponsor": null
     }
@@ -1510,6 +1510,21 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 4
+  },
+  "https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 9
+  },
+  "https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }

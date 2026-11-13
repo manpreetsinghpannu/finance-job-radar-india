@@ -321,4 +321,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452 | Adani Group | BD and M&A (Roads) | Ahmedabad, Gujarat, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478 | Wells Fargo | Quantitative Analytics Specialist | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 
+- [ ] https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/ | EY | Consultor/a Asesoramiento Financiero - Corporate Treasury
+- [ ] https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/ | EY | Finance Transformation - Associate/Senior Associate, Business Consulting - Finance
+- [ ] https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/ | EY | Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore | Mumbai
+
 ## Processed
