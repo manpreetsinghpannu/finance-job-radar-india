@@ -354,5 +354,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-international-schools-partnership-limited-4489019507 | International Schools Partnership Limited | Finance Analyst | Bangalore Urban, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-indian-public-equities-2-4-years-fundamental-research-valuation-mumbai-at-risk-inn-4489562558 | Risk Inn | Research Analyst - Indian Public Equities | 2 - 4 Years | Fundamental Research & Valuation | Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-asset-management-homebuilder-solutions-at-revantage-a-blackstone-portfolio-company-4482122992 | Revantage, A Blackstone Portfolio Company | Associate, Asset Management, Homebuilder Solutions | Bengaluru, Karnataka, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-ii-asspl-finance-team-at-amazon-4455784771 | Amazon | Financial Analyst II, ASSPL Finance Team | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
