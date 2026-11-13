@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 18:41** (UK time) · **287 open roles** at 154 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 19:38** (UK time) · **287 open roles** at 154 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 18:37** · hourly scan · checked 99 boards · **1 new role**
+**Fri 13 Nov, 19:37** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) | Amazon | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Fri 13 Nov, 18:37** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<sub>Nothing new at: 19:37</sub>
 
 <details>
 <summary><b>18:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
