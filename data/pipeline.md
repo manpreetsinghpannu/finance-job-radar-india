@@ -366,5 +366,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-reporting-portfolio-analytics-open-end-funds-at-bluestone-solutions-group-4489581224 | blueStone Solutions Group | Associate, Reporting & Portfolio Analytics (Open-End Funds) | Hyderabad, Telangana, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-hp-4490736881 | HP | Credit Analyst | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-accenture-in-india-4490736892 | Accenture in India | Capital Markets Operations Analyst | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-representa-at-accenture-in-india-4490736944 | Accenture in India | Financial Planning & Analysis Representa | Chennai, Tamil Nadu, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556 | Neuraleap Group | Equity Research Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/asset-management-lux-product-administration-alternative-funds-oversight-at-jpmorganchase-4490757204 | JPMorganChase | Asset Management - Lux Product Administration - Alternative Funds Oversight | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-treasury-at-tiaa-4472564544 | TIAA | Associate - Treasury | Mumbai Metropolitan Region | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
