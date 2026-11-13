@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T05:38:54.542Z",
+ "generated_at": "2026-11-13T06:30:28.554Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 76,
+   "matching": 77,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 45,
+   "matching": 46,
    "picks": [
     {
      "title": "Research Analyst - Investment Banking",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 21,
+   "matching": 23,
    "picks": [
     {
      "title": "Assurance - Financial Market – Real Estate Valuation – Associate",
@@ -1535,6 +1535,21 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808678": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 8
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Institutional-Credit-Management---Underwriter---Officer_26944313": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/valuation-associate-at-starlette-property-valuations-opc-pvt-ltd-4488900413": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }
