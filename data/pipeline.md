@@ -361,4 +361,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/junior-analyst-structured-finance-at-morningstar-4490361571 | Morningstar | Junior Analyst, Structured Finance | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/asset-management-at-ces-4488945353 | CES | Asset Management | Hyderabad, Telangana, India | posted: 2026-11-13 | note: via LinkedIn
 
+- [ ] https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-JLN-Marg-STPI-Jaipur/Specialist---F-A---FP-A-4B_JR10034191 | Genpact | Specialist - F&A - FP&A 4B | 1401-G-India: JLN Marg, STPI, Jaipur | posted: 2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-finance-as-a-service-faas-at-amazon-4482728885 | Amazon | Financial Analyst, Finance-as-a-Service(FaaS) | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-reporting-portfolio-analytics-open-end-funds-at-bluestone-solutions-group-4489581224 | blueStone Solutions Group | Associate, Reporting & Portfolio Analytics (Open-End Funds) | Hyderabad, Telangana, India | posted: 2026-11-13 | note: via LinkedIn
+
 ## Processed
