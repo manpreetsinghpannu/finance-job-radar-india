@@ -331,5 +331,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808678 | JPMorgan Chase | Asset Management - Lux Product Administration - Alternative Funds Oversight | Bengaluru, Karnataka, India | posted: 2026-11-13
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Institutional-Credit-Management---Underwriter---Officer_26944313 | Citi | Institutional Credit Management - Underwriter - Officer | Mumbai Maharashtra India | posted: 2026-11-13
 - [ ] https://www.linkedin.com/jobs/view/valuation-associate-at-starlette-property-valuations-opc-pvt-ltd-4488900413 | STARLETTE PROPERTY VALUATIONS (OPC) PVT LTD | Valuation Associate | Coimbatore, Tamil Nadu, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-talent-to-job-4490581495 | Talent to Job | Financial Analyst | India | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
