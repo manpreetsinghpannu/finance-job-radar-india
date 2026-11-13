@@ -1,15 +1,55 @@
 {
-  "finished_at": "2026-11-13T22:04:29.410Z",
+  "finished_at": "2026-11-13T22:37:25.701Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 43474,
-  "filtered_out": 43374,
+  "postings_seen": 39168,
+  "filtered_out": 39078,
   "new_matches": 0,
-  "boards_failed": 4,
+  "boards_failed": 17,
   "failed": [
+    {
+      "company": "Vanguard",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Franklin Templeton",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Wellington Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "S&P Global",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Visa",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "GSK",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Citi",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "BT Group",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Reckitt",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "EY",
+      "error": "HTTP 404 Not Found"
+    },
     {
       "company": "Wipro",
       "error": "bamboohr: /careers/list redirected (302 -> https://wipro.bamboohr.com/settings/account/expired.php) — no usable public postings"
@@ -19,8 +59,20 @@
       "error": "fetch failed"
     },
     {
+      "company": "Ameriprise Financial",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Temasek",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Brookfield",
+      "error": "HTTP 521 <none>"
     },
     {
       "company": "Walmart Global Tech",
