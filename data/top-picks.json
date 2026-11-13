@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T08:41:18.102Z",
+ "generated_at": "2026-11-13T09:41:00.077Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 95,
+   "matching": 98,
    "picks": [
     {
      "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
@@ -74,11 +74,11 @@
      "sponsor": null
     },
     {
-     "title": "Wholesale Credit Risk Sanctioning - LevFin - Analyst",
-     "company": "Barclays",
-     "location": "Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor",
-     "posted": "2026-11-11",
-     "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1",
+     "title": "Analyst - Wholesale Credit Risk Quantitative Research",
+     "company": "JPMorganChase",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-13",
+     "url": "https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839",
      "score": 29,
      "why": [
       "Credit Risk",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 24,
+   "matching": 23,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -274,11 +274,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 12
-  },
-  "https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Strategic-Initiatives--Secondaries-Credit-_R8502-2": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 6
   },
   "https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158": {
    "id": "fund",
@@ -1375,11 +1370,6 @@
    "cv": "Credit CV",
    "score": 13
   },
-  "https://www.linkedin.com/jobs/view/product-research-analyst-at-evoke-hr-solutions-pvt-ltd-4490325935": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 19
-  },
   "https://www.linkedin.com/jobs/view/institutional-equity-research-at-bajaj-broking-4488516657": {
    "id": "equity",
    "cv": "Equity CV",
@@ -1579,6 +1569,26 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-Control_JR-0000131221": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-vetic-4489547123": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-renewable-energy-at-enfinity-global-4489544791": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

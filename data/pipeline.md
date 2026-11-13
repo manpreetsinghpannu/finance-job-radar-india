@@ -343,4 +343,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/head-broking-research-analyst-at-aikyam-capital-private-limited-4488910583 | Aikyam Capital Private Limited | head broking research analyst | Mumbai, Maharashtra, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-mergers-acquisitions-coe-at-bain-company-4458220525 | Bain & Company | Associate - Mergers & Acquisitions CoE | Gurugram, Haryana, India | posted: 2026-11-13 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-Control_JR-0000131221 | Barclays | Analyst Macro Product Control | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park | posted: 2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-vetic-4489547123 | Vetic | Financial Planning and Analysis Specialist | Gurugram, Haryana, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839 | JPMorganChase | Analyst - Wholesale Credit Risk Quantitative Research | Mumbai, Maharashtra, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-renewable-energy-at-enfinity-global-4489544791 | Enfinity Global | Financial Analyst, Renewable Energy | Delhi, Delhi, India | posted: 2026-11-13 | note: via LinkedIn
+
 ## Processed
