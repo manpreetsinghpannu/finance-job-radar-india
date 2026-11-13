@@ -1,17 +1,17 @@
 {
-  "finished_at": "2026-11-13T23:34:07.898Z",
+  "finished_at": "2026-11-13T23:59:31.118Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 37814,
-  "filtered_out": 37728,
-  "new_matches": 1,
+  "postings_seen": 39022,
+  "filtered_out": 38932,
+  "new_matches": 0,
   "boards_failed": 19,
   "failed": [
     {
-      "company": "Franklin Templeton",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -19,7 +19,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Vanguard",
+      "company": "Franklin Templeton",
       "error": "HTTP 521 <none>"
     },
     {

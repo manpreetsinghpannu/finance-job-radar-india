@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 23:34** (UK time) · **285 open roles** at 154 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 23:59** (UK time) · **285 open roles** at 154 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 23:33** · hourly scan · checked 99 boards · **1 new role**
+**Fri 13 Nov, 23:56** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [MSC Finance Analyst , CBI - APAC](https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299) | Cargill | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Fri 13 Nov, 23:33** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<sub>Nothing new at: 23:56</sub>
 
 <details>
 <summary><b>23:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
