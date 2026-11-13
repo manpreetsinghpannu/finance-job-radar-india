@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T07:40:55.308Z",
+ "generated_at": "2026-11-13T08:41:18.102Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 92,
+   "matching": 95,
    "picks": [
     {
      "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
@@ -60,20 +60,6 @@
    "matching": 76,
    "picks": [
     {
-     "title": "Credit Risk Analyst – Digital Lending",
-     "company": "CarCred",
-     "location": "Raipur, Chhattisgarh, India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873",
-     "score": 32,
-     "why": [
-      "Credit Risk",
-      "Lending",
-      "Risk Analyst"
-     ],
-     "sponsor": null
-    },
-    {
      "title": "Wholesale Credit Risk Associate",
      "company": "JPMorgan Chase",
      "location": "Mumbai, Maharashtra, India",
@@ -86,13 +72,26 @@
       "Risk Associate"
      ],
      "sponsor": null
+    },
+    {
+     "title": "Wholesale Credit Risk Sanctioning - LevFin - Analyst",
+     "company": "Barclays",
+     "location": "Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor",
+     "posted": "2026-11-11",
+     "url": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1",
+     "score": 29,
+     "why": [
+      "Credit Risk",
+      "Wholesale Credit"
+     ],
+     "sponsor": null
     }
    ]
   },
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 23,
+   "matching": 24,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -125,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Research Analyst - Investment Banking",
@@ -188,7 +187,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 23,
+   "matching": 22,
    "picks": [
     {
      "title": "Assurance - Financial Market – Real Estate Valuation – Associate",
@@ -1036,11 +1035,6 @@
    "cv": "Credit CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 32
-  },
   "https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1555,6 +1549,36 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst---Product-Control_JR-0000116044": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Treasury-Finance---Analyst_JR-0000134154": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst---Product-Control_JR-0000134583": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Portfolio-Officer---C13---GURUGRAM_261009715": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/head-broking-research-analyst-at-aikyam-capital-private-limited-4488910583": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/associate-mergers-acquisitions-coe-at-bain-company-4458220525": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

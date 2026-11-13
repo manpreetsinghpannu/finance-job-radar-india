@@ -336,4 +336,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051 | Barclays | Analyst - SP Product Control | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ | posted: 2026-11-13
 - [ ] https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com | Morgan Stanley | Fund Accounting_Director_Product Support & Services IM | Bengaluru, Karnataka, India | posted: 2026-11-13
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst---Product-Control_JR-0000116044 | Barclays | Analyst - Product Control | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park | posted: 2026-11-13
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Treasury-Finance---Analyst_JR-0000134154 | Barclays | Treasury Finance - Analyst | Noida, Candor TechSpace · Chennai, DLF IT Park | posted: 2026-11-13
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst---Product-Control_JR-0000134583 | Barclays | Analyst - Product Control | Pune, Gera Commerzone SEZ | posted: 2026-11-13
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Portfolio-Officer---C13---GURUGRAM_261009715 | Citi | Credit Portfolio Officer - C13 - GURUGRAM | Gurugram Haryana India | posted: 2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/head-broking-research-analyst-at-aikyam-capital-private-limited-4488910583 | Aikyam Capital Private Limited | head broking research analyst | Mumbai, Maharashtra, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-mergers-acquisitions-coe-at-bain-company-4458220525 | Bain & Company | Associate - Mergers & Acquisitions CoE | Gurugram, Haryana, India | posted: 2026-11-13 | note: via LinkedIn
+
 ## Processed
