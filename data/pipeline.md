@@ -358,5 +358,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-financial-modelling-project-financing-of-utility-scale-solar-renewable-projects-at-engie-india-4488930649 | ENGIE India | Financial Analyst - Financial Modelling & Project Financing of Utility Scale Solar Renewable Projects | Pune District, Maharashtra, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-services-fund-accountant-at-the-citco-group-limited-4488924843 | The Citco Group Limited | Fund Services.Fund Accountant | Maharashtra, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-services-fr-accountant-at-the-citco-group-limited-4488926784 | The Citco Group Limited | Fund Services. FR Accountant | Pune Division, Maharashtra, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-analyst-structured-finance-at-morningstar-4490361571 | Morningstar | Junior Analyst, Structured Finance | Mumbai, Maharashtra, India | posted: 2026-11-12 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/asset-management-at-ces-4488945353 | CES | Asset Management | Hyderabad, Telangana, India | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
