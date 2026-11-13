@@ -1,22 +1,22 @@
 {
-  "finished_at": "2026-11-13T10:03:32.547Z",
+  "finished_at": "2026-11-13T10:38:50.911Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 42982,
-  "filtered_out": 42880,
-  "new_matches": 2,
+  "postings_seen": 43052,
+  "filtered_out": 42949,
+  "new_matches": 1,
   "boards_failed": 4,
   "failed": [
     {
-      "company": "Societe Generale",
-      "error": "fetch failed"
-    },
-    {
       "company": "Wipro",
       "error": "bamboohr: /careers/list redirected (302 -> https://wipro.bamboohr.com/settings/account/expired.php) — no usable public postings"
+    },
+    {
+      "company": "Societe Generale",
+      "error": "fetch failed"
     },
     {
       "company": "Duff & Phelps (Kroll)",

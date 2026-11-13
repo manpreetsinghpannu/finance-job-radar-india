@@ -350,5 +350,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-control_JR-0000114732 | Barclays | Analyst Macro Product control | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park | posted: 2026-11-13
 - [ ] https://www.linkedin.com/jobs/view/trainee-%E2%80%93-credit-portfolio-management-societe-generale-india-mumbai-at-societe-generale-4474339377 | Societe Generale | Trainee – Credit Portfolio Management, Societe Generale India (Mumbai) | Mumbai Metropolitan Region | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-aws-finance-at-amazon-4472182312 | Amazon | Financial Analyst, AWS Finance | Hyderabad, Telangana, India | posted: 2026-11-12 | note: via LinkedIn
 
 ## Processed

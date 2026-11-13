@@ -285,7 +285,7 @@
  },
  "https://www.linkedin.com/jobs/view/accountant-4487142018": {
   "status": "unknown",
-  "checked_at": "2026-11-13T07:37:56Z"
+  "checked_at": "2026-11-13T10:38:42Z"
  },
  "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
   "status": "unknown",
@@ -339,7 +339,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-4-at-hp-4488842916": {
   "status": "live",
-  "checked_at": "2026-11-13T07:38:00Z"
+  "checked_at": "2026-11-13T10:38:46Z"
  },
  "https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764": {
   "status": "live",
@@ -747,15 +747,15 @@
  },
  "https://www.linkedin.com/jobs/view/fp-a-ib-pe-m-a-at-mavi-4482128750": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:49Z"
+  "checked_at": "2026-11-13T10:38:35Z"
  },
  "https://www.linkedin.com/jobs/view/team-member-treasury-corporate-finance-at-adani-ports-and-sez-4464475303": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:53Z"
+  "checked_at": "2026-11-13T10:38:39Z"
  },
  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:50Z"
+  "checked_at": "2026-11-13T10:38:36Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1": {
   "status": "live",
@@ -777,19 +777,19 @@
  },
  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:35Z"
+  "checked_at": "2026-11-13T10:38:18Z"
  },
  "https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:42Z"
+  "checked_at": "2026-11-13T10:38:28Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:46Z"
+  "checked_at": "2026-11-13T10:38:32Z"
  },
  "https://www.linkedin.com/jobs/view/credit-associate-ca-at-corenza-4490096731": {
   "status": "live",
-  "checked_at": "2026-11-13T07:38:03Z"
+  "checked_at": "2026-11-13T10:38:49Z"
  },
  "https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592": {
   "status": "live",
@@ -859,19 +859,19 @@
  },
  "https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:28Z"
+  "checked_at": "2026-11-13T10:38:14Z"
  },
  "https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:32Z"
+  "checked_at": "2026-11-13T10:38:18Z"
  },
  "https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:35Z"
+  "checked_at": "2026-11-13T10:38:21Z"
  },
  "https://www.linkedin.com/jobs/view/specialist-treasury-at-stonex-group-inc-4466913370": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:39Z"
+  "checked_at": "2026-11-13T10:38:25Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808225": {
   "status": "live",
@@ -1053,7 +1053,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-at-talent-to-job-4490581495": {
   "status": "live",
-  "checked_at": "2026-11-13T07:37:25Z"
+  "checked_at": "2026-11-13T10:38:11Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051": {
   "status": "live",
@@ -1098,5 +1098,13 @@
  "https://www.linkedin.com/jobs/view/financial-analyst-renewable-energy-at-enfinity-global-4489544791": {
   "status": "live",
   "checked_at": "2026-11-13T10:03:31Z"
+ },
+ "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-control_JR-0000114732": {
+  "status": "live",
+  "checked_at": "2026-11-13T10:38:07Z"
+ },
+ "https://www.linkedin.com/jobs/view/trainee-%E2%80%93-credit-portfolio-management-societe-generale-india-mumbai-at-societe-generale-4474339377": {
+  "status": "live",
+  "checked_at": "2026-11-13T10:38:07Z"
  }
 }
