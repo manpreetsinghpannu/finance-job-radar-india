@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 02:13** (UK time) · **255 open roles** at 141 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 02:36** (UK time) · **255 open roles** at 141 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 02:12** · hourly scan · checked 99 boards · **3 new roles**
+**Fri 13 Nov, 02:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Consultor/a Asesoramiento Financiero - Corporate Treasury](https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/) | EY |  |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) | EY | Mumbai |
-
-### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  |
+Nothing new this time. The last scan that found something was **Fri 13 Nov, 02:12** (3: Finance 1 · Credit 1 · Consulting 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<sub>Nothing new at: 02:36</sub>
 
 <details>
 <summary><b>02:12</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Consulting 1</summary>
