@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 06:38** (UK time) · **261 open roles** at 144 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 07:40** (UK time) · **261 open roles** at 142 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,29 +10,35 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 06:37** · hourly scan · checked 99 boards · **1 new role**
+**Fri 13 Nov, 07:37** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-13 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-talent-to-job-4490581495) | Talent to Job | India |
+| 2026-11-13 | [Analyst - SP Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
+
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (91 matching)
+**Finance (FP&A) CV** (92 matching)
 
 1. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
 2. [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) · SGS · Hyderabad, Telangana, India · posted 2026-11-12
 
-**Credit CV** (77 matching)
+**Credit CV** (76 matching)
 
 1. [Credit Risk Analyst – Digital Lending](https://www.linkedin.com/jobs/view/credit-risk-analyst-%E2%80%93-digital-lending-at-carcred-4488666873) · CarCred · Raipur, Chhattisgarh, India · posted 2026-11-11
 2. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
 
-**Equity CV** (24 matching)
+**Equity CV** (23 matching)
 
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) · Millennium · Bengaluru, Karnataka, India · posted 2026-11-07
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) · Simpledha · Chennai, Tamil Nadu, India · posted 2026-11-07
@@ -52,7 +58,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Assurance - Financial Market – Real Estate Valuation – Associate](https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961) · PwC Acceleration Center India · Bengaluru East, Karnataka, India · posted 2026-11-12
 2. [Financial Analyst - Real Estate Underwriter](https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442) · RHC India · Vadodara, Gujarat, India · posted 2026-11-10
 
-**Fund CV (written for India; tweak the header for UK roles)** (17 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (18 matching)
 
 1. [Associate, Alternatives Fund Accounting](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143) · BlackRock · Mumbai, India · posted 2026-11-13
 2. [Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL](https://www.linkedin.com/jobs/view/risk-reporting-analyst-%E2%80%93-alternative-investments-portfolio-analytics-excel-sql-at-synechron-4488314129) · Synechron · Greater Hyderabad Area · posted 2026-11-10
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<details>
+<summary><b>07:37</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [Analyst - SP Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>06:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -336,7 +359,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>12:37</b> · hourly scan · <b>6 new</b> → Finance 1 · Credit 3 · Equity 1 · Investment 1</summary>
+<summary><b>12:37</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 2 · Equity 1 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -344,11 +367,10 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-12 | [Product Control Valuations -Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 
-#### Credit CV: 3
+#### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-12 | [Corporate loans Credit Analyst(B2B)](https://www.linkedin.com/jobs/view/corporate-loans-credit-analyst-b2b-at-blueberry-infratech-pvt-ltd-4488509883) | Blueberry Infratech Pvt. Ltd. | Hyderabad, Telangana, India |
 | 2026-11-12 | [Quality Executive - Retail MFB - Credit - Adilabad - Asifabad - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/46683) | Tata Capital | Asifabad, Telangana, India |
 | 2026-11-12 | [Model Risk Management-BA3](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Model-Risk-Management-BA3_JR-0000129936-1) | Barclays | Noida, Candor TechSpace |
 
@@ -364,7 +386,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-12 | [M&A- Integration and Separation](https://www.linkedin.com/jobs/view/m-a-integration-and-separation-mumbai-chennai-bangalore-at-kpmg-india-4490334145) | KPMG India | Mumbai |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -467,7 +489,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 08:37</sub>
 
 <details>
-<summary><b>08:16</b> · hourly scan · <b>7 new</b> → Credit 2 · Equity 1 · Investment 4</summary>
+<summary><b>08:16</b> · hourly scan · <b>6 new</b> → Credit 2 · Investment 4</summary>
 
 #### Credit CV: 2
 
@@ -475,12 +497,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-12 | [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Credit Analyst - Working Capital](https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537) | ecH-aaR Manpower Solutions | Bengaluru, Karnataka, India |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [TECHNICAL RESEARCH ANALYST-Intraday Trading](https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955) | One Paper | Bengaluru, Karnataka, India |
 
 #### Investment (IB / PE) CV: 4
 
@@ -490,6 +506,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-12 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674472-1) | Accenture | Bengaluru |
 | 2026-11-12 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674473-1) | Accenture | Bengaluru |
 | 2026-11-12 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674471-1) | Accenture | Bengaluru |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1578,13 +1596,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (78)](#finance-fpa-cv-78) · [Credit (78)](#credit-cv-78) · [Equity (15)](#equity-cv-15) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (21)](#consulting-cv-21) · [Real Estate (6)](#real-estate-cv-6) · [Fund (13)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-13) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (79)](#finance-fpa-cv-79) · [Credit (77)](#credit-cv-77) · [Equity (14)](#equity-cv-14) · [Investment (40)](#investment-ib--pe-cv-40) · [Consulting (21)](#consulting-cv-21) · [Real Estate (6)](#real-estate-cv-6) · [Fund (14)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-14) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
-### Finance (FP&A) CV: 78
+### Finance (FP&A) CV: 79
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-13 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-talent-to-job-4490581495) | Talent to Job | India |
+| 2026-11-13 | [Analyst - SP Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | — | [Consultor/a Asesoramiento Financiero - Corporate Treasury](https://careers.ey.com/ey/job/Barcelona-Consultora-Asesoramiento-Financiero-Corporate-Treasury-08017/1382166733/) | EY |  |
 | 2026-11-12 | [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) | Cisco | Bengaluru, Karnataka, India |
 | 2026-11-12 | [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) | SGS | Hyderabad, Telangana, India |
@@ -1663,7 +1682,7 @@ Everything matched so far, newest first within each CV: [Finance (78)](#finance-
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 78
+### Credit CV: 77
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1675,7 +1694,6 @@ Everything matched so far, newest first within each CV: [Finance (78)](#finance-
 | 2026-11-12 | [Credit Risk Associate - C&SI Middle Market Corporate](https://www.linkedin.com/jobs/view/credit-risk-associate-c-si-middle-market-corporate-at-jpmorganchase-4440828991) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Credit Portfolio Analyst II](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Analyst-II_261008652) | Citi | Mumbai Maharashtra India |
 | 2026-11-12 | [Credit Analyst - Working Capital](https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537) | ecH-aaR Manpower Solutions | Bengaluru, Karnataka, India |
-| 2026-11-12 | [Corporate loans Credit Analyst(B2B)](https://www.linkedin.com/jobs/view/corporate-loans-credit-analyst-b2b-at-blueberry-infratech-pvt-ltd-4488509883) | Blueberry Infratech Pvt. Ltd. | Hyderabad, Telangana, India |
 | 2026-11-12 | [Credit Research - Banking Analyst](https://www.linkedin.com/jobs/view/credit-research-banking-analyst-at-acuity-analytics-4480033723) | Acuity Analytics | Pune Division, Maharashtra, India |
 | 2026-11-12 | [Credit Executive](https://www.linkedin.com/jobs/view/credit-executive-at-vinmar-international-4472115447) | Vinmar International | Mumbai Metropolitan Region |
 | 2026-11-12 | [Business Risk Analyst - Supply Chain Finance](https://www.linkedin.com/jobs/view/business-risk-analyst-supply-chain-finance-at-idfc-first-bank-4471999589) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
@@ -1746,14 +1764,13 @@ Everything matched so far, newest first within each CV: [Finance (78)](#finance-
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 15
+### Equity CV: 14
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [PRODUCT & RESEARCH ANALYST](https://www.linkedin.com/jobs/view/product-research-analyst-at-evoke-hr-solutions-pvt-ltd-4490325935) | Evoke HR Solutions Pvt. Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) | CoKaCo | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779) | News Capital Market | Ahmedabad, Gujarat, India |
-| 2026-11-12 | [TECHNICAL RESEARCH ANALYST-Intraday Trading](https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955) | One Paper | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-wcc-investment-advisors-pvt-ltd-4489087488) | WCC Investment Advisors Pvt. Ltd. | Noida, Uttar Pradesh, India |
 | 2026-11-12 | [Institutional Equity Research](https://www.linkedin.com/jobs/view/institutional-equity-research-at-bajaj-broking-4488516657) | Bajaj Broking | Mumbai Metropolitan Region |
 | 2026-11-12 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-hos-bharat-services-private-limited-4488509960) | HOS Bharat Services Private Limited | Ahmedabad, Gujarat, India |
@@ -1848,11 +1865,12 @@ Everything matched so far, newest first within each CV: [Finance (78)](#finance-
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 13
+### Fund CV (written for India; tweak the header for UK roles): 14
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-13 | [Associate, Alternatives Fund Accounting](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143) | BlackRock | Mumbai, India |
+| 2026-11-13 | [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706) | SGGG Fund Services Inc. | Panchkula, Haryana, India |
 | 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-csc-4488522065) | CSC | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Fund Accounting Analyst2 - C10](https://www.linkedin.com/jobs/view/fund-accounting-analyst2-c10-at-citi-4489203496) | Citi | Pune Division, Maharashtra, India |
@@ -1884,10 +1902,12 @@ Everything matched so far, newest first within each CV: [Finance (78)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>29 roles taken off the list because the firm closed the posting</summary>
+<summary>31 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 13 Nov, 07:38 | Corporate loans Credit Analyst(B2B) | Blueberry Infratech Pvt. Ltd. |
+| Fri 13 Nov, 07:38 | TECHNICAL RESEARCH ANALYST-Intraday Trading | One Paper |
 | Thu 12 Nov, 20:39 | Specialist, FP&A | Invesco |
 | Thu 12 Nov, 14:37 | Financial Analyst | Stellar Fusion |
 | Thu 12 Nov, 12:37 | Research Analyst | PMS AIF Club |

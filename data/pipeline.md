@@ -333,4 +333,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/valuation-associate-at-starlette-property-valuations-opc-pvt-ltd-4488900413 | STARLETTE PROPERTY VALUATIONS (OPC) PVT LTD | Valuation Associate | Coimbatore, Tamil Nadu, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-talent-to-job-4490581495 | Talent to Job | Financial Analyst | India | posted: 2026-11-13 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051 | Barclays | Analyst - SP Product Control | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ | posted: 2026-11-13
+- [ ] https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com | Morgan Stanley | Fund Accounting_Director_Product Support & Services IM | Bengaluru, Karnataka, India | posted: 2026-11-13
+
 ## Processed

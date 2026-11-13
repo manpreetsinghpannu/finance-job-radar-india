@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:38:11.322Z",
+ "generated_at": "2026-11-13T07:40:55.308Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
      "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 77,
+   "matching": 76,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 24,
+   "matching": 23,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -220,7 +220,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 17,
+   "matching": 18,
    "picks": [
     {
      "title": "Associate, Alternatives Fund Accounting",
@@ -1226,11 +1226,6 @@
    "cv": "Credit CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/technical-research-analyst-intraday-trading-at-one-paper-4489078955": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1340,11 +1335,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/corporate-loans-credit-analyst-b2b-at-blueberry-infratech-pvt-ltd-4488509883": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/investment-analyst-at-hos-bharat-services-private-limited-4488509960": {
    "id": "equity",
@@ -1555,6 +1545,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }
