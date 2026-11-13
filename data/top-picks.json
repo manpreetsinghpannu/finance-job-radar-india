@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T04:41:07.747Z",
+ "generated_at": "2026-11-13T05:38:54.542Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 75,
+   "matching": 76,
    "picks": [
     {
      "title": "Credit Risk Analyst – Digital Lending",
@@ -220,8 +220,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 16,
+   "matching": 17,
    "picks": [
+    {
+     "title": "Associate, Alternatives Fund Accounting",
+     "company": "BlackRock",
+     "location": "Mumbai, India",
+     "posted": "2026-11-13",
+     "url": "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143",
+     "score": 16,
+     "why": [
+      "Fund Accounting"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Risk & Reporting Analyst – Alternative Investments, Portfolio Analytics & Excel/SQL",
      "company": "Synechron",
@@ -232,18 +244,6 @@
      "why": [
       "Portfolio Analytics",
       "Reporting Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Fund Accounting Analyst",
-     "company": "Citi",
-     "location": "Pune Maharashtra India",
-     "posted": "2026-11-05",
-     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424",
-     "score": 16,
-     "why": [
-      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -1525,6 +1525,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 13
+  },
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-at-jpmorganchase-4490569554": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
   }
  }
 }

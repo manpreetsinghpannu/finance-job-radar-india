@@ -325,4 +325,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/ | EY | Finance Transformation - Associate/Senior Associate, Business Consulting - Finance
 - [ ] https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/ | EY | Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore | Mumbai
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143 | BlackRock | Associate, Alternatives Fund Accounting | Mumbai, India | posted: 2026-11-13
+- [ ] https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-at-jpmorganchase-4490569554 | JPMorganChase | Commercial & Investment Bank Risk Associate | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
+
 ## Processed
