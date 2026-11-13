@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:40:27.091Z",
+ "generated_at": "2026-11-13T18:08:27.848Z",
  "order": [
   "finance",
   "credit",
@@ -187,8 +187,21 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
+    {
+     "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
+     "company": "Goldman Sachs",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-13",
+     "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045",
+     "score": 22,
+     "why": [
+      "Real Estate",
+      "Asset Management"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Assurance - Financial Market – Real Estate Valuation – Associate",
      "company": "PwC Acceleration Center India",
@@ -199,18 +212,6 @@
      "why": [
       "Real Estate",
       "Valuation"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Financial Analyst - Real Estate Underwriter",
-     "company": "RHC India",
-     "location": "Vadodara, Gujarat, India",
-     "posted": "2026-11-10",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442",
-     "score": 16,
-     "why": [
-      "Real Estate"
      ],
      "sponsor": null
     }
@@ -1673,6 +1674,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 22
   }
  }
 }

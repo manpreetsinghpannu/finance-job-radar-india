@@ -285,7 +285,7 @@
  },
  "https://www.linkedin.com/jobs/view/accountant-4487142018": {
   "status": "unknown",
-  "checked_at": "2026-11-13T14:37:42Z"
+  "checked_at": "2026-11-13T18:08:20Z"
  },
  "https://www.linkedin.com/jobs/view/ai-investment-research-builder-at-algo-one-ai-4487135452": {
   "status": "unknown",
@@ -339,7 +339,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-4-at-hp-4488842916": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:46Z"
+  "checked_at": "2026-11-13T18:08:24Z"
  },
  "https://www.linkedin.com/jobs/view/private-equity-fund-accounting-at-ces-4487140764": {
   "status": "live",
@@ -753,11 +753,11 @@
  },
  "https://www.linkedin.com/jobs/view/team-member-treasury-corporate-finance-at-adani-ports-and-sez-4464475303": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:39Z"
+  "checked_at": "2026-11-13T18:08:17Z"
  },
  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:36Z"
+  "checked_at": "2026-11-13T18:08:14Z"
  },
  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1": {
   "status": "live",
@@ -779,19 +779,19 @@
  },
  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:15Z"
+  "checked_at": "2026-11-13T18:07:56Z"
  },
  "https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:28Z"
+  "checked_at": "2026-11-13T18:08:10Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:32Z"
+  "checked_at": "2026-11-13T18:08:14Z"
  },
  "https://www.linkedin.com/jobs/view/credit-associate-ca-at-corenza-4490096731": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:49Z"
+  "checked_at": "2026-11-13T18:08:27Z"
  },
  "https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592": {
   "status": "live",
@@ -861,19 +861,19 @@
  },
  "https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:14Z"
+  "checked_at": "2026-11-13T18:07:56Z"
  },
  "https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:18Z"
+  "checked_at": "2026-11-13T18:07:59Z"
  },
  "https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:21Z"
+  "checked_at": "2026-11-13T18:08:03Z"
  },
  "https://www.linkedin.com/jobs/view/specialist-treasury-at-stonex-group-inc-4466913370": {
   "status": "live",
-  "checked_at": "2026-11-13T14:37:25Z"
+  "checked_at": "2026-11-13T18:08:06Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808225": {
   "status": "live",
@@ -1168,5 +1168,21 @@
  "https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-accenture-in-india-4490736892": {
   "status": "live",
   "checked_at": "2026-11-13T17:37:21Z"
+ },
+ "https://www.linkedin.com/jobs/view/financial-planning-analysis-representa-at-accenture-in-india-4490736944": {
+  "status": "live",
+  "checked_at": "2026-11-13T18:07:42Z"
+ },
+ "https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556": {
+  "status": "live",
+  "checked_at": "2026-11-13T18:07:45Z"
+ },
+ "https://www.linkedin.com/jobs/view/asset-management-lux-product-administration-alternative-funds-oversight-at-jpmorganchase-4490757204": {
+  "status": "live",
+  "checked_at": "2026-11-13T18:07:49Z"
+ },
+ "https://www.linkedin.com/jobs/view/associate-treasury-at-tiaa-4472564544": {
+  "status": "live",
+  "checked_at": "2026-11-13T18:07:52Z"
  }
 }

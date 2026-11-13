@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-13T17:40:27.682Z",
+  "finished_at": "2026-11-13T18:08:28.585Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 43054,
-  "filtered_out": 42952,
-  "new_matches": 4,
-  "boards_failed": 5,
+  "postings_seen": 43467,
+  "filtered_out": 43363,
+  "new_matches": 1,
+  "boards_failed": 4,
   "failed": [
     {
       "company": "Wipro",
@@ -20,10 +20,6 @@
     },
     {
       "company": "Duff & Phelps (Kroll)",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "GIC",
       "error": "HTTP 404 Not Found"
     },
     {

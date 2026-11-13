@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 17:40** (UK time) · **285 open roles** at 153 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 18:08** (UK time) · **286 open roles** at 154 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 17:37** · hourly scan · checked 99 boards · **4 new roles**
-
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Financial Planning & Analysis Representa](https://www.linkedin.com/jobs/view/financial-planning-analysis-representa-at-accenture-in-india-4490736944) | Accenture in India | Chennai, Tamil Nadu, India |
-| 2026-11-13 | [Associate - Treasury](https://www.linkedin.com/jobs/view/associate-treasury-at-tiaa-4472564544) | TIAA | Mumbai Metropolitan Region |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556) | Neuraleap Group | Chennai, Tamil Nadu, India |
+**Fri 13 Nov, 18:07** · hourly scan · checked 99 boards · **1 new role**
 
 ### Real Estate CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-13 | [Asset Management - Lux Product Administration - Alternative Funds Oversight](https://www.linkedin.com/jobs/view/asset-management-lux-product-administration-alternative-funds-oversight-at-jpmorganchase-4490757204) | JPMorganChase | Bengaluru, Karnataka, India |
+| 2026-11-13 | [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) | Goldman Sachs | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
@@ -60,10 +47,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) · MatchPoint · India · posted 2026-11-11
 2. [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) · EY · Mumbai
 
-**Real Estate CV** (25 matching)
+**Real Estate CV** (26 matching)
 
-1. [Assurance - Financial Market – Real Estate Valuation – Associate](https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961) · PwC Acceleration Center India · Bengaluru East, Karnataka, India · posted 2026-11-12
-2. [Financial Analyst - Real Estate Underwriter](https://www.linkedin.com/jobs/view/financial-analyst-real-estate-underwriter-at-rhc-india-4489468442) · RHC India · Vadodara, Gujarat, India · posted 2026-11-10
+1. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
+2. [Assurance - Financial Market – Real Estate Valuation – Associate](https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961) · PwC Acceleration Center India · Bengaluru East, Karnataka, India · posted 2026-11-12
 
 **Fund CV (written for India; tweak the header for UK roles)** (21 matching)
 
@@ -75,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 13 November
+
+<details>
+<summary><b>18:07</b> · hourly scan · <b>1 new</b> → Real Estate 1</summary>
+
+#### Real Estate CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) | Goldman Sachs | Bengaluru, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>17:37</b> · hourly scan · <b>4 new</b> → Finance 2 · Equity 1 · Real Estate 1</summary>
@@ -1789,7 +1787,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (93)](#finance-fpa-cv-93) · [Credit (79)](#credit-cv-79) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (21)](#consulting-cv-21) · [Real Estate (9)](#real-estate-cv-9) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (93)](#finance-fpa-cv-93) · [Credit (79)](#credit-cv-79) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (21)](#consulting-cv-21) · [Real Estate (10)](#real-estate-cv-10) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
 ### Finance (FP&A) CV: 93
 
@@ -2067,10 +2065,11 @@ Everything matched so far, newest first within each CV: [Finance (93)](#finance-
 | — | [Consultant / Anaplan / Kolkata / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Kolkata-Consultant-Anaplan-Kolkata-Finance-Transformation-Business-Finance/61240244/) | Deloitte India | Kolkata |
 | — | [Consultant / Oracle - EPBCS / Pune / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Pune-Consultant-Oracle-EPBCS-Pune-Finance-Transformation-Business-Finance/59463644/) | Deloitte India | Pune |
 
-### Real Estate CV: 9
+### Real Estate CV: 10
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-13 | [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) | Goldman Sachs | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Asset Management - Lux Product Administration - Alternative Funds Oversight](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808678) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Asset Management](https://www.linkedin.com/jobs/view/asset-management-at-ces-4488945353) | CES | Hyderabad, Telangana, India |
 | 2026-11-13 | [Asset Management - Lux Product Administration - Alternative Funds Oversight](https://www.linkedin.com/jobs/view/asset-management-lux-product-administration-alternative-funds-oversight-at-jpmorganchase-4490757204) | JPMorganChase | Bengaluru, Karnataka, India |
