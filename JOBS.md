@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 13 Nov, 20:40** (UK time) · **285 open roles** at 154 firms · the radar checks every board about once an hour.
+Updated **Fri 13 Nov, 21:41** (UK time) · **284 open roles** at 153 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 13 Nov, 20:37** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 13 Nov, 21:37** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 13 Nov, 18:37** (1: Finance 1); open it in the scan log below.
 
@@ -48,10 +48,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Assurance - Financial Market – Real Estate Valuation – Associate](https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961) · PwC Acceleration Center India · Bengaluru East, Karnataka, India · posted 2026-11-12
 
-**Fund CV (written for India; tweak the header for UK roles)** (21 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (20 matching)
 
-1. [Associate, Alternatives Fund Accounting](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143) · BlackRock · Mumbai, India · posted 2026-11-13
-2. [Associate Accountant (Fund Administration)](https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545) · HC Global Fund Services, LLC · Borivali, Maharashtra, India · posted 2026-11-11
+1. [Associate Accountant (Fund Administration)](https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545) · HC Global Fund Services, LLC · Borivali, Maharashtra, India · posted 2026-11-11
+2. [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) · Morgan Stanley · Bengaluru, Karnataka, India · posted 2026-11-13
 
 ## Scan log (last 7 days)
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 13 November
 
-<sub>Nothing new at: 20:37, 19:37</sub>
+<sub>Nothing new at: 21:37, 20:37, 19:37</sub>
 
 <details>
 <summary><b>18:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -326,7 +326,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>05:37</b> · hourly scan · <b>2 new</b> → Credit 1 · Fund 1</summary>
+<summary><b>05:37</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
 
 #### Credit CV: 1
 
@@ -334,11 +334,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-13 | [Commercial & Investment Bank Risk Associate](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-at-jpmorganchase-4490569554) | JPMorganChase | Bengaluru, Karnataka, India |
 
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Associate, Alternatives Fund Accounting](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143) | BlackRock | Mumbai, India |
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -1786,7 +1782,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (94)](#finance-fpa-cv-94) · [Credit (78)](#credit-cv-78) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (94)](#finance-fpa-cv-94) · [Credit (78)](#credit-cv-78) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (14)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-14) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
 ### Finance (FP&A) CV: 94
 
@@ -2078,11 +2074,10 @@ Everything matched so far, newest first within each CV: [Finance (94)](#finance-
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 15
+### Fund CV (written for India; tweak the header for UK roles): 14
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-13 | [Associate, Alternatives Fund Accounting](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143) | BlackRock | Mumbai, India |
 | 2026-11-13 | [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Fund Services.Fund Accountant](https://www.linkedin.com/jobs/view/fund-services-fund-accountant-at-the-citco-group-limited-4488924843) | The Citco Group Limited | Maharashtra, India |
 | 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706) | SGGG Fund Services Inc. | Panchkula, Haryana, India |
@@ -2116,10 +2111,11 @@ Everything matched so far, newest first within each CV: [Finance (94)](#finance-
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>39 roles taken off the list because the firm closed the posting</summary>
+<summary>40 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 13 Nov, 21:39 | Associate, Alternatives Fund Accounting | BlackRock |
 | Fri 13 Nov, 20:40 | Credit Portfolio Officer - C13 - GURUGRAM | Citi |
 | Fri 13 Nov, 20:39 | Portfolio Valuations_Associate Consultant | KPMG India |
 | Fri 13 Nov, 14:37 | FP&A - IB, PE, M&A | MAVI |

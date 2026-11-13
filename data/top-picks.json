@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:40:18.384Z",
+ "generated_at": "2026-11-13T21:41:19.714Z",
  "order": [
   "finance",
   "credit",
@@ -220,20 +220,8 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 21,
+   "matching": 20,
    "picks": [
-    {
-     "title": "Associate, Alternatives Fund Accounting",
-     "company": "BlackRock",
-     "location": "Mumbai, India",
-     "posted": "2026-11-13",
-     "url": "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143",
-     "score": 16,
-     "why": [
-      "Fund Accounting"
-     ],
-     "sponsor": null
-    },
     {
      "title": "Associate Accountant (Fund Administration)",
      "company": "HC Global Fund Services, LLC",
@@ -243,6 +231,18 @@
      "score": 15,
      "why": [
       "Fund Administration"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Fund Accounting_Director_Product Support & Services IM",
+     "company": "Morgan Stanley",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-13",
+     "url": "https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com",
+     "score": 14,
+     "why": [
+      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -1484,11 +1484,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 13
-  },
-  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R267143": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-at-jpmorganchase-4490569554": {
    "id": "credit",
