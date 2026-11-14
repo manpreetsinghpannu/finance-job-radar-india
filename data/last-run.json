@@ -1,13 +1,13 @@
 {
-  "finished_at": "2026-11-14T09:39:56.052Z",
+  "finished_at": "2026-11-14T10:14:06.662Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 39790,
-  "filtered_out": 39705,
-  "new_matches": 1,
+  "postings_seen": 39702,
+  "filtered_out": 39616,
+  "new_matches": 2,
   "boards_failed": 33,
   "failed": [
     {
@@ -19,19 +19,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Invesco",
-      "error": "fetch failed"
-    },
-    {
       "company": "Vanguard",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone (Campus)",
       "error": "fetch failed"
     },
     {
@@ -39,11 +27,15 @@
       "error": "fetch failed"
     },
     {
-      "company": "PIMCO",
+      "company": "Wellington Management",
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management",
+      "company": "Invesco",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PIMCO",
       "error": "fetch failed"
     },
     {
@@ -55,15 +47,23 @@
       "error": "fetch failed"
     },
     {
+      "company": "Blackstone",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone (Campus)",
+      "error": "fetch failed"
+    },
+    {
       "company": "S&P Global",
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "CME Group",
       "error": "fetch failed"
     },
     {
-      "company": "CME Group",
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
@@ -91,11 +91,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Houlihan Lokey (Campus)",
+      "company": "Houlihan Lokey (Lateral)",
       "error": "fetch failed"
     },
     {
-      "company": "Houlihan Lokey (Lateral)",
+      "company": "Houlihan Lokey (Campus)",
       "error": "fetch failed"
     },
     {

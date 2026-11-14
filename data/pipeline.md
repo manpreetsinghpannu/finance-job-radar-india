@@ -389,5 +389,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quantitative-risk-credit-analytics-%E2%80%93-associate-senior-associate-at-alp-computational-finance-ai-and-data-engineering-4489328346 | ALP (Computational Finance, AI and Data Engineering) | Quantitative Risk & Credit Analytics – Associate / Senior Associate | Bengaluru, Karnataka, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716 | WCC Investment Advisors Pvt. Ltd. | Investment Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967 | Mindnexa Solutions | Equity & Credit Research Expert | India | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195 | Crowe Capabilities Center – India | Valuation Services Consultant - Commercial Valuation | Greater Hyderabad Area | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/services-support-associate-ii-treasury-hyderabad-at-deloitte-4481661949 | Deloitte | Services Support Associate II-Treasury-Hyderabad | Hyderabad, Telangana, India | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T09:39:55.411Z",
+ "generated_at": "2026-11-14T10:14:06.075Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 112,
+   "matching": 113,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 26,
+   "matching": 25,
    "picks": [
     {
      "title": "Investment Research Analyst",
@@ -140,12 +140,12 @@
      "sponsor": null
     },
     {
-     "title": "Research Analyst - Investment Banking",
-     "company": "CoKaCo",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-12",
-     "url": "https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195",
-     "score": 19,
+     "title": "Investment Banking Analyst",
+     "company": "Cap Connect",
+     "location": "New Delhi, Delhi, India",
+     "posted": "2026-11-11",
+     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246",
+     "score": 18,
      "why": [
       "Investment Banking"
      ],
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 26,
+   "matching": 27,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -1386,11 +1386,6 @@
    "cv": "Consulting CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 19
-  },
   "https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/": {
    "id": "consulting",
    "cv": "Consulting CV",
@@ -1740,6 +1735,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/services-support-associate-ii-treasury-hyderabad-at-deloitte-4481661949": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
