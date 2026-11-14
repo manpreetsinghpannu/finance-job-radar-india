@@ -1,21 +1,21 @@
 {
-  "finished_at": "2026-11-14T04:37:04.093Z",
+  "finished_at": "2026-11-14T05:40:45.901Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 38289,
-  "filtered_out": 38226,
+  "postings_seen": 38004,
+  "filtered_out": 37942,
   "new_matches": 1,
-  "boards_failed": 38,
+  "boards_failed": 39,
   "failed": [
     {
-      "company": "Vanguard",
+      "company": "Wellington Management",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -39,11 +39,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Blackstone (Campus)",
+      "company": "Blackstone",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Blackstone",
+      "company": "Blackstone (Campus)",
       "error": "HTTP 521 <none>"
     },
     {
@@ -59,11 +59,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "CME Group",
+      "company": "Nasdaq",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Nasdaq",
+      "company": "CME Group",
       "error": "HTTP 521 <none>"
     },
     {
@@ -71,11 +71,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Marsh McLennan",
+      "company": "Visa",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Visa",
+      "company": "Marsh McLennan",
       "error": "HTTP 521 <none>"
     },
     {
@@ -115,11 +115,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Nomura",
+      "company": "SMBC",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "SMBC",
+      "company": "Nomura",
       "error": "HTTP 404 Not Found"
     },
     {
@@ -135,24 +135,24 @@
       "error": "fetch failed"
     },
     {
-      "company": "Duff & Phelps (Kroll)",
-      "error": "HTTP 404 Not Found"
-    },
-    {
       "company": "Ameriprise Financial",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Mahindra Group",
+      "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Brookfield",
+      "error": "HTTP 521 <none>"
     },
     {
       "company": "Asian Paints",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Brookfield",
-      "error": "HTTP 521 <none>"
+      "company": "Mahindra Group",
+      "error": "HTTP 404 Not Found"
     },
     {
       "company": "Walmart Global Tech",
@@ -161,6 +161,10 @@
     {
       "company": "Target India",
       "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Genpact",
+      "error": "This operation was aborted"
     }
   ]
 }

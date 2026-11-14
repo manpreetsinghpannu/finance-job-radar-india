@@ -377,5 +377,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://southasiacareers.deloitte.com/job/Ahmedabad-Analyst-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/59843244/ | Deloitte India | Analyst / Onestream: All / Ahmedabad / Finance Transformation / Business Finance | Ahmedabad
 
 - [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57019 | Tata Capital | Quality Executive - Retail MFB - Credit - Kittur - Shimbi Complex - J Grades | India | posted: 2026-11-14
+- [ ] https://www.linkedin.com/jobs/view/treasury-hedge-accounting-analyst-at-barclays-4488589717 | Barclays | Treasury Hedge Accounting Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed
