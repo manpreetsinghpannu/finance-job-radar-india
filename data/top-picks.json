@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T07:37:00.322Z",
+ "generated_at": "2026-11-14T08:36:18.373Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 82,
+   "matching": 83,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -91,8 +91,21 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 24,
+   "matching": 25,
    "picks": [
+    {
+     "title": "Investment Research Analyst",
+     "company": "WCC Investment Advisors Pvt. Ltd.",
+     "location": "Noida, Uttar Pradesh, India",
+     "posted": "2026-11-14",
+     "url": "https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716",
+     "score": 28,
+     "why": [
+      "Research Analyst",
+      "Investment Research"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Equity Research Analyst",
      "company": "Neuraleap Group",
@@ -100,19 +113,6 @@
      "posted": "2026-11-13",
      "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556",
      "score": 28,
-     "why": [
-      "Equity Research",
-      "Research Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Equity Research Analyst",
-     "company": "Millennium",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-07",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347",
-     "score": 26,
      "why": [
       "Equity Research",
       "Research Analyst"
@@ -1725,6 +1725,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-risk-credit-analytics-%E2%80%93-associate-senior-associate-at-alp-computational-finance-ai-and-data-engineering-4489328346": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
   }
  }
 }

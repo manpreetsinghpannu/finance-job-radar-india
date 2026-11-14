@@ -1,77 +1,81 @@
 {
-  "finished_at": "2026-11-14T07:37:00.960Z",
+  "finished_at": "2026-11-14T08:36:19.100Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 36818,
-  "filtered_out": 36769,
-  "new_matches": 1,
-  "boards_failed": 52,
+  "postings_seen": 37996,
+  "filtered_out": 37933,
+  "new_matches": 2,
+  "boards_failed": 38,
   "failed": [
     {
-      "company": "MUFG",
+      "company": "BlackRock",
       "error": "fetch failed"
-    },
-    {
-      "company": "Barclays",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Fidelity International",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management",
-      "error": "HTTP 521 <none>"
     },
     {
       "company": "Invesco (Early Careers)",
-      "error": "HTTP 521 <none>"
+      "error": "fetch failed"
     },
     {
-      "company": "Vanguard",
-      "error": "HTTP 521 <none>"
+      "company": "Invesco",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone (Campus)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PIMCO",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Ares Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Bain Capital",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Nasdaq",
+      "error": "fetch failed"
+    },
+    {
+      "company": "CME Group",
+      "error": "fetch failed"
+    },
+    {
+      "company": "AIG",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Marsh McLennan",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Mastercard",
+      "error": "fetch failed"
     },
     {
       "company": "Franklin Templeton",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "BlackRock",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Invesco",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "PIMCO",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Blackstone",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Blackstone (Campus)",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "LSEG",
+      "company": "PayPal",
       "error": "fetch failed"
     },
     {
-      "company": "LSEG (Graduates)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Ares Management",
+      "company": "Vanguard",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Bain Capital",
+      "company": "Wellington Management",
       "error": "HTTP 521 <none>"
     },
     {
@@ -79,92 +83,36 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "CME Group",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Nasdaq",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "AIG",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Marsh McLennan",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Mastercard",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "AstraZeneca",
-      "error": "fetch failed"
-    },
-    {
-      "company": "AstraZeneca (Emerging Talent)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Unilever (Early Careers)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Unilever",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Diageo",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Rolls-Royce",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Shell",
-      "error": "fetch failed"
-    },
-    {
       "company": "Visa",
       "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Houlihan Lokey (Campus)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Houlihan Lokey (Lateral)",
+      "error": "fetch failed"
     },
     {
       "company": "GSK",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "PayPal",
-      "error": "HTTP 521 <none>"
+      "company": "Mizuho",
+      "error": "fetch failed"
     },
     {
-      "company": "Houlihan Lokey (Lateral)",
-      "error": "HTTP 521 <none>"
+      "company": "State Street",
+      "error": "fetch failed"
     },
     {
-      "company": "Houlihan Lokey (Campus)",
-      "error": "HTTP 521 <none>"
+      "company": "Northern Trust",
+      "error": "fetch failed"
     },
     {
       "company": "Citi",
       "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Mizuho",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "State Street",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Northern Trust",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "BP",
-      "error": "fetch failed"
     },
     {
       "company": "Nomura",
@@ -187,7 +135,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "DBS Bank",
+      "company": "Ameriprise Financial",
       "error": "fetch failed"
     },
     {
@@ -195,19 +143,11 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Ameriprise Financial",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Brookfield",
-      "error": "HTTP 521 <none>"
+      "error": "fetch failed"
     },
     {
       "company": "Mahindra Group",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Asian Paints",
       "error": "HTTP 404 Not Found"
     },
     {
@@ -216,7 +156,11 @@
     },
     {
       "company": "Target India",
-      "error": "HTTP 521 <none>"
+      "error": "fetch failed"
+    },
+    {
+      "company": "Asian Paints",
+      "error": "HTTP 404 Not Found"
     }
   ]
 }

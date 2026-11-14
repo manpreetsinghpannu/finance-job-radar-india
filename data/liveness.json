@@ -51,15 +51,15 @@
  },
  "https://jobs.smartrecruiters.com/experian/744000158664969-risk-analyst-data-science-analytics": {
   "status": "live",
-  "checked_at": "2026-11-14T04:37:00Z"
+  "checked_at": "2026-11-14T08:36:15Z"
  },
  "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant---Financial-Institutions---Counterparty-Risk_R163825-1": {
   "status": "live",
-  "checked_at": "2026-11-14T04:37:00Z"
+  "checked_at": "2026-11-14T08:36:15Z"
  },
  "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1": {
   "status": "live",
-  "checked_at": "2026-11-14T04:37:00Z"
+  "checked_at": "2026-11-14T08:36:15Z"
  },
  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011": {
   "status": "live",
@@ -239,11 +239,11 @@
  },
  "https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974": {
   "status": "live",
-  "checked_at": "2026-11-14T04:36:59Z"
+  "checked_at": "2026-11-14T08:36:14Z"
  },
  "https://www.linkedin.com/jobs/view/treasury-officer-4486687879": {
   "status": "unknown",
-  "checked_at": "2026-11-14T04:37:03Z"
+  "checked_at": "2026-11-14T08:36:18Z"
  },
  "https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669": {
   "status": "live",
@@ -1234,5 +1234,9 @@
  "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648": {
   "status": "live",
   "checked_at": "2026-11-14T07:36:56Z"
+ },
+ "https://www.linkedin.com/jobs/view/debt-syndication-executive-at-misha-capital-4489861622": {
+  "status": "unknown",
+  "checked_at": "2026-11-14T08:36:11Z"
  }
 }
