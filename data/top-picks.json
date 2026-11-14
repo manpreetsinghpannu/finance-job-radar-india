@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:36:18.373Z",
+ "generated_at": "2026-11-14T09:39:55.411Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 83,
+   "matching": 84,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Investment Research Analyst",
@@ -1735,6 +1735,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
   }
  }
 }

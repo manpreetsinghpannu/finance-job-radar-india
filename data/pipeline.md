@@ -388,5 +388,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/debt-syndication-executive-at-misha-capital-4489861622 | Misha Capital | Debt Syndication Executive | New Delhi, Delhi, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantitative-risk-credit-analytics-%E2%80%93-associate-senior-associate-at-alp-computational-finance-ai-and-data-engineering-4489328346 | ALP (Computational Finance, AI and Data Engineering) | Quantitative Risk & Credit Analytics – Associate / Senior Associate | Bengaluru, Karnataka, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716 | WCC Investment Advisors Pvt. Ltd. | Investment Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967 | Mindnexa Solutions | Equity & Credit Research Expert | India | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

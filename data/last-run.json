@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-14T08:36:19.100Z",
+  "finished_at": "2026-11-14T09:39:56.052Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 37996,
-  "filtered_out": 37933,
-  "new_matches": 2,
-  "boards_failed": 38,
+  "postings_seen": 39790,
+  "filtered_out": 39705,
+  "new_matches": 1,
+  "boards_failed": 33,
   "failed": [
     {
       "company": "BlackRock",
@@ -23,11 +23,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone (Campus)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PIMCO",
+      "company": "Vanguard",
       "error": "fetch failed"
     },
     {
@@ -35,11 +31,31 @@
       "error": "fetch failed"
     },
     {
-      "company": "Ares Management",
+      "company": "Blackstone (Campus)",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Franklin Templeton",
+      "error": "fetch failed"
+    },
+    {
+      "company": "PIMCO",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Wellington Management",
       "error": "fetch failed"
     },
     {
       "company": "Bain Capital",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Ares Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "S&P Global",
       "error": "fetch failed"
     },
     {
@@ -63,28 +79,16 @@
       "error": "fetch failed"
     },
     {
-      "company": "Franklin Templeton",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "PayPal",
       "error": "fetch failed"
     },
     {
-      "company": "Vanguard",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Wellington Management",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "S&P Global",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Visa",
-      "error": "HTTP 521 <none>"
+      "error": "fetch failed"
+    },
+    {
+      "company": "GSK",
+      "error": "fetch failed"
     },
     {
       "company": "Houlihan Lokey (Campus)",
@@ -95,8 +99,8 @@
       "error": "fetch failed"
     },
     {
-      "company": "GSK",
-      "error": "HTTP 521 <none>"
+      "company": "Citi",
+      "error": "fetch failed"
     },
     {
       "company": "Mizuho",
@@ -109,22 +113,6 @@
     {
       "company": "Northern Trust",
       "error": "fetch failed"
-    },
-    {
-      "company": "Citi",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Nomura",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "SMBC",
-      "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "Janus Henderson",
-      "error": "HTTP 404 Not Found"
     },
     {
       "company": "Wipro",
@@ -147,20 +135,12 @@
       "error": "fetch failed"
     },
     {
-      "company": "Mahindra Group",
-      "error": "HTTP 404 Not Found"
-    },
-    {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
     },
     {
       "company": "Target India",
       "error": "fetch failed"
-    },
-    {
-      "company": "Asian Paints",
-      "error": "HTTP 404 Not Found"
     }
   ]
 }
