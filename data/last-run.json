@@ -1,47 +1,15 @@
 {
-  "finished_at": "2026-11-14T15:39:55.089Z",
+  "finished_at": "2026-11-14T16:36:53.908Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 40129,
-  "filtered_out": 40048,
+  "postings_seen": 42165,
+  "filtered_out": 42073,
   "new_matches": 1,
-  "boards_failed": 20,
+  "boards_failed": 8,
   "failed": [
-    {
-      "company": "BlackRock",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Invesco",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Invesco (Early Careers)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Ares Management",
-      "error": "fetch failed"
-    },
-    {
-      "company": "S&P Global",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Nasdaq",
-      "error": "fetch failed"
-    },
-    {
-      "company": "CME Group",
-      "error": "fetch failed"
-    },
-    {
-      "company": "AIG",
-      "error": "fetch failed"
-    },
     {
       "company": "Marsh McLennan",
       "error": "fetch failed"
@@ -55,18 +23,6 @@
       "error": "fetch failed"
     },
     {
-      "company": "GSK",
-      "error": "fetch failed"
-    },
-    {
-      "company": "State Street",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Northern Trust",
-      "error": "fetch failed"
-    },
-    {
       "company": "Wipro",
       "error": "bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant"
     },
@@ -77,10 +33,6 @@
     {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "EY",
-      "error": "This operation was aborted"
     },
     {
       "company": "Walmart Global Tech",

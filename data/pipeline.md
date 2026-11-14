@@ -399,5 +399,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/vetic-financial-planning-amp-analysis-role-ca-at-vetic-4491022928 | Vetic | Vetic - Financial Planning &amp; Analysis Role - CA | Gurugram, Haryana, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/c1-credit-risk-modeler-at-exl-4446579522 | EXL | C1 - Credit Risk Modeler | Gurugram, Haryana, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-asset-management-commercial-real-estate-us-mortgage-at-three-across-4483324194 | Three Across | Associate - Asset Management - Commercial real estate - US Mortgage | Bangalore Urban, Karnataka, India | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-capital-and-debt-advisory-mumbai-at-ey-4467390998 | EY | Associate - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

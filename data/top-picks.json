@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:39:54.369Z",
+ "generated_at": "2026-11-14T16:36:52.981Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 84,
+   "matching": 85,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 51,
+   "matching": 52,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 26,
+   "matching": 27,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -1780,6 +1780,11 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-capital-and-debt-advisory-mumbai-at-ey-4467390998": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
   }
  }
 }
