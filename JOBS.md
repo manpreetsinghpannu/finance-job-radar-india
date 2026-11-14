@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 14 Nov, 10:39** (UK time) · **300 open roles** at 161 firms · the radar checks every board about once an hour.
+Updated **Sat 14 Nov, 11:36** (UK time) · **301 open roles** at 162 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,24 +10,30 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 14 Nov, 10:36** · hourly scan · checked 99 boards · **1 new role**
+**Sat 14 Nov, 11:36** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-compressor-systems-services-4489562782) | Ingersoll Rand Compressor Systems & Services | Ahmedabad, Gujarat, India |
+| 2026-11-14 | [Financial Analyst, Transaction Opinions / Fund Opinions / CVAS](https://www.linkedin.com/jobs/view/financial-analyst-transaction-opinions-fund-opinions-cvas-at-houlihan-lokey-4482853821) | Houlihan Lokey | Mumbai Metropolitan Region |
+
+### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [Head – AIF Fund Accounting](https://www.linkedin.com/jobs/view/head-%E2%80%93-aif-fund-accounting-at-neuraleap-group-4489595472) | Neuraleap Group | Ahmedabad, Gujarat, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (114 matching)
+**Finance (FP&A) CV** (115 matching)
 
 1. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
 
-**Credit CV** (84 matching)
+**Credit CV** (83 matching)
 
 1. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Analyst - Wholesale Credit Risk Quantitative Research](https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-13
@@ -37,7 +43,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) · WCC Investment Advisors Pvt. Ltd. · Noida, Uttar Pradesh, India · posted 2026-11-14
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556) · Neuraleap Group · Chennai, Tamil Nadu, India · posted 2026-11-13
 
-**Investment (IB / PE) CV** (49 matching)
+**Investment (IB / PE) CV** (50 matching)
 
 1. [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) · GrowthAlly Advisors Private Limited · Mumbai Metropolitan Region · posted 2026-11-14
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
@@ -52,7 +58,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Assurance - Financial Market – Real Estate Valuation – Associate](https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961) · PwC Acceleration Center India · Bengaluru East, Karnataka, India · posted 2026-11-12
 
-**Fund CV (written for India; tweak the header for UK roles)** (21 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (23 matching)
 
 1. [BPO PE and Fund Accounting Analyst](https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648) · NTT DATA North America · Gurgaon, Haryana, India · posted 2026-11-13
 2. [Associate Accountant (Fund Administration)](https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545) · HC Global Fund Services, LLC · Borivali, Maharashtra, India · posted 2026-11-11
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>11:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-14 | [Financial Analyst, Transaction Opinions / Fund Opinions / CVAS](https://www.linkedin.com/jobs/view/financial-analyst-transaction-opinions-fund-opinions-cvas-at-houlihan-lokey-4482853821) | Houlihan Lokey | Mumbai Metropolitan Region |
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [Head – AIF Fund Accounting](https://www.linkedin.com/jobs/view/head-%E2%80%93-aif-fund-accounting-at-neuraleap-group-4489595472) | Neuraleap Group | Ahmedabad, Gujarat, India |
+
+</details>
 
 <details>
 <summary><b>10:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -119,16 +142,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>07:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Debt Syndication Executive](https://www.linkedin.com/jobs/view/debt-syndication-executive-at-misha-capital-4489861622) | Misha Capital | New Delhi, Delhi, India |
-
-</details>
+<sub>Nothing new at: 07:36</sub>
 
 <details>
 <summary><b>07:04</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -1937,12 +1951,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (100)](#finance-fpa-cv-100) · [Credit (85)](#credit-cv-85) · [Equity (16)](#equity-cv-16) · [Investment (44)](#investment-ib--pe-cv-44) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (101)](#finance-fpa-cv-101) · [Credit (84)](#credit-cv-84) · [Equity (16)](#equity-cv-16) · [Investment (44)](#investment-ib--pe-cv-44) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
-### Finance (FP&A) CV: 100
+### Finance (FP&A) CV: 101
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-14 | [Financial Analyst, Transaction Opinions / Fund Opinions / CVAS](https://www.linkedin.com/jobs/view/financial-analyst-transaction-opinions-fund-opinions-cvas-at-houlihan-lokey-4482853821) | Houlihan Lokey | Mumbai Metropolitan Region |
 | 2026-11-14 | [Treasury Hedge Accounting Analyst](https://www.linkedin.com/jobs/view/treasury-hedge-accounting-analyst-at-barclays-4488589717) | Barclays | Chennai, Tamil Nadu, India |
 | 2026-11-14 | [Services Support Associate II-Treasury-Hyderabad](https://www.linkedin.com/jobs/view/services-support-associate-ii-treasury-hyderabad-at-deloitte-4481661949) | Deloitte | Hyderabad, Telangana, India |
 | — | [Analyst / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Analyst-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/59843244/) | Deloitte India | Ahmedabad |
@@ -2044,7 +2059,7 @@ Everything matched so far, newest first within each CV: [Finance (100)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 85
+### Credit CV: 84
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2052,7 +2067,6 @@ Everything matched so far, newest first within each CV: [Finance (100)](#finance
 | 2026-11-14 | [ANALYST – DEBT SYNDICATION](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-14 | [Quality Executive - Retail MFB - Credit - Kittur - Shimbi Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57019) | Tata Capital | India |
 | 2026-11-14 | [Quality Executive - Retail MFB - Credit - Kundgol - Koliwad Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57242) | Tata Capital | India |
-| 2026-11-14 | [Debt Syndication Executive](https://www.linkedin.com/jobs/view/debt-syndication-executive-at-misha-capital-4489861622) | Misha Capital | New Delhi, Delhi, India |
 | 2026-11-14 | [Quantitative Risk & Credit Analytics – Associate / Senior Associate](https://www.linkedin.com/jobs/view/quantitative-risk-credit-analytics-%E2%80%93-associate-senior-associate-at-alp-computational-finance-ai-and-data-engineering-4489328346) | ALP | Bengaluru, Karnataka, India |
 | 2026-11-14 | [Equity & Credit Research Expert](https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967) | Mindnexa Solutions | India |
 | 2026-11-13 | [Analyst - Wholesale Credit Risk Quantitative Research](https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839) | JPMorganChase | Mumbai, Maharashtra, India |
@@ -2244,13 +2258,14 @@ Everything matched so far, newest first within each CV: [Finance (100)](#finance
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 15
+### Fund CV (written for India; tweak the header for UK roles): 16
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-13 | [BPO PE and Fund Accounting Analyst](https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648) | NTT DATA North America | Gurgaon, Haryana, India |
 | 2026-11-13 | [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Fund Services.Fund Accountant](https://www.linkedin.com/jobs/view/fund-services-fund-accountant-at-the-citco-group-limited-4488924843) | The Citco Group Limited | Maharashtra, India |
+| 2026-11-13 | [Head – AIF Fund Accounting](https://www.linkedin.com/jobs/view/head-%E2%80%93-aif-fund-accounting-at-neuraleap-group-4489595472) | Neuraleap Group | Ahmedabad, Gujarat, India |
 | 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706) | SGGG Fund Services Inc. | Panchkula, Haryana, India |
 | 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-csc-4488522065) | CSC | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Fund Accounting Analyst2 - C10](https://www.linkedin.com/jobs/view/fund-accounting-analyst2-c10-at-citi-4489203496) | Citi | Pune Division, Maharashtra, India |
@@ -2282,10 +2297,11 @@ Everything matched so far, newest first within each CV: [Finance (100)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>41 roles taken off the list because the firm closed the posting</summary>
+<summary>42 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 14 Nov, 11:36 | Debt Syndication Executive | Misha Capital |
 | Sat 14 Nov, 10:10 | Research Analyst - Investment Banking | CoKaCo |
 | Fri 13 Nov, 21:39 | Associate, Alternatives Fund Accounting | BlackRock |
 | Fri 13 Nov, 20:40 | Credit Portfolio Officer - C13 - GURUGRAM | Citi |

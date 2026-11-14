@@ -1,13 +1,13 @@
 {
-  "finished_at": "2026-11-14T10:39:50.603Z",
+  "finished_at": "2026-11-14T11:36:49.477Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 39299,
-  "filtered_out": 39213,
-  "new_matches": 1,
+  "postings_seen": 38778,
+  "filtered_out": 38698,
+  "new_matches": 2,
   "boards_failed": 34,
   "failed": [
     {
@@ -15,19 +15,11 @@
       "error": "fetch failed"
     },
     {
+      "company": "Wellington Management",
+      "error": "fetch failed"
+    },
+    {
       "company": "Invesco (Early Careers)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Invesco",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PIMCO",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Franklin Templeton",
       "error": "fetch failed"
     },
     {
@@ -35,15 +27,19 @@
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone (Campus)",
+      "company": "Franklin Templeton",
       "error": "fetch failed"
     },
     {
-      "company": "Wellington Management",
+      "company": "Invesco",
       "error": "fetch failed"
     },
     {
       "company": "Blackstone",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone (Campus)",
       "error": "fetch failed"
     },
     {
@@ -55,7 +51,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "PIMCO",
+      "error": "fetch failed"
+    },
+    {
+      "company": "S&P Global",
       "error": "fetch failed"
     },
     {
@@ -63,7 +63,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "S&P Global",
+      "company": "Nasdaq",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Mastercard",
       "error": "fetch failed"
     },
     {
@@ -72,10 +76,6 @@
     },
     {
       "company": "Marsh McLennan",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Mastercard",
       "error": "fetch failed"
     },
     {
@@ -131,7 +131,7 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Reckitt",
+      "company": "EY",
       "error": "This operation was aborted"
     },
     {

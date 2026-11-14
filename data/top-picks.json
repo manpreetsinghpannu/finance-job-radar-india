@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:39:50.020Z",
+ "generated_at": "2026-11-14T11:36:48.718Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 114,
+   "matching": 115,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 84,
+   "matching": 83,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 49,
+   "matching": 50,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 21,
+   "matching": 23,
    "picks": [
     {
      "title": "BPO PE and Fund Accounting Analyst",
@@ -1716,11 +1716,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/debt-syndication-executive-at-misha-capital-4489861622": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/quantitative-risk-credit-analytics-%E2%80%93-associate-senior-associate-at-alp-computational-finance-ai-and-data-engineering-4489328346": {
    "id": "credit",
    "cv": "Credit CV",
@@ -1750,6 +1745,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-transaction-opinions-fund-opinions-cvas-at-houlihan-lokey-4482853821": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/head-%E2%80%93-aif-fund-accounting-at-neuraleap-group-4489595472": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }
