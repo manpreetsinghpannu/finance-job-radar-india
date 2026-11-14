@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T03:39:52.910Z",
+ "generated_at": "2026-11-14T04:37:03.204Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 77,
+   "matching": 78,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -1679,6 +1679,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57019": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
