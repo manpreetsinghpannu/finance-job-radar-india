@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T14:45:34.248Z",
+ "generated_at": "2026-11-14T15:39:54.369Z",
  "order": [
   "finance",
   "credit",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -204,15 +204,15 @@
      "sponsor": null
     },
     {
-     "title": "Assurance - Financial Market – Real Estate Valuation – Associate",
-     "company": "PwC Acceleration Center India",
-     "location": "Bengaluru East, Karnataka, India",
-     "posted": "2026-11-12",
-     "url": "https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961",
+     "title": "Associate - Asset Management - Commercial real estate - US Mortgage",
+     "company": "Three Across",
+     "location": "Bangalore Urban, Karnataka, India",
+     "posted": "2026-11-14",
+     "url": "https://www.linkedin.com/jobs/view/associate-asset-management-commercial-real-estate-us-mortgage-at-three-across-4483324194",
      "score": 19,
      "why": [
       "Real Estate",
-      "Valuation"
+      "Asset Management"
      ],
      "sponsor": null
     }
@@ -1775,6 +1775,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/associate-asset-management-commercial-real-estate-us-mortgage-at-three-across-4483324194": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 19
   }
  }
 }

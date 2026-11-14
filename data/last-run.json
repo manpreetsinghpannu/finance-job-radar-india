@@ -1,21 +1,17 @@
 {
-  "finished_at": "2026-11-14T14:45:34.789Z",
+  "finished_at": "2026-11-14T15:39:55.089Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 38354,
-  "filtered_out": 38274,
-  "new_matches": 0,
-  "boards_failed": 33,
+  "postings_seen": 40129,
+  "filtered_out": 40048,
+  "new_matches": 1,
+  "boards_failed": 20,
   "failed": [
     {
       "company": "BlackRock",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Invesco (Early Careers)",
       "error": "fetch failed"
     },
     {
@@ -23,35 +19,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Vanguard",
-      "error": "fetch failed"
-    },
-    {
-      "company": "PIMCO",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone (Campus)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone",
+      "company": "Invesco (Early Careers)",
       "error": "fetch failed"
     },
     {
       "company": "Ares Management",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Bain Capital",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
@@ -71,11 +43,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Mastercard",
+      "company": "Marsh McLennan",
       "error": "fetch failed"
     },
     {
-      "company": "Visa",
+      "company": "Mastercard",
       "error": "fetch failed"
     },
     {
@@ -84,22 +56,6 @@
     },
     {
       "company": "GSK",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Houlihan Lokey (Campus)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Houlihan Lokey (Lateral)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Citi",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Mizuho",
       "error": "fetch failed"
     },
     {
@@ -119,24 +75,12 @@
       "error": "fetch failed"
     },
     {
-      "company": "Ameriprise Financial",
-      "error": "fetch failed"
-    },
-    {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Reckitt",
-      "error": "This operation was aborted"
-    },
-    {
       "company": "EY",
       "error": "This operation was aborted"
-    },
-    {
-      "company": "Brookfield",
-      "error": "fetch failed"
     },
     {
       "company": "Walmart Global Tech",
