@@ -151,7 +151,27 @@ export function parseScotJobsNet(html) {
   return out;
 }
 
+// Adzuna's official API (free key from developer.adzuna.com; their terms allow
+// personal job search). Keys come from repo secrets ADZUNA_APP_ID / ADZUNA_APP_KEY.
+export function parseAdzuna(text) {
+  const json = JSON.parse(text);
+  return (json.results || []).map((j) => ({
+    url: j.redirect_url ? j.redirect_url.split('?')[0] : '',
+    title: decode(String(j.title || '').replace(/<[^>]+>/g, '')),
+    company: decode(j.company?.display_name || ''),
+    location: decode(j.location?.display_name || ''),
+    posted: isoDay(j.created),
+  }));
+}
+
 const BOARDS = {
+  adzuna: {
+    name: 'Adzuna',
+    needs: () => process.env.ADZUNA_APP_ID && process.env.ADZUNA_APP_KEY,
+    url: (q, cfg) => `https://api.adzuna.com/v1/api/jobs/${cfg.country || 'gb'}/search/1?app_id=${process.env.ADZUNA_APP_ID}&app_key=${process.env.ADZUNA_APP_KEY}`
+      + `&what=${encodeURIComponent(q)}&max_days_old=${cfg.days || 2}&results_per_page=50&sort_by=date&content-type=application/json`,
+    parse: parseAdzuna,
+  },
   linkedin: {
     name: 'LinkedIn',
     url: (q, cfg) => `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${encodeURIComponent(q)}&location=${encodeURIComponent(cfg.location || 'United Kingdom')}&f_TPR=r${(cfg.hours || 24) * 3600}&start=0`,
@@ -200,6 +220,7 @@ async function main() {
   for (const [id, board] of Object.entries(BOARDS)) {
     const bc = cfg.boards?.[id];
     if (!bc || bc.enabled === false) continue;
+    if (board.needs && !board.needs()) { console.log(`boards: ${board.name} skipped (no API key set)`); continue; }
     const s = { searches: 0, failed: 0, found: 0, passed: 0, new: 0 };
     summary[board.name] = s;
     if (!state[board.name]) silent.add(board.name);

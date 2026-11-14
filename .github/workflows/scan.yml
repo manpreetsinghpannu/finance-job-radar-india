@@ -51,10 +51,12 @@ jobs:
           node "$RUNNER_TEMP/engine/scan.mjs" --since 2 --json --quiet > "$RUNNER_TEMP/receipt.json" 2> "$RUNNER_TEMP/scan.log" || true
           tail -n 40 "$RUNNER_TEMP/scan.log"
 
-      - name: Search LinkedIn (India)
+      - name: Search job boards (Adzuna India, LinkedIn)
         env:
           CAREER_OPS_ROOT: ${{ github.workspace }}
           RADAR_COUNTRY: India
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
           RADAR_LANG: en-IN,en;q=0.9
         run: node scripts/boards.mjs --engine "$RUNNER_TEMP/engine" --receipt "$RUNNER_TEMP/receipt.json"
 

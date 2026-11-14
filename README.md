@@ -17,7 +17,7 @@ The sister radar for the UK is `finance-job-radar`. Both use the zero-cost
 | `portals.yml` | ~70 global banks, asset managers, trading firms, consultancies and GCCs with India offices (JPMorgan, Morgan Stanley, Citi, Barclays, BlackRock, Houlihan Lokey, S&P, Moody's, MSCI, LSEG, Accenture, EY…). Only India-based roles get through |
 | `companies.yml` | ~150 more employers: Indian banks, NBFCs, AMCs, brokers, IB boutiques, PE funds, rating agencies, KPOs, trading firms, corporates. The weekly discovery job finds their hiring boards and adds them to `portals.yml` |
 | `companies_startups.yaml` | Indian startups and scale-ups on Greenhouse, Lever, Ashby or Workable (fintechs, brokers, lenders, consumer tech) |
-| `boards.yml` | LinkedIn public job search, location India, last 24 hours |
+| `boards.yml` | Adzuna (official API, India) and LinkedIn public job search, last 24–48 hours |
 
 Not covered: Naukri, foundit, iimjobs, Instahyre and Indeed India block automated
 access or forbid it, and many Indian firms use Darwinbox/Keka portals that can't

@@ -2,7 +2,7 @@
 # careers sites in portals.yml. Results go through the same title, seniority
 # and India-location filters, and are grouped by CV like everything else.
 #
-# Only LinkedIn is used for India: Naukri, foundit, iimjobs, Instahyre and
+# Adzuna (official API) and LinkedIn are used for India. Naukri, foundit, iimjobs, Instahyre and
 # Indeed India either block automated access or forbid it in their terms.
 # Set up email alerts on those sites directly.
 
@@ -27,6 +27,9 @@ queries:
   - portfolio analyst
 
 boards:
+  adzuna:              # official API; needs repo secrets ADZUNA_APP_ID and ADZUNA_APP_KEY
+    country: in
+    days: 2
   linkedin:
     location: India
     hours: 24          # posted in the last 24 hours
