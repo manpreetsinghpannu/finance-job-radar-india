@@ -168,8 +168,11 @@ const BOARDS = {
   adzuna: {
     name: 'Adzuna',
     needs: () => process.env.ADZUNA_APP_ID && process.env.ADZUNA_APP_KEY,
-    url: (q, cfg) => `https://api.adzuna.com/v1/api/jobs/${cfg.country || 'gb'}/search/1?app_id=${process.env.ADZUNA_APP_ID}&app_key=${process.env.ADZUNA_APP_KEY}`
-      + `&what=${encodeURIComponent(q)}&max_days_old=${cfg.days || 2}&results_per_page=50&sort_by=date&content-type=application/json`,
+    // Each "query" is a results page: newest finance-category jobs whose text has
+    // one of the what_or words, sorted by date, 50 per page.
+    url: (page, cfg) => `https://api.adzuna.com/v1/api/jobs/${cfg.country || 'gb'}/search/${page}?app_id=${process.env.ADZUNA_APP_ID}&app_key=${process.env.ADZUNA_APP_KEY}`
+      + `${cfg.category ? `&category=${cfg.category}` : ''}${cfg.what_or ? `&what_or=${encodeURIComponent(cfg.what_or)}` : ''}`
+      + `&max_days_old=${cfg.days || 2}&results_per_page=50&sort_by=date&content-type=application/json`,
     parse: parseAdzuna,
   },
   linkedin: {
@@ -221,6 +224,9 @@ async function main() {
     const bc = cfg.boards?.[id];
     if (!bc || bc.enabled === false) continue;
     if (board.needs && !board.needs()) { console.log(`boards: ${board.name} skipped (no API key set)`); continue; }
+    // Rate-limited APIs (Adzuna's free plan): only call every N hours.
+    const last = Date.parse(state[board.name]?.last_call || 0);
+    if (bc.every_hours && Date.now() - last < bc.every_hours * 3600000 - 600000) { console.log(`boards: ${board.name} not due yet (every ${bc.every_hours}h)`); continue; }
     const s = { searches: 0, failed: 0, found: 0, passed: 0, new: 0 };
     summary[board.name] = s;
     if (!state[board.name]) silent.add(board.name);
@@ -276,6 +282,7 @@ async function main() {
   }
   const today2 = new Date().toISOString().slice(0, 10);
   for (const name of Object.keys(summary)) if (!state[name] && summary[name].searches > summary[name].failed) state[name] = { first_run: today2 };
+  for (const [id, board] of Object.entries(BOARDS)) if (cfg.boards?.[id]?.every_hours && summary[board.name]) state[board.name] = { ...state[board.name], last_call: new Date().toISOString() };
   writeFileSync(STATE, `${JSON.stringify(state, null, 1)}\n`);
   if (silent.size) console.log(`boards: first run for ${[...silent].join(', ')}: roles recorded without alerts`);
   console.log(`boards: ${added.length} new roles · ${Object.entries(summary).map(([n, s]) => `${n} ${s.new} new/${s.passed} matching/${s.found} seen${s.failed ? `, ${s.failed} failed` : ''}`).join(' · ')}`);

@@ -29,7 +29,11 @@ queries:
 boards:
   adzuna:              # official API; needs repo secrets ADZUNA_APP_ID and ADZUNA_APP_KEY
     country: in
+    category: accounting-finance-jobs
+    what_or: analyst associate graduate junior trainee assistant
+    queries: [1, 2]    # results pages, 50 newest jobs each
     days: 2
+    every_hours: 2     # free plan has daily/monthly call limits: 24 calls a day
   linkedin:
     location: India
     hours: 24          # posted in the last 24 hours
