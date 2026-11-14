@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-14T14:36:18.774Z",
+  "finished_at": "2026-11-14T14:45:34.789Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 39826,
-  "filtered_out": 39740,
+  "postings_seen": 38354,
+  "filtered_out": 38274,
   "new_matches": 0,
-  "boards_failed": 31,
+  "boards_failed": 33,
   "failed": [
     {
       "company": "BlackRock",
@@ -19,11 +19,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Vanguard",
+      "company": "Invesco",
       "error": "fetch failed"
     },
     {
-      "company": "Invesco",
+      "company": "Vanguard",
       "error": "fetch failed"
     },
     {
@@ -39,11 +39,19 @@
       "error": "fetch failed"
     },
     {
-      "company": "Bain Capital",
+      "company": "Blackstone",
       "error": "fetch failed"
     },
     {
       "company": "Ares Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Bain Capital",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
@@ -68,10 +76,6 @@
     },
     {
       "company": "Visa",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Marsh McLennan",
       "error": "fetch failed"
     },
     {
@@ -121,6 +125,14 @@
     {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Reckitt",
+      "error": "This operation was aborted"
+    },
+    {
+      "company": "EY",
+      "error": "This operation was aborted"
     },
     {
       "company": "Brookfield",
