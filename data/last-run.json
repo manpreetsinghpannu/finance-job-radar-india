@@ -1,33 +1,17 @@
 {
-  "finished_at": "2026-11-14T13:39:52.373Z",
+  "finished_at": "2026-11-14T14:36:18.774Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 38765,
-  "filtered_out": 38685,
-  "new_matches": 2,
-  "boards_failed": 34,
+  "postings_seen": 39826,
+  "filtered_out": 39740,
+  "new_matches": 0,
+  "boards_failed": 31,
   "failed": [
     {
-      "company": "Franklin Templeton",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management",
-      "error": "fetch failed"
-    },
-    {
       "company": "BlackRock",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Invesco",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Vanguard",
       "error": "fetch failed"
     },
     {
@@ -35,7 +19,19 @@
       "error": "fetch failed"
     },
     {
+      "company": "Vanguard",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Invesco",
+      "error": "fetch failed"
+    },
+    {
       "company": "PIMCO",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone",
       "error": "fetch failed"
     },
     {
@@ -47,10 +43,6 @@
       "error": "fetch failed"
     },
     {
-      "company": "Blackstone",
-      "error": "fetch failed"
-    },
-    {
       "company": "Ares Management",
       "error": "fetch failed"
     },
@@ -59,11 +51,15 @@
       "error": "fetch failed"
     },
     {
+      "company": "Nasdaq",
+      "error": "fetch failed"
+    },
+    {
       "company": "CME Group",
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "AIG",
       "error": "fetch failed"
     },
     {
@@ -71,15 +67,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Marsh McLennan",
-      "error": "fetch failed"
-    },
-    {
       "company": "Visa",
       "error": "fetch failed"
     },
     {
-      "company": "AIG",
+      "company": "Marsh McLennan",
       "error": "fetch failed"
     },
     {
@@ -131,20 +123,16 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "EY",
-      "error": "This operation was aborted"
-    },
-    {
       "company": "Brookfield",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Target India",
       "error": "fetch failed"
     },
     {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Target India",
+      "error": "fetch failed"
     }
   ]
 }
