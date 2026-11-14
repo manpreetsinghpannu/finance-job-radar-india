@@ -18332,3 +18332,102 @@ timestamp	company	status
 2026-11-14T19:41:27.738Z	Walmart Global Tech	slug_gone
 2026-11-14T19:41:27.738Z	Target India	network
 2026-11-14T19:41:27.738Z	Lowe's India	reachable
+2026-11-14T20:35:40.910Z	Barclays	reachable
+2026-11-14T20:35:40.910Z	JPMorgan Chase	reachable
+2026-11-14T20:35:40.910Z	MUFG	reachable
+2026-11-14T20:35:40.910Z	BlackRock	reachable
+2026-11-14T20:35:40.910Z	Fidelity International	reachable
+2026-11-14T20:35:40.910Z	Invesco	reachable
+2026-11-14T20:35:40.910Z	Invesco (Early Careers)	reachable
+2026-11-14T20:35:40.910Z	Vanguard	reachable
+2026-11-14T20:35:40.910Z	Franklin Templeton	empty
+2026-11-14T20:35:40.910Z	Wellington Management	reachable
+2026-11-14T20:35:40.910Z	PIMCO	reachable
+2026-11-14T20:35:40.910Z	Blackstone	reachable
+2026-11-14T20:35:40.910Z	Blackstone (Campus)	reachable
+2026-11-14T20:35:40.910Z	Ares Management	reachable
+2026-11-14T20:35:40.910Z	Bain Capital	reachable
+2026-11-14T20:35:40.910Z	Squarepoint Capital	reachable
+2026-11-14T20:35:40.910Z	Point72	reachable
+2026-11-14T20:35:40.910Z	WorldQuant	reachable
+2026-11-14T20:35:40.910Z	LSEG	reachable
+2026-11-14T20:35:40.910Z	LSEG (Graduates)	reachable
+2026-11-14T20:35:40.910Z	S&P Global	reachable
+2026-11-14T20:35:40.910Z	Nasdaq	reachable
+2026-11-14T20:35:40.910Z	CME Group	reachable
+2026-11-14T20:35:40.910Z	IMC Trading	reachable
+2026-11-14T20:35:40.910Z	Tower Research Capital	reachable
+2026-11-14T20:35:40.910Z	AIG	reachable
+2026-11-14T20:35:40.910Z	Accenture	reachable
+2026-11-14T20:35:40.910Z	Marsh McLennan	reachable
+2026-11-14T20:35:40.910Z	Mastercard	reachable
+2026-11-14T20:35:40.910Z	Visa	reachable
+2026-11-14T20:35:40.910Z	PayPal	reachable
+2026-11-14T20:35:40.910Z	Stripe	reachable
+2026-11-14T20:35:40.910Z	Revolut	empty
+2026-11-14T20:35:40.910Z	Airwallex	reachable
+2026-11-14T20:35:40.910Z	AstraZeneca	reachable
+2026-11-14T20:35:40.910Z	AstraZeneca (Emerging Talent)	reachable
+2026-11-14T20:35:40.910Z	GSK	reachable
+2026-11-14T20:35:40.910Z	Unilever	reachable
+2026-11-14T20:35:40.910Z	Unilever (Early Careers)	reachable
+2026-11-14T20:35:40.910Z	Diageo	reachable
+2026-11-14T20:35:40.910Z	Shell	reachable
+2026-11-14T20:35:40.910Z	Rolls-Royce	reachable
+2026-11-14T20:35:40.910Z	Houlihan Lokey (Campus)	reachable
+2026-11-14T20:35:40.910Z	Houlihan Lokey (Lateral)	unknown
+2026-11-14T20:35:40.910Z	Teneo	reachable
+2026-11-14T20:35:40.910Z	Experian	reachable
+2026-11-14T20:35:40.910Z	WPP	reachable
+2026-11-14T20:35:40.910Z	Morgan Stanley	reachable
+2026-11-14T20:35:40.910Z	Citi	reachable
+2026-11-14T20:35:40.910Z	Mizuho	reachable
+2026-11-14T20:35:40.910Z	State Street	reachable
+2026-11-14T20:35:40.910Z	BNY	reachable
+2026-11-14T20:35:40.910Z	Northern Trust	unknown
+2026-11-14T20:35:40.910Z	ING	reachable
+2026-11-14T20:35:40.910Z	Lazard	reachable
+2026-11-14T20:35:40.910Z	Boston Consulting Group	reachable
+2026-11-14T20:35:40.910Z	MSCI	reachable
+2026-11-14T20:35:40.910Z	Moody's	reachable
+2026-11-14T20:35:40.910Z	EQT	reachable
+2026-11-14T20:35:40.910Z	Millennium	reachable
+2026-11-14T20:35:40.910Z	Chubb	reachable
+2026-11-14T20:35:40.910Z	QBE	reachable
+2026-11-14T20:35:40.910Z	BP	reachable
+2026-11-14T20:35:40.910Z	Nomura	reachable
+2026-11-14T20:35:40.910Z	SMBC	reachable
+2026-11-14T20:35:40.910Z	Sopra Steria	reachable
+2026-11-14T20:35:40.910Z	Janus Henderson	reachable
+2026-11-14T20:35:40.910Z	BT Group	reachable
+2026-11-14T20:35:40.910Z	Reckitt	reachable
+2026-11-14T20:35:40.910Z	EY	reachable
+2026-11-14T20:35:40.910Z	Wipro	slug_gone
+2026-11-14T20:35:40.910Z	Google	reachable
+2026-11-14T20:35:40.910Z	Societe Generale	network
+2026-11-14T20:35:40.910Z	DBS Bank	reachable
+2026-11-14T20:35:40.910Z	Synchrony	reachable
+2026-11-14T20:35:40.910Z	Ameriprise Financial	reachable
+2026-11-14T20:35:40.910Z	Principal Global Services	empty
+2026-11-14T20:35:40.910Z	Deloitte India	reachable
+2026-11-14T20:35:40.910Z	KPMG India	reachable
+2026-11-14T20:35:40.910Z	Duff & Phelps (Kroll)	slug_gone
+2026-11-14T20:35:40.910Z	Bloomberg	reachable
+2026-11-14T20:35:40.910Z	ZS Associates	empty
+2026-11-14T20:35:40.910Z	Genpact	reachable
+2026-11-14T20:35:40.910Z	EXL	reachable
+2026-11-14T20:35:40.910Z	HCLTech	reachable
+2026-11-14T20:35:40.910Z	Kotak Mahindra Bank	reachable
+2026-11-14T20:35:40.910Z	IDFC FIRST Bank	reachable
+2026-11-14T20:35:40.910Z	Tata Capital	reachable
+2026-11-14T20:35:40.910Z	ICICI Securities	reachable
+2026-11-14T20:35:40.910Z	KKR	reachable
+2026-11-14T20:35:40.910Z	Brookfield	reachable
+2026-11-14T20:35:40.910Z	Temasek	reachable
+2026-11-14T20:35:40.910Z	GIC	reachable
+2026-11-14T20:35:40.910Z	Mahindra Group	reachable
+2026-11-14T20:35:40.910Z	Asian Paints	reachable
+2026-11-14T20:35:40.910Z	Procter & Gamble India	reachable
+2026-11-14T20:35:40.910Z	Walmart Global Tech	slug_gone
+2026-11-14T20:35:40.910Z	Target India	network
+2026-11-14T20:35:40.910Z	Lowe's India	reachable

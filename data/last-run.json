@@ -1,15 +1,23 @@
 {
-  "finished_at": "2026-11-14T19:45:51.703Z",
+  "finished_at": "2026-11-14T20:39:33.817Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 42341,
-  "filtered_out": 42249,
+  "postings_seen": 41897,
+  "filtered_out": 41810,
   "new_matches": 0,
-  "boards_failed": 5,
+  "boards_failed": 7,
   "failed": [
+    {
+      "company": "Houlihan Lokey (Lateral)",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Northern Trust",
+      "error": "HTTP 429 Too Many Requests"
+    },
     {
       "company": "Wipro",
       "error": "bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant"
