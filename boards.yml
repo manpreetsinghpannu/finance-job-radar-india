@@ -31,9 +31,9 @@ boards:
     country: in
     category: accounting-finance-jobs
     what_or: analyst associate graduate junior trainee assistant
-    queries: [1, 2]    # results pages, 50 newest jobs each
+    queries: [1, 2, 3, 4]  # results pages, 50 newest jobs each
     days: 2
-    every_hours: 2     # free plan has daily/monthly call limits: 24 calls a day
+    every_hours: 24    # once a day: 4 calls (free-plan limits)
   linkedin:
     location: India
     hours: 24          # posted in the last 24 hours
