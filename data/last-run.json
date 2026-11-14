@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-14T10:14:06.662Z",
+  "finished_at": "2026-11-14T10:39:50.603Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 39702,
-  "filtered_out": 39616,
-  "new_matches": 2,
-  "boards_failed": 33,
+  "postings_seen": 39299,
+  "filtered_out": 39213,
+  "new_matches": 1,
+  "boards_failed": 34,
   "failed": [
     {
       "company": "BlackRock",
@@ -16,18 +16,6 @@
     },
     {
       "company": "Invesco (Early Careers)",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Vanguard",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Franklin Templeton",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Wellington Management",
       "error": "fetch failed"
     },
     {
@@ -39,15 +27,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Bain Capital",
+      "company": "Franklin Templeton",
       "error": "fetch failed"
     },
     {
-      "company": "Ares Management",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Blackstone",
+      "company": "Vanguard",
       "error": "fetch failed"
     },
     {
@@ -55,7 +39,23 @@
       "error": "fetch failed"
     },
     {
-      "company": "S&P Global",
+      "company": "Wellington Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Blackstone",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Ares Management",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Bain Capital",
+      "error": "fetch failed"
+    },
+    {
+      "company": "Nasdaq",
       "error": "fetch failed"
     },
     {
@@ -63,7 +63,7 @@
       "error": "fetch failed"
     },
     {
-      "company": "Nasdaq",
+      "company": "S&P Global",
       "error": "fetch failed"
     },
     {
@@ -91,11 +91,11 @@
       "error": "fetch failed"
     },
     {
-      "company": "Houlihan Lokey (Lateral)",
+      "company": "Houlihan Lokey (Campus)",
       "error": "fetch failed"
     },
     {
-      "company": "Houlihan Lokey (Campus)",
+      "company": "Houlihan Lokey (Lateral)",
       "error": "fetch failed"
     },
     {
@@ -129,6 +129,10 @@
     {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Reckitt",
+      "error": "This operation was aborted"
     },
     {
       "company": "Brookfield",

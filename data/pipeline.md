@@ -391,5 +391,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967 | Mindnexa Solutions | Equity & Credit Research Expert | India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195 | Crowe Capabilities Center – India | Valuation Services Consultant - Commercial Valuation | Greater Hyderabad Area | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/services-support-associate-ii-treasury-hyderabad-at-deloitte-4481661949 | Deloitte | Services Support Associate II-Treasury-Hyderabad | Hyderabad, Telangana, India | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-compressor-systems-services-4489562782 | Ingersoll Rand Compressor Systems & Services | Operations Finance Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-13 | note: via LinkedIn
 
 ## Processed
