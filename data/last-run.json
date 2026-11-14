@@ -1,12 +1,12 @@
 {
-  "finished_at": "2026-11-13T23:59:31.118Z",
+  "finished_at": "2026-11-14T00:36:47.682Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 39022,
-  "filtered_out": 38932,
+  "postings_seen": 38892,
+  "filtered_out": 38808,
   "new_matches": 0,
   "boards_failed": 19,
   "failed": [
@@ -15,11 +15,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management",
+      "company": "Franklin Templeton",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Franklin Templeton",
+      "company": "Wellington Management",
       "error": "HTTP 521 <none>"
     },
     {
@@ -47,16 +47,16 @@
       "error": "HTTP 404 Not Found"
     },
     {
+      "company": "Wipro",
+      "error": "bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant"
+    },
+    {
       "company": "EY",
       "error": "HTTP 404 Not Found"
     },
     {
       "company": "Societe Generale",
       "error": "fetch failed"
-    },
-    {
-      "company": "Wipro",
-      "error": "bamboohr: /careers/list redirected (302 -> https://wipro.bamboohr.com/settings/account/expired.php) — no usable public postings"
     },
     {
       "company": "Duff & Phelps (Kroll)",
