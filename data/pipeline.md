@@ -396,5 +396,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/head-%E2%80%93-aif-fund-accounting-at-neuraleap-group-4489595472 | Neuraleap Group | Head – AIF Fund Accounting | Ahmedabad, Gujarat, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-aristocrat-4489892150 | Aristocrat | Supply Chain Financial Analyst | Gurugram, Haryana, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/capital-markets-operations-specialist-at-accenture-in-india-4490748429 | Accenture in India | Capital Markets Operations Specialist | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/vetic-financial-planning-amp-analysis-role-ca-at-vetic-4491022928 | Vetic | Vetic - Financial Planning &amp; Analysis Role - CA | Gurugram, Haryana, India | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/c1-credit-risk-modeler-at-exl-4446579522 | EXL | C1 - Credit Risk Modeler | Gurugram, Haryana, India | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

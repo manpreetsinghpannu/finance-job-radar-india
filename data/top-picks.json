@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T12:36:11.825Z",
+ "generated_at": "2026-11-14T13:39:51.559Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 116,
+   "matching": 117,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 83,
+   "matching": 84,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -1765,6 +1765,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/vetic-financial-planning-amp-analysis-role-ca-at-vetic-4491022928": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/c1-credit-risk-modeler-at-exl-4446579522": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
   }
  }
 }
