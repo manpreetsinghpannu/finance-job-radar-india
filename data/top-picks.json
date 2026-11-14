@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:40:45.104Z",
+ "generated_at": "2026-11-14T06:40:20.560Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 111,
+   "matching": 112,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 78,
+   "matching": 81,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -124,8 +124,21 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 48,
+   "matching": 49,
    "picks": [
+    {
+     "title": "Investment Banking Analyst / Associate – M&A",
+     "company": "GrowthAlly Advisors Private Limited",
+     "location": "Mumbai Metropolitan Region",
+     "posted": "2026-11-14",
+     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928",
+     "score": 29,
+     "why": [
+      "Investment Banking",
+      "M&A"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Research Analyst - Investment Banking",
      "company": "CoKaCo",
@@ -133,18 +146,6 @@
      "posted": "2026-11-12",
      "url": "https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195",
      "score": 19,
-     "why": [
-      "Investment Banking"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Investment Banking Analyst",
-     "company": "Cap Connect",
-     "location": "New Delhi, Delhi, India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246",
-     "score": 18,
      "why": [
       "Investment Banking"
      ],
@@ -1689,6 +1690,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57242": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-4482442851": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-flexifunds-4489862502": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }

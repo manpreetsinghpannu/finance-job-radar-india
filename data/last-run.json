@@ -1,15 +1,27 @@
 {
-  "finished_at": "2026-11-14T05:40:45.901Z",
+  "finished_at": "2026-11-14T06:40:21.174Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 38004,
-  "filtered_out": 37942,
-  "new_matches": 1,
-  "boards_failed": 39,
+  "postings_seen": 38297,
+  "filtered_out": 38233,
+  "new_matches": 5,
+  "boards_failed": 38,
   "failed": [
+    {
+      "company": "BlackRock",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco (Early Careers)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco",
+      "error": "HTTP 521 <none>"
+    },
     {
       "company": "Wellington Management",
       "error": "HTTP 521 <none>"
@@ -23,27 +35,15 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Invesco (Early Careers)",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "BlackRock",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Invesco",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "PIMCO",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Blackstone",
+      "company": "Blackstone (Campus)",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Blackstone (Campus)",
+      "company": "Blackstone",
       "error": "HTTP 521 <none>"
     },
     {
@@ -55,7 +55,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "S&P Global",
+      "company": "CME Group",
       "error": "HTTP 521 <none>"
     },
     {
@@ -63,15 +63,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "CME Group",
+      "company": "S&P Global",
       "error": "HTTP 521 <none>"
     },
     {
       "company": "AIG",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Visa",
       "error": "HTTP 521 <none>"
     },
     {
@@ -80,6 +76,10 @@
     },
     {
       "company": "Mastercard",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Visa",
       "error": "HTTP 521 <none>"
     },
     {
@@ -99,7 +99,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Citi",
+      "company": "State Street",
       "error": "HTTP 521 <none>"
     },
     {
@@ -107,7 +107,7 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "State Street",
+      "company": "Citi",
       "error": "HTTP 521 <none>"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "company": "SMBC",
-      "error": "HTTP 404 Not Found"
+      "error": "HTTP 503 Service Unavailable"
     },
     {
       "company": "Nomura",
@@ -135,23 +135,23 @@
       "error": "fetch failed"
     },
     {
-      "company": "Ameriprise Financial",
-      "error": "HTTP 521 <none>"
-    },
-    {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Ameriprise Financial",
+      "error": "HTTP 521 <none>"
     },
     {
       "company": "Brookfield",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Asian Paints",
+      "company": "Mahindra Group",
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Mahindra Group",
+      "company": "Asian Paints",
       "error": "HTTP 404 Not Found"
     },
     {
@@ -161,10 +161,6 @@
     {
       "company": "Target India",
       "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Genpact",
-      "error": "This operation was aborted"
     }
   ]
 }

@@ -379,4 +379,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57019 | Tata Capital | Quality Executive - Retail MFB - Credit - Kittur - Shimbi Complex - J Grades | India | posted: 2026-11-14
 - [ ] https://www.linkedin.com/jobs/view/treasury-hedge-accounting-analyst-at-barclays-4488589717 | Barclays | Treasury Hedge Accounting Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-14 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57242 | Tata Capital | Quality Executive - Retail MFB - Credit - Kundgol - Koliwad Complex - J Grades | India | posted: 2026-11-14
+- [ ] https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-4482442851 | Ingersoll Rand | Operations Finance Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-flexifunds-4489862502 | FLEXIFUNDS | Credit Risk Analyst | Faridabad, Haryana, India | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928 | GrowthAlly Advisors Private Limited | Investment Banking Analyst / Associate – M&A | Mumbai Metropolitan Region | posted: 2026-11-14 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375 | GrowthAlly Advisors Private Limited | ANALYST – DEBT SYNDICATION | Mumbai Metropolitan Region | posted: 2026-11-14 | note: via LinkedIn
+
 ## Processed
