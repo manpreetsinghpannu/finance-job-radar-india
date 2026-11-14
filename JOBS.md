@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 14 Nov, 18:40** (UK time) · **309 open roles** at 165 firms · the radar checks every board about once an hour.
+Updated **Sat 14 Nov, 19:36** (UK time) · **309 open roles** at 165 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 14 Nov, 18:36** · hourly scan · checked 99 boards · **1 new role**
+**Sat 14 Nov, 19:32** · hourly scan · checked 99 boards · **0 new roles**
 
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Specialist, Data Management & Quantitative Analysis](https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577) | BNY | Pune/Pimpri-Chinchwad Area |
+Nothing new this time. The last scan that found something was **Sat 14 Nov, 18:36** (1: Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<sub>Nothing new at: 19:32</sub>
 
 <details>
 <summary><b>18:36</b> · hourly scan · <b>1 new</b> → Other 1</summary>

@@ -1,13 +1,13 @@
 {
-  "finished_at": "2026-11-14T18:40:01.626Z",
+  "finished_at": "2026-11-14T19:36:29.407Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 41460,
-  "filtered_out": 41374,
-  "new_matches": 1,
+  "postings_seen": 42294,
+  "filtered_out": 42202,
+  "new_matches": 0,
   "boards_failed": 5,
   "failed": [
     {
@@ -23,12 +23,12 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Target India",
-      "error": "fetch failed"
-    },
-    {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Target India",
+      "error": "fetch failed"
     }
   ]
 }
