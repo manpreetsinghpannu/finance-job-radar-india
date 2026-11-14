@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T06:40:20.560Z",
+ "generated_at": "2026-11-14T07:08:13.200Z",
  "order": [
   "finance",
   "credit",
@@ -221,8 +221,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 20,
+   "matching": 21,
    "picks": [
+    {
+     "title": "BPO PE and Fund Accounting Analyst",
+     "company": "NTT DATA North America",
+     "location": "Gurgaon, Haryana, India",
+     "posted": "2026-11-13",
+     "url": "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648",
+     "score": 18,
+     "why": [
+      "Fund Accounting"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Associate Accountant (Fund Administration)",
      "company": "HC Global Fund Services, LLC",
@@ -232,18 +244,6 @@
      "score": 15,
      "why": [
       "Fund Administration"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Fund Accounting_Director_Product Support & Services IM",
-     "company": "Morgan Stanley",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-13",
-     "url": "https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com",
-     "score": 14,
-     "why": [
-      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -1715,6 +1715,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
   }
  }
 }

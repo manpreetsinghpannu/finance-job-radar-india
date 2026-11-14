@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 14 Nov, 06:40** (UK time) · **293 open roles** at 157 firms · the radar checks every board about once an hour.
+Updated **Sat 14 Nov, 07:08** (UK time) · **294 open roles** at 158 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,27 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 14 Nov, 06:36** · hourly scan · checked 99 boards · **5 new roles**
+**Sat 14 Nov, 07:04** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-4482442851) | Ingersoll Rand | Ahmedabad, Gujarat, India |
-
-### Credit CV: 3
+### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-14 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-flexifunds-4489862502) | FLEXIFUNDS | Faridabad, Haryana, India |
-| 2026-11-14 | [ANALYST – DEBT SYNDICATION](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
-| 2026-11-14 | [Quality Executive - Retail MFB - Credit - Kundgol - Koliwad Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57242) | Tata Capital | India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
+| 2026-11-13 | [BPO PE and Fund Accounting Analyst](https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648) | NTT DATA North America | Gurgaon, Haryana, India |
 
 ## Top picks for each CV
 
@@ -66,16 +52,27 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Assurance - Financial Market – Real Estate Valuation – Associate](https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961) · PwC Acceleration Center India · Bengaluru East, Karnataka, India · posted 2026-11-12
 
-**Fund CV (written for India; tweak the header for UK roles)** (20 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (21 matching)
 
-1. [Associate Accountant (Fund Administration)](https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545) · HC Global Fund Services, LLC · Borivali, Maharashtra, India · posted 2026-11-11
-2. [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) · Morgan Stanley · Bengaluru, Karnataka, India · posted 2026-11-13
+1. [BPO PE and Fund Accounting Analyst](https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648) · NTT DATA North America · Gurgaon, Haryana, India · posted 2026-11-13
+2. [Associate Accountant (Fund Administration)](https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545) · HC Global Fund Services, LLC · Borivali, Maharashtra, India · posted 2026-11-11
 
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>07:04</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
+
+#### Fund CV (written for India; tweak the header for UK roles): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-13 | [BPO PE and Fund Accounting Analyst](https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648) | NTT DATA North America | Gurgaon, Haryana, India |
+
+</details>
 
 <details>
 <summary><b>06:36</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 3 · Investment 1</summary>
@@ -1877,7 +1874,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (98)](#finance-fpa-cv-98) · [Credit (82)](#credit-cv-82) · [Equity (16)](#equity-cv-16) · [Investment (43)](#investment-ib--pe-cv-43) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (14)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-14) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (98)](#finance-fpa-cv-98) · [Credit (82)](#credit-cv-82) · [Equity (16)](#equity-cv-16) · [Investment (43)](#investment-ib--pe-cv-43) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (15)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-15) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
 ### Finance (FP&A) CV: 98
 
@@ -2178,10 +2175,11 @@ Everything matched so far, newest first within each CV: [Finance (98)](#finance-
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 14
+### Fund CV (written for India; tweak the header for UK roles): 15
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-13 | [BPO PE and Fund Accounting Analyst](https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648) | NTT DATA North America | Gurgaon, Haryana, India |
 | 2026-11-13 | [Fund Accounting_Director_Product Support & Services IM](https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com) | Morgan Stanley | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Fund Services.Fund Accountant](https://www.linkedin.com/jobs/view/fund-services-fund-accountant-at-the-citco-group-limited-4488924843) | The Citco Group Limited | Maharashtra, India |
 | 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-sggg-fund-services-inc-4489095706) | SGGG Fund Services Inc. | Panchkula, Haryana, India |
