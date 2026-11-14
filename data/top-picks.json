@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:37:14.618Z",
+ "generated_at": "2026-11-14T18:40:00.901Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 86,
+   "matching": 85,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 25,
+   "matching": 24,
    "picks": [
     {
      "title": "Investment Research Analyst",
@@ -1726,11 +1726,6 @@
    "cv": "Equity CV",
    "score": 28
   },
-  "https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -1795,6 +1790,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

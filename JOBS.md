@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 14 Nov, 17:37** (UK time) · **309 open roles** at 166 firms · the radar checks every board about once an hour.
+Updated **Sat 14 Nov, 18:40** (UK time) · **309 open roles** at 165 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 14 Nov, 17:36** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 14 Nov, 18:36** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Financial Planning Analyst_CXO Office](https://www.linkedin.com/jobs/view/financial-planning-analyst-cxo-office-at-curefoods-4489873322) | Curefoods | Bengaluru, Karnataka, India |
-
-### Credit CV: 1
+### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-14 | [Assurance – Risk Modelling Services - Market/ Liquidity Risk Specialist - Associate](https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-market-liquidity-risk-specialist-associate-at-pwc-acceleration-center-india-4481032866) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
+| 2026-11-14 | [Specialist, Data Management & Quantitative Analysis](https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577) | BNY | Pune/Pimpri-Chinchwad Area |
 
 ## Top picks for each CV
 
@@ -33,12 +27,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
 
-**Credit CV** (86 matching)
+**Credit CV** (85 matching)
 
 1. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Analyst - Wholesale Credit Risk Quantitative Research](https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-13
 
-**Equity CV** (25 matching)
+**Equity CV** (24 matching)
 
 1. [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) · WCC Investment Advisors Pvt. Ltd. · Noida, Uttar Pradesh, India · posted 2026-11-14
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556) · Neuraleap Group · Chennai, Tamil Nadu, India · posted 2026-11-13
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>18:36</b> · hourly scan · <b>1 new</b> → Other 1</summary>
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-14 | [Specialist, Data Management & Quantitative Analysis](https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577) | BNY | Pune/Pimpri-Chinchwad Area |
+
+</details>
 
 <details>
 <summary><b>17:36</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
@@ -189,16 +194,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>09:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Equity & Credit Research Expert](https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967) | Mindnexa Solutions | India |
-
-</details>
+<sub>Nothing new at: 09:36</sub>
 
 <details>
 <summary><b>08:36</b> · hourly scan · <b>2 new</b> → Credit 1 · Equity 1</summary>
@@ -2026,7 +2022,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (104)](#finance-fpa-cv-104) · [Credit (87)](#credit-cv-87) · [Equity (16)](#equity-cv-16) · [Investment (45)](#investment-ib--pe-cv-45) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (104)](#finance-fpa-cv-104) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (45)](#investment-ib--pe-cv-45) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
 ### Finance (FP&A) CV: 104
 
@@ -2137,7 +2133,7 @@ Everything matched so far, newest first within each CV: [Finance (104)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 87
+### Credit CV: 86
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2148,7 +2144,6 @@ Everything matched so far, newest first within each CV: [Finance (104)](#finance
 | 2026-11-14 | [Quality Executive - Retail MFB - Credit - Kundgol - Koliwad Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57242) | Tata Capital | India |
 | 2026-11-14 | [Associate - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai](https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-capital-and-debt-advisory-mumbai-at-ey-4467390998) | EY | Mumbai, Maharashtra, India |
 | 2026-11-14 | [Quantitative Risk & Credit Analytics – Associate / Senior Associate](https://www.linkedin.com/jobs/view/quantitative-risk-credit-analytics-%E2%80%93-associate-senior-associate-at-alp-computational-finance-ai-and-data-engineering-4489328346) | ALP | Bengaluru, Karnataka, India |
-| 2026-11-14 | [Equity & Credit Research Expert](https://www.linkedin.com/jobs/view/equity-credit-research-expert-at-mindnexa-solutions-4489845967) | Mindnexa Solutions | India |
 | 2026-11-14 | [Assurance – Risk Modelling Services - Market/ Liquidity Risk Specialist - Associate](https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-market-liquidity-risk-specialist-associate-at-pwc-acceleration-center-india-4481032866) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
 | 2026-11-13 | [Analyst - Wholesale Credit Risk Quantitative Research](https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-13 | [Trainee – Credit Portfolio Management, Societe Generale India (Mumbai)](https://www.linkedin.com/jobs/view/trainee-%E2%80%93-credit-portfolio-management-societe-generale-india-mumbai-at-societe-generale-4474339377) | Societe Generale | Mumbai Metropolitan Region |
@@ -2362,10 +2357,11 @@ Everything matched so far, newest first within each CV: [Finance (104)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 10
+### Other (fits no CV closely, may still be worth a look): 11
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-14 | [Specialist, Data Management & Quantitative Analysis](https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577) | BNY | Pune/Pimpri-Chinchwad Area |
 | — | [OPS-GMO / FI Credits MO](https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/) | Nomura | Mumbai |
 | 2026-11-12 | [Analyst -Valuations Cotrol](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst--Valuations-Cotrol_JR-0000135525) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | 2026-11-12 | [Quantitative Analytics Specialist](https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478) | Wells Fargo | Bengaluru, Karnataka, India |
@@ -2380,10 +2376,11 @@ Everything matched so far, newest first within each CV: [Finance (104)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>42 roles taken off the list because the firm closed the posting</summary>
+<summary>43 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 14 Nov, 18:36 | Equity & Credit Research Expert | Mindnexa Solutions |
 | Sat 14 Nov, 11:36 | Debt Syndication Executive | Misha Capital |
 | Sat 14 Nov, 10:10 | Research Analyst - Investment Banking | CoKaCo |
 | Fri 13 Nov, 21:39 | Associate, Alternatives Fund Accounting | BlackRock |

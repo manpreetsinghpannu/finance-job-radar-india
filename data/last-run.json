@@ -1,19 +1,15 @@
 {
-  "finished_at": "2026-11-14T17:37:15.412Z",
+  "finished_at": "2026-11-14T18:40:01.626Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 42198,
-  "filtered_out": 42106,
-  "new_matches": 2,
-  "boards_failed": 6,
+  "postings_seen": 41460,
+  "filtered_out": 41374,
+  "new_matches": 1,
+  "boards_failed": 5,
   "failed": [
-    {
-      "company": "Marsh McLennan",
-      "error": "fetch failed"
-    },
     {
       "company": "Wipro",
       "error": "bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant"
@@ -27,12 +23,12 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Walmart Global Tech",
-      "error": "HTTP 404 Not Found"
-    },
-    {
       "company": "Target India",
       "error": "fetch failed"
+    },
+    {
+      "company": "Walmart Global Tech",
+      "error": "HTTP 404 Not Found"
     }
   ]
 }
