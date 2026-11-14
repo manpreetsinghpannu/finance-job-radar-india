@@ -385,5 +385,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928 | GrowthAlly Advisors Private Limited | Investment Banking Analyst / Associate – M&A | Mumbai Metropolitan Region | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375 | GrowthAlly Advisors Private Limited | ANALYST – DEBT SYNDICATION | Mumbai Metropolitan Region | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648 | NTT DATA North America | BPO PE and Fund Accounting Analyst | Gurgaon, Haryana, India | posted: 2026-11-13 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-syndication-executive-at-misha-capital-4489861622 | Misha Capital | Debt Syndication Executive | New Delhi, Delhi, India | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed

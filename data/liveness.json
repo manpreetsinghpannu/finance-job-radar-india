@@ -43,11 +43,11 @@
  },
  "https://jobs.smartrecruiters.com/experian/744000159050969-risk-analyst-data-science-analytics": {
   "status": "live",
-  "checked_at": "2026-11-14T04:36:55Z"
+  "checked_at": "2026-11-14T07:36:57Z"
  },
  "https://jobs.smartrecruiters.com/experian/744000158665379-risk-analyst-data-science-analytics": {
   "status": "live",
-  "checked_at": "2026-11-14T04:36:55Z"
+  "checked_at": "2026-11-14T07:36:57Z"
  },
  "https://jobs.smartrecruiters.com/experian/744000158664969-risk-analyst-data-science-analytics": {
   "status": "live",
@@ -255,7 +255,7 @@
  },
  "https://www.linkedin.com/jobs/view/executive-credit-to-collection-analyst-vois-at-vodafone-4487105825": {
   "status": "live",
-  "checked_at": "2026-11-14T04:36:56Z"
+  "checked_at": "2026-11-14T07:37:00Z"
  },
  "https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680": {
   "status": "live",
@@ -1230,5 +1230,9 @@
  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375": {
   "status": "live",
   "checked_at": "2026-11-14T07:04:47Z"
+ },
+ "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648": {
+  "status": "live",
+  "checked_at": "2026-11-14T07:36:56Z"
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T07:08:13.200Z",
+ "generated_at": "2026-11-14T07:37:00.322Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 81,
+   "matching": 82,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -1720,6 +1720,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/debt-syndication-executive-at-misha-capital-4489861622": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
