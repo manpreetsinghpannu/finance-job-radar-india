@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 14 Nov, 02:22** (UK time) · **285 open roles** at 154 firms · the radar checks every board about once an hour.
+Updated **Sat 14 Nov, 02:37** (UK time) · **286 open roles** at 154 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 14 Nov, 02:18** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 14 Nov, 02:37** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Fri 13 Nov, 23:33** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Analyst / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Analyst-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/59843244/) | Deloitte India | Ahmedabad |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (109 matching)
+**Finance (FP&A) CV** (110 matching)
 
 1. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
@@ -38,7 +42,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Research Analyst - Investment Banking](https://www.linkedin.com/jobs/view/research-analyst-investment-banking-at-cokaco-4490356195) · CoKaCo · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
 
-**Consulting CV** (24 matching)
+**Consulting CV** (25 matching)
 
 1. [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) · MatchPoint · India · posted 2026-11-11
 2. [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) · EY · Mumbai
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 14 November
+
+<details>
+<summary><b>02:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Analyst / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Analyst-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/59843244/) | Deloitte India | Ahmedabad |
+
+</details>
 
 <sub>Nothing new at: 02:18, 01:36, 00:36</sub>
 
@@ -1799,12 +1814,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (95)](#finance-fpa-cv-95) · [Credit (78)](#credit-cv-78) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (14)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-14) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
+Everything matched so far, newest first within each CV: [Finance (96)](#finance-fpa-cv-96) · [Credit (78)](#credit-cv-78) · [Equity (16)](#equity-cv-16) · [Investment (42)](#investment-ib--pe-cv-42) · [Consulting (20)](#consulting-cv-20) · [Real Estate (10)](#real-estate-cv-10) · [Fund (14)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-14) · [Other (10)](#other-fits-no-cv-closely-may-still-be-worth-a-look-10)
 
-### Finance (FP&A) CV: 95
+### Finance (FP&A) CV: 96
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [Analyst / Onestream: All / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Analyst-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/59843244/) | Deloitte India | Ahmedabad |
 | 2026-11-13 | [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) | Amazon | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Financial Analyst, Renewable Energy](https://www.linkedin.com/jobs/view/financial-analyst-renewable-energy-at-enfinity-global-4489544791) | Enfinity Global | Delhi, Delhi, India |
 | 2026-11-13 | [Financial Analyst II, ASSPL Finance Team](https://www.linkedin.com/jobs/view/financial-analyst-ii-asspl-finance-team-at-amazon-4455784771) | Amazon | Bengaluru, Karnataka, India |

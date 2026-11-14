@@ -1,27 +1,15 @@
 {
-  "finished_at": "2026-11-14T02:22:34.550Z",
+  "finished_at": "2026-11-14T02:38:00.461Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 36498,
-  "filtered_out": 36440,
-  "new_matches": 0,
+  "postings_seen": 37453,
+  "filtered_out": 37377,
+  "new_matches": 1,
   "boards_failed": 38,
   "failed": [
-    {
-      "company": "Invesco (Early Careers)",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "BlackRock",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Invesco",
-      "error": "HTTP 521 <none>"
-    },
     {
       "company": "Franklin Templeton",
       "error": "HTTP 521 <none>"
@@ -35,15 +23,19 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Invesco",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco (Early Careers)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "BlackRock",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "PIMCO",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Ares Management",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Blackstone",
       "error": "HTTP 521 <none>"
     },
     {
@@ -51,7 +43,19 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Blackstone",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Ares Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Bain Capital",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "S&P Global",
       "error": "HTTP 521 <none>"
     },
     {
@@ -63,7 +67,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "S&P Global",
+      "company": "Visa",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Marsh McLennan",
       "error": "HTTP 521 <none>"
     },
     {
@@ -72,14 +80,6 @@
     },
     {
       "company": "Mastercard",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Marsh McLennan",
-      "error": "HTTP 521 <none>"
-    },
-    {
-      "company": "Visa",
       "error": "HTTP 521 <none>"
     },
     {
@@ -103,11 +103,11 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "State Street",
+      "company": "Mizuho",
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Mizuho",
+      "company": "State Street",
       "error": "HTTP 521 <none>"
     },
     {
@@ -127,12 +127,12 @@
       "error": "bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant"
     },
     {
-      "company": "Societe Generale",
-      "error": "fetch failed"
-    },
-    {
       "company": "EY",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Societe Generale",
+      "error": "fetch failed"
     },
     {
       "company": "Duff & Phelps (Kroll)",

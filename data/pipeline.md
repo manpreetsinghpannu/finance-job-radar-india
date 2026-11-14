@@ -374,4 +374,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672 | Amazon | Financial Analyst, GFS FP&A | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299 | Cargill | MSC Finance Analyst , CBI - APAC | Bengaluru, Karnataka, India | posted: 2026-11-13 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Ahmedabad-Analyst-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/59843244/ | Deloitte India | Analyst / Onestream: All / Ahmedabad / Finance Transformation / Business Finance | Ahmedabad
+
 ## Processed

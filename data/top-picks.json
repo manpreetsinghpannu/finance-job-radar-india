@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:22:34.017Z",
+ "generated_at": "2026-11-14T02:37:59.717Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 109,
+   "matching": 110,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -155,7 +155,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 24,
+   "matching": 25,
    "picks": [
     {
      "title": "Strategy Consultant",
@@ -1674,6 +1674,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://southasiacareers.deloitte.com/job/Ahmedabad-Analyst-Onestream-All-Ahmedabad-Finance-Transformation-Business-Finance/59843244/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
