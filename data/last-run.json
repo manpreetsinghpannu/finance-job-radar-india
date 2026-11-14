@@ -1,15 +1,19 @@
 {
-  "finished_at": "2026-11-14T00:36:47.682Z",
+  "finished_at": "2026-11-14T01:40:13.123Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 38892,
-  "filtered_out": 38808,
+  "postings_seen": 37468,
+  "filtered_out": 37392,
   "new_matches": 0,
-  "boards_failed": 19,
+  "boards_failed": 37,
   "failed": [
+    {
+      "company": "Wellington Management",
+      "error": "HTTP 521 <none>"
+    },
     {
       "company": "Vanguard",
       "error": "HTTP 521 <none>"
@@ -19,7 +23,35 @@
       "error": "HTTP 521 <none>"
     },
     {
-      "company": "Wellington Management",
+      "company": "Invesco (Early Careers)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Invesco",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "BlackRock",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Blackstone",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Blackstone (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Ares Management",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "PIMCO",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Bain Capital",
       "error": "HTTP 521 <none>"
     },
     {
@@ -27,7 +59,27 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Nasdaq",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "CME Group",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Visa",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Marsh McLennan",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "AIG",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Mastercard",
       "error": "HTTP 521 <none>"
     },
     {
@@ -35,7 +87,27 @@
       "error": "HTTP 521 <none>"
     },
     {
+      "company": "Houlihan Lokey (Campus)",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Houlihan Lokey (Lateral)",
+      "error": "HTTP 521 <none>"
+    },
+    {
       "company": "Citi",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Mizuho",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "State Street",
+      "error": "HTTP 521 <none>"
+    },
+    {
+      "company": "Northern Trust",
       "error": "HTTP 521 <none>"
     },
     {
@@ -43,20 +115,20 @@
       "error": "HTTP 404 Not Found"
     },
     {
-      "company": "Reckitt",
-      "error": "HTTP 404 Not Found"
-    },
-    {
       "company": "Wipro",
       "error": "bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant"
     },
     {
-      "company": "EY",
+      "company": "Reckitt",
       "error": "HTTP 404 Not Found"
     },
     {
       "company": "Societe Generale",
       "error": "fetch failed"
+    },
+    {
+      "company": "EY",
+      "error": "HTTP 404 Not Found"
     },
     {
       "company": "Duff & Phelps (Kroll)",
