@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 14 Nov, 21:36** (UK time) · **309 open roles** at 165 firms · the radar checks every board about once an hour.
+Updated **Sat 14 Nov, 22:39** (UK time) · **308 open roles** at 164 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 14 Nov, 21:36** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 14 Nov, 22:36** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 14 Nov, 18:36** (1: Other 1); open it in the scan log below.
 
@@ -18,7 +18,7 @@ Nothing new this time. The last scan that found something was **Sat 14 Nov, 18:3
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (118 matching)
+**Finance (FP&A) CV** (117 matching)
 
 1. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 14 November
 
-<sub>Nothing new at: 21:36, 21:23, 20:36, 19:42</sub>
+<sub>Nothing new at: 22:36, 21:36, 21:23, 20:36, 19:42</sub>
 
 <details>
 <summary><b>18:36</b> · hourly scan · <b>1 new</b> → Other 1</summary>
@@ -1338,20 +1338,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 10 November
 
-<sub>Nothing new at: 23:36, 22:35, 21:36, 21:04, 20:50</sub>
-
-<details>
-<summary><b>20:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-10 | [Treasury & Settlement Operations Executive](https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076) | Riverpe | Gurugram, Haryana, India |
-
-</details>
-
-<sub>Nothing new at: 19:36</sub>
+<sub>Nothing new at: 23:36, 22:35, 21:36, 21:04, 20:50, 20:36, 19:36</sub>
 
 <details>
 <summary><b>18:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -2020,9 +2007,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (104)](#finance-fpa-cv-104) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (45)](#investment-ib--pe-cv-45) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (103)](#finance-fpa-cv-103) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (45)](#investment-ib--pe-cv-45) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
-### Finance (FP&A) CV: 104
+### Finance (FP&A) CV: 103
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2097,7 +2084,6 @@ Everything matched so far, newest first within each CV: [Finance (104)](#finance
 | 2026-11-10 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952) | Wolters Kluwer | Pune/Pimpri-Chinchwad Area |
 | 2026-11-10 | [FP&A Executive](https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024) | CAclubindia | Ankleshwar, Gujarat, India |
 | 2026-11-10 | [Analyst - Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-mckinsey-company-4463606112) | McKinsey & Company | Gurugram, Haryana, India |
-| 2026-11-10 | [Treasury & Settlement Operations Executive](https://www.linkedin.com/jobs/view/treasury-settlement-operations-executive-at-riverpe-4487825076) | Riverpe | Gurugram, Haryana, India |
 | 2026-11-10 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-bottomline-4489411522) | Bottomline | Bengaluru, Karnataka, India |
 | 2026-11-10 | [FP&A Specialist](https://www.linkedin.com/jobs/view/fp-a-specialist-at-sidel-4487988920) | Sidel | Pune City, Maharashtra, India |
 | 2026-11-10 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-4454880841) | Lennox | Chennai, Tamil Nadu, India |
@@ -2374,10 +2360,11 @@ Everything matched so far, newest first within each CV: [Finance (104)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>43 roles taken off the list because the firm closed the posting</summary>
+<summary>44 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 14 Nov, 22:37 | Treasury & Settlement Operations Executive | Riverpe |
 | Sat 14 Nov, 18:36 | Equity & Credit Research Expert | Mindnexa Solutions |
 | Sat 14 Nov, 11:36 | Debt Syndication Executive | Misha Capital |
 | Sat 14 Nov, 10:10 | Research Analyst - Investment Banking | CoKaCo |
