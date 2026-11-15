@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:39:17.337Z",
+ "generated_at": "2026-11-15T05:39:44.972Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 118,
+   "matching": 120,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -1795,6 +1795,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/quantum-treasury-implementation-consultant-at-deloitte-4456018287": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

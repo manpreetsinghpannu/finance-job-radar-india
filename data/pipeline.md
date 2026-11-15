@@ -404,5 +404,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-cxo-office-at-curefoods-4489873322 | Curefoods | Financial Planning Analyst_CXO Office | Bengaluru, Karnataka, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577 | BNY | Specialist, Data Management & Quantitative Analysis | Pune/Pimpri-Chinchwad Area | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656 | GamblingCareers.com | Supply Chain Financial Analyst | Gurugram, Haryana, India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482 | Zacks Research Pvt. Ltd | Financial Analyst | Bidhannagar, West Bengal, India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantum-treasury-implementation-consultant-at-deloitte-4456018287 | Deloitte | Quantum Treasury Implementation - Consultant | Chennai, Tamil Nadu, India | posted: 2026-11-14 | note: via LinkedIn
 
 ## Processed
