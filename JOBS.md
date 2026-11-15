@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 07:37** (UK time) · **312 open roles** at 167 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 08:38** (UK time) · **312 open roles** at 167 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 07:36** · hourly scan · checked 99 boards · **1 new role**
+**Sun 15 Nov, 08:35** · hourly scan · checked 99 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-mindnexa-solutions-4490224198) | Mindnexa Solutions | India |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 07:36** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 08:35</sub>
 
 <details>
 <summary><b>07:36</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -1968,8 +1966,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-07 | [Credit and Risk Officer](https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891) | YES BANK | Gandhinagar, Gujarat, India |
 
 </details>
-
-<sub>Nothing new at: 08:36, 07:37</sub>
 
 ## All open roles by CV
 

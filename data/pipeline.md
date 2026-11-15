@@ -407,5 +407,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482 | Zacks Research Pvt. Ltd | Financial Analyst | Bidhannagar, West Bengal, India | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantum-treasury-implementation-consultant-at-deloitte-4456018287 | Deloitte | Quantum Treasury Implementation - Consultant | Chennai, Tamil Nadu, India | posted: 2026-11-14 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-mindnexa-solutions-4490224198 | Mindnexa Solutions | Investment Banking Associate | India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/pe-credit-analyst-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4404045328 | ALESAYI HOLDING | العيسائي القابضة | PE & credit analyst | Chennai, Tamil Nadu, India | posted: 2026-11-15 | note: via LinkedIn
 
 ## Processed
