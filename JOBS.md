@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 14 Nov, 23:35** (UK time) · **308 open roles** at 164 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 00:39** (UK time) · **309 open roles** at 165 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 14 Nov, 23:35** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 15 Nov, 00:35** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 14 Nov, 18:36** (1: Other 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (117 matching)
+**Finance (FP&A) CV** (118 matching)
 
 1. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
@@ -56,6 +60,19 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Sunday 15 November
+
+<details>
+<summary><b>00:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |
+
+</details>
 
 ### Saturday 14 November
 
@@ -1925,94 +1942,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56, 05:37, 04:37, 03:37, 02:37, 01:37, 00:37</sub>
-
-<details>
-<summary><b>00:15</b> · hourly scan · <b>1 new</b> → Other 1</summary>
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-07 | [Business Graduate Associate (Finance)](https://www.linkedin.com/jobs/view/business-graduate-associate-finance-at-lseg-4487396615) | LSEG | Bengaluru, Karnataka, India |
-
-</details>
-
-<details>
-<summary><b>00:01</b> · starting scan: roles already open when the radar started (no alerts sent) · <b>25 new</b> → Finance 2 · Credit 14 · Equity 1 · Investment 2 · Real Estate 1 · Fund 4 · Other 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Associate - Operations - Operations - CBS - FIN - FP&A Account Support - Bangalore](https://careers.ey.com/ey/job/Bengaluru-Associate-Operations-Operations-CBS-FIN-FP&A-Account-Support-Bangalore-KA-560001/1455368433/) | EY | Bengaluru |
-| — | [FIN_Treasury_AS](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AS/1447114200/) | Nomura | Mumbai |
-
-#### Credit CV: 14
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-05 | [Analyst - Wholesale Credit Sanctioning - LevFin](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
-| — | [Analyst, Portfolio Management US Direct Lending](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8606) | Ares Management | Mumbai, India |
-| — | [RSK-Credit Risk](https://careers.nomura.com/Nomura/job/Mumbai-RSK-Credit-Risk/1427853400/) | Nomura | Mumbai |
-| 2026-11-05 | [Market Risk Associate – CIO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678) | JPMorgan Chase | Mumbai, Maharashtra, India |
-| — | [Risk Analyst – Data Science & Analytics](https://jobs.smartrecruiters.com/experian/744000159050969-risk-analyst-data-science-analytics) | Experian | Mumbai, Maharashtra, India |
-| — | [Risk Analyst – Data Science & Analytics](https://jobs.smartrecruiters.com/experian/744000158665379-risk-analyst-data-science-analytics) | Experian | Mumbai, , India |
-| — | [Risk Analyst – Data Science & Analytics](https://jobs.smartrecruiters.com/experian/744000158664969-risk-analyst-data-science-analytics) | Experian | Mumbai, , India |
-| — | [Risk Analyst](https://careers.nomura.com/Nomura/job/Mumbai-Risk-Analyst/1433314600/) | Nomura | Mumbai |
-| — | [Associate, Credit IR](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Credit-IR_R6980) | Ares Management | Mumbai, India |
-| 2026-11-06 | [Associate Consultant, Financial Institution & Counterparty Risk](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1) | Northern Trust | Bangalore, India |
-| — | [RSK-Market Risk](https://careers.nomura.com/Nomura/job/Mumbai-RSK-Market-Risk/1447143100/) | Nomura | Mumbai |
-| — | [Credit Risk Specialist](https://careers.nomura.com/Nomura/job/Mumbai-Credit-Risk-Specialist/1435693200/) | Nomura | Mumbai |
-| 2026-11-06 | [Consultant - Financial Institutions & Counterparty Risk](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant---Financial-Institutions---Counterparty-Risk_R163825-1) | Northern Trust | Bangalore, India |
-| 2026-11-05 | [Credit Documentation Specialist - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553) | JPMorgan Chase | Mumbai, Maharashtra, India |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
-
-#### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
-| 2026-11-07 | [Transaction Services - US Operations](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768) | Citi | Pune Maharashtra India |
-
-#### Real Estate CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
-
-#### Fund CV (written for India; tweak the header for UK roles): 4
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
-| — | [Associate, Fund Accounting (Public Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Senior-Associate--Fund-Accounting--Public-Credit-_R8303) | Ares Management | Mumbai, India |
-| — | [Associate, Fund Accounting ( Strategic Partnership)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting---Strategic-Partnership-_R8560) | Ares Management | Mumbai, India |
-| — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Quants](https://careers.nomura.com/Nomura/job/Mumbai-Quants-400076/1397978700/) | Nomura | Mumbai |
-
-<sub>142 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
+<sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56, 05:37, 04:37, 03:37, 02:37, 01:37</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (103)](#finance-fpa-cv-103) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (45)](#investment-ib--pe-cv-45) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (104)](#finance-fpa-cv-104) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (45)](#investment-ib--pe-cv-45) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
-### Finance (FP&A) CV: 103
+### Finance (FP&A) CV: 104
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |
 | 2026-11-14 | [Financial Analyst, Transaction Opinions / Fund Opinions / CVAS](https://www.linkedin.com/jobs/view/financial-analyst-transaction-opinions-fund-opinions-cvas-at-houlihan-lokey-4482853821) | Houlihan Lokey | Mumbai Metropolitan Region |
 | 2026-11-14 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-aristocrat-4489892150) | Aristocrat | Gurugram, Haryana, India |
 | 2026-11-14 | [Financial Planning Analyst_CXO Office](https://www.linkedin.com/jobs/view/financial-planning-analyst-cxo-office-at-curefoods-4489873322) | Curefoods | Bengaluru, Karnataka, India |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T23:35:56.101Z",
+ "generated_at": "2026-11-15T00:39:16.473Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 117,
+   "matching": 118,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -1790,6 +1790,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
