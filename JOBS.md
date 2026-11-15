@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 14:39** (UK time) · **317 open roles** at 172 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 15:39** (UK time) · **317 open roles** at 172 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 14:35** · hourly scan · checked 99 boards · **1 new role**
+**Sun 15 Nov, 15:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Treasury Cash Management Analyst - EAME](https://www.linkedin.com/jobs/view/treasury-cash-management-analyst-eame-at-exxonmobil-india-careers-4430928705) | ExxonMobil India Careers | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 14:35** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 15:36</sub>
 
 <details>
 <summary><b>14:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1977,8 +1975,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-08 | [1065 Private Equity_Senior Associate](https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974) | PwC Acceleration Center India | Bengaluru, Karnataka, India |
 
 </details>
-
-<sub>Nothing new at: 15:36, 14:42</sub>
 
 ## All open roles by CV
 
