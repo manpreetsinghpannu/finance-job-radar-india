@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 00:39** (UK time) · **309 open roles** at 165 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 01:37** (UK time) · **309 open roles** at 165 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 00:35** · hourly scan · checked 99 boards · **1 new role**
+**Sun 15 Nov, 01:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 00:35** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 01:36</sub>
 
 <details>
 <summary><b>00:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1942,7 +1940,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56, 05:37, 04:37, 03:37, 02:37, 01:37</sub>
+<sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56, 05:37, 04:37, 03:37, 02:37</sub>
 
 ## All open roles by CV
 
