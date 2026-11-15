@@ -413,5 +413,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-synapse-xtl-4489381838 | Synapse XTL | Chartered Financial Analyst | Indore, Madhya Pradesh, India | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-india-at-ebanx-4412917274 | EBANX | Treasury Analyst | India | Mumbai Metropolitan Region | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-cash-management-analyst-eame-at-exxonmobil-india-careers-4430928705 | ExxonMobil India Careers | Treasury Cash Management Analyst - EAME | Bengaluru, Karnataka, India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251 | MoEngage | Business Finance Analyst – FP&A | Bengaluru, Karnataka, India | posted: 2026-11-15 | note: via LinkedIn
 
 ## Processed

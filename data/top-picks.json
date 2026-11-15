@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T15:39:22.408Z",
+ "generated_at": "2026-11-15T16:39:43.879Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 124,
+   "matching": 125,
    "picks": [
+    {
+     "title": "Business Finance Analyst – FP&A",
+     "company": "MoEngage",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-15",
+     "url": "https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Finance Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Financial Analyst, GFS FP&A",
      "company": "Amazon",
@@ -36,19 +49,6 @@
      "why": [
       "FP&A",
       "Financial Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Finance Analyst- CA, FP&A -1-2yrs exp",
-     "company": "Cisco",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-12",
-     "url": "https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000",
-     "score": 26,
-     "why": [
-      "FP&A",
-      "Finance Analyst"
      ],
      "sponsor": null
     }
@@ -1835,6 +1835,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
   }
  }
 }
