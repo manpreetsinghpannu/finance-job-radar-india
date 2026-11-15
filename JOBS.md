@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 22:37** (UK time) · **322 open roles** at 175 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 23:14** (UK time) · **322 open roles** at 175 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 22:35** · hourly scan · checked 99 boards · **1 new role**
+**Sun 15 Nov, 23:11** · hourly scan · checked 99 boards · **0 new roles**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-blake-atlantic-4491277060) | Blake Atlantic | India |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 22:35** (1: Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 23:11</sub>
 
 <details>
 <summary><b>22:35</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -1978,7 +1976,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 8 November
 
-<sub>Nothing new at: 23:36, 23:12, 22:51</sub>
+<sub>Nothing new at: 23:36</sub>
 
 ## All open roles by CV
 
