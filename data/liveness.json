@@ -113,7 +113,7 @@
  },
  "https://www.linkedin.com/jobs/view/finance-analyst-contra-revenue-at-hp-4488499191": {
   "status": "live",
-  "checked_at": "2026-11-15T14:39:52Z"
+  "checked_at": "2026-11-15T18:35:58Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-ii-foaa-leo-at-amazon-4471886962": {
   "status": "live",
@@ -773,7 +773,7 @@
  },
  "https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779": {
   "status": "unknown",
-  "checked_at": "2026-11-15T14:39:48Z"
+  "checked_at": "2026-11-15T18:35:55Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-fund-accountant-at-one-bcg-one-business-consulting-group-4489072876": {
   "status": "closed",
@@ -1362,5 +1362,13 @@
  "https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871": {
   "status": "live",
   "checked_at": "2026-11-15T18:02:41Z"
+ },
+ "https://www.linkedin.com/jobs/view/research-analyst-at-hrm-counsel-4491239885": {
+  "status": "live",
+  "checked_at": "2026-11-15T18:35:48Z"
+ },
+ "https://www.linkedin.com/jobs/view/experienced-associate-treasury-management-system-implementation-finance-solutions-at-pwc-acceleration-center-india-4454142597": {
+  "status": "live",
+  "checked_at": "2026-11-15T18:35:51Z"
  }
 }

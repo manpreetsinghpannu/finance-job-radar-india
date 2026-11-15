@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 18:06** (UK time) · **322 open roles** at 175 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 18:35** (UK time) · **322 open roles** at 175 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 18:02** · hourly scan · checked 99 boards · **2 new roles**
+**Sun 15 Nov, 18:35** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Experienced Associate_Treasury Management System Implementation_Finance Solutions](https://www.linkedin.com/jobs/view/experienced-associate-treasury-management-system-implementation-finance-solutions-at-pwc-acceleration-center-india-4454142597) | PwC Acceleration Center India | Mumbai Metropolitan Region |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-hrm-counsel-4491239885) | HRM Counsel | India |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 18:02** (2: Finance 1 · Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 18:35</sub>
 
 <details>
 <summary><b>18:02</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
