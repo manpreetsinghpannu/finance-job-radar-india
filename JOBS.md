@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 05:39** (UK time) · **311 open roles** at 166 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 06:40** (UK time) · **311 open roles** at 166 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 05:35** · hourly scan · checked 99 boards · **2 new roles**
+**Sun 15 Nov, 06:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482) | Zacks Research Pvt. Ltd | Bidhannagar, West Bengal, India |
-| 2026-11-14 | [Quantum Treasury Implementation - Consultant](https://www.linkedin.com/jobs/view/quantum-treasury-implementation-consultant-at-deloitte-4456018287) | Deloitte | Chennai, Tamil Nadu, India |
+Nothing new this time. The last scan that found something was **Sun 15 Nov, 05:35** (2: Finance 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<sub>Nothing new at: 06:36</sub>
 
 <details>
 <summary><b>05:35</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -1957,7 +1954,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 08:36, 07:37, 06:45, 06:37, 05:56</sub>
+<sub>Nothing new at: 08:36, 07:37, 06:45</sub>
 
 ## All open roles by CV
 
