@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T06:40:23.666Z",
+ "generated_at": "2026-11-15T07:37:18.394Z",
  "order": [
   "finance",
   "credit",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 52,
+   "matching": 53,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -1805,6 +1805,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-mindnexa-solutions-4490224198": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }
