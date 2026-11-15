@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 09:35** (UK time) · **312 open roles** at 167 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 10:39** (UK time) · **312 open roles** at 167 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 09:35** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 15 Nov, 10:35** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sun 15 Nov, 07:36** (1: Investment 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 15 November
 
-<sub>Nothing new at: 09:35, 09:14, 08:35</sub>
+<sub>Nothing new at: 10:35, 09:35, 09:14, 08:35</sub>
 
 <details>
 <summary><b>07:36</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -1943,30 +1943,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Commercial & Investment Bank Risk Associate - GHHN](https://www.linkedin.com/jobs/view/commercial-investment-bank-risk-associate-ghhn-at-jpmorganchase-4416681700) | JPMorganChase | Bengaluru, Karnataka, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
-<details>
-<summary><b>09:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-07 | [Credit and Risk Officer](https://www.linkedin.com/jobs/view/credit-and-risk-officer-at-yes-bank-4435899891) | YES BANK | Gandhinagar, Gujarat, India |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (106)](#finance-fpa-cv-106) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
@@ -2326,7 +2302,7 @@ Everything matched so far, newest first within each CV: [Finance (106)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>44 roles taken off the list because the firm closed the posting</summary>
+<summary>41 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2371,8 +2347,5 @@ Everything matched so far, newest first within each CV: [Finance (106)](#finance
 | Sun 8 Nov, 18:37 | Financial Analyst II | Fluor Corporation |
 | Sun 8 Nov, 18:37 | Treasury Executive | Flexiple |
 | Sun 8 Nov, 18:36 | FP&A Executive | Flexiple |
-| Sun 8 Nov, 10:37 | Investment Banking Analyst | Zetheta Algorithms Private Limited |
-| Sun 8 Nov, 10:37 | Equity Research Analyst | Zetheta Algorithms Private Limited |
-| Sun 8 Nov, 10:36 | Financial Analyst | Scoutit |
 
 </details>
