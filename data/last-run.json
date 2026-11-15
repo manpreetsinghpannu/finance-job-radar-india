@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-15T12:39:37.208Z",
+  "finished_at": "2026-11-15T13:37:06.685Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 41477,
-  "filtered_out": 41405,
-  "new_matches": 1,
-  "boards_failed": 5,
+  "postings_seen": 41699,
+  "filtered_out": 41626,
+  "new_matches": 2,
+  "boards_failed": 4,
   "failed": [
     {
       "company": "Wipro",
@@ -25,10 +25,6 @@
     {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
-    },
-    {
-      "company": "GIC",
-      "error": "This operation was aborted"
     }
   ]
 }

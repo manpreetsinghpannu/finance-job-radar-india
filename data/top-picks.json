@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:39:36.406Z",
+ "generated_at": "2026-11-15T13:37:06.175Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 121,
+   "matching": 123,
    "picks": [
     {
      "title": "Financial Analyst, GFS FP&A",
@@ -1820,6 +1820,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-synapse-xtl-4489381838": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/treasury-analyst-india-at-ebanx-4412917274": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

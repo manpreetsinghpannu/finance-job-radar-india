@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 12:39** (UK time) · **314 open roles** at 169 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 13:37** (UK time) · **316 open roles** at 171 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 12:35** · hourly scan · checked 99 boards · **1 new role**
+**Sun 15 Nov, 13:35** · hourly scan · checked 99 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-15 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-scoutit-4490229255) | Scoutit | Bengaluru, Karnataka, India |
+| 2026-11-15 | [Chartered Financial Analyst](https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-synapse-xtl-4489381838) | Synapse XTL | Indore, Madhya Pradesh, India |
+| 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-india-at-ebanx-4412917274) | EBANX | India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (121 matching)
+**Finance (FP&A) CV** (123 matching)
 
 1. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Finance Analyst- CA, FP&A -1-2yrs exp](https://www.linkedin.com/jobs/view/finance-analyst-ca-fp-a-1-2yrs-exp-at-cisco-4474350000) · Cisco · Bengaluru, Karnataka, India · posted 2026-11-12
@@ -62,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>13:35</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Chartered Financial Analyst](https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-synapse-xtl-4489381838) | Synapse XTL | Indore, Madhya Pradesh, India |
+| 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-india-at-ebanx-4412917274) | EBANX | India |
+
+</details>
 
 <details>
 <summary><b>12:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1955,19 +1968,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 15:36, 14:42, 13:36, 13:18</sub>
+<sub>Nothing new at: 15:36, 14:42</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (107)](#finance-fpa-cv-107) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (47)](#investment-ib--pe-cv-47) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (109)](#finance-fpa-cv-109) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (47)](#investment-ib--pe-cv-47) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
-### Finance (FP&A) CV: 107
+### Finance (FP&A) CV: 109
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |
 | 2026-11-15 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482) | Zacks Research Pvt. Ltd | Bidhannagar, West Bengal, India |
 | 2026-11-15 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-scoutit-4490229255) | Scoutit | Bengaluru, Karnataka, India |
+| 2026-11-15 | [Chartered Financial Analyst](https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-synapse-xtl-4489381838) | Synapse XTL | Indore, Madhya Pradesh, India |
+| 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-india-at-ebanx-4412917274) | EBANX | India |
 | 2026-11-14 | [Financial Analyst, Transaction Opinions / Fund Opinions / CVAS](https://www.linkedin.com/jobs/view/financial-analyst-transaction-opinions-fund-opinions-cvas-at-houlihan-lokey-4482853821) | Houlihan Lokey | Mumbai Metropolitan Region |
 | 2026-11-14 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-aristocrat-4489892150) | Aristocrat | Gurugram, Haryana, India |
 | 2026-11-14 | [Financial Planning Analyst_CXO Office](https://www.linkedin.com/jobs/view/financial-planning-analyst-cxo-office-at-curefoods-4489873322) | Curefoods | Bengaluru, Karnataka, India |
