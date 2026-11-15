@@ -416,5 +416,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251 | MoEngage | Business Finance Analyst – FP&A | Bengaluru, Karnataka, India | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/team-member-credit-risk-modelling-at-yes-bank-4466389147 | YES BANK | Team Member Credit Risk Modelling | Mumbai Metropolitan Region | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871 | Portage Point Partners | Associate, Turnaround & Restructuring Services | Gurugram, Haryana, India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-hrm-counsel-4491239885 | HRM Counsel | Research Analyst | India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-associate-treasury-management-system-implementation-finance-solutions-at-pwc-acceleration-center-india-4454142597 | PwC Acceleration Center India | Experienced Associate_Treasury Management System Implementation_Finance Solutions | Mumbai Metropolitan Region | posted: 2026-11-15 | note: via LinkedIn
 
 ## Processed
