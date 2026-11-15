@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T10:39:33.781Z",
+ "generated_at": "2026-11-15T11:33:22.057Z",
  "order": [
   "finance",
   "credit",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 53,
+   "matching": 54,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -141,11 +141,11 @@
     },
     {
      "title": "Investment Banking Analyst",
-     "company": "Cap Connect",
-     "location": "New Delhi, Delhi, India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246",
-     "score": 16,
+     "company": "MoW Capital",
+     "location": "India",
+     "posted": "2026-11-15",
+     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036",
+     "score": 18,
      "why": [
       "Investment Banking"
      ],
@@ -1810,6 +1810,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }

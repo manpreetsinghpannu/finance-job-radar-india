@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 10:39** (UK time) · **312 open roles** at 167 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 11:33** (UK time) · **313 open roles** at 168 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 10:35** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 15 Nov, 11:32** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sun 15 Nov, 07:36** (1: Investment 1); open it in the scan log below.
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
 
 ## Top picks for each CV
 
@@ -33,10 +37,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) · WCC Investment Advisors Pvt. Ltd. · Noida, Uttar Pradesh, India · posted 2026-11-14
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556) · Neuraleap Group · Chennai, Tamil Nadu, India · posted 2026-11-13
 
-**Investment (IB / PE) CV** (53 matching)
+**Investment (IB / PE) CV** (54 matching)
 
 1. [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) · GrowthAlly Advisors Private Limited · Mumbai Metropolitan Region · posted 2026-11-14
-2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-cap-connect-4488656246) · Cap Connect · New Delhi, Delhi, India · posted 2026-11-11
+2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) · MoW Capital · India · posted 2026-11-15
 
 **Consulting CV** (28 matching)
 
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>11:32</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
+
+</details>
 
 <sub>Nothing new at: 10:35, 09:35, 09:14, 08:35</sub>
 
@@ -1945,7 +1960,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (106)](#finance-fpa-cv-106) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (46)](#investment-ib--pe-cv-46) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (106)](#finance-fpa-cv-106) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (47)](#investment-ib--pe-cv-47) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
 ### Finance (FP&A) CV: 106
 
@@ -2170,10 +2185,11 @@ Everything matched so far, newest first within each CV: [Finance (106)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 46
+### Investment (IB / PE) CV: 47
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
 | 2026-11-15 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-mindnexa-solutions-4490224198) | Mindnexa Solutions | India |
 | 2026-11-14 | [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-14 | [Valuation Services Consultant - Commercial Valuation](https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195) | Crowe Capabilities Center – India | Greater Hyderabad Area |
