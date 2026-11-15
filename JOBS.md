@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 18:35** (UK time) · **322 open roles** at 175 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 19:39** (UK time) · **321 open roles** at 174 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 18:35** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 15 Nov, 19:35** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sun 15 Nov, 18:02** (2: Finance 1 · Equity 1); open it in the scan log below.
 
@@ -33,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) · WCC Investment Advisors Pvt. Ltd. · Noida, Uttar Pradesh, India · posted 2026-11-14
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556) · Neuraleap Group · Chennai, Tamil Nadu, India · posted 2026-11-13
 
-**Investment (IB / PE) CV** (55 matching)
+**Investment (IB / PE) CV** (54 matching)
 
 1. [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) · GrowthAlly Advisors Private Limited · Mumbai Metropolitan Region · posted 2026-11-14
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) · MoW Capital · India · posted 2026-11-15
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 15 November
 
-<sub>Nothing new at: 18:35</sub>
+<sub>Nothing new at: 19:35, 18:35</sub>
 
 <details>
 <summary><b>18:02</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
@@ -155,20 +155,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 10:35, 09:35, 09:14, 08:35</sub>
-
-<details>
-<summary><b>07:36</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-mindnexa-solutions-4490224198) | Mindnexa Solutions | India |
-
-</details>
-
-<sub>Nothing new at: 06:36</sub>
+<sub>Nothing new at: 10:35, 09:35, 09:14, 08:35, 07:36, 06:36</sub>
 
 <details>
 <summary><b>05:35</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -1989,11 +1976,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 21:36, 20:36, 19:36, 19:10, 18:50, 18:36</sub>
+<sub>Nothing new at: 21:36, 20:36</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (112)](#finance-fpa-cv-112) · [Credit (87)](#credit-cv-87) · [Equity (17)](#equity-cv-17) · [Investment (48)](#investment-ib--pe-cv-48) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (112)](#finance-fpa-cv-112) · [Credit (87)](#credit-cv-87) · [Equity (17)](#equity-cv-17) · [Investment (47)](#investment-ib--pe-cv-47) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
 ### Finance (FP&A) CV: 112
 
@@ -2226,12 +2213,11 @@ Everything matched so far, newest first within each CV: [Finance (112)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 48
+### Investment (IB / PE) CV: 47
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
-| 2026-11-15 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-mindnexa-solutions-4490224198) | Mindnexa Solutions | India |
 | 2026-11-15 | [Associate, Turnaround & Restructuring Services](https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871) | Portage Point Partners | Gurugram, Haryana, India |
 | 2026-11-14 | [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-14 | [Valuation Services Consultant - Commercial Valuation](https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195) | Crowe Capabilities Center – India | Greater Hyderabad Area |
@@ -2360,10 +2346,11 @@ Everything matched so far, newest first within each CV: [Finance (112)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>41 roles taken off the list because the firm closed the posting</summary>
+<summary>39 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 15 Nov, 19:37 | Investment Banking Associate | Mindnexa Solutions |
 | Sat 14 Nov, 22:37 | Treasury & Settlement Operations Executive | Riverpe |
 | Sat 14 Nov, 18:36 | Equity & Credit Research Expert | Mindnexa Solutions |
 | Sat 14 Nov, 11:36 | Debt Syndication Executive | Misha Capital |
@@ -2402,8 +2389,5 @@ Everything matched so far, newest first within each CV: [Finance (112)](#finance
 | Mon 9 Nov, 07:37 | Risk Associate | Entain India |
 | Mon 9 Nov, 06:38 | Equity Research Analyst (Remote) | Joblet-AI |
 | Mon 9 Nov, 06:38 | M&A Research Analyst (Remote) | Joblet-AI |
-| Sun 8 Nov, 18:37 | Financial Analyst II | Fluor Corporation |
-| Sun 8 Nov, 18:37 | Treasury Executive | Flexiple |
-| Sun 8 Nov, 18:36 | FP&A Executive | Flexiple |
 
 </details>
