@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 11:33** (UK time) · **313 open roles** at 168 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 11:42** (UK time) · **313 open roles** at 168 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 11:32** · hourly scan · checked 99 boards · **1 new role**
+**Sun 15 Nov, 11:38** · hourly scan · checked 99 boards · **1 new role**
 
 ### Investment (IB / PE) CV: 1
 
@@ -64,7 +64,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Sunday 15 November
 
 <details>
-<summary><b>11:32</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+<summary><b>11:38</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
 
 #### Investment (IB / PE) CV: 1
 
@@ -1945,18 +1945,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 15:36, 14:42, 13:36, 13:18, 12:36</sub>
-
-<details>
-<summary><b>11:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Financial Controller - Associate](https://www.linkedin.com/jobs/view/financial-controller-associate-at-jpmorganchase-4371418573) | JPMorganChase | Bengaluru, Karnataka, India |
-| 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
-
-</details>
 
 ## All open roles by CV
 
