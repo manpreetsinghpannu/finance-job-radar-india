@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:48:25.776Z",
+ "generated_at": "2026-11-15T22:37:50.301Z",
  "order": [
   "finance",
   "credit",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "Investment Research Analyst",
@@ -188,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 28,
+   "matching": 29,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -1855,6 +1855,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-blake-atlantic-4491277060": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
   }
  }
 }
