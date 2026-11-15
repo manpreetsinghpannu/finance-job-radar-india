@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 17:03** (UK time) · **318 open roles** at 173 firms · the radar checks every board about once an hour.
+Updated **Sun 15 Nov, 17:35** (UK time) · **320 open roles** at 174 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 17:01** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 15 Nov, 17:35** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 15 Nov, 16:35** (1: Finance 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Team Member Credit Risk Modelling](https://www.linkedin.com/jobs/view/team-member-credit-risk-modelling-at-yes-bank-4466389147) | YES BANK | Mumbai Metropolitan Region |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Associate, Turnaround & Restructuring Services](https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871) | Portage Point Partners | Gurugram, Haryana, India |
 
 ## Top picks for each CV
 
@@ -23,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Credit CV** (85 matching)
+**Credit CV** (86 matching)
 
 1. [Analyst - Wholesale Credit Risk Quantitative Research](https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-13
 2. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
@@ -33,7 +43,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) · WCC Investment Advisors Pvt. Ltd. · Noida, Uttar Pradesh, India · posted 2026-11-14
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556) · Neuraleap Group · Chennai, Tamil Nadu, India · posted 2026-11-13
 
-**Investment (IB / PE) CV** (54 matching)
+**Investment (IB / PE) CV** (55 matching)
 
 1. [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) · GrowthAlly Advisors Private Limited · Mumbai Metropolitan Region · posted 2026-11-14
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) · MoW Capital · India · posted 2026-11-15
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 15 November
+
+<details>
+<summary><b>17:35</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Team Member Credit Risk Modelling](https://www.linkedin.com/jobs/view/team-member-credit-risk-modelling-at-yes-bank-4466389147) | YES BANK | Mumbai Metropolitan Region |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Associate, Turnaround & Restructuring Services](https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871) | Portage Point Partners | Gurugram, Haryana, India |
+
+</details>
 
 <sub>Nothing new at: 17:01</sub>
 
@@ -1974,7 +2001,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (111)](#finance-fpa-cv-111) · [Credit (86)](#credit-cv-86) · [Equity (16)](#equity-cv-16) · [Investment (47)](#investment-ib--pe-cv-47) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (111)](#finance-fpa-cv-111) · [Credit (87)](#credit-cv-87) · [Equity (16)](#equity-cv-16) · [Investment (48)](#investment-ib--pe-cv-48) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
 ### Finance (FP&A) CV: 111
 
@@ -2092,10 +2119,11 @@ Everything matched so far, newest first within each CV: [Finance (111)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 86
+### Credit CV: 87
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-15 | [Team Member Credit Risk Modelling](https://www.linkedin.com/jobs/view/team-member-credit-risk-modelling-at-yes-bank-4466389147) | YES BANK | Mumbai Metropolitan Region |
 | 2026-11-14 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-flexifunds-4489862502) | FLEXIFUNDS | Faridabad, Haryana, India |
 | 2026-11-14 | [C1 - Credit Risk Modeler](https://www.linkedin.com/jobs/view/c1-credit-risk-modeler-at-exl-4446579522) | EXL | Gurugram, Haryana, India |
 | 2026-11-14 | [ANALYST – DEBT SYNDICATION](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
@@ -2204,12 +2232,13 @@ Everything matched so far, newest first within each CV: [Finance (111)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 47
+### Investment (IB / PE) CV: 48
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
 | 2026-11-15 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-mindnexa-solutions-4490224198) | Mindnexa Solutions | India |
+| 2026-11-15 | [Associate, Turnaround & Restructuring Services](https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871) | Portage Point Partners | Gurugram, Haryana, India |
 | 2026-11-14 | [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-14 | [Valuation Services Consultant - Commercial Valuation](https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195) | Crowe Capabilities Center – India | Greater Hyderabad Area |
 | 2026-11-13 | [Valuation Associate](https://www.linkedin.com/jobs/view/valuation-associate-at-starlette-property-valuations-opc-pvt-ltd-4488900413) | STARLETTE PROPERTY VALUATIONS (OPC) PVT LTD | Coimbatore, Tamil Nadu, India |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T17:03:28.512Z",
+ "generated_at": "2026-11-15T17:35:38.695Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 85,
+   "matching": 86,
    "picks": [
     {
      "title": "Analyst - Wholesale Credit Risk Quantitative Research",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 54,
+   "matching": 55,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -1840,6 +1840,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/team-member-credit-risk-modelling-at-yes-bank-4466389147": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
   }
  }
 }
