@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:35:53.075Z",
+ "generated_at": "2026-11-16T21:36:37.988Z",
  "order": [
   "finance",
   "credit",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 60,
+   "matching": 61,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -140,14 +140,14 @@
      "sponsor": null
     },
     {
-     "title": "Private Equity Analyst",
-     "company": "aarthiq",
-     "location": "Gurugram, Haryana, India",
+     "title": "Investment Banking Analyst",
+     "company": "Firstshot Financial Partners",
+     "location": "Mumbai, Maharashtra, India",
      "posted": "2026-11-16",
-     "url": "https://www.linkedin.com/jobs/view/private-equity-analyst-at-aarthiq-4490264842",
-     "score": 18,
+     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-firstshot-financial-partners-4490134945",
+     "score": 19,
      "why": [
-      "Private Equity"
+      "Investment Banking"
      ],
      "sponsor": null
     }
@@ -2111,6 +2111,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-firstshot-financial-partners-4490134945": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }
