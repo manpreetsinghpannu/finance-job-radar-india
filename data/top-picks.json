@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:37:27.285Z",
+ "generated_at": "2026-11-16T16:37:24.087Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 92,
+   "matching": 91,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 61,
+   "matching": 60,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -1586,11 +1586,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 6
-  },
-  "https://www.linkedin.com/jobs/view/junior-analyst-structured-finance-at-morningstar-4490361571": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/asset-management-at-ces-4488945353": {
    "id": "real_estate",
