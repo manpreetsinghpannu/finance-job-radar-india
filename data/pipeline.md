@@ -468,5 +468,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-fig-at-deloitte-4489771000 | Deloitte | Credit Risk Analyst - FIG | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-emsme-4490626691 | eMSME | Credit Analyst | Mumbai Metropolitan Region | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/junior-treasury-ap-analyst-at-contego-global-talent-solutions-4475540603 | Contego - Global Talent Solutions | Junior Treasury & AP Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-specialist-at-wipro-4490651549 | Wipro | FP&A Specialist | Greater Kolkata Area | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/isc-pc-fp-a-analyst-at-akzonobel-4489762391 | AkzoNobel | ISC PC FP&A Analyst | Pune Division, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operations-portfolio-monitoring-unit-private-markets-analyst-at-kkr-4445537031 | KKR | Operations - Portfolio Monitoring Unit (Private Markets)- Analyst | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-india-4490654525 | PwC India | IN_Associate_Valuations_Valuations_Advisory_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
