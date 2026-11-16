@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T10:37:18.430Z",
+ "generated_at": "2026-11-16T11:35:31.119Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 134,
+   "matching": 138,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 87,
+   "matching": 88,
    "picks": [
     {
      "title": "Analyst - Wholesale Credit Risk Quantitative Research",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -157,7 +157,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 23,
+   "matching": 24,
    "picks": [
     {
      "title": "BPO PE and Fund Accounting Analyst",
@@ -1931,6 +1931,41 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 5
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-ca-at-taglynk-4489715956": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-%E2%80%93-vehicle-finance-at-svcl-4490291395": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/consultant-m-a-tech-at-kpmg-india-4405315691": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-at-the-hird-4489719995": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/associate-treasury-analyst-at-baker-tilly-us-4454652895": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-treasury-tower-operations-1-at-caterpillar-inc-4490295429": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-ii-6-at-caterpillar-inc-4490299211": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

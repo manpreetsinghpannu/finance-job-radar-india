@@ -443,5 +443,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AN/1450843900/ | Nomura | FIN_Treasury_AN | Mumbai
 - [ ] https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/ | EY | Enterprise Risk Associate/Senior Associate, Risk Consulting
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-ca-at-taglynk-4489715956 | Taglynk | Financial Analyst - CA | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-%E2%80%93-vehicle-finance-at-svcl-4490291395 | SVCL | Credit Underwriter – Vehicle Finance | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/consultant-m-a-tech-at-kpmg-india-4405315691 | KPMG India | Consultant : M&A Tech | Gurgaon, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-at-the-hird-4489719995 | The HIRD | Fund Accounting | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-treasury-analyst-at-baker-tilly-us-4454652895 | Baker Tilly US | Associate- Treasury Analyst | Bengaluru East, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-treasury-tower-operations-1-at-caterpillar-inc-4490295429 | Caterpillar Inc. | Finance Analyst - Treasury Tower Operations-1 | Bengaluru East, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-ii-6-at-caterpillar-inc-4490299211 | Caterpillar Inc. | Finance Analyst II-6 | Bengaluru East, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
