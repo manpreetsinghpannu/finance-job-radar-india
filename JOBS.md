@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 16 Nov, 00:37** (UK time) · **324 open roles** at 176 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 01:38** (UK time) · **324 open roles** at 176 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 16 Nov, 00:33** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 16 Nov, 01:34** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-hey-recruiting-agency-4489367768) | Hey Recruiting Agency | India |
-| 2026-11-15 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173) | EXL | Noida, Uttar Pradesh, India |
+Nothing new this time. The last scan that found something was **Mon 16 Nov, 00:33** (2: Finance 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<sub>Nothing new at: 01:34</sub>
 
 <details>
 <summary><b>00:33</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -1990,8 +1987,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-08 | [Quantitative Researcher - Experienced Hires (India)](https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680) | Trexquant Investment LP | Gurugram, Haryana, India |
 
 </details>
-
-<sub>Nothing new at: 01:36</sub>
 
 ## All open roles by CV
 
