@@ -434,5 +434,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137 | The HIRD | Valuation /Portfolio Monitoring/Private Equity | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-consultant-at-substance-advisory-private-limited-4489732035 | Substance Advisory Private Limited | Mergers and Acquisitions Consultant | Greater Kolkata Area | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/controller-financial-planning-and-accounting-at-niit-foundation-4490254941 | NIIT Foundation | Controller Financial Planning and Accounting | Pune Division, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745 | Equity research by Sagar | Equity Research Analyst | Bhubaneswar, Odisha, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-analyst-at-aarthiq-4490264842 | aarthiq | Private Equity Analyst | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-hiregenie-finance-recruitment-expert-4490279050 | HireGenie | Finance Recruitment Expert | Treasury Specialist | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:35:31.608Z",
+ "generated_at": "2026-11-16T08:37:34.630Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 86,
+   "matching": 85,
    "picks": [
     {
      "title": "Analyst - Wholesale Credit Risk Quantitative Research",
@@ -91,8 +91,21 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 28,
+   "matching": 30,
    "picks": [
+    {
+     "title": "Equity Research Analyst",
+     "company": "Equity research by Sagar",
+     "location": "Bhubaneswar, Odisha, India",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745",
+     "score": 28,
+     "why": [
+      "Equity Research",
+      "Research Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Investment Research Analyst",
      "company": "WCC Investment Advisors Pvt. Ltd.",
@@ -105,26 +118,13 @@
       "Investment Research"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Equity Research Analyst",
-     "company": "Neuraleap Group",
-     "location": "Chennai, Tamil Nadu, India",
-     "posted": "2026-11-13",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556",
-     "score": 28,
-     "why": [
-      "Equity Research",
-      "Research Analyst"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -1272,11 +1272,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808225": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 7
-  },
   "https://www.linkedin.com/jobs/view/associate-consultant-debt-at-kpmg-india-4472328250": {
    "id": "credit",
    "cv": "Credit CV",
@@ -1921,6 +1916,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/private-equity-analyst-at-aarthiq-4490264842": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
   }
  }
 }
