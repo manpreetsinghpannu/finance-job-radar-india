@@ -450,5 +450,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-treasury-analyst-at-baker-tilly-us-4454652895 | Baker Tilly US | Associate- Treasury Analyst | Bengaluru East, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-treasury-tower-operations-1-at-caterpillar-inc-4490295429 | Caterpillar Inc. | Finance Analyst - Treasury Tower Operations-1 | Bengaluru East, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-ii-6-at-caterpillar-inc-4490299211 | Caterpillar Inc. | Finance Analyst II-6 | Bengaluru East, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-limagrain-4490296545 | LIMAGRAIN | FP&A analyst | Secunderābād, Telangana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-and-investment-bank-credit-risk-control-management-associate-at-jpmorganchase-4457512347 | JPMorganChase | Commercial and Investment Bank Credit Risk Control Management - Associate | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-reporting-at-the-hird-4489730881 | The HIRD | Private Equity/Portfolio Monitoring/Reporting | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
