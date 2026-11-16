@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 16 Nov, 20:23** (UK time) · **371 open roles** at 203 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 20:35** (UK time) · **372 open roles** at 203 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 16 Nov, 20:19** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 16 Nov, 20:34** · hourly scan · checked 99 boards · **1 new role**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) | Deutsche Bank | Jaipur, Rajasthan, India |
-
-### Other (fits no CV closely, may still be worth a look): 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| — | [CareCredit - Practice Development Specialist](https://www.synchronycareers.com/en/job/orlando/carecredit-practice-development-specialist/49398/102921862096) | Synchrony |  |
+| 2026-11-16 | [Treasury ops - Nostro Management Operations, AS](https://www.linkedin.com/jobs/view/treasury-ops-nostro-management-operations-as-at-deutsche-bank-4490126427) | Deutsche Bank | Jaipur, Rajasthan, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (148 matching)
+**Finance (FP&A) CV** (149 matching)
 
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<details>
+<summary><b>20:34</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Treasury ops - Nostro Management Operations, AS](https://www.linkedin.com/jobs/view/treasury-ops-nostro-management-operations-as-at-deutsche-bank-4490126427) | Deutsche Bank | Jaipur, Rajasthan, India |
+
+</details>
 
 <details>
 <summary><b>20:19</b> · hourly scan · <b>2 new</b> → Fund 1 · Other 1</summary>
@@ -2094,9 +2099,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (134)](#finance-fpa-cv-134) · [Credit (96)](#credit-cv-96) · [Equity (23)](#equity-cv-23) · [Investment (52)](#investment-ib--pe-cv-52) · [Consulting (21)](#consulting-cv-21) · [Real Estate (11)](#real-estate-cv-11) · [Fund (21)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-21) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
+Everything matched so far, newest first within each CV: [Finance (135)](#finance-fpa-cv-135) · [Credit (96)](#credit-cv-96) · [Equity (23)](#equity-cv-23) · [Investment (52)](#investment-ib--pe-cv-52) · [Consulting (21)](#consulting-cv-21) · [Real Estate (11)](#real-estate-cv-11) · [Fund (21)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-21) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
 
-### Finance (FP&A) CV: 134
+### Finance (FP&A) CV: 135
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2123,6 +2128,7 @@ Everything matched so far, newest first within each CV: [Finance (134)](#finance
 | 2026-11-16 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-safran-4491279721) | Safran | Shamshabad, Telangana, India |
 | — | [Executive / Accounts Payable / Bengaluru Eco space / Finance Transformation / Finance Operate](https://southasiacareers.deloitte.com/job/Bengaluru-Eco-space-Executive-Accounts-Payable-Bengaluru-Eco-space-Finance-Transformation-Finance-Operate/61573744/) | Deloitte India | Bengaluru Eco Space |
 | 2026-11-16 | [FP&A Specialist](https://www.linkedin.com/jobs/view/fp-a-specialist-at-wipro-4490651549) | Wipro | Greater Kolkata Area |
+| 2026-11-16 | [Treasury ops - Nostro Management Operations, AS](https://www.linkedin.com/jobs/view/treasury-ops-nostro-management-operations-as-at-deutsche-bank-4490126427) | Deutsche Bank | Jaipur, Rajasthan, India |
 | — | [FIN_Treasury_AN](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AN/1450843900/) | Nomura | Mumbai |
 | 2026-11-15 | [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) | MoEngage | Bengaluru, Karnataka, India |
 | 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |

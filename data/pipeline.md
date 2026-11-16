@@ -487,5 +487,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.synchronycareers.com/en/job/orlando/carecredit-practice-development-specialist/49398/102921862096 | Synchrony | CareCredit - Practice Development Specialist
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Bangaluru-Karnataka-India/Credit-Portfolio-Analyst-II_261009238 | Citi | Credit Portfolio Analyst II | 2 Locations | posted: 2026-11-16
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473 | Deutsche Bank | Fund Accounting or Reporting Analyst | Jaipur, Rajasthan, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-ops-nostro-management-operations-as-at-deutsche-bank-4490126427 | Deutsche Bank | Treasury ops - Nostro Management Operations, AS | Jaipur, Rajasthan, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
