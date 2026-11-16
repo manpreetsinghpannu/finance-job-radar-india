@@ -423,4 +423,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173 | EXL | Trust Accountant | Noida, Uttar Pradesh, India | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-it-at-eurofins-4491280486 | Eurofins | Finance Analyst - IT | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Intermediate-Analyst_261008657 | Citi | Credit Portfolio Intermediate Analyst | Mumbai Maharashtra India | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-safran-4491279721 | Safran | Financial Controller | Shamshabad, Telangana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-saarthi-4491290441 | Saarthi | Financial Planning and Analysis Analyst | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-pharma-at-icici-securities-4491290354 | ICICI Securities | Equity Research Associate - Pharma | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466 | Optimas Solutions | Treasury Analyst | Pune City, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+
 ## Processed
