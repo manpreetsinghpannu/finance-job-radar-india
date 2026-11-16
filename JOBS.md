@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 16 Nov, 02:36** (UK time) · **324 open roles** at 176 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 03:05** (UK time) · **324 open roles** at 176 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 16 Nov, 02:33** · hourly scan · checked 99 boards · **0 new roles**
+**Mon 16 Nov, 03:05** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Mon 16 Nov, 00:33** (2: Finance 2); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Monday 16 November
 
-<sub>Nothing new at: 02:33, 01:51, 01:34</sub>
+<sub>Nothing new at: 03:05, 02:33, 01:51, 01:34</sub>
 
 <details>
 <summary><b>00:33</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -1975,18 +1975,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 05:37, 04:36, 03:36, 03:02</sub>
-
-<details>
-<summary><b>02:44</b> · hourly scan · <b>1 new</b> → Other 1</summary>
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-08 | [Quantitative Researcher - Experienced Hires (India)](https://www.linkedin.com/jobs/view/quantitative-researcher-experienced-hires-india-at-trexquant-investment-lp-4444379680) | Trexquant Investment LP | Gurugram, Haryana, India |
-
-</details>
+<sub>Nothing new at: 05:37, 04:36, 03:36</sub>
 
 ## All open roles by CV
 
