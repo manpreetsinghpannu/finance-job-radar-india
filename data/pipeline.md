@@ -489,6 +489,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473 | Deutsche Bank | Fund Accounting or Reporting Analyst | Jaipur, Rajasthan, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-ops-nostro-management-operations-as-at-deutsche-bank-4490126427 | Deutsche Bank | Treasury ops - Nostro Management Operations, AS | Jaipur, Rajasthan, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-firstshot-financial-partners-4490134945 | Firstshot Financial Partners | Investment Banking Analyst | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516 | PFI Innovation Centre India | Investment Analyst Fund Analysis | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
 
 - [ ] https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Analyst-Financial-Advisory-Support_R26_4390 | Ameriprise Financial | Analyst Financial Advisory Support | 2 Locations | posted: 2026-11-16
 

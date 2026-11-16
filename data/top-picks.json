@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:35:38.015Z",
+ "generated_at": "2026-11-16T22:51:42.299Z",
  "order": [
   "finance",
   "credit",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 28,
+   "matching": 29,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -1822,11 +1822,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 3
   },
-  "https://www.linkedin.com/jobs/view/investment-analyst-at-blake-atlantic-4491277060": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2116,6 +2111,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
   }
  }
 }

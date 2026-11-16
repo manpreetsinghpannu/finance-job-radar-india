@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 16 Nov, 22:35** (UK time) · **373 open roles** at 204 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 22:51** (UK time) · **373 open roles** at 204 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 16 Nov, 22:31** · hourly scan · checked 99 boards · **0 new roles**
+**Mon 16 Nov, 22:47** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Mon 16 Nov, 21:33** (1: Investment 1); open it in the scan log below.
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Investment Analyst Fund Analysis](https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516) | PFI Innovation Centre India | Gurugram, Haryana, India |
 
 ## Top picks for each CV
 
@@ -48,7 +52,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Associate - Asset Management - Commercial real estate - US Mortgage](https://www.linkedin.com/jobs/view/associate-asset-management-commercial-real-estate-us-mortgage-at-three-across-4483324194) · Three Across · Bangalore Urban, Karnataka, India · posted 2026-11-14
 
-**Fund CV (written for India; tweak the header for UK roles)** (28 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (29 matching)
 
 1. [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) · Deutsche Bank · Jaipur, Rajasthan, India · posted 2026-11-16
 2. [Operations - Portfolio Monitoring Unit (Private Markets)- Analyst](https://www.linkedin.com/jobs/view/operations-portfolio-monitoring-unit-private-markets-analyst-at-kkr-4445537031) · KKR · Gurugram, Haryana, India · posted 2026-11-16
@@ -60,6 +64,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Monday 16 November
 
 <sub>Nothing new at: 22:31</sub>
+
+<details>
+<summary><b>22:47</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Investment Analyst Fund Analysis](https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516) | PFI Innovation Centre India | Gurugram, Haryana, India |
+
+</details>
 
 <details>
 <summary><b>21:33</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -453,20 +468,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 15 November
 
-<sub>Nothing new at: 23:33, 23:11</sub>
-
-<details>
-<summary><b>22:35</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-blake-atlantic-4491277060) | Blake Atlantic | India |
-
-</details>
-
-<sub>Nothing new at: 21:44, 20:35, 19:35, 18:35</sub>
+<sub>Nothing new at: 23:33, 23:11, 22:35, 21:44, 20:35, 19:35, 18:35</sub>
 
 <details>
 <summary><b>18:02</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
@@ -2074,7 +2076,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Monday 9 November
 
-<sub>Nothing new at: 23:35, 22:45, 22:35</sub>
+<sub>Nothing new at: 23:35</sub>
 
 ## All open roles by CV
 
@@ -2329,9 +2331,9 @@ Everything matched so far, newest first within each CV: [Finance (135)](#finance
 | 2026-11-16 | [Equity Research Associate - Pharma](https://www.linkedin.com/jobs/view/equity-research-associate-pharma-at-icici-securities-4491290354) | ICICI Securities | Mumbai, Maharashtra, India |
 | 2026-11-16 | [Private Equity Analyst](https://www.linkedin.com/jobs/view/private-equity-analyst-at-aarthiq-4490264842) | aarthiq | Gurugram, Haryana, India |
 | 2026-11-16 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-madhur-agrawal-4490265982) | Madhur Agrawal | India |
+| 2026-11-16 | [Investment Analyst Fund Analysis](https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516) | PFI Innovation Centre India | Gurugram, Haryana, India |
 | 2026-11-16 | [Research Associate - Chemicals](https://www.linkedin.com/jobs/view/research-associate-chemicals-at-emkay-global-financial-services-ltd-4478275207) | Emkay Global Financial Services Ltd | Mumbai Metropolitan Region |
 | 2026-11-15 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-hrm-counsel-4491239885) | HRM Counsel | India |
-| 2026-11-15 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-blake-atlantic-4491277060) | Blake Atlantic | India |
 | 2026-11-14 | [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) | WCC Investment Advisors Pvt. Ltd. | Noida, Uttar Pradesh, India |
 | 2026-11-13 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-neuraleap-group-4489593556) | Neuraleap Group | Chennai, Tamil Nadu, India |
 | 2026-11-13 | [head broking research analyst](https://www.linkedin.com/jobs/view/head-broking-research-analyst-at-aikyam-capital-private-limited-4488910583) | Aikyam Capital Private Limited | Mumbai, Maharashtra, India |
@@ -2496,10 +2498,11 @@ Everything matched so far, newest first within each CV: [Finance (135)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>43 roles taken off the list because the firm closed the posting</summary>
+<summary>44 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 16 Nov, 22:50 | Investment Analyst | Blake Atlantic |
 | Mon 16 Nov, 20:22 | Financial Planning Analyst_CXO Office | Curefoods |
 | Mon 16 Nov, 19:38 | Valuation /Portfolio Monitoring/Private Equity | The HIRD |
 | Mon 16 Nov, 16:36 | Junior Analyst, Structured Finance | Morningstar |
