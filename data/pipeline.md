@@ -438,5 +438,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/private-equity-analyst-at-aarthiq-4490264842 | aarthiq | Private Equity Analyst | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-hiregenie-finance-recruitment-expert-4490279050 | HireGenie | Finance Recruitment Expert | Treasury Specialist | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-decipher-financials-4490271892 | Decipher Financials | Financial Analyst | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-madhur-agrawal-4490265982 | Madhur Agrawal | Research Analyst | India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-credit-analyst-investor-relations-at-nj-macson-4490268685 | NJ Macson | Private Credit Analyst - Investor Relations | Chennai, Tamil Nadu, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

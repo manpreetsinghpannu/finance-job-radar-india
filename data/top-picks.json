@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:32:32.290Z",
+ "generated_at": "2026-11-16T09:39:48.464Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 85,
+   "matching": 86,
    "picks": [
     {
      "title": "Analyst - Wholesale Credit Risk Quantitative Research",
@@ -1911,6 +1911,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-at-madhur-agrawal-4490265982": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/private-credit-analyst-investor-relations-at-nj-macson-4490268685": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
   }
  }
 }
