@@ -421,5 +421,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-blake-atlantic-4491277060 | Blake Atlantic | Investment Analyst | India | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-hey-recruiting-agency-4489367768 | Hey Recruiting Agency | Financial Planning and Analysis Analyst | India | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173 | EXL | Trust Accountant | Noida, Uttar Pradesh, India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-it-at-eurofins-4491280486 | Eurofins | Finance Analyst - IT | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

@@ -1,14 +1,14 @@
 {
-  "finished_at": "2026-11-16T03:33:37.089Z",
+  "finished_at": "2026-11-16T04:37:38.038Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 40626,
-  "filtered_out": 40562,
-  "new_matches": 0,
-  "boards_failed": 5,
+  "postings_seen": 40585,
+  "filtered_out": 40522,
+  "new_matches": 1,
+  "boards_failed": 6,
   "failed": [
     {
       "company": "Accenture",
@@ -25,6 +25,10 @@
     {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Genpact",
+      "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Walmart Global Tech",
