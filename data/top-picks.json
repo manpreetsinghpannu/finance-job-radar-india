@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:38:54.594Z",
+ "generated_at": "2026-11-16T20:23:26.876Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 149,
+   "matching": 148,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -221,8 +221,21 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 27,
+   "matching": 28,
    "picks": [
+    {
+     "title": "Fund Accounting or Reporting Analyst",
+     "company": "Deutsche Bank",
+     "location": "Jaipur, Rajasthan, India",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473",
+     "score": 22,
+     "why": [
+      "Fund Accounting",
+      "Reporting Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Operations - Portfolio Monitoring Unit (Private Markets)- Analyst",
      "company": "KKR",
@@ -232,18 +245,6 @@
      "score": 18,
      "why": [
       "Portfolio Monitoring"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "BPO PE and Fund Accounting Analyst",
-     "company": "NTT DATA North America",
-     "location": "Gurgaon, Haryana, India",
-     "posted": "2026-11-13",
-     "url": "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648",
-     "score": 16,
-     "why": [
-      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -1761,11 +1762,6 @@
    "cv": "Credit CV",
    "score": 3
   },
-  "https://www.linkedin.com/jobs/view/financial-planning-analyst-cxo-office-at-curefoods-4489873322": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -2100,6 +2096,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.synchronycareers.com/en/job/orlando/carecredit-practice-development-specialist/49398/102921862096": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 22
   }
  }
 }
