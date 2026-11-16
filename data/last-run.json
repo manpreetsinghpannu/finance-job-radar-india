@@ -1,17 +1,21 @@
 {
-  "finished_at": "2026-11-16T01:38:10.135Z",
+  "finished_at": "2026-11-16T01:53:36.983Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 40636,
-  "filtered_out": 40572,
+  "postings_seen": 39416,
+  "filtered_out": 39371,
   "new_matches": 0,
-  "boards_failed": 5,
+  "boards_failed": 8,
   "failed": [
     {
       "company": "Accenture",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "BP",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -25,6 +29,14 @@
     {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Genpact",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Deloitte India",
+      "error": "This operation was aborted"
     },
     {
       "company": "Walmart Global Tech",
