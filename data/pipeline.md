@@ -454,4 +454,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-and-investment-bank-credit-risk-control-management-associate-at-jpmorganchase-4457512347 | JPMorganChase | Commercial and Investment Bank Credit Risk Control Management - Associate | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-reporting-at-the-hird-4489730881 | The HIRD | Private Equity/Portfolio Monitoring/Reporting | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808191 | JPMorgan Chase | External Reporting Controllers - Market Risk Associate | Bengaluru, Karnataka, India | posted: 2026-11-16
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Eco-space-Executive-Accounts-Payable-Bengaluru-Eco-space-Finance-Transformation-Finance-Operate/61573744/ | Deloitte India | Executive / Accounts Payable / Bengaluru Eco space / Finance Transformation / Finance Operate | Bengaluru Eco Space
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-signify-4490614096 | Signify | FP&A Analyst | Pune Division, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-equiniti-4490295990 | Equiniti | FP&A Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/chartered-accountant-at-indiabulls-group-4490604132 | Indiabulls Group | Chartered Accountant | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-qubit-capital-4490622216 | Qubit Capital | Investment Banking Analyst – Global Fundraising & Private Capital | India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-specialist-4490280697 | Mphasis Pvt. Ltd, Chennai | Investment Banking Specialist | Chennai, Tamil Nadu, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-advisor-at-ntt-data-north-america-4411625336 | NTT DATA North America | BPO PE and Fund accounting Advisor | Gurgaon, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
+
 ## Processed

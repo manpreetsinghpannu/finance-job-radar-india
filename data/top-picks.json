@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:06:38.335Z",
+ "generated_at": "2026-11-16T13:10:43.514Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 139,
+   "matching": 143,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 89,
+   "matching": 90,
    "picks": [
     {
      "title": "Wholesale Credit Risk Associate",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 58,
+   "matching": 60,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -157,7 +157,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 31,
+   "matching": 32,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 25,
+   "matching": 26,
    "picks": [
     {
      "title": "BPO PE and Fund Accounting Analyst",
@@ -1980,6 +1980,46 @@
   "https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-reporting-at-the-hird-4489730881": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808191": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Eco-space-Executive-Accounts-Payable-Bengaluru-Eco-space-Finance-Transformation-Finance-Operate/61573744/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-signify-4490614096": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-at-equiniti-4490295990": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/chartered-accountant-at-indiabulls-group-4490604132": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-qubit-capital-4490622216": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-specialist-4490280697": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-advisor-at-ntt-data-north-america-4411625336": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
   }
  }
