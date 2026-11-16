@@ -463,4 +463,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-specialist-4490280697 | Mphasis Pvt. Ltd, Chennai | Investment Banking Specialist | Chennai, Tamil Nadu, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-advisor-at-ntt-data-north-america-4411625336 | NTT DATA North America | BPO PE and Fund accounting Advisor | Gurgaon, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808758 | JPMorgan Chase | Associate - Product Controller, Investments | Mumbai, Maharashtra, India | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-india-at-guggenheim-investments-4489761515 | Guggenheim Investments | Fund Accounting - India | Mumbai Metropolitan Region | posted: 2026-11-16 | note: via LinkedIn
+
 ## Processed

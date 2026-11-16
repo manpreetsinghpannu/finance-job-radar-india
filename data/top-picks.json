@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T13:10:43.514Z",
+ "generated_at": "2026-11-16T13:34:06.558Z",
  "order": [
   "finance",
   "credit",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 26,
+   "matching": 27,
    "picks": [
     {
      "title": "BPO PE and Fund Accounting Analyst",
@@ -237,14 +237,14 @@
      "sponsor": null
     },
     {
-     "title": "Valuation /Portfolio Monitoring/Private Equity",
-     "company": "The HIRD",
-     "location": "Bengaluru, Karnataka, India",
+     "title": "Fund Accounting - India",
+     "company": "Guggenheim Investments",
+     "location": "Mumbai Metropolitan Region",
      "posted": "2026-11-16",
-     "url": "https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137",
-     "score": 14,
+     "url": "https://www.linkedin.com/jobs/view/fund-accounting-india-at-guggenheim-investments-4489761515",
+     "score": 15,
      "why": [
-      "Portfolio Monitoring"
+      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -2021,6 +2021,16 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808758": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-india-at-guggenheim-investments-4489761515": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
   }
  }
 }

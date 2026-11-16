@@ -725,7 +725,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-ups-4248971796": {
   "status": "live",
-  "checked_at": "2026-11-16T09:39:37Z"
+  "checked_at": "2026-11-16T13:33:55Z"
  },
  "https://www.linkedin.com/jobs/view/structured-credit-at-tipsons-group-4489942074": {
   "status": "live",
@@ -1165,7 +1165,7 @@
  },
  "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-JLN-Marg-STPI-Jaipur/Specialist---F-A---FP-A-4B_JR10034191": {
   "status": "live",
-  "checked_at": "2026-11-16T09:39:37Z"
+  "checked_at": "2026-11-16T13:33:55Z"
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-finance-as-a-service-faas-at-amazon-4482728885": {
   "status": "live",
@@ -1205,7 +1205,7 @@
  },
  "https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672": {
   "status": "live",
-  "checked_at": "2026-11-16T09:39:48Z"
+  "checked_at": "2026-11-16T13:34:06Z"
  },
  "https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299": {
   "status": "live",
@@ -1267,11 +1267,11 @@
  },
  "https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195": {
   "status": "live",
-  "checked_at": "2026-11-16T09:39:41Z"
+  "checked_at": "2026-11-16T13:33:59Z"
  },
  "https://www.linkedin.com/jobs/view/services-support-associate-ii-treasury-hyderabad-at-deloitte-4481661949": {
   "status": "live",
-  "checked_at": "2026-11-16T09:39:44Z"
+  "checked_at": "2026-11-16T13:34:02Z"
  },
  "https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-compressor-systems-services-4489562782": {
   "status": "live",
@@ -1500,5 +1500,33 @@
  "https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-reporting-at-the-hird-4489730881": {
   "status": "unknown",
   "checked_at": "2026-11-16T13:07:09Z"
+ },
+ "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808191": {
+  "status": "live",
+  "checked_at": "2026-11-16T13:33:34Z"
+ },
+ "https://www.linkedin.com/jobs/view/fp-a-analyst-at-signify-4490614096": {
+  "status": "live",
+  "checked_at": "2026-11-16T13:33:34Z"
+ },
+ "https://www.linkedin.com/jobs/view/fp-a-analyst-at-equiniti-4490295990": {
+  "status": "live",
+  "checked_at": "2026-11-16T13:33:38Z"
+ },
+ "https://www.linkedin.com/jobs/view/chartered-accountant-at-indiabulls-group-4490604132": {
+  "status": "live",
+  "checked_at": "2026-11-16T13:33:41Z"
+ },
+ "https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-qubit-capital-4490622216": {
+  "status": "live",
+  "checked_at": "2026-11-16T13:33:45Z"
+ },
+ "https://www.linkedin.com/jobs/view/investment-banking-specialist-4490280697": {
+  "status": "unknown",
+  "checked_at": "2026-11-16T13:33:48Z"
+ },
+ "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-advisor-at-ntt-data-north-america-4411625336": {
+  "status": "live",
+  "checked_at": "2026-11-16T13:33:52Z"
  }
 }
