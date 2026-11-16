@@ -482,5 +482,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-ii-at-icon-plc-4490117675 | ICON plc | Financial Analyst II | Chennai, Tamil Nadu, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/transaction-specialist-it-mergers-acquisitions-finance-at-solventum-4475518143 | Solventum | Transaction Specialist - IT Mergers & Acquisitions, Finance | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/project-financial-analyst-1-at-fortrea-4490109980 | Fortrea | Project Financial Analyst 1 | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-risk-analyst-at-swiss-re-4482959322 | Swiss Re | Financial Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

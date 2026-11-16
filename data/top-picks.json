@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:42:04.549Z",
+ "generated_at": "2026-11-16T19:38:54.594Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 94,
+   "matching": 95,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 61,
+   "matching": 60,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -140,14 +140,13 @@
      "sponsor": null
     },
     {
-     "title": "Valuation /Portfolio Monitoring/Private Equity",
-     "company": "The HIRD",
-     "location": "Bengaluru, Karnataka, India",
+     "title": "Private Equity Analyst",
+     "company": "aarthiq",
+     "location": "Gurugram, Haryana, India",
      "posted": "2026-11-16",
-     "url": "https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137",
-     "score": 24,
+     "url": "https://www.linkedin.com/jobs/view/private-equity-analyst-at-aarthiq-4490264842",
+     "score": 18,
      "why": [
-      "Valuation",
       "Private Equity"
      ],
      "sponsor": null
@@ -189,7 +188,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 30,
+   "matching": 29,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -222,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 28,
+   "matching": 27,
    "picks": [
     {
      "title": "Operations - Portfolio Monitoring Unit (Private Markets)- Analyst",
@@ -1877,11 +1876,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 24
-  },
   "https://www.linkedin.com/jobs/view/mergers-and-acquisitions-consultant-at-substance-advisory-private-limited-4489732035": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -2101,6 +2095,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-risk-analyst-at-swiss-re-4482959322": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
