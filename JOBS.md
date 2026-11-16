@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 16 Nov, 09:39** (UK time) · **334 open roles** at 186 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 10:37** (UK time) · **336 open roles** at 186 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,41 +10,35 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 16 Nov, 09:36** · hourly scan · checked 99 boards · **3 new roles**
+**Mon 16 Nov, 10:33** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-16 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-decipher-financials-4490271892) | Decipher Financials | Gurugram, Haryana, India |
+| — | [FIN_Treasury_AN](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AN/1450843900/) | Nomura | Mumbai |
 
 ### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-16 | [Private Credit Analyst - Investor Relations](https://www.linkedin.com/jobs/view/private-credit-analyst-investor-relations-at-nj-macson-4490268685) | NJ Macson | Chennai, Tamil Nadu, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-madhur-agrawal-4490265982) | Madhur Agrawal | India |
+| — | [Enterprise Risk Associate/Senior Associate, Risk Consulting](https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/) | EY |  |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (133 matching)
+**Finance (FP&A) CV** (134 matching)
 
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Credit CV** (86 matching)
+**Credit CV** (87 matching)
 
 1. [Analyst - Wholesale Credit Risk Quantitative Research](https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-13
 2. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
 
-**Equity CV** (29 matching)
+**Equity CV** (30 matching)
 
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745) · Equity research by Sagar · Bhubaneswar, Odisha, India · posted 2026-11-16
 2. [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) · WCC Investment Advisors Pvt. Ltd. · Noida, Uttar Pradesh, India · posted 2026-11-14
@@ -54,7 +48,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) · GrowthAlly Advisors Private Limited · Mumbai Metropolitan Region · posted 2026-11-14
 2. [Valuation /Portfolio Monitoring/Private Equity](https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137) · The HIRD · Bengaluru, Karnataka, India · posted 2026-11-16
 
-**Consulting CV** (29 matching)
+**Consulting CV** (30 matching)
 
 1. [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) · EY · Mumbai
 2. [Strategy Consultant](https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592) · MatchPoint · India · posted 2026-11-11
@@ -74,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<details>
+<summary><b>10:33</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [FIN_Treasury_AN](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AN/1450843900/) | Nomura | Mumbai |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Enterprise Risk Associate/Senior Associate, Risk Consulting](https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/) | EY |  |
+
+</details>
 
 <details>
 <summary><b>09:36</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Equity 1</summary>
@@ -1989,22 +2000,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:35</b> · hourly scan · <b>1 new</b> → Real Estate 1</summary>
-
-#### Real Estate CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Asset Management Analyst](https://www.linkedin.com/jobs/view/asset-management-analyst-at-gallagher-mohan-4488847073) | Gallagher & Mohan | Delhi, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (119)](#finance-fpa-cv-119) · [Credit (87)](#credit-cv-87) · [Equity (22)](#equity-cv-22) · [Investment (48)](#investment-ib--pe-cv-48) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (120)](#finance-fpa-cv-120) · [Credit (88)](#credit-cv-88) · [Equity (22)](#equity-cv-22) · [Investment (48)](#investment-ib--pe-cv-48) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
-### Finance (FP&A) CV: 119
+### Finance (FP&A) CV: 120
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2016,6 +2016,7 @@ Everything matched so far, newest first within each CV: [Finance (119)](#finance
 | 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466) | Optimas Solutions | Pune City, Maharashtra, India |
 | 2026-11-16 | [Analyst - Treasury PC](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825) | Barclays | Chennai, DLF IT Park |
 | 2026-11-16 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-safran-4491279721) | Safran | Shamshabad, Telangana, India |
+| — | [FIN_Treasury_AN](https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AN/1450843900/) | Nomura | Mumbai |
 | 2026-11-15 | [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) | MoEngage | Bengaluru, Karnataka, India |
 | 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |
 | 2026-11-15 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482) | Zacks Research Pvt. Ltd | Bidhannagar, West Bengal, India |
@@ -2128,12 +2129,13 @@ Everything matched so far, newest first within each CV: [Finance (119)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 87
+### Credit CV: 88
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-16 | [Private Credit Analyst - Investor Relations](https://www.linkedin.com/jobs/view/private-credit-analyst-investor-relations-at-nj-macson-4490268685) | NJ Macson | Chennai, Tamil Nadu, India |
 | 2026-11-16 | [Credit Portfolio Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Intermediate-Analyst_261008657) | Citi | Mumbai Maharashtra India |
+| — | [Enterprise Risk Associate/Senior Associate, Risk Consulting](https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/) | EY |  |
 | 2026-11-15 | [Team Member Credit Risk Modelling](https://www.linkedin.com/jobs/view/team-member-credit-risk-modelling-at-yes-bank-4466389147) | YES BANK | Mumbai Metropolitan Region |
 | 2026-11-14 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-flexifunds-4489862502) | FLEXIFUNDS | Faridabad, Haryana, India |
 | 2026-11-14 | [C1 - Credit Risk Modeler](https://www.linkedin.com/jobs/view/c1-credit-risk-modeler-at-exl-4446579522) | EXL | Gurugram, Haryana, India |

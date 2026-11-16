@@ -441,4 +441,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-madhur-agrawal-4490265982 | Madhur Agrawal | Research Analyst | India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/private-credit-analyst-investor-relations-at-nj-macson-4490268685 | NJ Macson | Private Credit Analyst - Investor Relations | Chennai, Tamil Nadu, India | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://careers.nomura.com/Nomura/job/Mumbai-FIN_Treasury_AN/1450843900/ | Nomura | FIN_Treasury_AN | Mumbai
+- [ ] https://careers.ey.com/ey/job/Enterprise-Risk-AssociateSenior-Associate%2C-Risk-Consulting-048583/697394801/ | EY | Enterprise Risk Associate/Senior Associate, Risk Consulting
+
 ## Processed
