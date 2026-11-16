@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:37:24.087Z",
+ "generated_at": "2026-11-16T17:03:16.629Z",
  "order": [
   "finance",
   "credit",
@@ -57,19 +57,19 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
-     "title": "Wholesale Credit Risk Associate",
+     "title": "Wholesale Credit Risk Analyst",
      "company": "JPMorgan Chase",
      "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-12",
-     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196",
-     "score": 28,
+     "posted": "2026-11-16",
+     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803",
+     "score": 33,
      "why": [
       "Credit Risk",
       "Wholesale Credit",
-      "Risk Associate"
+      "Risk Analyst"
      ],
      "sponsor": null
     },
@@ -2061,6 +2061,11 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 9
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 33
   }
  }
 }

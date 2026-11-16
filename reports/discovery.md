@@ -1,37 +1,11 @@
-# Discovery report: 2026-11-09 17:29 UTC
+# Discovery report: 2026-11-16 17:01 UTC
 
-Checked 128 companies that the name lookup could not resolve.
-Added to portals.yml: **27**. Still not scannable: **101**.
+Checked 101 companies that the name lookup could not resolve.
+Added to portals.yml: **0**. Still not scannable: **101**.
 
 ## Added
 
-- **Societe Generale**: taleo → https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl
-- **DBS Bank**: workday → https://dbs.wd3.myworkdayjobs.com/DBS_Careers
-- **Synchrony**: radancy → https://www.synchronycareers.com
-- **Ameriprise Financial**: workday → https://ameriprise.wd5.myworkdayjobs.com/Ameriprise
-- **Principal Global Services**: icims → https://internalspanish-principal.icims.com/jobs/search?ss=1
-- **Deloitte India**: successfactors → https://southasiacareers.deloitte.com
-- **KPMG India**: oraclecloud → https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/jobs
-- **Duff & Phelps (Kroll)**: radancy → https://careers.kroll.com
-- **Bloomberg**: avature → https://bloomberg.avature.net/careers
-- **ZS Associates**: icims → https://careers-zs.icims.com/jobs/search?ss=1
-- **Genpact**: workday → https://genpact.wd108.myworkdayjobs.com/External_Careers
-- **EXL**: oraclecloud → https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs
-- **HCLTech**: successfactors → https://careers.hcltech.com
-- **Kotak Mahindra Bank**: oraclecloud → https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
-- **IDFC FIRST Bank**: phenom → https://careers.idfcfirst.bank.in
-- **Tata Capital**: oraclecloud → https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
-- **ICICI Securities**: successfactors → https://careers.icicisecurities.com
-- **KKR**: greenhouse-embed → https://job-boards.greenhouse.io/stage
-- **Brookfield**: workday → https://brookfield.wd5.myworkdayjobs.com/brookfield
-- **Temasek**: successfactors → https://jobs.temasek.com.sg
-- **GIC**: successfactors → https://careers.gic.com.sg
-- **Mahindra Group**: successfactors → https://jobs.mahindracareers.com
-- **Asian Paints**: successfactors → https://careers.asianpaints.com
-- **Procter & Gamble India**: phenom → https://www.pgcareers.com
-- **Walmart Global Tech**: avature → https://walmart.avature.net/careers
-- **Target India**: workday → https://target.wd5.myworkdayjobs.com/targetcareers
-- **Lowe's India**: phenom → https://talent.lowes.com
+- none this run
 
 ## Not scannable automatically
 
@@ -142,10 +116,55 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | Microsoft | no hiring system link found | careers.microsoft.com |
 | Tesco Bengaluru | no hiring system link found | tescobengaluru.com |
 
-## Boards that could not be read this week (3)
+## Boards that could not be read this week (48)
 
 The hourly scan keeps trying these, but they return nothing until fixed. Usually the company moved to a new careers site.
 
+- **Invesco**: HTTP 429 Too Many Requests
+- **Invesco (Early Careers)**: HTTP 429 Too Many Requests
+- **Wellington Management**: HTTP 429 Too Many Requests
+- **Vanguard**: HTTP 429 Too Many Requests
+- **BlackRock**: HTTP 429 Too Many Requests
+- **Franklin Templeton**: HTTP 429 Too Many Requests
+- **MUFG**: HTTP 429 Too Many Requests
+- **Barclays**: HTTP 429 Too Many Requests
+- **Fidelity International**: HTTP 429 Too Many Requests
+- **Blackstone (Campus)**: HTTP 429 Too Many Requests
+- **Ares Management**: HTTP 429 Too Many Requests
+- **Bain Capital**: HTTP 429 Too Many Requests
+- **Blackstone**: HTTP 429 Too Many Requests
+- **S&P Global**: HTTP 429 Too Many Requests
+- **Nasdaq**: HTTP 429 Too Many Requests
+- **CME Group**: HTTP 429 Too Many Requests
+- **LSEG**: HTTP 429 Too Many Requests
+- **LSEG (Graduates)**: HTTP 429 Too Many Requests
+- **Mastercard**: HTTP 429 Too Many Requests
+- **AIG**: HTTP 429 Too Many Requests
+- **Marsh McLennan**: HTTP 429 Too Many Requests
+- **Visa**: HTTP 429 Too Many Requests
+- **PayPal**: HTTP 429 Too Many Requests
+- **Accenture**: HTTP 429 Too Many Requests
+- **GSK**: HTTP 429 Too Many Requests
+- **AstraZeneca (Emerging Talent)**: HTTP 429 Too Many Requests
+- **AstraZeneca**: HTTP 429 Too Many Requests
+- **Unilever (Early Careers)**: HTTP 429 Too Many Requests
+- **Unilever**: HTTP 429 Too Many Requests
+- **Diageo**: HTTP 429 Too Many Requests
+- **Shell**: HTTP 429 Too Many Requests
+- **Houlihan Lokey (Campus)**: HTTP 429 Too Many Requests
+- **Rolls-Royce**: HTTP 429 Too Many Requests
+- **Houlihan Lokey (Lateral)**: HTTP 429 Too Many Requests
+- **Citi**: HTTP 429 Too Many Requests
+- **State Street**: HTTP 429 Too Many Requests
+- **Mizuho**: HTTP 429 Too Many Requests
+- **Northern Trust**: HTTP 429 Too Many Requests
+- **BP**: HTTP 429 Too Many Requests
+- **Wipro**: bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant
 - **Societe Generale**: fetch failed
+- **DBS Bank**: HTTP 429 Too Many Requests
 - **Duff & Phelps (Kroll)**: HTTP 404 Not Found
+- **Ameriprise Financial**: HTTP 429 Too Many Requests
+- **Genpact**: HTTP 429 Too Many Requests
+- **Brookfield**: HTTP 429 Too Many Requests
 - **Walmart Global Tech**: HTTP 404 Not Found
+- **Target India**: HTTP 429 Too Many Requests
