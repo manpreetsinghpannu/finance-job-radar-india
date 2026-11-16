@@ -474,5 +474,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-india-4490654525 | PwC India | IN_Associate_Valuations_Valuations_Advisory_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
 
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803 | JPMorgan Chase | Wholesale Credit Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/third-party-risk-analyst-at-stripe-4467282037 | Stripe | Third Party Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-associate-chemicals-at-emkay-global-financial-services-ltd-4478275207 | Emkay Global Financial Services Ltd | Research Associate - Chemicals | Mumbai Metropolitan Region | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
