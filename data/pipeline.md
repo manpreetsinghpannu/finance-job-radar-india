@@ -477,4 +477,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/third-party-risk-analyst-at-stripe-4467282037 | Stripe | Third Party Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-associate-chemicals-at-emkay-global-financial-services-ltd-4478275207 | Emkay Global Financial Services Ltd | Research Associate - Chemicals | Mumbai Metropolitan Region | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784527 | JPMorgan Chase | Risk Management -Wholesale Credit Risk Associate | Mumbai, Maharashtra, India | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-hp-4490909175 | HP | Financial Analyst-Business Finance | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-ii-at-icon-plc-4490117675 | ICON plc | Financial Analyst II | Chennai, Tamil Nadu, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/transaction-specialist-it-mergers-acquisitions-finance-at-solventum-4475518143 | Solventum | Transaction Specialist - IT Mergers & Acquisitions, Finance | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-financial-analyst-1-at-fortrea-4490109980 | Fortrea | Project Financial Analyst 1 | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+
 ## Processed

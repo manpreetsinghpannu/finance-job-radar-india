@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:37:28.442Z",
+ "generated_at": "2026-11-16T18:42:04.549Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 146,
+   "matching": 149,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 93,
+   "matching": 94,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 60,
+   "matching": 61,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -2076,6 +2076,31 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 10
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784527": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 30
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-hp-4490909175": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-ii-at-icon-plc-4490117675": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/transaction-specialist-it-mergers-acquisitions-finance-at-solventum-4475518143": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/project-financial-analyst-1-at-fortrea-4490109980": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
