@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 16 Nov, 13:34** (UK time) · **356 open roles** at 195 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 14:37** (UK time) · **359 open roles** at 197 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,30 +10,31 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 16 Nov, 13:33** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 16 Nov, 14:33** · hourly scan · checked 99 boards · **3 new roles**
 
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Fund Accounting - India](https://www.linkedin.com/jobs/view/fund-accounting-india-at-guggenheim-investments-4489761515) | Guggenheim Investments | Mumbai Metropolitan Region |
-
-### Other (fits no CV closely, may still be worth a look): 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-16 | [Associate - Product Controller, Investments](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808758) | JPMorgan Chase | Mumbai, Maharashtra, India |
+| 2026-11-16 | [Junior Treasury & AP Analyst](https://www.linkedin.com/jobs/view/junior-treasury-ap-analyst-at-contego-global-talent-solutions-4475540603) | Contego - Global Talent Solutions | Noida, Uttar Pradesh, India |
+
+### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Credit Risk Analyst - FIG](https://www.linkedin.com/jobs/view/credit-risk-analyst-fig-at-deloitte-4489771000) | Deloitte | Bengaluru, Karnataka, India |
+| 2026-11-16 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-emsme-4490626691) | eMSME | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (143 matching)
+**Finance (FP&A) CV** (144 matching)
 
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Credit CV** (90 matching)
+**Credit CV** (92 matching)
 
 1. [Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808196) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-12
 2. [Analyst - Wholesale Credit Risk Quantitative Research](https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-13
@@ -68,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 16 November
+
+<details>
+<summary><b>14:33</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Junior Treasury & AP Analyst](https://www.linkedin.com/jobs/view/junior-treasury-ap-analyst-at-contego-global-talent-solutions-4475540603) | Contego - Global Talent Solutions | Noida, Uttar Pradesh, India |
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Credit Risk Analyst - FIG](https://www.linkedin.com/jobs/view/credit-risk-analyst-fig-at-deloitte-4489771000) | Deloitte | Bengaluru, Karnataka, India |
+| 2026-11-16 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-emsme-4490626691) | eMSME | Mumbai Metropolitan Region |
+
+</details>
 
 <details>
 <summary><b>13:33</b> · hourly scan · <b>2 new</b> → Fund 1 · Other 1</summary>
@@ -2039,39 +2058,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:35</b> · hourly scan · <b>4 new</b> → Investment 4</summary>
-
-#### Investment (IB / PE) CV: 4
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1) | Accenture | Bengaluru |
-| 2026-11-09 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674095-1) | Accenture | Bengaluru |
-| 2026-11-09 | [Capital Markets Services Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1) | Accenture | Bengaluru |
-| 2026-11-09 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1) | Accenture | Bengaluru |
-
-</details>
-
-<details>
-<summary><b>13:36</b> · hourly scan · <b>2 new</b> → Investment 2</summary>
-
-#### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674087-1) | Accenture | Bengaluru |
-| 2026-11-09 | [Capital Markets Services Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Analyst_AIOC-S01674090-1) | Accenture | Bengaluru |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (129)](#finance-fpa-cv-129) · [Credit (91)](#credit-cv-91) · [Equity (22)](#equity-cv-22) · [Investment (52)](#investment-ib--pe-cv-52) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (12)](#other-fits-no-cv-closely-may-still-be-worth-a-look-12)
+Everything matched so far, newest first within each CV: [Finance (130)](#finance-fpa-cv-130) · [Credit (93)](#credit-cv-93) · [Equity (22)](#equity-cv-22) · [Investment (52)](#investment-ib--pe-cv-52) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (19)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-19) · [Other (12)](#other-fits-no-cv-closely-may-still-be-worth-a-look-12)
 
-### Finance (FP&A) CV: 129
+### Finance (FP&A) CV: 130
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2089,6 +2080,7 @@ Everything matched so far, newest first within each CV: [Finance (129)](#finance
 | 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466) | Optimas Solutions | Pune City, Maharashtra, India |
 | 2026-11-16 | [Analyst - Treasury PC](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825) | Barclays | Chennai, DLF IT Park |
 | 2026-11-16 | [Associate- Treasury Analyst](https://www.linkedin.com/jobs/view/associate-treasury-analyst-at-baker-tilly-us-4454652895) | Baker Tilly US | Bengaluru East, Karnataka, India |
+| 2026-11-16 | [Junior Treasury & AP Analyst](https://www.linkedin.com/jobs/view/junior-treasury-ap-analyst-at-contego-global-talent-solutions-4475540603) | Contego - Global Talent Solutions | Noida, Uttar Pradesh, India |
 | 2026-11-16 | [Chartered Accountant](https://www.linkedin.com/jobs/view/chartered-accountant-at-indiabulls-group-4490604132) | Indiabulls Group | Mumbai, Maharashtra, India |
 | 2026-11-16 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-safran-4491279721) | Safran | Shamshabad, Telangana, India |
 | — | [Executive / Accounts Payable / Bengaluru Eco space / Finance Transformation / Finance Operate](https://southasiacareers.deloitte.com/job/Bengaluru-Eco-space-Executive-Accounts-Payable-Bengaluru-Eco-space-Finance-Transformation-Finance-Operate/61573744/) | Deloitte India | Bengaluru Eco Space |
@@ -2205,12 +2197,14 @@ Everything matched so far, newest first within each CV: [Finance (129)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 91
+### Credit CV: 93
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-16 | [Private Credit Analyst - Investor Relations](https://www.linkedin.com/jobs/view/private-credit-analyst-investor-relations-at-nj-macson-4490268685) | NJ Macson | Chennai, Tamil Nadu, India |
+| 2026-11-16 | [Credit Risk Analyst - FIG](https://www.linkedin.com/jobs/view/credit-risk-analyst-fig-at-deloitte-4489771000) | Deloitte | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Credit Portfolio Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Intermediate-Analyst_261008657) | Citi | Mumbai Maharashtra India |
+| 2026-11-16 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-emsme-4490626691) | eMSME | Mumbai Metropolitan Region |
 | 2026-11-16 | [Commercial and Investment Bank Credit Risk Control Management - Associate](https://www.linkedin.com/jobs/view/commercial-and-investment-bank-credit-risk-control-management-associate-at-jpmorganchase-4457512347) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-16 | [External Reporting Controllers - Market Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808191) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Credit Underwriter – Vehicle Finance](https://www.linkedin.com/jobs/view/credit-underwriter-%E2%80%93-vehicle-finance-at-svcl-4490291395) | SVCL | Gurugram, Haryana, India |
@@ -2470,7 +2464,7 @@ Everything matched so far, newest first within each CV: [Finance (129)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>42 roles taken off the list because the firm closed the posting</summary>
+<summary>41 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2515,6 +2509,5 @@ Everything matched so far, newest first within each CV: [Finance (129)](#finance
 | Tue 10 Nov, 12:39 | Financial Analyst – FP&A | Applicantz |
 | Tue 10 Nov, 12:36 | WSO Private Debt Analyst, DATA SERVICES | S&P Global |
 | Mon 9 Nov, 17:39 | Equity Research Analyst | V2U Consultancy Services Pvt. Ltd. |
-| Mon 9 Nov, 13:36 | Financial Analyst | HRM Counsel |
 
 </details>

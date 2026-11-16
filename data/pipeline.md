@@ -465,5 +465,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808758 | JPMorgan Chase | Associate - Product Controller, Investments | Mumbai, Maharashtra, India | posted: 2026-11-16
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-india-at-guggenheim-investments-4489761515 | Guggenheim Investments | Fund Accounting - India | Mumbai Metropolitan Region | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-fig-at-deloitte-4489771000 | Deloitte | Credit Risk Analyst - FIG | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-emsme-4490626691 | eMSME | Credit Analyst | Mumbai Metropolitan Region | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-treasury-ap-analyst-at-contego-global-talent-solutions-4475540603 | Contego - Global Talent Solutions | Junior Treasury & AP Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed
