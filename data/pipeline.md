@@ -492,5 +492,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516 | PFI Innovation Centre India | Investment Analyst Fund Analysis | Gurugram, Haryana, India | posted: 2026-11-16 | note: via LinkedIn
 
 - [ ] https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Analyst-Financial-Advisory-Support_R26_4390 | Ameriprise Financial | Analyst Financial Advisory Support | 2 Locations | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-mergers-acquisitions-at-cornell-fitness-centers-4491531699 | Cornell Fitness Centers | Financial Analyst: Mergers & Acquisitions | Ballari, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 16 Nov, 22:51** (UK time) · **373 open roles** at 204 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 23:36** (UK time) · **374 open roles** at 205 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 16 Nov, 22:47** · hourly scan · checked 99 boards · **1 new role**
+**Mon 16 Nov, 23:33** · hourly scan · checked 99 boards · **1 new role**
 
-### Equity CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-16 | [Investment Analyst Fund Analysis](https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516) | PFI Innovation Centre India | Gurugram, Haryana, India |
+| 2026-11-16 | [Financial Analyst: Mergers & Acquisitions](https://www.linkedin.com/jobs/view/financial-analyst-mergers-acquisitions-at-cornell-fitness-centers-4491531699) | Cornell Fitness Centers | Ballari, Karnataka, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (149 matching)
+**Finance (FP&A) CV** (150 matching)
 
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
@@ -37,7 +37,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745) · Equity research by Sagar · Bhubaneswar, Odisha, India · posted 2026-11-16
 2. [Investment Research Analyst](https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716) · WCC Investment Advisors Pvt. Ltd. · Noida, Uttar Pradesh, India · posted 2026-11-14
 
-**Investment (IB / PE) CV** (61 matching)
+**Investment (IB / PE) CV** (62 matching)
 
 1. [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) · GrowthAlly Advisors Private Limited · Mumbai Metropolitan Region · posted 2026-11-14
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-firstshot-financial-partners-4490134945) · Firstshot Financial Partners · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -63,7 +63,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Monday 16 November
 
-<sub>Nothing new at: 22:31</sub>
+<details>
+<summary><b>23:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Financial Analyst: Mergers & Acquisitions](https://www.linkedin.com/jobs/view/financial-analyst-mergers-acquisitions-at-cornell-fitness-centers-4491531699) | Cornell Fitness Centers | Ballari, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>22:47</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -2074,15 +2083,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 01:35, 00:35</sub>
 
-### Monday 9 November
-
-<sub>Nothing new at: 23:35</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (135)](#finance-fpa-cv-135) · [Credit (96)](#credit-cv-96) · [Equity (23)](#equity-cv-23) · [Investment (53)](#investment-ib--pe-cv-53) · [Consulting (21)](#consulting-cv-21) · [Real Estate (11)](#real-estate-cv-11) · [Fund (21)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-21) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
+Everything matched so far, newest first within each CV: [Finance (136)](#finance-fpa-cv-136) · [Credit (96)](#credit-cv-96) · [Equity (23)](#equity-cv-23) · [Investment (53)](#investment-ib--pe-cv-53) · [Consulting (21)](#consulting-cv-21) · [Real Estate (11)](#real-estate-cv-11) · [Fund (21)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-21) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
 
-### Finance (FP&A) CV: 135
+### Finance (FP&A) CV: 136
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2100,6 +2105,7 @@ Everything matched so far, newest first within each CV: [Finance (135)](#finance
 | 2026-11-16 | [Financial Analyst-Business Finance](https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-hp-4490909175) | HP | Gurugram, Haryana, India |
 | 2026-11-16 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-icon-plc-4490117675) | ICON plc | Chennai, Tamil Nadu, India |
 | 2026-11-16 | [Project Financial Analyst 1](https://www.linkedin.com/jobs/view/project-financial-analyst-1-at-fortrea-4490109980) | Fortrea | Bengaluru, Karnataka, India |
+| 2026-11-16 | [Financial Analyst: Mergers & Acquisitions](https://www.linkedin.com/jobs/view/financial-analyst-mergers-acquisitions-at-cornell-fitness-centers-4491531699) | Cornell Fitness Centers | Ballari, Karnataka, India |
 | 2026-11-16 | [Controller Financial Planning and Accounting](https://www.linkedin.com/jobs/view/controller-financial-planning-and-accounting-at-niit-foundation-4490254941) | NIIT Foundation | Pune Division, Maharashtra, India |
 | 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466) | Optimas Solutions | Pune City, Maharashtra, India |
 | 2026-11-16 | [Analyst - Treasury PC](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825) | Barclays | Chennai, DLF IT Park |
