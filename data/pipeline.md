@@ -429,4 +429,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-research-associate-pharma-at-icici-securities-4491290354 | ICICI Securities | Equity Research Associate - Pharma | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466 | Optimas Solutions | Treasury Analyst | Pune City, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825 | Barclays | Analyst - Treasury PC | Chennai, DLF IT Park | posted: 2026-11-16
+
 ## Processed

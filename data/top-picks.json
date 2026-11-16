@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:37:29.484Z",
+ "generated_at": "2026-11-16T06:37:14.026Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 132,
+   "matching": 133,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -1897,6 +1897,11 @@
    "score": 20
   },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
