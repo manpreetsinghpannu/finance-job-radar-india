@@ -430,5 +430,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466 | Optimas Solutions | Treasury Analyst | Pune City, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
 
 - [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825 | Barclays | Analyst - Treasury PC | Chennai, DLF IT Park | posted: 2026-11-16
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-4490272098 | Mahalakshmi Profiles Pvt. Ltd. | Financial Analyst | Patna, Bihar, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137 | The HIRD | Valuation /Portfolio Monitoring/Private Equity | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/mergers-and-acquisitions-consultant-at-substance-advisory-private-limited-4489732035 | Substance Advisory Private Limited | Mergers and Acquisitions Consultant | Greater Kolkata Area | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/controller-financial-planning-and-accounting-at-niit-foundation-4490254941 | NIIT Foundation | Controller Financial Planning and Accounting | Pune Division, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:37:14.026Z",
+ "generated_at": "2026-11-16T07:35:31.608Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 133,
+   "matching": 135,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 87,
+   "matching": 86,
    "picks": [
     {
      "title": "Analyst - Wholesale Credit Risk Quantitative Research",
@@ -91,7 +91,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 27,
+   "matching": 28,
    "picks": [
     {
      "title": "Investment Research Analyst",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 54,
+   "matching": 56,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -140,14 +140,15 @@
      "sponsor": null
     },
     {
-     "title": "Investment Banking Analyst",
-     "company": "MoW Capital",
-     "location": "India",
-     "posted": "2026-11-15",
-     "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036",
-     "score": 18,
+     "title": "Valuation /Portfolio Monitoring/Private Equity",
+     "company": "The HIRD",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137",
+     "score": 24,
      "why": [
-      "Investment Banking"
+      "Valuation",
+      "Private Equity"
      ],
      "sponsor": null
     }
@@ -156,7 +157,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 28,
+   "matching": 29,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -188,7 +189,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 29,
+   "matching": 30,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -221,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 23,
+   "matching": 24,
    "picks": [
     {
      "title": "BPO PE and Fund Accounting Analyst",
@@ -236,14 +237,14 @@
      "sponsor": null
     },
     {
-     "title": "Fund Accounting_Director_Product Support & Services IM",
-     "company": "Morgan Stanley",
+     "title": "Valuation /Portfolio Monitoring/Private Equity",
+     "company": "The HIRD",
      "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-13",
-     "url": "https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com",
+     "posted": "2026-11-16",
+     "url": "https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137",
      "score": 14,
      "why": [
-      "Fund Accounting"
+      "Portfolio Monitoring"
      ],
      "sponsor": null
     }
@@ -1711,11 +1712,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/quantitative-risk-credit-analytics-%E2%80%93-associate-senior-associate-at-alp-computational-finance-ai-and-data-engineering-4489328346": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 9
-  },
   "https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716": {
    "id": "equity",
    "cv": "Equity CV",
@@ -1905,6 +1901,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-4490272098": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/valuation-portfolio-monitoring-private-equity-at-the-hird-4489727137": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 24
+  },
+  "https://www.linkedin.com/jobs/view/mergers-and-acquisitions-consultant-at-substance-advisory-private-limited-4489732035": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/controller-financial-planning-and-accounting-at-niit-foundation-4490254941": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }
