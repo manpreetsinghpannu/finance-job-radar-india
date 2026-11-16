@@ -419,5 +419,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-hrm-counsel-4491239885 | HRM Counsel | Research Analyst | India | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/experienced-associate-treasury-management-system-implementation-finance-solutions-at-pwc-acceleration-center-india-4454142597 | PwC Acceleration Center India | Experienced Associate_Treasury Management System Implementation_Finance Solutions | Mumbai Metropolitan Region | posted: 2026-11-15 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-blake-atlantic-4491277060 | Blake Atlantic | Investment Analyst | India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-hey-recruiting-agency-4489367768 | Hey Recruiting Agency | Financial Planning and Analysis Analyst | India | posted: 2026-11-15 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173 | EXL | Trust Accountant | Noida, Uttar Pradesh, India | posted: 2026-11-15 | note: via LinkedIn
 
 ## Processed

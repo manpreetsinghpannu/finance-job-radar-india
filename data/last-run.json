@@ -1,17 +1,21 @@
 {
-  "finished_at": "2026-11-15T23:33:41.853Z",
+  "finished_at": "2026-11-16T00:37:25.221Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 40597,
-  "filtered_out": 40524,
-  "new_matches": 0,
-  "boards_failed": 5,
+  "postings_seen": 40498,
+  "filtered_out": 40434,
+  "new_matches": 2,
+  "boards_failed": 6,
   "failed": [
     {
       "company": "Accenture",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "BP",
       "error": "HTTP 429 Too Many Requests"
     },
     {

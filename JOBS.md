@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 15 Nov, 23:33** (UK time) · **322 open roles** at 175 firms · the radar checks every board about once an hour.
+Updated **Mon 16 Nov, 00:37** (UK time) · **324 open roles** at 176 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 15 Nov, 23:33** · hourly scan · checked 99 boards · **0 new roles**
+**Mon 16 Nov, 00:33** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sun 15 Nov, 22:35** (1: Equity 1); open it in the scan log below.
+### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-hey-recruiting-agency-4489367768) | Hey Recruiting Agency | India |
+| 2026-11-15 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173) | EXL | Noida, Uttar Pradesh, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (126 matching)
+**Finance (FP&A) CV** (128 matching)
 
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
@@ -56,6 +61,20 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Monday 16 November
+
+<details>
+<summary><b>00:33</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-15 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-hey-recruiting-agency-4489367768) | Hey Recruiting Agency | India |
+| 2026-11-15 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173) | EXL | Noida, Uttar Pradesh, India |
+
+</details>
 
 ### Sunday 15 November
 
@@ -1972,17 +1991,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 01:36, 00:36</sub>
-
-### Sunday 8 November
-
-<sub>Nothing new at: 23:36</sub>
+<sub>Nothing new at: 01:36</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (112)](#finance-fpa-cv-112) · [Credit (87)](#credit-cv-87) · [Equity (18)](#equity-cv-18) · [Investment (47)](#investment-ib--pe-cv-47) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
+Everything matched so far, newest first within each CV: [Finance (114)](#finance-fpa-cv-114) · [Credit (87)](#credit-cv-87) · [Equity (18)](#equity-cv-18) · [Investment (47)](#investment-ib--pe-cv-47) · [Consulting (20)](#consulting-cv-20) · [Real Estate (11)](#real-estate-cv-11) · [Fund (16)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-16) · [Other (11)](#other-fits-no-cv-closely-may-still-be-worth-a-look-11)
 
-### Finance (FP&A) CV: 112
+### Finance (FP&A) CV: 114
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -1991,8 +2006,10 @@ Everything matched so far, newest first within each CV: [Finance (112)](#finance
 | 2026-11-15 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482) | Zacks Research Pvt. Ltd | Bidhannagar, West Bengal, India |
 | 2026-11-15 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-scoutit-4490229255) | Scoutit | Bengaluru, Karnataka, India |
 | 2026-11-15 | [Chartered Financial Analyst](https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-synapse-xtl-4489381838) | Synapse XTL | Indore, Madhya Pradesh, India |
+| 2026-11-15 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-hey-recruiting-agency-4489367768) | Hey Recruiting Agency | India |
 | 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-india-at-ebanx-4412917274) | EBANX | India |
 | 2026-11-15 | [Treasury Cash Management Analyst - EAME](https://www.linkedin.com/jobs/view/treasury-cash-management-analyst-eame-at-exxonmobil-india-careers-4430928705) | ExxonMobil India Careers | Bengaluru, Karnataka, India |
+| 2026-11-15 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173) | EXL | Noida, Uttar Pradesh, India |
 | 2026-11-15 | [Experienced Associate_Treasury Management System Implementation_Finance Solutions](https://www.linkedin.com/jobs/view/experienced-associate-treasury-management-system-implementation-finance-solutions-at-pwc-acceleration-center-india-4454142597) | PwC Acceleration Center India | Mumbai Metropolitan Region |
 | 2026-11-14 | [Financial Analyst, Transaction Opinions / Fund Opinions / CVAS](https://www.linkedin.com/jobs/view/financial-analyst-transaction-opinions-fund-opinions-cvas-at-houlihan-lokey-4482853821) | Houlihan Lokey | Mumbai Metropolitan Region |
 | 2026-11-14 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-aristocrat-4489892150) | Aristocrat | Gurugram, Haryana, India |
