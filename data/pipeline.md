@@ -558,5 +558,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108 | SA Global Advisors | Tech M&A Analyst – Investment Banking, Deal Origination | Pune District, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-3-at-oracle-4482212689 | Oracle | Financial Analyst 3 | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-global-ai-technology-firm-immediate-joiners-ist-at-hey-recruiting-agency-4490490001 | Hey Recruiting Agency | Financial Planning & Analysis (FP&A) Analyst | Global AI & Technology Firm | Immediate Joiners | IST | India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-supervisor-at-intellectual-capital-hr-consulting-pvt-ltd-4490401515 | Intellectual Capital HR Consulting Pvt. Ltd. | Fund Accounting Supervisor | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed

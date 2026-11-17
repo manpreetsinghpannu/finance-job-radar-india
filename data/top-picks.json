@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:47:29.878Z",
+ "generated_at": "2026-11-17T22:41:55.877Z",
  "order": [
   "finance",
   "credit",
@@ -223,7 +223,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2303,6 +2303,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-supervisor-at-intellectual-capital-hr-consulting-pvt-ltd-4490401515": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
   }
  }
 }
