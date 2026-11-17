@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 19:37** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 20:37** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 19:34** · hourly scan · checked 99 boards · **1 new role**
+**Tue 17 Nov, 20:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Financial Analyst 3](https://www.linkedin.com/jobs/view/financial-analyst-3-at-oracle-4482212689) | Oracle | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 19:34** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 20:33</sub>
 
 <details>
 <summary><b>19:34</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2129,7 +2127,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 10 November
 
-<sub>Nothing new at: 23:36, 22:35, 21:36, 21:04, 20:50, 20:36</sub>
+<sub>Nothing new at: 23:36, 22:35, 21:36, 21:04, 20:50</sub>
 
 ## All open roles by CV
 
