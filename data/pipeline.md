@@ -541,4 +541,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-sterling-4491160052 | Sterling | Financial Planning Analyst | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-ii-plant-operations-at-te-connectivity-4491559137 | TE Connectivity | FINANCE ANALYST II - PLANT OPERATIONS | Pune Division, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Analyst-Financial-Advisory-Support_R26_4310 | Ameriprise Financial | Analyst Financial Advisory Support | 2 Locations | posted: 2026-11-17
+
 ## Processed

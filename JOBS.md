@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 12:37** (UK time) · **406 open roles** at 221 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 13:11** (UK time) · **405 open roles** at 220 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 12:33** · hourly scan · checked 99 boards · **3 new roles**
+**Tue 17 Nov, 13:07** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-sterling-4491160052) | Sterling | Mumbai, Maharashtra, India |
-| 2026-11-17 | [FINANCE ANALYST II - PLANT OPERATIONS](https://www.linkedin.com/jobs/view/finance-analyst-ii-plant-operations-at-te-connectivity-4491559137) | TE Connectivity | Pune Division, Maharashtra, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Analyst/Associate – Private Credit, Middle Office Operations](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Analyst-Associate---Private-Credit--Middle-Office-Operations_R266727) | BlackRock | Mumbai, India |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 12:33** (3: Finance 2 · Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (165 matching)
+**Finance (FP&A) CV** (164 matching)
 
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
@@ -69,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 13:07</sub>
 
 <details>
 <summary><b>12:33</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
@@ -1693,20 +1684,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>06:37</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
+<summary><b>06:37</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Transfer pricing Analyst](https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069) | Numerator | Vadodara, Gujarat, India |
-| 2026-11-12 | [Treasury Operations](https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064) | Alpha Alternatives | Mumbai, Maharashtra, India |
 
 #### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115) | Tata Capital | Sarapaka, Telangana, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2152,9 +2144,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (148)](#finance-fpa-cv-148) · [Credit (104)](#credit-cv-104) · [Equity (19)](#equity-cv-19) · [Investment (64)](#investment-ib--pe-cv-64) · [Consulting (24)](#consulting-cv-24) · [Real Estate (11)](#real-estate-cv-11) · [Fund (23)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-23) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
+Everything matched so far, newest first within each CV: [Finance (147)](#finance-fpa-cv-147) · [Credit (104)](#credit-cv-104) · [Equity (19)](#equity-cv-19) · [Investment (64)](#investment-ib--pe-cv-64) · [Consulting (24)](#consulting-cv-24) · [Real Estate (11)](#real-estate-cv-11) · [Fund (23)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-23) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
 
-### Finance (FP&A) CV: 148
+### Finance (FP&A) CV: 147
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2247,7 +2239,6 @@ Everything matched so far, newest first within each CV: [Finance (148)](#finance
 | 2026-11-12 | [Product Control Valuations -Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | 2026-11-12 | [Analyst, Treasury Operations](https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963) | Ciena | Gurugram, Haryana, India |
 | 2026-11-12 | [Finance Associate - Due Diligence (CA only)](https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052) | Treelife | Mumbai, Maharashtra, India |
-| 2026-11-12 | [Treasury Operations](https://www.linkedin.com/jobs/view/treasury-operations-at-alpha-alternatives-4488296064) | Alpha Alternatives | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Associate - Treasury](https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680) | StoneX Group Inc. | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Associate - Treasury Operations, Investments](https://www.linkedin.com/jobs/view/associate-treasury-operations-investments-at-axa-xl-4490359931) | AXA XL | Gurugram, Haryana, India |
 | 2026-11-12 | [Specialist, Financial Planning and Analysis-Hyderabad](https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536) | Deloitte | Hyderabad, Telangana, India |
@@ -2607,6 +2598,7 @@ Everything matched so far, newest first within each CV: [Finance (148)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 17 Nov, 13:09 | Treasury Operations | Alpha Alternatives |
 | Tue 17 Nov, 12:35 | Financial Analyst | Arcana |
 | Tue 17 Nov, 11:34 | Research Analyst | HRM Counsel |
 | Tue 17 Nov, 10:36 | Research Analyst | Madhur Agrawal |
@@ -2657,6 +2649,5 @@ Everything matched so far, newest first within each CV: [Finance (148)](#finance
 | Tue 10 Nov, 19:36 | M&A Associate | Emergence |
 | Tue 10 Nov, 16:38 | Financial Analyst | S&P Global |
 | Tue 10 Nov, 16:36 | -Hiring Equity Research Analyst - CFA Level 1 | V2U Consultancy Services Pvt. Ltd. |
-| Tue 10 Nov, 12:39 | Financial Analyst – FP&A | Applicantz |
 
 </details>
