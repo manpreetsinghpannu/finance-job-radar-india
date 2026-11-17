@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 01:37** (UK time) · **378 open roles** at 206 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 02:37** (UK time) · **378 open roles** at 206 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 01:33** · hourly scan · checked 99 boards · **1 new role**
+**Tue 17 Nov, 02:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Analyst - Credit Risk Capital Management](https://www.linkedin.com/jobs/view/analyst-credit-risk-capital-management-at-hdfc-bank-4490172146) | HDFC Bank | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 01:33** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 02:33</sub>
 
 <details>
 <summary><b>01:33</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2096,24 +2094,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Associate - SaT - National - SaT - TCF - Capital and Debt Advisory - Hyderabad](https://careers.ey.com/ey/job/Hyderabad-Associate-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Hyderabad-500032/1455827733/) | EY | Hyderabad |
-
-</details>
-
-<details>
-<summary><b>02:35</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-09 | [Controlling Financial Analyst](https://www.linkedin.com/jobs/view/controlling-financial-analyst-at-hitachi-energy-4427911298) | Hitachi Energy | Gurugram, Haryana, India |
-| 2026-11-09 | [Financial Reporting](https://www.linkedin.com/jobs/view/financial-reporting-at-intelex-technologies-ulc-4489125327) | Intelex Technologies ULC | India |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [FS - RC - FSRM - CSTC - CREDIT RISK MGMT _Wholesale Credit Quality Assurance- SENIOR_MUM](https://careers.ey.com/ey/job/Mumbai-FS-RC-FSRM-CSTC-CREDIT-RISK-MGMT-_Wholesale-Credit-Quality-Assurance-SENIOR_MUM-MH-400072/1436448233/) | EY | Mumbai |
 
 </details>
 
