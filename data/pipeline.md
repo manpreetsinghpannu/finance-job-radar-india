@@ -494,4 +494,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Analyst-Financial-Advisory-Support_R26_4390 | Ameriprise Financial | Analyst Financial Advisory Support | 2 Locations | posted: 2026-11-16
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-mergers-acquisitions-at-cornell-fitness-centers-4491531699 | Cornell Fitness Centers | Financial Analyst: Mergers & Acquisitions | Ballari, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
 
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275535 | Kotak Mahindra Bank | Operations Team Member_Capital Market Operation-Fund Accounting_Thane | Thane, Maharashtra, India | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-brasil-4490926962 | PwC Brasil | IN_Associate_FDD_Transaction Services_Advisory_Bangalore | Bengaluru, Karnataka, India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-brasil-4490938366 | PwC Brasil | IN_Associate_Valuations_Valuations_Advisory_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-16 | note: via LinkedIn
+
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:36:43.467Z",
+ "generated_at": "2026-11-17T00:37:16.936Z",
  "order": [
   "finance",
   "credit",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 62,
+   "matching": 63,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -156,7 +156,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 33,
+   "matching": 35,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -221,7 +221,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 29,
+   "matching": 30,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2121,6 +2121,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275535": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-brasil-4490926962": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-brasil-4490938366": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 9
   }
  }
 }
