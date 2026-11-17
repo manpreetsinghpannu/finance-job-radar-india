@@ -505,5 +505,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123 | Jobgether | Investment Banking Analyst – Global Fundraising & Private Capital | India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-4483491130 | Integrity Investment Advisors | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148 | WOWS GLOBAL | Corporate Finance Associate | India | posted: 2026-11-16 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-credit-underwriting-at-emirates-nbd-4490197101 | Emirates NBD | Credit Analyst - Credit Underwriting | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706 | JPMorganChase | Wholesale Credit Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-rungta-advisors-4490193707 | Rungta Advisors | Investment Banking Analyst | Pune City, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-ghc-growth-lab-4490998917 | GHC Growth Lab | Investment Banking Associate | Kochi, Kerala, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-alantix-technologies-4490191802 | Alantix Technologies | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-projects-at-jubilant-pharmova-limited-4491103841 | Jubilant Pharmova Limited | Financial Analyst-Projects | Ramban, Jammu & Kashmir, India | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed
