@@ -537,4 +537,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166 | UBS | Global banking - Investment Banking Associate | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-ops-analyst-at-solventum-4490432396 | Solventum | Treasury Ops Analyst | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Analyst-Associate---Private-Credit--Middle-Office-Operations_R266727 | BlackRock | Analyst/Associate – Private Credit, Middle Office Operations | Mumbai, India | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-sterling-4491160052 | Sterling | Financial Planning Analyst | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-ii-plant-operations-at-te-connectivity-4491559137 | TE Connectivity | FINANCE ANALYST II - PLANT OPERATIONS | Pune Division, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed
