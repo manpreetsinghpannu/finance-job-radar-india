@@ -526,4 +526,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.ey.com/ey/job/New-Delhi-Associate-SaT-CHS-SaT-TCF-M&A-Advisory-New-Delhi-Nati-110037/1439233033/ | EY | Associate - SaT - CHS - SaT - TCF - M&A Advisory - New Delhi | New Delhi
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-executive-at-tmf-group-4490408755 | TMF Group | Fund Accountant - Executive | Mumbai Metropolitan Region | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/18262 | EXL | FP&A Data Analytics | Noida, Uttar Pradesh, India · Hybrid | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439 | Duruper | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-of-r-d-strategic-finance-fp-a-at-toast-4475566606 | Toast | Associate of R&D Strategic Finance (FP&A) | Chennai, Tamil Nadu, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-financial-analyst-at-mitsubishi-chemical-group-apac-4490419414 | Mitsubishi Chemical Group APAC | Junior Financial Analyst | Delhi, India | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed
