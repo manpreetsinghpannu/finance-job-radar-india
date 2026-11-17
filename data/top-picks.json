@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T02:37:25.493Z",
+ "generated_at": "2026-11-17T03:36:59.202Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 96,
+   "matching": 97,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -91,8 +91,21 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 31,
+   "matching": 32,
    "picks": [
+    {
+     "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
+     "company": "Talent Corner HR Services Pvt Ltd",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-17",
+     "url": "https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635",
+     "score": 29,
+     "why": [
+      "Research Analyst",
+      "Investment Research"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Equity Research Analyst",
      "company": "Equity research by Sagar",
@@ -105,26 +118,13 @@
       "Research Analyst"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Investment Research Analyst",
-     "company": "WCC Investment Advisors Pvt. Ltd.",
-     "location": "Noida, Uttar Pradesh, India",
-     "posted": "2026-11-14",
-     "url": "https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716",
-     "score": 28,
-     "why": [
-      "Research Analyst",
-      "Investment Research"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 63,
+   "matching": 66,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -156,8 +156,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 35,
+   "matching": 37,
    "picks": [
+    {
+     "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
+     "company": "Talent Corner HR Services Pvt Ltd",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-17",
+     "url": "https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635",
+     "score": 13,
+     "why": [
+      "Advisory"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
      "company": "EY",
@@ -168,18 +180,6 @@
      "why": [
       "Consultant",
       "Consulting"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Strategy Consultant",
-     "company": "MatchPoint",
-     "location": "India",
-     "posted": "2026-11-11",
-     "url": "https://www.linkedin.com/jobs/view/strategy-consultant-at-matchpoint-4488691592",
-     "score": 12,
-     "why": [
-      "Strategy Consultant"
      ],
      "sponsor": null
     }
@@ -2141,6 +2141,31 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/growthally-advisors-analyst-debt-syndication-at-growthally-advisors-private-limited-4490972860": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/growthally-advisors-analyst-m-amp-a-advisory-at-growthally-advisors-private-limited-4490978552": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }
