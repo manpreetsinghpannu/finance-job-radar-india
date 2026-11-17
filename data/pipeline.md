@@ -544,4 +544,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Analyst-Financial-Advisory-Support_R26_4310 | Ameriprise Financial | Analyst Financial Advisory Support | 2 Locations | posted: 2026-11-17
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-at-artech-4491174312 | Artech | Fund Accounting | Bangalore Urban, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61613544/ | Deloitte India | Consultant / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-acg-world-4490459320 | ACG World | Financial Planning Analyst | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analysis-consultant-at-kpmg-india-4491564604 | KPMG India | Credit Analysis - Consultant | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-cement-at-emkay-global-financial-services-ltd-4491172477 | Emkay Global Financial Services Ltd | Equity Research Associate - Cement | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/in-associate-financial-due-diligence-transaction-services-deals-advisory-bangalore-at-pwc-india-4490461378 | PwC India | IN_Associate_ Financial Due Diligence /Transaction Services _Deals_Advisory_Bangalore | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/project-finance-analyst-cp-o-at-hitachi-energy-4491164074 | Hitachi Energy | Project Finance Analyst - CP&O | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-fx-risk-at-puma-energy-4483639086 | Puma Energy | Treasury Analyst - FX Risk | Mumbai Metropolitan Region | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed
