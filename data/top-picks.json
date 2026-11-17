@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:37:48.332Z",
+ "generated_at": "2026-11-17T19:37:48.509Z",
  "order": [
   "finance",
   "credit",
@@ -2189,11 +2189,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 19
   },
-  "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/18262": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2303,6 +2298,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-3-at-oracle-4482212689": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

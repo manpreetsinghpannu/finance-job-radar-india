@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 18:37** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 19:37** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 18:33** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 17 Nov, 19:34** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 17 Nov, 16:34** (3: Finance 1 · Investment 1 · Other 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [Financial Analyst 3](https://www.linkedin.com/jobs/view/financial-analyst-3-at-oracle-4482212689) | Oracle | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
@@ -58,6 +62,19 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>19:34</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [Financial Analyst 3](https://www.linkedin.com/jobs/view/financial-analyst-3-at-oracle-4482212689) | Oracle | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+
+</details>
 
 <sub>Nothing new at: 18:33, 17:33</sub>
 
@@ -192,16 +209,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>10:33</b> · hourly scan · <b>4 new</b> → Finance 4</summary>
+<summary><b>10:33</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
 
-#### Finance (FP&A) CV: 4
+#### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439) | Duruper | Hyderabad, Telangana, India |
 | 2026-11-17 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-mitsubishi-chemical-group-apac-4490419414) | Mitsubishi Chemical Group APAC | Delhi, India |
 | 2026-11-17 | [Associate of R&D Strategic Finance (FP&A)](https://www.linkedin.com/jobs/view/associate-of-r-d-strategic-finance-fp-a-at-toast-4475566606) | Toast | Chennai, Tamil Nadu, India |
-| 2026-11-17 | [FP&A Data Analytics](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/18262) | EXL | Noida, Uttar Pradesh, India · Hybrid |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2111,7 +2129,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 10 November
 
-<sub>Nothing new at: 23:36, 22:35, 21:36, 21:04, 20:50, 20:36, 19:36</sub>
+<sub>Nothing new at: 23:36, 22:35, 21:36, 21:04, 20:50, 20:36</sub>
 
 ## All open roles by CV
 
@@ -2130,8 +2148,8 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | 2026-11-17 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-mitsubishi-chemical-group-apac-4490419414) | Mitsubishi Chemical Group APAC | Delhi, India |
 | 2026-11-17 | [FINANCE ANALYST II - PLANT OPERATIONS](https://www.linkedin.com/jobs/view/finance-analyst-ii-plant-operations-at-te-connectivity-4491559137) | TE Connectivity | Pune Division, Maharashtra, India |
 | 2026-11-17 | [Project Finance Analyst - CP&O](https://www.linkedin.com/jobs/view/project-finance-analyst-cp-o-at-hitachi-energy-4491164074) | Hitachi Energy | Bengaluru, Karnataka, India |
+| 2026-11-17 | [Financial Analyst 3](https://www.linkedin.com/jobs/view/financial-analyst-3-at-oracle-4482212689) | Oracle | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Associate of R&D Strategic Finance (FP&A)](https://www.linkedin.com/jobs/view/associate-of-r-d-strategic-finance-fp-a-at-toast-4475566606) | Toast | Chennai, Tamil Nadu, India |
-| 2026-11-17 | [FP&A Data Analytics](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/18262) | EXL | Noida, Uttar Pradesh, India · Hybrid |
 | 2026-11-17 | [FP&A Advisor](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/FP-A-Advisor_R210810-1) | Shell | SHELL CENTRE – CHENNAI |
 | 2026-11-17 | [Treasury Analyst - FX Risk](https://www.linkedin.com/jobs/view/treasury-analyst-fx-risk-at-puma-energy-4483639086) | Puma Energy | Mumbai Metropolitan Region |
 | 2026-11-17 | [Treasury Ops Analyst](https://www.linkedin.com/jobs/view/treasury-ops-analyst-at-solventum-4490432396) | Solventum | Bengaluru, Karnataka, India |
@@ -2574,6 +2592,7 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 17 Nov, 19:35 | FP&A Data Analytics | EXL |
 | Tue 17 Nov, 17:36 | IN_Associate_Valuations_Valuations_Advisory_Mumbai | PwC Brasil |
 | Tue 17 Nov, 17:36 | IN_Associate_FDD_Transaction Services_Advisory_Bangalore | PwC Brasil |
 | Tue 17 Nov, 16:35 | Corporate Finance Specialist | Consulting & Beyond |
@@ -2629,6 +2648,5 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | Wed 11 Nov, 13:37 | Associate Treasury Forex and Liquidity Management | TerraPay |
 | Wed 11 Nov, 12:38 | Associate Executive - Fund Accounting | IQ-EQ |
 | Wed 11 Nov, 08:26 | Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions | BlackRock |
-| Tue 10 Nov, 19:36 | M&A Associate | Emergence |
 
 </details>
