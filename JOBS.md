@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 17:37** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 18:37** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 17:33** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 17 Nov, 18:33** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 17 Nov, 16:34** (3: Finance 1 · Investment 1 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 17 November
 
-<sub>Nothing new at: 17:33</sub>
+<sub>Nothing new at: 18:33, 17:33</sub>
 
 <details>
 <summary><b>16:34</b> · hourly scan · <b>3 new</b> → Finance 1 · Investment 1 · Other 1</summary>
@@ -2112,18 +2112,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Tuesday 10 November
 
 <sub>Nothing new at: 23:36, 22:35, 21:36, 21:04, 20:50, 20:36, 19:36</sub>
-
-<details>
-<summary><b>18:36</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-10 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-wolters-kluwer-4471319952) | Wolters Kluwer | Pune/Pimpri-Chinchwad Area |
-| 2026-11-10 | [FP&A Executive](https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024) | CAclubindia | Ankleshwar, Gujarat, India |
-
-</details>
 
 ## All open roles by CV
 
