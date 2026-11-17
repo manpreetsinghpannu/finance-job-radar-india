@@ -553,4 +553,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-fx-risk-at-puma-energy-4483639086 | Puma Energy | Treasury Analyst - FX Risk | Mumbai Metropolitan Region | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909 | Hitachi Energy | FP&A Financial Analyst - CP&O | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/FP-A-Advisor_R210810-1 | Shell | FP&A Advisor | SHELL CENTRE – CHENNAI | posted: 2026-11-17
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210787644 | JPMorgan Chase | Quant Analytics Analyst | Mumbai, Maharashtra, India | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108 | SA Global Advisors | Tech M&A Analyst – Investment Banking, Deal Origination | Pune District, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed
