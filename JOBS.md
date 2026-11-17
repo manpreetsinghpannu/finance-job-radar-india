@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 16:37** (UK time) · **412 open roles** at 219 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 17:37** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 16:34** · hourly scan · checked 99 boards · **3 new roles**
+**Tue 17 Nov, 17:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [FP&A Advisor](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/FP-A-Advisor_R210810-1) | Shell | SHELL CENTRE – CHENNAI |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Tech M&A Analyst – Investment Banking, Deal Origination](https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108) | SA Global Advisors | Pune District, Maharashtra, India |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Quant Analytics Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210787644) | JPMorgan Chase | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 16:34** (3: Finance 1 · Investment 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -49,12 +33,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745) · Equity research by Sagar · Bhubaneswar, Odisha, India · posted 2026-11-16
 
-**Investment (IB / PE) CV** (72 matching)
+**Investment (IB / PE) CV** (71 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Tech M&A Analyst – Investment Banking, Deal Origination](https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108) · SA Global Advisors · Pune District, Maharashtra, India · posted 2026-11-17
 
-**Consulting CV** (42 matching)
+**Consulting CV** (40 matching)
 
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Associate Consultant-Finance Transformation - Gurgaon](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-17
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 17:33</sub>
 
 <details>
 <summary><b>16:34</b> · hourly scan · <b>3 new</b> → Finance 1 · Investment 1 · Other 1</summary>
@@ -359,25 +345,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>00:33</b> · hourly scan · <b>3 new</b> → Investment 1 · Consulting 1 · Fund 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [IN_Associate_FDD_Transaction Services_Advisory_Bangalore](https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-brasil-4490926962) | PwC Brasil | Bengaluru, Karnataka, India |
-
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [IN_Associate_Valuations_Valuations_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-brasil-4490938366) | PwC Brasil | Mumbai, Maharashtra, India |
+<summary><b>00:33</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
 
 #### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-17 | [Operations Team Member_Capital Market Operation-Fund Accounting_Thane](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275535) | Kotak Mahindra Bank | Thane, Maharashtra, India |
+
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2149,11 +2125,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 17:36</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (151)](#finance-fpa-cv-151) · [Credit (104)](#credit-cv-104) · [Equity (20)](#equity-cv-20) · [Investment (63)](#investment-ib--pe-cv-63) · [Consulting (25)](#consulting-cv-25) · [Real Estate (11)](#real-estate-cv-11) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
+Everything matched so far, newest first within each CV: [Finance (151)](#finance-fpa-cv-151) · [Credit (104)](#credit-cv-104) · [Equity (20)](#equity-cv-20) · [Investment (62)](#investment-ib--pe-cv-62) · [Consulting (24)](#consulting-cv-24) · [Real Estate (11)](#real-estate-cv-11) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
 
 ### Finance (FP&A) CV: 151
 
@@ -2445,7 +2419,7 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 63
+### Investment (IB / PE) CV: 62
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2463,7 +2437,6 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | 2026-11-16 | [Mergers and Acquisitions Consultant](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-consultant-at-substance-advisory-private-limited-4489732035) | Substance Advisory Private Limited | Greater Kolkata Area |
 | 2026-11-16 | [Consultant : M&A Tech](https://www.linkedin.com/jobs/view/consultant-m-a-tech-at-kpmg-india-4405315691) | KPMG India | Gurgaon, Haryana, India |
 | 2026-11-16 | [Private Equity/Portfolio Monitoring/Reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-reporting-at-the-hird-4489730881) | The HIRD | Bengaluru, Karnataka, India |
-| 2026-11-16 | [IN_Associate_FDD_Transaction Services_Advisory_Bangalore](https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-brasil-4490926962) | PwC Brasil | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Transaction Specialist - IT Mergers & Acquisitions, Finance](https://www.linkedin.com/jobs/view/transaction-specialist-it-mergers-acquisitions-finance-at-solventum-4475518143) | Solventum | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Investment Banking Specialist](https://www.linkedin.com/jobs/view/investment-banking-specialist-4490280697) | Mphasis Pvt. Ltd, Chennai | Chennai, Tamil Nadu, India |
 | 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
@@ -2513,7 +2486,7 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 25
+### Consulting CV: 24
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2521,7 +2494,6 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | 2026-11-17 | [Growthally Advisors - Analyst - M&amp;A Advisory](https://www.linkedin.com/jobs/view/growthally-advisors-analyst-m-amp-a-advisory-at-growthally-advisors-private-limited-4490978552) | GrowthAlly Advisors Private Limited | Bengaluru East, Karnataka, India |
 | — | [Consultant / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61613544/) | Deloitte India | Bengaluru |
 | 2026-11-16 | [IN_Associate_Valuations_Valuations_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-india-4490654525) | PwC India | Mumbai, Maharashtra, India |
-| 2026-11-16 | [IN_Associate_Valuations_Valuations_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-brasil-4490938366) | PwC Brasil | Mumbai, Maharashtra, India |
 | — | [Finance Transformation - Associate/Senior Associate, Business Consulting - Finance](https://careers.ey.com/ey/job/Finance-Transformation-AssociateSenior-Associate%2C-Business-Consulting-Finance-048583/759496201/) | EY |  |
 | — | [Analyst / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61496144/) | Deloitte India | Bengaluru |
 | — | [Analyst / FT: Strategy & Ops / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Analyst-FT-Strategy-&-Ops-Bengaluru-Finance-Transformation-Finance-Strategy/61497544/) | Deloitte India | Bengaluru |
@@ -2610,10 +2582,12 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>55 roles taken off the list because the firm closed the posting</summary>
+<summary>56 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 17 Nov, 17:36 | IN_Associate_Valuations_Valuations_Advisory_Mumbai | PwC Brasil |
+| Tue 17 Nov, 17:36 | IN_Associate_FDD_Transaction Services_Advisory_Bangalore | PwC Brasil |
 | Tue 17 Nov, 16:35 | Corporate Finance Specialist | Consulting & Beyond |
 | Tue 17 Nov, 15:34 | Credit Risk Analyst | Whizz HR |
 | Tue 17 Nov, 14:56 | Investment Banking Associate | GHC Growth Lab |
@@ -2668,6 +2642,5 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | Wed 11 Nov, 12:38 | Associate Executive - Fund Accounting | IQ-EQ |
 | Wed 11 Nov, 08:26 | Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions | BlackRock |
 | Tue 10 Nov, 19:36 | M&A Associate | Emergence |
-| Tue 10 Nov, 16:38 | Financial Analyst | S&P Global |
 
 </details>

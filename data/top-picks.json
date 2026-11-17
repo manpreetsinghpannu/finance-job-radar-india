@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:37:59.634Z",
+ "generated_at": "2026-11-17T17:37:01.448Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 72,
+   "matching": 71,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 42,
+   "matching": 40,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -2083,16 +2083,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-brasil-4490926962": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-brasil-4490938366": {
-   "id": "consulting",
-   "cv": "Consulting CV",
-   "score": 9
   },
   "https://www.linkedin.com/jobs/view/analyst-credit-risk-capital-management-at-hdfc-bank-4490172146": {
    "id": "credit",
