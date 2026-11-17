@@ -531,4 +531,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-of-r-d-strategic-finance-fp-a-at-toast-4475566606 | Toast | Associate of R&D Strategic Finance (FP&A) | Chennai, Tamil Nadu, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/junior-financial-analyst-at-mitsubishi-chemical-group-apac-4490419414 | Mitsubishi Chemical Group APAC | Junior Financial Analyst | Delhi, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Pegasus-2-Plot-A-8A-Noida-UP/Specialist---F-A---FP-A-4B_JR10014865 | Genpact | Specialist - F&A - FP&A 4B | 1401-G-India: Pegasus 2, Plot A 8A, Noida, UP | posted: 2026-11-17
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57371 | Tata Capital | Quality Executive - Retail MFB - Credit - Dhanaura - Kanchan Bazar - J Grades | India | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-whizz-hr-4491161057 | Whizz HR | Credit Risk Analyst | Pune District, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166 | UBS | Global banking - Investment Banking Associate | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-ops-analyst-at-solventum-4490432396 | Solventum | Treasury Ops Analyst | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed

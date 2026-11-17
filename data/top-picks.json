@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T10:38:00.141Z",
+ "generated_at": "2026-11-17T11:37:36.606Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 162,
+   "matching": 164,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 101,
+   "matching": 103,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 29,
+   "matching": 28,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 72,
+   "matching": 73,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -1804,11 +1804,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/research-analyst-at-hrm-counsel-4491239885": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/experienced-associate-treasury-management-system-implementation-finance-solutions-at-pwc-acceleration-center-india-4454142597": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2253,6 +2248,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Pegasus-2-Plot-A-8A-Noida-UP/Specialist---F-A---FP-A-4B_JR10014865": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57371": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-whizz-hr-4491161057": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/treasury-ops-analyst-at-solventum-4490432396": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }
