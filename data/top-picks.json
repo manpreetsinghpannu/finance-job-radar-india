@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T00:37:16.936Z",
+ "generated_at": "2026-11-17T01:37:19.176Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 95,
+   "matching": 96,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2136,6 +2136,11 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/analyst-credit-risk-capital-management-at-hdfc-bank-4490172146": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
   }
  }
 }
