@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T08:37:38.133Z",
+ "generated_at": "2026-11-17T09:37:23.658Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 157,
+   "matching": 158,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 31,
+   "matching": 30,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 38,
+   "matching": 39,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -223,7 +223,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -239,14 +239,14 @@
      "sponsor": null
     },
     {
-     "title": "Operations - Portfolio Monitoring Unit (Private Markets)- Analyst",
-     "company": "KKR",
-     "location": "Gurugram, Haryana, India",
-     "posted": "2026-11-16",
-     "url": "https://www.linkedin.com/jobs/view/operations-portfolio-monitoring-unit-private-markets-analyst-at-kkr-4445537031",
-     "score": 18,
+     "title": "Fund Accountant - Executive",
+     "company": "TMF Group",
+     "location": "Mumbai Metropolitan Region",
+     "posted": "2026-11-17",
+     "url": "https://www.linkedin.com/jobs/view/fund-accountant-executive-at-tmf-group-4490408755",
+     "score": 19,
      "why": [
-      "Portfolio Monitoring"
+      "Fund Accountant"
      ],
      "sponsor": null
     }
@@ -1874,11 +1874,6 @@
    "cv": "Equity CV",
    "score": 28
   },
-  "https://www.linkedin.com/jobs/view/private-equity-analyst-at-aarthiq-4490264842": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-decipher-financials-4490271892": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2154,11 +2149,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-4483491130": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -2233,6 +2223,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 29
+  },
+  "https://careers.ey.com/ey/job/Pune-FIS-QuantumIntegrity-Treasury-Application-Specialist-MH-411014/1419691233/": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": -2
+  },
+  "https://careers.ey.com/ey/job/New-Delhi-Associate-SaT-CHS-SaT-TCF-M&A-Advisory-New-Delhi-Nati-110037/1439233033/": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 11
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-executive-at-tmf-group-4490408755": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 19
   }
  }
 }

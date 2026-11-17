@@ -522,4 +522,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57348 | Tata Capital | Quality Executive - Retail MFB - Credit - Jhalawar - Manak Complex - J Grades | Jhalawar, Rajasthan, India | posted: 2026-11-17
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079 | PRP Professional Edge Associates Pvt Ltd | Investment Banking Analyst - CA, Debt Syndication, Private Equity | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://careers.ey.com/ey/job/Pune-FIS-QuantumIntegrity-Treasury-Application-Specialist-MH-411014/1419691233/ | EY | FIS Quantum/Integrity Treasury Application Specialist | Pune
+- [ ] https://careers.ey.com/ey/job/New-Delhi-Associate-SaT-CHS-SaT-TCF-M&A-Advisory-New-Delhi-Nati-110037/1439233033/ | EY | Associate - SaT - CHS - SaT - TCF - M&A Advisory - New Delhi | New Delhi
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-executive-at-tmf-group-4490408755 | TMF Group | Fund Accountant - Executive | Mumbai Metropolitan Region | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed
