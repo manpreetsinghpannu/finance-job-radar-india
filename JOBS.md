@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 23:12** (UK time) · **412 open roles** at 220 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 23:33** (UK time) · **412 open roles** at 220 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 23:10** · hourly scan · checked 99 boards · **1 new role**
+**Tue 17 Nov, 23:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-gartner-4491446178) | Gartner | Gurgaon, Haryana, India |
+Nothing new this time. The last scan that found something was **Tue 17 Nov, 23:10** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<sub>Nothing new at: 23:33</sub>
 
 <details>
 <summary><b>23:10</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
