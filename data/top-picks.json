@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:37:56.208Z",
+ "generated_at": "2026-11-17T14:57:34.053Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 167,
+   "matching": 166,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 73,
+   "matching": 72,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -993,11 +993,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 12
-  },
-  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-alaris-aerospace-systems-india-4489924280": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656": {
    "id": "investment",
@@ -2148,11 +2143,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-ghc-growth-lab-4490998917": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-alantix-technologies-4490191802": {
    "id": "finance",
