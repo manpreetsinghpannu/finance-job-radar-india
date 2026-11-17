@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 14:57** (UK time) · **410 open roles** at 219 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 15:34** (UK time) · **410 open roles** at 218 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,24 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 14:54** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 17 Nov, 15:33** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 17 Nov, 14:33** (7: Finance 3 · Credit 1 · Equity 1 · Investment 1 · Consulting 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) | Hitachi Energy | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (166 matching)
+**Finance (FP&A) CV** (167 matching)
 
-1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
-2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
+1. [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-17
+2. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 
-**Credit CV** (105 matching)
+**Credit CV** (104 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>15:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) | Hitachi Energy | Bengaluru, Karnataka, India |
+
+</details>
 
 <sub>Nothing new at: 14:54</sub>
 
@@ -130,7 +145,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>11:34</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 2 · Investment 1</summary>
+<summary><b>11:34</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -139,11 +154,10 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-17 | [Treasury Ops Analyst](https://www.linkedin.com/jobs/view/treasury-ops-analyst-at-solventum-4490432396) | Solventum | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Specialist - F&A - FP&A 4B](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Pegasus-2-Plot-A-8A-Noida-UP/Specialist---F-A---FP-A-4B_JR10014865) | Genpact | 1401-G-India: Pegasus 2, Plot A 8A, Noida, UP |
 
-#### Credit CV: 2
+#### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-whizz-hr-4491161057) | Whizz HR | Pune District, Maharashtra, India |
 | 2026-11-17 | [Quality Executive - Retail MFB - Credit - Dhanaura - Kanchan Bazar - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57371) | Tata Capital | India |
 
 #### Investment (IB / PE) CV: 1
@@ -151,6 +165,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-17 | [Global banking - Investment Banking Associate](https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166) | UBS | Mumbai, Maharashtra, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2136,12 +2152,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (149)](#finance-fpa-cv-149) · [Credit (105)](#credit-cv-105) · [Equity (20)](#equity-cv-20) · [Investment (63)](#investment-ib--pe-cv-63) · [Consulting (25)](#consulting-cv-25) · [Real Estate (11)](#real-estate-cv-11) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
+Everything matched so far, newest first within each CV: [Finance (150)](#finance-fpa-cv-150) · [Credit (104)](#credit-cv-104) · [Equity (20)](#equity-cv-20) · [Investment (63)](#investment-ib--pe-cv-63) · [Consulting (25)](#consulting-cv-25) · [Real Estate (11)](#real-estate-cv-11) · [Fund (24)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-24) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
 
-### Finance (FP&A) CV: 149
+### Finance (FP&A) CV: 150
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-17 | [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) | Hitachi Energy | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-sterling-4491160052) | Sterling | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-acg-world-4490459320) | ACG World | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-alantix-technologies-4490191802) | Alantix Technologies | Hyderabad, Telangana, India |
@@ -2292,12 +2309,11 @@ Everything matched so far, newest first within each CV: [Finance (149)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 105
+### Credit CV: 104
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-17 | [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) | JPMorganChase | Mumbai, Maharashtra, India |
-| 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-whizz-hr-4491161057) | Whizz HR | Pune District, Maharashtra, India |
 | 2026-11-17 | [Analyst - Credit Risk Capital Management](https://www.linkedin.com/jobs/view/analyst-credit-risk-capital-management-at-hdfc-bank-4490172146) | HDFC Bank | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Credit Analyst - Credit Underwriting](https://www.linkedin.com/jobs/view/credit-analyst-credit-underwriting-at-emirates-nbd-4490197101) | Emirates NBD | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Analyst/Associate – Private Credit, Middle Office Operations](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Analyst-Associate---Private-Credit--Middle-Office-Operations_R266727) | BlackRock | Mumbai, India |
@@ -2591,10 +2607,11 @@ Everything matched so far, newest first within each CV: [Finance (149)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>54 roles taken off the list because the firm closed the posting</summary>
+<summary>55 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 17 Nov, 15:34 | Credit Risk Analyst | Whizz HR |
 | Tue 17 Nov, 14:56 | Investment Banking Associate | GHC Growth Lab |
 | Tue 17 Nov, 14:55 | Financial Planning Analyst | Alaris Aerospace Systems India |
 | Tue 17 Nov, 13:34 | Corporate Finance Associate | WOWS GLOBAL |

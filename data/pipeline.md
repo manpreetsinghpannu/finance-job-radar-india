@@ -551,5 +551,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/in-associate-financial-due-diligence-transaction-services-deals-advisory-bangalore-at-pwc-india-4490461378 | PwC India | IN_Associate_ Financial Due Diligence /Transaction Services _Deals_Advisory_Bangalore | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/project-finance-analyst-cp-o-at-hitachi-energy-4491164074 | Hitachi Energy | Project Finance Analyst - CP&O | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-fx-risk-at-puma-energy-4483639086 | Puma Energy | Treasury Analyst - FX Risk | Mumbai Metropolitan Region | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909 | Hitachi Energy | FP&A Financial Analyst - CP&O | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed
