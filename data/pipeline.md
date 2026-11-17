@@ -517,4 +517,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077 | Educore | Investment Banking Associate | Gurugram, Haryana, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-aabhar-corporate-services-limited-4491114703 | Aabhar Corporate Services Limited | Investment Banking Analyst | Gurugram, Haryana, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005 | KPMG India | Associate Consultant-Finance Transformation - Gurgaon | Gurgaon, Haryana, India | posted: 2026-11-17
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57346 | Tata Capital | Quality Executive - Retail MFB - Credit - Bhilwara - Shahpura - J Grades | Shahpura Bhilwara District, Rajasthan, India | posted: 2026-11-17
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57348 | Tata Capital | Quality Executive - Retail MFB - Credit - Jhalawar - Manak Complex - J Grades | Jhalawar, Rajasthan, India | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079 | PRP Professional Edge Associates Pvt Ltd | Investment Banking Analyst - CA, Debt Syndication, Private Equity | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed
