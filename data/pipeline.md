@@ -503,5 +503,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337 | GrowthAlly Advisors Private Limited | Growthally Advisors - Investment Banking Analyst | Mumbai Metropolitan Region | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/growthally-advisors-analyst-m-amp-a-advisory-at-growthally-advisors-private-limited-4490978552 | GrowthAlly Advisors Private Limited | Growthally Advisors - Analyst - M&amp;A Advisory | Bengaluru East, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123 | Jobgether | Investment Banking Analyst – Global Fundraising & Private Capital | India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-4483491130 | Integrity Investment Advisors | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148 | WOWS GLOBAL | Corporate Finance Associate | India | posted: 2026-11-16 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T03:47:21.177Z",
+ "generated_at": "2026-11-17T04:35:22.537Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 150,
+   "matching": 152,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -124,7 +124,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 66,
+   "matching": 67,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -2166,6 +2166,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-4483491130": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }

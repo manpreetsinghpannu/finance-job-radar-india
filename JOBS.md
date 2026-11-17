@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 03:47** (UK time) · **383 open roles** at 208 firms · the radar checks every board about once an hour.
+Updated **Tue 17 Nov, 04:35** (UK time) · **385 open roles** at 210 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 03:43** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 17 Nov, 04:34** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Tue 17 Nov, 03:33** (5: Credit 1 · Equity 1 · Investment 2 · Consulting 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4483491130) | Integrity Investment Advisors | Hyderabad, Telangana, India |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Corporate Finance Associate](https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148) | WOWS GLOBAL | India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (150 matching)
+**Finance (FP&A) CV** (152 matching)
 
 1. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 2. [Financial Analyst, GFS FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-fp-a-at-amazon-4490763672) · Amazon · Bengaluru, Karnataka, India · posted 2026-11-13
@@ -33,7 +43,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745) · Equity research by Sagar · Bhubaneswar, Odisha, India · posted 2026-11-16
 
-**Investment (IB / PE) CV** (66 matching)
+**Investment (IB / PE) CV** (67 matching)
 
 1. [Investment Banking Analyst / Associate – M&A](https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928) · GrowthAlly Advisors Private Limited · Mumbai Metropolitan Region · posted 2026-11-14
 2. [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-firstshot-financial-partners-4490134945) · Firstshot Financial Partners · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 17 November
+
+<details>
+<summary><b>04:34</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4483491130) | Integrity Investment Advisors | Hyderabad, Telangana, India |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-16 | [Corporate Finance Associate](https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148) | WOWS GLOBAL | India |
+
+</details>
 
 <sub>Nothing new at: 03:43</sub>
 
@@ -2120,12 +2147,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (136)](#finance-fpa-cv-136) · [Credit (98)](#credit-cv-98) · [Equity (24)](#equity-cv-24) · [Investment (56)](#investment-ib--pe-cv-56) · [Consulting (23)](#consulting-cv-23) · [Real Estate (11)](#real-estate-cv-11) · [Fund (22)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-22) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
+Everything matched so far, newest first within each CV: [Finance (137)](#finance-fpa-cv-137) · [Credit (98)](#credit-cv-98) · [Equity (24)](#equity-cv-24) · [Investment (57)](#investment-ib--pe-cv-57) · [Consulting (23)](#consulting-cv-23) · [Real Estate (11)](#real-estate-cv-11) · [Fund (22)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-22) · [Other (13)](#other-fits-no-cv-closely-may-still-be-worth-a-look-13)
 
-### Finance (FP&A) CV: 136
+### Finance (FP&A) CV: 137
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4483491130) | Integrity Investment Advisors | Hyderabad, Telangana, India |
 | 2026-11-16 | [Finance Analyst - Treasury Tower Operations-1](https://www.linkedin.com/jobs/view/finance-analyst-treasury-tower-operations-1-at-caterpillar-inc-4490295429) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
 | 2026-11-16 | [Finance Analyst - IT](https://www.linkedin.com/jobs/view/finance-analyst-it-at-eurofins-4491280486) | Eurofins | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-saarthi-4491290441) | Saarthi | Bengaluru, Karnataka, India |
@@ -2395,13 +2423,14 @@ Everything matched so far, newest first within each CV: [Finance (136)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 56
+### Investment (IB / PE) CV: 57
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-17 | [Growthally Advisors - Investment Banking Analyst](https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-17 | [Investment Banking Analyst – Global Fundraising & Private Capital](https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123) | Jobgether | India |
 | 2026-11-16 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-firstshot-financial-partners-4490134945) | Firstshot Financial Partners | Mumbai, Maharashtra, India |
+| 2026-11-16 | [Corporate Finance Associate](https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148) | WOWS GLOBAL | India |
 | 2026-11-16 | [Mergers and Acquisitions Consultant](https://www.linkedin.com/jobs/view/mergers-and-acquisitions-consultant-at-substance-advisory-private-limited-4489732035) | Substance Advisory Private Limited | Greater Kolkata Area |
 | 2026-11-16 | [Consultant : M&A Tech](https://www.linkedin.com/jobs/view/consultant-m-a-tech-at-kpmg-india-4405315691) | KPMG India | Gurgaon, Haryana, India |
 | 2026-11-16 | [Private Equity/Portfolio Monitoring/Reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-reporting-at-the-hird-4489730881) | The HIRD | Bengaluru, Karnataka, India |
