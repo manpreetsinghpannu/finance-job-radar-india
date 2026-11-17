@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:11:08.673Z",
+ "generated_at": "2026-11-17T13:35:38.370Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 164,
+   "matching": 163,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 73,
+   "matching": 72,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -223,7 +223,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 32,
+   "matching": 33,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2134,11 +2134,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/corporate-finance-associate-at-wows-global-4490963148": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 15
-  },
   "https://www.linkedin.com/jobs/view/credit-analyst-credit-underwriting-at-emirates-nbd-4490197101": {
    "id": "credit",
    "cv": "Credit CV",
@@ -2278,6 +2273,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-at-artech-4491174312": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }
