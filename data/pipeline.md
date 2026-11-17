@@ -512,4 +512,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-alantix-technologies-4490191802 | Alantix Technologies | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-projects-at-jubilant-pharmova-limited-4491103841 | Jubilant Pharmova Limited | Financial Analyst-Projects | Ramban, Jammu & Kashmir, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275452 | Kotak Mahindra Bank | Team Member_TREASURY INVESTMENTS/SUPPORT_0607_1314_1062455_HRR | Mumbai, Maharashtra, India | posted: 2026-11-17
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-arcana-4491114546 | Arcana | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077 | Educore | Investment Banking Associate | Gurugram, Haryana, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-aabhar-corporate-services-limited-4491114703 | Aabhar Corporate Services Limited | Investment Banking Analyst | Gurugram, Haryana, India | posted: 2026-11-17 | note: via LinkedIn
+
 ## Processed

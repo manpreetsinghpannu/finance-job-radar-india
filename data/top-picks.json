@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:37:05.031Z",
+ "generated_at": "2026-11-17T07:36:46.474Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 154,
+   "matching": 156,
    "picks": [
     {
      "title": "Business Finance Analyst – FP&A",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 32,
+   "matching": 31,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 69,
+   "matching": 71,
    "picks": [
     {
      "title": "Investment Banking Analyst / Associate – M&A",
@@ -1698,11 +1698,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 28
-  },
   "https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -2201,6 +2196,26 @@
   "https://www.linkedin.com/jobs/view/financial-analyst-projects-at-jubilant-pharmova-limited-4491103841": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275452": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-arcana-4491114546": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-aabhar-corporate-services-limited-4491114703": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
    "score": 18
   }
  }
