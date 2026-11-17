@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:41:55.877Z",
+ "generated_at": "2026-11-17T23:12:21.980Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 168,
+   "matching": 169,
    "picks": [
     {
      "title": "FP&A Financial Analyst - CP&O",
@@ -2308,6 +2308,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-gartner-4491446178": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
