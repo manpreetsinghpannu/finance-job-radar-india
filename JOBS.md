@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 14:37** (UK time) · **438 open roles** at 237 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 14:44** (UK time) · **439 open roles** at 237 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 14:33** · hourly scan · checked 99 boards · **5 new roles**
+**Wed 18 Nov, 14:40** · hourly scan · checked 99 boards · **6 new roles**
 
 ### Finance (FP&A) CV: 2
 
@@ -19,11 +19,12 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 | 2026-11-18 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hinduja-group-limited-4492033186) | Hinduja Group Limited | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Associate Team Lead- Treasury](https://www.linkedin.com/jobs/view/associate-team-lead-treasury-at-bunge-4476150674) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
 
-### Equity CV: 1
+### Equity CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-18 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) | Allvest | Kurla, Maharashtra, India |
+| 2026-11-18 | [AO/European Loan Portfolio Analyst](https://www.linkedin.com/jobs/view/ao-european-loan-portfolio-analyst-at-alliancebernstein-4476309410) | AllianceBernstein | Pune Division, Maharashtra, India |
 
 ### Investment (IB / PE) CV: 1
 
@@ -51,7 +52,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (34 matching)
+**Equity CV** (35 matching)
 
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) · Allvest · Kurla, Maharashtra, India · posted 2026-11-18
@@ -83,7 +84,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 18 November
 
 <details>
-<summary><b>14:33</b> · hourly scan · <b>5 new</b> → Finance 2 · Equity 1 · Investment 1 · Fund 1</summary>
+<summary><b>14:40</b> · hourly scan · <b>6 new</b> → Finance 2 · Equity 2 · Investment 1 · Fund 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -92,11 +93,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-18 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hinduja-group-limited-4492033186) | Hinduja Group Limited | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Associate Team Lead- Treasury](https://www.linkedin.com/jobs/view/associate-team-lead-treasury-at-bunge-4476150674) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
 
-#### Equity CV: 1
+#### Equity CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-18 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) | Allvest | Kurla, Maharashtra, India |
+| 2026-11-18 | [AO/European Loan Portfolio Analyst](https://www.linkedin.com/jobs/view/ao-european-loan-portfolio-analyst-at-alliancebernstein-4476309410) | AllianceBernstein | Pune Division, Maharashtra, India |
 
 #### Investment (IB / PE) CV: 1
 
@@ -2153,7 +2155,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (160)](#finance-fpa-cv-160) · [Credit (112)](#credit-cv-112) · [Equity (24)](#equity-cv-24) · [Investment (65)](#investment-ib--pe-cv-65) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
+Everything matched so far, newest first within each CV: [Finance (160)](#finance-fpa-cv-160) · [Credit (112)](#credit-cv-112) · [Equity (25)](#equity-cv-25) · [Investment (65)](#investment-ib--pe-cv-65) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
 
 ### Finance (FP&A) CV: 160
 
@@ -2437,7 +2439,7 @@ Everything matched so far, newest first within each CV: [Finance (160)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 24
+### Equity CV: 25
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2445,6 +2447,7 @@ Everything matched so far, newest first within each CV: [Finance (160)](#finance
 | 2026-11-18 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-weekday-yc-w21-4490869555) | Weekday | Mumbai, Maharashtra, India |
 | 2026-11-18 | [Stock market research analyst](https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-veye-research-pvt-ltd-4491490471) | Veye Research Pvt Ltd | Gurugram, Haryana, India |
 | 2026-11-18 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-anand-shree-partners-4491827289) | Anand Shree Partners | Noida, Uttar Pradesh, India |
+| 2026-11-18 | [AO/European Loan Portfolio Analyst](https://www.linkedin.com/jobs/view/ao-european-loan-portfolio-analyst-at-alliancebernstein-4476309410) | AllianceBernstein | Pune Division, Maharashtra, India |
 | 2026-11-17 | [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) | Talent Corner HR Services Pvt Ltd | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Equity Research Associate - Cement](https://www.linkedin.com/jobs/view/equity-research-associate-cement-at-emkay-global-financial-services-ltd-4491172477) | Emkay Global Financial Services Ltd | Mumbai, Maharashtra, India |
 | 2026-11-16 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745) | Equity research by Sagar | Bhubaneswar, Odisha, India |
@@ -2640,8 +2643,8 @@ Everything matched so far, newest first within each CV: [Finance (160)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 18 Nov, 14:35 | Valuation Associate | STARLETTE PROPERTY VALUATIONS (OPC) PVT LTD |
-| Wed 18 Nov, 14:34 | Fund Accounting | The HIRD |
+| Wed 18 Nov, 14:43 | Valuation Associate | STARLETTE PROPERTY VALUATIONS (OPC) PVT LTD |
+| Wed 18 Nov, 14:41 | Fund Accounting | The HIRD |
 | Wed 18 Nov, 12:35 | Investment Banking Analyst – Global Fundraising & Private Capital | Qubit Capital |
 | Wed 18 Nov, 05:36 | Controller Financial Planning and Accounting | NIIT Foundation |
 | Wed 18 Nov, 00:34 | Specialist - F&A - FP&A 4B | Genpact |

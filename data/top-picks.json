@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:37:29.785Z",
+ "generated_at": "2026-11-18T14:44:36.191Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 34,
+   "matching": 35,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -2442,6 +2442,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/ao-european-loan-portfolio-analyst-at-alliancebernstein-4476309410": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
   }
  }
 }
