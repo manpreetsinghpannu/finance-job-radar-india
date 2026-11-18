@@ -566,5 +566,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-invit-at-alpha-alternatives-4490834750 | Alpha Alternatives | Investment Associate - InvIT | Mumbai Metropolitan Region | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706 | JPMorganChase | Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839 | JPMorganChase | Wholesale Credit Risk Associate | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911 | Meolaa | CA Fresher (FP&A) | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403 | FINAYO | Credit Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238 | KPMG India | Credit Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed

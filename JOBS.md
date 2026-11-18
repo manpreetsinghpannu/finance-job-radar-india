@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 05:37** (UK time) · **415 open roles** at 220 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 06:37** (UK time) · **418 open roles** at 222 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,31 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 05:33** · hourly scan · checked 99 boards · **2 new roles**
+**Wed 18 Nov, 06:33** · hourly scan · checked 99 boards · **3 new roles**
+
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [CA Fresher (FP&A)](https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911) | Meolaa | Bengaluru, Karnataka, India |
 
 ### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-18 | [Wholesale Credit Risk Associate](https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839) | JPMorganChase | Mumbai, Maharashtra, India |
-| 2026-11-17 | [Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238) | KPMG India | Bengaluru, Karnataka, India |
+| 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (168 matching)
+**Finance (FP&A) CV** (169 matching)
 
 1. [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-17
 2. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 
-**Credit CV** (106 matching)
+**Credit CV** (108 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -63,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>06:33</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [CA Fresher (FP&A)](https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911) | Meolaa | Bengaluru, Karnataka, India |
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238) | KPMG India | Bengaluru, Karnataka, India |
+| 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
+
+</details>
 
 <details>
 <summary><b>05:33</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
@@ -2106,34 +2130,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>06:36</b> · hourly scan · <b>3 new</b> → Credit 2 · Other 1</summary>
-
-#### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
-| 2026-11-11 | [Credit Analyst - SME BWC](https://www.linkedin.com/jobs/view/credit-analyst-sme-bwc-at-standard-chartered-india-4488655744) | Standard Chartered India | Mumbai Metropolitan Region |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Market Data Vendor Onboarding Associate, Investment Management](https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (151)](#finance-fpa-cv-151) · [Credit (106)](#credit-cv-106) · [Equity (20)](#equity-cv-20) · [Investment (63)](#investment-ib--pe-cv-63) · [Consulting (24)](#consulting-cv-24) · [Real Estate (12)](#real-estate-cv-12) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
+Everything matched so far, newest first within each CV: [Finance (152)](#finance-fpa-cv-152) · [Credit (108)](#credit-cv-108) · [Equity (20)](#equity-cv-20) · [Investment (63)](#investment-ib--pe-cv-63) · [Consulting (24)](#consulting-cv-24) · [Real Estate (12)](#real-estate-cv-12) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
 
-### Finance (FP&A) CV: 151
+### Finance (FP&A) CV: 152
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-18 | [CA Fresher (FP&A)](https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911) | Meolaa | Bengaluru, Karnataka, India |
 | — | [FAAS MS Financial Reporting_Senior](https://careers.ey.com/ey/job/Noida-FAAS-MS-Financial-Reporting_Senior-UP-201301/1444324433/) | EY | Noida |
 | 2026-11-17 | [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) | Hitachi Energy | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-sterling-4491160052) | Sterling | Mumbai, Maharashtra, India |
@@ -2286,13 +2291,15 @@ Everything matched so far, newest first within each CV: [Finance (151)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 106
+### Credit CV: 108
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-18 | [Wholesale Credit Risk Associate](https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
 | 2026-11-17 | [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238) | KPMG India | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Analyst - Credit Risk Capital Management](https://www.linkedin.com/jobs/view/analyst-credit-risk-capital-management-at-hdfc-bank-4490172146) | HDFC Bank | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Credit Analyst - Credit Underwriting](https://www.linkedin.com/jobs/view/credit-analyst-credit-underwriting-at-emirates-nbd-4490197101) | Emirates NBD | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Analyst/Associate – Private Credit, Middle Office Operations](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Analyst-Associate---Private-Credit--Middle-Office-Operations_R266727) | BlackRock | Mumbai, India |
