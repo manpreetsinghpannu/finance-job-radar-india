@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:37:03.311Z",
+ "generated_at": "2026-11-18T03:37:23.176Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 104,
+   "matching": 103,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -1803,11 +1803,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Intermediate-Analyst_261008657": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 19
   },
   "https://www.linkedin.com/jobs/view/financial-controller-at-safran-4491279721": {
    "id": "finance",
