@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 18:44** (UK time) · **451 open roles** at 241 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 19:37** (UK time) · **451 open roles** at 241 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,32 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 18:41** · hourly scan · checked 99 boards · **5 new roles**
+**Wed 18 Nov, 19:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Financial Analyst, Corporate FP&A](https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973) | Veradigm® | Pune Division, Maharashtra, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [State Head - Retail Credit - Credit - Housing - EM - Nandyal - Sanjeev Nagar - MM](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57467) | Tata Capital | Nandyal, Andhra Pradesh, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Research Associate - C11 - MUMBAI](https://www.linkedin.com/jobs/view/research-associate-c11-mumbai-at-citi-4491868489) | Citi | Mumbai, Maharashtra, India |
-
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Analyst_AIOC-S01675294-1) | Accenture | Navi Mumbai |
-| 2026-11-18 | [Capital Markets Operations Associate](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Associate_AIOC-S01675293-1) | Accenture | Navi Mumbai |
+Nothing new this time. The last scan that found something was **Wed 18 Nov, 18:41** (5: Finance 1 · Credit 1 · Equity 1 · Investment 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -81,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<sub>Nothing new at: 19:33</sub>
 
 <details>
 <summary><b>18:41</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 1 · Equity 1 · Investment 2</summary>
@@ -2166,19 +2145,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 11 November
 
 <sub>Nothing new at: 23:36, 23:05, 22:37, 21:41</sub>
-
-<details>
-<summary><b>19:36</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Team Member - Treasury & Corporate Finance](https://www.linkedin.com/jobs/view/team-member-treasury-corporate-finance-at-adani-ports-and-sez-4464475303) | Adani Ports and SEZ | Ahmedabad, Gujarat, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
 
 ## All open roles by CV
 
