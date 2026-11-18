@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:37:49.424Z",
+ "generated_at": "2026-11-18T13:01:53.899Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 111,
+   "matching": 112,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2422,6 +2422,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
   }
  }
 }

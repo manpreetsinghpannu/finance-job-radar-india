@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 12:37** (UK time) · **434 open roles** at 233 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 13:01** (UK time) · **435 open roles** at 234 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,27 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 12:33** · hourly scan · checked 99 boards · **5 new roles**
+**Wed 18 Nov, 12:58** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Financial Analyst I](https://www.linkedin.com/jobs/view/financial-analyst-i-at-american-express-4491830717) | American Express | Gurugram, Haryana, India |
-| 2026-11-18 | [Experienced Professional, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/experienced-professional-financial-planning-and-analysis-at-wsp-in-india-4490869883) | WSP in India | Noida, Uttar Pradesh, India |
-| 2026-11-18 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-belhem-india-pvt-ltd-4490832802) | Belhem India Pvt Ltd | Mumbai Metropolitan Region |
-
-### Investment (IB / PE) CV: 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-18 | [Associate - Deals - Private Equity Value Creation (PEVC)](https://www.linkedin.com/jobs/view/associate-deals-private-equity-value-creation-pevc-at-pwc-acceleration-center-india-4490890206) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Hedge Fund Accountant](https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-apex-group-ltd-india-branch-4491829740) | Apex Group Ltd | Bengaluru, Karnataka, India |
+| 2026-11-18 | [Process Executive - Credit Risk](https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
 
 ## Top picks for each CV
 
@@ -41,7 +27,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-17
 2. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 
-**Credit CV** (111 matching)
+**Credit CV** (112 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -76,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>12:58</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [Process Executive - Credit Risk](https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
+
+</details>
 
 <details>
 <summary><b>12:33</b> · hourly scan · <b>5 new</b> → Finance 3 · Investment 1 · Fund 1</summary>
@@ -2139,7 +2136,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (158)](#finance-fpa-cv-158) · [Credit (111)](#credit-cv-111) · [Equity (23)](#equity-cv-23) · [Investment (65)](#investment-ib--pe-cv-65) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
+Everything matched so far, newest first within each CV: [Finance (158)](#finance-fpa-cv-158) · [Credit (112)](#credit-cv-112) · [Equity (23)](#equity-cv-23) · [Investment (65)](#investment-ib--pe-cv-65) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
 
 ### Finance (FP&A) CV: 158
 
@@ -2304,12 +2301,13 @@ Everything matched so far, newest first within each CV: [Finance (158)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 111
+### Credit CV: 112
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-18 | [Wholesale Credit Risk Associate](https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
+| 2026-11-18 | [Process Executive - Credit Risk](https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
 | 2026-11-18 | [Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Analyst--Specialist--Operations--Trns-Svcs-Trade-Operations--Corporate-Banking_WD90088) | DBS Bank | Gandhi Nagar - GIFT City |
 | 2026-11-18 | [Associate, Specialist, Operations, Client Services, Corporate Banking, Gift City](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Operations--Client-Services--Corporate-Banking--Gift-City_WD89506-1) | DBS Bank | Gandhi Nagar - GIFT City |
 | 2026-11-17 | [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) | JPMorganChase | Mumbai, Maharashtra, India |
@@ -2618,7 +2616,7 @@ Everything matched so far, newest first within each CV: [Finance (158)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>58 roles taken off the list because the firm closed the posting</summary>
+<summary>57 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2679,6 +2677,5 @@ Everything matched so far, newest first within each CV: [Finance (158)](#finance
 | Thu 12 Nov, 05:37 | Financial Planning & Analaysis | Viraaj HR Solutions Private Limited |
 | Wed 11 Nov, 21:44 | Accountant | Induckt Ventures |
 | Wed 11 Nov, 13:37 | Associate Treasury Forex and Liquidity Management | TerraPay |
-| Wed 11 Nov, 12:38 | Associate Executive - Fund Accounting | IQ-EQ |
 
 </details>

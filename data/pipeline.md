@@ -588,5 +588,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-deals-private-equity-value-creation-pevc-at-pwc-acceleration-center-india-4490890206 | PwC Acceleration Center India | Associate - Deals - Private Equity Value Creation (PEVC) | Bengaluru East, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-apex-group-ltd-india-branch-4491829740 | Apex Group Ltd (India Branch) | Hedge Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-belhem-india-pvt-ltd-4490832802 | Belhem India Pvt Ltd | Treasury Specialist | Mumbai Metropolitan Region | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645 | Bunge | Process Executive - Credit Risk | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed
