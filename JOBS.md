@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 10:37** (UK time) · **430 open roles** at 230 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 11:36** (UK time) · **430 open roles** at 230 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 10:33** · hourly scan · checked 99 boards · **1 new role**
+**Wed 18 Nov, 11:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-anand-shree-partners-4491827289) | Anand Shree Partners | Noida, Uttar Pradesh, India |
+Nothing new this time. The last scan that found something was **Wed 18 Nov, 10:33** (1: Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<sub>Nothing new at: 11:33</sub>
 
 <details>
 <summary><b>10:33</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -2118,24 +2116,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-11 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-rrd-global-delivery-centers-4488696281) | RRD Global Delivery Centers | Chennai, Tamil Nadu, India |
-
-</details>
-
-<details>
-<summary><b>11:36</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Analyst FP&A](https://www.linkedin.com/jobs/view/analyst-fp-a-at-tryst-iit-bombay-4488214440) | TRYST IIT Bombay | Mumbai Metropolitan Region |
-| 2026-11-11 | [Corporate Finance Analyst](https://www.linkedin.com/jobs/view/corporate-finance-analyst-at-jenoptik-4488209623) | JENOPTIK | Bengaluru, Karnataka, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Consultant - Business Valuation](https://www.linkedin.com/jobs/view/consultant-business-valuation-at-kpmg-india-4462995406) | KPMG India | Gurgaon, Haryana, India |
 
 </details>
 
