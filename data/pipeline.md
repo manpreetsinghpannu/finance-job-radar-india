@@ -580,5 +580,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.hcltech.com/job/SME-Hardware-Asset-Management/194690-en_US | HCLTech | SME - Hardware Asset Management | posted: 2026-11-18
 - [ ] https://www.linkedin.com/jobs/view/business-finance-analyst-at-people-at-turno-4490862602 | People at Turno | Business Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059 | Dawn & Dusk Advisors | Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking) | Gurugram, Haryana, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-weekday-yc-w21-4490869555 | Weekday (YC W21) | Research Analyst | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-veye-research-pvt-ltd-4491490471 | Veye Research Pvt Ltd | Stock market research analyst | Gurugram, Haryana, India | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed

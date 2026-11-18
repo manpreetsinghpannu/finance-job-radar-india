@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:37:44.044Z",
+ "generated_at": "2026-11-18T09:36:39.586Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 29,
+   "matching": 31,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -2387,6 +2387,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-at-weekday-yc-w21-4490869555": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-veye-research-pvt-ltd-4491490471": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
   }
  }
 }
