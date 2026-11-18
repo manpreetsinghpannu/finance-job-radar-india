@@ -583,5 +583,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-weekday-yc-w21-4490869555 | Weekday (YC W21) | Research Analyst | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-veye-research-pvt-ltd-4491490471 | Veye Research Pvt Ltd | Stock market research analyst | Gurugram, Haryana, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-anand-shree-partners-4491827289 | Anand Shree Partners | Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-professional-financial-planning-and-analysis-at-wsp-in-india-4490869883 | WSP in India | Experienced Professional, Financial Planning and Analysis | Noida, Uttar Pradesh, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-i-at-american-express-4491830717 | American Express | Financial Analyst I | Gurugram, Haryana, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-deals-private-equity-value-creation-pevc-at-pwc-acceleration-center-india-4490890206 | PwC Acceleration Center India | Associate - Deals - Private Equity Value Creation (PEVC) | Bengaluru East, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-apex-group-ltd-india-branch-4491829740 | Apex Group Ltd (India Branch) | Hedge Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-belhem-india-pvt-ltd-4490832802 | Belhem India Pvt Ltd | Treasury Specialist | Mumbai Metropolitan Region | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed
