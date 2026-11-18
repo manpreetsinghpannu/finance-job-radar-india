@@ -561,4 +561,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-supervisor-at-intellectual-capital-hr-consulting-pvt-ltd-4490401515 | Intellectual Capital HR Consulting Pvt. Ltd. | Fund Accounting Supervisor | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-gartner-4491446178 | Gartner | Financial Analyst | Gurgaon, Haryana, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/ | EY | Associate, Real Estate Valuation, Other Assurance
+- [ ] https://careers.ey.com/ey/job/Noida-FAAS-MS-Financial-Reporting_Senior-UP-201301/1444324433/ | EY | FAAS MS Financial Reporting_Senior | Noida
+
 ## Processed
