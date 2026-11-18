@@ -604,4 +604,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-banking-analyst-securities-research-associate-at-wells-fargo-4492071012 | Wells Fargo | Corporate Banking Analyst (Securities Research Associate) | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-and-risk-analyst-at-accenture-in-india-4492056436 | Accenture in India | Treasury and Risk Analyst | Pune Division, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57467 | Tata Capital | State Head - Retail Credit - Credit - Housing - EM - Nandyal - Sanjeev Nagar - MM | Nandyal, Andhra Pradesh, India | posted: 2026-11-18
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Analyst_AIOC-S01675294-1 | Accenture | Capital Markets Operations Analyst | Navi Mumbai | posted: 2026-11-18
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Associate_AIOC-S01675293-1 | Accenture | Capital Markets Operations Associate | Navi Mumbai | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973 | Veradigm® | Financial Analyst, Corporate FP&A | Pune Division, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-associate-c11-mumbai-at-citi-4491868489 | Citi | Research Associate - C11 - MUMBAI | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+
 ## Processed

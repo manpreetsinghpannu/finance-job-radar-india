@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:37:41.419Z",
+ "generated_at": "2026-11-18T18:44:20.816Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 185,
+   "matching": 186,
    "picks": [
+    {
+     "title": "Financial Analyst, Corporate FP&A",
+     "company": "Veradigm®",
+     "location": "Pune Division, Maharashtra, India",
+     "posted": "2026-11-18",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Financial Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "FP&A Financial Analyst - CP&O",
      "company": "Hitachi Energy",
@@ -38,26 +51,13 @@
       "Financial Analyst"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Business Finance Analyst – FP&A",
-     "company": "MoEngage",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-15",
-     "url": "https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251",
-     "score": 26,
-     "why": [
-      "FP&A",
-      "Finance Analyst"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 115,
+   "matching": 116,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 36,
+   "matching": 37,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 78,
+   "matching": 80,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 32,
+   "matching": 33,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 35,
+   "matching": 34,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -1693,11 +1693,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 17
   },
-  "https://www.linkedin.com/jobs/view/head-%E2%80%93-aif-fund-accounting-at-neuraleap-group-4489595472": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-aristocrat-4489892150": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2487,6 +2482,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57467": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Analyst_AIOC-S01675294-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 13
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Associate_AIOC-S01675293-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/research-associate-c11-mumbai-at-citi-4491868489": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 10
   }
  }
 }
