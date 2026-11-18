@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 06:37** (UK time) · **418 open roles** at 222 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 07:37** (UK time) · **424 open roles** at 225 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,31 +10,39 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 06:33** · hourly scan · checked 99 boards · **3 new roles**
+**Wed 18 Nov, 07:33** · hourly scan · checked 99 boards · **6 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [CA Fresher (FP&A)](https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911) | Meolaa | Bengaluru, Karnataka, India |
-
-### Credit CV: 2
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238) | KPMG India | Bengaluru, Karnataka, India |
-| 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
+| 2026-11-18 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-me-n-moms-pvt-ltd-4490867152) | Me N Moms Pvt. Ltd. | Bandra, Maharashtra, India |
+| 2026-11-18 | [Associate, Specialist, Treasury Operations, Gen Ops-GFM](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Treasury-Operations--Gen-Ops-GFM_WD89818) | DBS Bank | Gandhi Nagar - GIFT City |
+
+### Credit CV: 3
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-dodo-payments-4491132707) | Dodo Payments | Bengaluru, Karnataka, India |
+| 2026-11-18 | [Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Analyst--Specialist--Operations--Trns-Svcs-Trade-Operations--Corporate-Banking_WD90088) | DBS Bank | Gandhi Nagar - GIFT City |
+| 2026-11-18 | [Associate, Specialist, Operations, Client Services, Corporate Banking, Gift City](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Operations--Client-Services--Corporate-Banking--Gift-City_WD89506-1) | DBS Bank | Gandhi Nagar - GIFT City |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [IN_Senior Associate_Investment banking_CFIB_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-senior-associate-investment-banking-cfib-advisory-mumbai-at-pwc-india-4491812425) | PwC India | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (169 matching)
+**Finance (FP&A) CV** (171 matching)
 
 1. [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-17
 2. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
 
-**Credit CV** (108 matching)
+**Credit CV** (111 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -44,12 +52,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745) · Equity research by Sagar · Bhubaneswar, Odisha, India · posted 2026-11-16
 
-**Investment (IB / PE) CV** (73 matching)
+**Investment (IB / PE) CV** (76 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Tech M&A Analyst – Investment Banking, Deal Origination](https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108) · SA Global Advisors · Pune District, Maharashtra, India · posted 2026-11-17
 
-**Consulting CV** (40 matching)
+**Consulting CV** (41 matching)
 
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Associate Consultant-Finance Transformation - Gurgaon](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-17
@@ -69,6 +77,32 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>07:33</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 3 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-me-n-moms-pvt-ltd-4490867152) | Me N Moms Pvt. Ltd. | Bandra, Maharashtra, India |
+| 2026-11-18 | [Associate, Specialist, Treasury Operations, Gen Ops-GFM](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Treasury-Operations--Gen-Ops-GFM_WD89818) | DBS Bank | Gandhi Nagar - GIFT City |
+
+#### Credit CV: 3
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-17 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-dodo-payments-4491132707) | Dodo Payments | Bengaluru, Karnataka, India |
+| 2026-11-18 | [Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Analyst--Specialist--Operations--Trns-Svcs-Trade-Operations--Corporate-Banking_WD90088) | DBS Bank | Gandhi Nagar - GIFT City |
+| 2026-11-18 | [Associate, Specialist, Operations, Client Services, Corporate Banking, Gift City](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Operations--Client-Services--Corporate-Banking--Gift-City_WD89506-1) | DBS Bank | Gandhi Nagar - GIFT City |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [IN_Senior Associate_Investment banking_CFIB_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-senior-associate-investment-banking-cfib-advisory-mumbai-at-pwc-india-4491812425) | PwC India | Mumbai, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>06:33</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
@@ -2110,36 +2144,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 08:36, 08:26</sub>
 
-<details>
-<summary><b>07:37</b> · hourly scan · <b>3 new</b> → Credit 1 · Investment 2</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Post-Trade Services & Risk Analyst– India](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Post-Trade-Services---Risk-Analyst--India_34967-1) | CME Group | Bangalore - Bagmane Tridib |
-
-#### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Consultant - Portfolio Valuations (Equity Valuation)](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051769) | KPMG India | Gurgaon, Haryana, India |
-| 2026-11-11 | [Deals - Deal Valuation - Specialist - CS - G](https://www.linkedin.com/jobs/view/deals-deal-valuation-specialist-cs-g-at-pwc-india-4489906656) | PwC India | Gurugram, Haryana, India |
-
-<sub>3 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (152)](#finance-fpa-cv-152) · [Credit (108)](#credit-cv-108) · [Equity (20)](#equity-cv-20) · [Investment (63)](#investment-ib--pe-cv-63) · [Consulting (24)](#consulting-cv-24) · [Real Estate (12)](#real-estate-cv-12) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
+Everything matched so far, newest first within each CV: [Finance (154)](#finance-fpa-cv-154) · [Credit (111)](#credit-cv-111) · [Equity (20)](#equity-cv-20) · [Investment (64)](#investment-ib--pe-cv-64) · [Consulting (24)](#consulting-cv-24) · [Real Estate (12)](#real-estate-cv-12) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
 
-### Finance (FP&A) CV: 152
+### Finance (FP&A) CV: 154
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-18 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-me-n-moms-pvt-ltd-4490867152) | Me N Moms Pvt. Ltd. | Bandra, Maharashtra, India |
 | 2026-11-18 | [CA Fresher (FP&A)](https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911) | Meolaa | Bengaluru, Karnataka, India |
 | — | [FAAS MS Financial Reporting_Senior](https://careers.ey.com/ey/job/Noida-FAAS-MS-Financial-Reporting_Senior-UP-201301/1444324433/) | EY | Noida |
+| 2026-11-18 | [Associate, Specialist, Treasury Operations, Gen Ops-GFM](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Treasury-Operations--Gen-Ops-GFM_WD89818) | DBS Bank | Gandhi Nagar - GIFT City |
 | 2026-11-17 | [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) | Hitachi Energy | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-sterling-4491160052) | Sterling | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-acg-world-4490459320) | ACG World | Mumbai, Maharashtra, India |
@@ -2291,12 +2307,14 @@ Everything matched so far, newest first within each CV: [Finance (152)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 108
+### Credit CV: 111
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-18 | [Wholesale Credit Risk Associate](https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
+| 2026-11-18 | [Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Analyst--Specialist--Operations--Trns-Svcs-Trade-Operations--Corporate-Banking_WD90088) | DBS Bank | Gandhi Nagar - GIFT City |
+| 2026-11-18 | [Associate, Specialist, Operations, Client Services, Corporate Banking, Gift City](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Operations--Client-Services--Corporate-Banking--Gift-City_WD89506-1) | DBS Bank | Gandhi Nagar - GIFT City |
 | 2026-11-17 | [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238) | KPMG India | Bengaluru, Karnataka, India |
@@ -2307,6 +2325,7 @@ Everything matched so far, newest first within each CV: [Finance (152)](#finance
 | 2026-11-17 | [Quality Executive - Retail MFB - Credit - Bhilwara - Shahpura - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57346) | Tata Capital | Shahpura Bhilwara District, Rajasthan, India |
 | 2026-11-17 | [Quality Executive - Retail MFB - Credit - Jhalawar - Manak Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57348) | Tata Capital | Jhalawar, Rajasthan, India |
 | 2026-11-17 | [Quality Executive - Retail MFB - Credit - Dhanaura - Kanchan Bazar - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57371) | Tata Capital | India |
+| 2026-11-17 | [Risk Analyst](https://www.linkedin.com/jobs/view/risk-analyst-at-dodo-payments-4491132707) | Dodo Payments | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Credit Analysis - Consultant](https://www.linkedin.com/jobs/view/credit-analysis-consultant-at-kpmg-india-4491564604) | KPMG India | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-16 | [Risk Management -Wholesale Credit Risk Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784527) | JPMorgan Chase | Mumbai, Maharashtra, India |
@@ -2429,10 +2448,11 @@ Everything matched so far, newest first within each CV: [Finance (152)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 63
+### Investment (IB / PE) CV: 64
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-18 | [IN_Senior Associate_Investment banking_CFIB_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-senior-associate-investment-banking-cfib-advisory-mumbai-at-pwc-india-4491812425) | PwC India | Mumbai, Maharashtra, India |
 | 2026-11-18 | [Investment Associate - InvIT](https://www.linkedin.com/jobs/view/investment-associate-invit-at-alpha-alternatives-4490834750) | Alpha Alternatives | Mumbai Metropolitan Region |
 | 2026-11-17 | [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) | PRP Professional Edge Associates Pvt Ltd | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Tech M&A Analyst – Investment Banking, Deal Origination](https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108) | SA Global Advisors | Pune District, Maharashtra, India |

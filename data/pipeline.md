@@ -570,4 +570,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403 | FINAYO | Credit Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238 | KPMG India | Credit Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
 
+- [ ] https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Analyst--Specialist--Operations--Trns-Svcs-Trade-Operations--Corporate-Banking_WD90088 | DBS Bank | Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking | Gandhi Nagar - GIFT City | posted: 2026-11-18
+- [ ] https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Operations--Client-Services--Corporate-Banking--Gift-City_WD89506-1 | DBS Bank | Associate, Specialist, Operations, Client Services, Corporate Banking, Gift City | Gandhi Nagar - GIFT City | posted: 2026-11-18
+- [ ] https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Treasury-Operations--Gen-Ops-GFM_WD89818 | DBS Bank | Associate, Specialist, Treasury Operations, Gen Ops-GFM | Gandhi Nagar - GIFT City | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-me-n-moms-pvt-ltd-4490867152 | Me N Moms Pvt. Ltd. | Financial Planning Analyst | Bandra, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-at-dodo-payments-4491132707 | Dodo Payments | Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/in-senior-associate-investment-banking-cfib-advisory-mumbai-at-pwc-india-4491812425 | PwC India | IN_Senior Associate_Investment banking_CFIB_Advisory_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+
 ## Processed

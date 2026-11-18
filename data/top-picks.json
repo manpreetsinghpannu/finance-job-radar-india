@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:37:15.376Z",
+ "generated_at": "2026-11-18T07:37:37.977Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 169,
+   "matching": 171,
    "picks": [
     {
      "title": "FP&A Financial Analyst - CP&O",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 108,
+   "matching": 111,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 73,
+   "matching": 76,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 40,
+   "matching": 41,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -2342,6 +2342,36 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 22
+  },
+  "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Analyst--Specialist--Operations--Trns-Svcs-Trade-Operations--Corporate-Banking_WD90088": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 6
+  },
+  "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Operations--Client-Services--Corporate-Banking--Gift-City_WD89506-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 3
+  },
+  "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Treasury-Operations--Gen-Ops-GFM_WD89818": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-me-n-moms-pvt-ltd-4490867152": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/risk-analyst-at-dodo-payments-4491132707": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/in-senior-associate-investment-banking-cfib-advisory-mumbai-at-pwc-india-4491812425": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }
