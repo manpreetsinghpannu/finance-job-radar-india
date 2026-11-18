@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 17 Nov, 23:33** (UK time) · **412 open roles** at 220 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 00:37** (UK time) · **411 open roles** at 220 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 17 Nov, 23:33** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 18 Nov, 00:33** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 17 Nov, 23:10** (1: Finance 1); open it in the scan log below.
 
@@ -18,7 +18,7 @@ Nothing new this time. The last scan that found something was **Tue 17 Nov, 23:1
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (169 matching)
+**Finance (FP&A) CV** (168 matching)
 
 1. [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-17
 2. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
@@ -56,6 +56,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Wednesday 18 November
+
+<sub>Nothing new at: 00:33</sub>
 
 ### Tuesday 17 November
 
@@ -205,14 +209,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>11:34</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Investment 1</summary>
+<summary><b>11:34</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Investment 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-17 | [Treasury Ops Analyst](https://www.linkedin.com/jobs/view/treasury-ops-analyst-at-solventum-4490432396) | Solventum | Bengaluru, Karnataka, India |
-| 2026-11-17 | [Specialist - F&A - FP&A 4B](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Pegasus-2-Plot-A-8A-Noida-UP/Specialist---F-A---FP-A-4B_JR10014865) | Genpact | 1401-G-India: Pegasus 2, Plot A 8A, Noida, UP |
 
 #### Credit CV: 1
 
@@ -226,7 +229,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-17 | [Global banking - Investment Banking Associate](https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166) | UBS | Mumbai, Maharashtra, India |
 
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2131,33 +2134,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 02:36, 01:38, 01:16</sub>
 
-<details>
-<summary><b>00:36</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Specialist Financial Analyst](https://www.linkedin.com/jobs/view/specialist-financial-analyst-at-oracle-4487865055) | Oracle | Bengaluru, Karnataka, India |
-
-#### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Credit Analyst_Support Services-Credit_New Delhi](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782) | Kotak Mahindra Bank | Delhi, India |
-| 2026-11-10 | [Associate - Supplier Risk Analyst - TPRM Operations](https://www.linkedin.com/jobs/view/associate-supplier-risk-analyst-tprm-operations-at-bnp-paribas-4489607120) | BNP Paribas | Tamil Nadu, India |
-
-</details>
-
-### Tuesday 10 November
-
-<sub>Nothing new at: 23:36</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (152)](#finance-fpa-cv-152) · [Credit (104)](#credit-cv-104) · [Equity (20)](#equity-cv-20) · [Investment (62)](#investment-ib--pe-cv-62) · [Consulting (24)](#consulting-cv-24) · [Real Estate (11)](#real-estate-cv-11) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
+Everything matched so far, newest first within each CV: [Finance (151)](#finance-fpa-cv-151) · [Credit (104)](#credit-cv-104) · [Equity (20)](#equity-cv-20) · [Investment (62)](#investment-ib--pe-cv-62) · [Consulting (24)](#consulting-cv-24) · [Real Estate (11)](#real-estate-cv-11) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
 
-### Finance (FP&A) CV: 152
+### Finance (FP&A) CV: 151
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2177,7 +2158,6 @@ Everything matched so far, newest first within each CV: [Finance (152)](#finance
 | 2026-11-17 | [Treasury Analyst - FX Risk](https://www.linkedin.com/jobs/view/treasury-analyst-fx-risk-at-puma-energy-4483639086) | Puma Energy | Mumbai Metropolitan Region |
 | 2026-11-17 | [Treasury Ops Analyst](https://www.linkedin.com/jobs/view/treasury-ops-analyst-at-solventum-4490432396) | Solventum | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Team Member_TREASURY INVESTMENTS/SUPPORT_0607_1314_1062455_HRR](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275452) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
-| 2026-11-17 | [Specialist - F&A - FP&A 4B](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Pegasus-2-Plot-A-8A-Noida-UP/Specialist---F-A---FP-A-4B_JR10014865) | Genpact | 1401-G-India: Pegasus 2, Plot A 8A, Noida, UP |
 | — | [FIS Quantum/Integrity Treasury Application Specialist](https://careers.ey.com/ey/job/Pune-FIS-QuantumIntegrity-Treasury-Application-Specialist-MH-411014/1419691233/) | EY | Pune |
 | 2026-11-16 | [Finance Analyst - Treasury Tower Operations-1](https://www.linkedin.com/jobs/view/finance-analyst-treasury-tower-operations-1-at-caterpillar-inc-4490295429) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
 | 2026-11-16 | [Finance Analyst - IT](https://www.linkedin.com/jobs/view/finance-analyst-it-at-eurofins-4491280486) | Eurofins | Bengaluru, Karnataka, India |
@@ -2612,10 +2592,11 @@ Everything matched so far, newest first within each CV: [Finance (152)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>56 roles taken off the list because the firm closed the posting</summary>
+<summary>57 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 18 Nov, 00:34 | Specialist - F&A - FP&A 4B | Genpact |
 | Tue 17 Nov, 19:35 | FP&A Data Analytics | EXL |
 | Tue 17 Nov, 17:36 | IN_Associate_Valuations_Valuations_Advisory_Mumbai | PwC Brasil |
 | Tue 17 Nov, 17:36 | IN_Associate_FDD_Transaction Services_Advisory_Bangalore | PwC Brasil |
