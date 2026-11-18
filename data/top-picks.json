@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:44:36.191Z",
+ "generated_at": "2026-11-18T15:37:12.976Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 180,
+   "matching": 181,
    "picks": [
     {
      "title": "FP&A Financial Analyst - CP&O",
@@ -2447,6 +2447,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/analyst-treasury-at-apollo-global-management-inc-4483882084": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
   }
  }
 }

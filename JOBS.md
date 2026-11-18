@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 14:44** (UK time) · **439 open roles** at 237 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 15:37** (UK time) · **440 open roles** at 238 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,39 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 14:40** · hourly scan · checked 99 boards · **6 new roles**
+**Wed 18 Nov, 15:33** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hinduja-group-limited-4492033186) | Hinduja Group Limited | Mumbai, Maharashtra, India |
-| 2026-11-17 | [Associate Team Lead- Treasury](https://www.linkedin.com/jobs/view/associate-team-lead-treasury-at-bunge-4476150674) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
-
-### Equity CV: 2
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-18 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) | Allvest | Kurla, Maharashtra, India |
-| 2026-11-18 | [AO/European Loan Portfolio Analyst](https://www.linkedin.com/jobs/view/ao-european-loan-portfolio-analyst-at-alliancebernstein-4476309410) | AllianceBernstein | Pune Division, Maharashtra, India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-4491849408) | Leading Investment Banking | Bengaluru, Karnataka, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Hedge Fund Accountant](https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-thoughtfocus-4491839830) | ThoughtFocus | Bengaluru, Karnataka, India |
+| 2026-11-18 | [Analyst Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-apollo-global-management-inc-4483882084) | Apollo Global Management, Inc. | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (180 matching)
+**Finance (FP&A) CV** (181 matching)
 
 1. [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-17
 2. [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) · MoEngage · Bengaluru, Karnataka, India · posted 2026-11-15
@@ -82,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>15:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [Analyst Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-apollo-global-management-inc-4483882084) | Apollo Global Management, Inc. | Mumbai Metropolitan Region |
+
+</details>
 
 <details>
 <summary><b>14:40</b> · hourly scan · <b>6 new</b> → Finance 2 · Equity 2 · Investment 1 · Fund 1</summary>
@@ -2151,13 +2142,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 15:36</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (160)](#finance-fpa-cv-160) · [Credit (112)](#credit-cv-112) · [Equity (25)](#equity-cv-25) · [Investment (65)](#investment-ib--pe-cv-65) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
+Everything matched so far, newest first within each CV: [Finance (161)](#finance-fpa-cv-161) · [Credit (112)](#credit-cv-112) · [Equity (25)](#equity-cv-25) · [Investment (65)](#investment-ib--pe-cv-65) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (14)](#other-fits-no-cv-closely-may-still-be-worth-a-look-14)
 
-### Finance (FP&A) CV: 160
+### Finance (FP&A) CV: 161
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2166,6 +2155,7 @@ Everything matched so far, newest first within each CV: [Finance (160)](#finance
 | 2026-11-18 | [Business Finance Analyst](https://www.linkedin.com/jobs/view/business-finance-analyst-at-people-at-turno-4490862602) | People at Turno | Bengaluru, Karnataka, India |
 | 2026-11-18 | [Financial Analyst I](https://www.linkedin.com/jobs/view/financial-analyst-i-at-american-express-4491830717) | American Express | Gurugram, Haryana, India |
 | 2026-11-18 | [CA Fresher (FP&A)](https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911) | Meolaa | Bengaluru, Karnataka, India |
+| 2026-11-18 | [Analyst Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-apollo-global-management-inc-4483882084) | Apollo Global Management, Inc. | Mumbai Metropolitan Region |
 | 2026-11-18 | [Experienced Professional, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/experienced-professional-financial-planning-and-analysis-at-wsp-in-india-4490869883) | WSP in India | Noida, Uttar Pradesh, India |
 | — | [FAAS MS Financial Reporting_Senior](https://careers.ey.com/ey/job/Noida-FAAS-MS-Financial-Reporting_Senior-UP-201301/1444324433/) | EY | Noida |
 | 2026-11-18 | [Associate, Specialist, Treasury Operations, Gen Ops-GFM](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Treasury-Operations--Gen-Ops-GFM_WD89818) | DBS Bank | Gandhi Nagar - GIFT City |
