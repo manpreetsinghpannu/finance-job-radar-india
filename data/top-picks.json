@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:37:36.349Z",
+ "generated_at": "2026-11-18T20:37:14.778Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 116,
+   "matching": 117,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -2507,6 +2507,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 10
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 28
   }
  }
 }

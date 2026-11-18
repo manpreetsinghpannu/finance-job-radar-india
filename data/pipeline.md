@@ -610,4 +610,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973 | Veradigm® | Financial Analyst, Corporate FP&A | Pune Division, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-associate-c11-mumbai-at-citi-4491868489 | Citi | Research Associate - C11 - MUMBAI | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Analyst-II_261010482 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Analyst II | 2 Locations | posted: 2026-11-18
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Analyst-II_261010490 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Analyst II | 2 Locations | posted: 2026-11-18
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Intermediate Analyst | Gurugram Haryana India | posted: 2026-11-18
+
 ## Processed

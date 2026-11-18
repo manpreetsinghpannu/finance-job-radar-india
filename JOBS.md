@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 19:37** (UK time) · **451 open roles** at 241 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 20:37** (UK time) · **452 open roles** at 241 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 19:33** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 18 Nov, 20:33** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Wed 18 Nov, 18:41** (5: Finance 1 · Credit 1 · Equity 1 · Investment 2); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [Credit Risk Analytics - Proprietary Cards and Lending Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484) | Citi | Gurugram Haryana India |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst, Corporate FP&A](https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973) · Veradigm® · Pune Division, Maharashtra, India · posted 2026-11-18
 2. [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-17
 
-**Credit CV** (116 matching)
+**Credit CV** (117 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -43,7 +47,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Associate Consultant-Finance Transformation - Gurgaon](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005) · KPMG India · Gurgaon, Haryana, India · posted 2026-11-17
 
-**Real Estate CV** (33 matching)
+**Real Estate CV** (34 matching)
 
 1. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
@@ -58,6 +62,19 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<details>
+<summary><b>20:33</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [Credit Risk Analytics - Proprietary Cards and Lending Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484) | Citi | Gurugram Haryana India |
+
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+
+</details>
 
 <sub>Nothing new at: 19:33</sub>
 
@@ -2148,7 +2165,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (166)](#finance-fpa-cv-166) · [Credit (115)](#credit-cv-115) · [Equity (26)](#equity-cv-26) · [Investment (67)](#investment-ib--pe-cv-67) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (15)](#other-fits-no-cv-closely-may-still-be-worth-a-look-15)
+Everything matched so far, newest first within each CV: [Finance (166)](#finance-fpa-cv-166) · [Credit (116)](#credit-cv-116) · [Equity (26)](#equity-cv-26) · [Investment (67)](#investment-ib--pe-cv-67) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (15)](#other-fits-no-cv-closely-may-still-be-worth-a-look-15)
 
 ### Finance (FP&A) CV: 166
 
@@ -2321,11 +2338,12 @@ Everything matched so far, newest first within each CV: [Finance (166)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 115
+### Credit CV: 116
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-18 | [Wholesale Credit Risk Associate](https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-18 | [Credit Risk Analytics - Proprietary Cards and Lending Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484) | Citi | Gurugram Haryana India |
 | 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
 | 2026-11-18 | [Process Executive - Credit Risk](https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
 | 2026-11-18 | [Executive- Credit Vetting Analyst](https://www.linkedin.com/jobs/view/executive-credit-vetting-analyst-at-vois-4490895984) | VOIS | Ahmedabad, Gujarat, India |
