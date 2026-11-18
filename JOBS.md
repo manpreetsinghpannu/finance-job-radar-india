@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 22:33** (UK time) · **451 open roles** at 240 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 23:37** (UK time) · **451 open roles** at 240 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 22:33** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 18 Nov, 23:33** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Wed 18 Nov, 20:33** (1: Credit 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 18 November
 
-<sub>Nothing new at: 22:33, 22:21, 21:33, 21:21</sub>
+<sub>Nothing new at: 23:33, 22:33, 22:21, 21:33, 21:21</sub>
 
 <details>
 <summary><b>20:33</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2152,10 +2152,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-12 | [Credit Executive_Tractors and Farm Equipments (TFE)-Credit_Thane](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963) | Kotak Mahindra Bank | Thane, Maharashtra, India |
 
 </details>
-
-### Wednesday 11 November
-
-<sub>Nothing new at: 23:36, 23:05, 22:37</sub>
 
 ## All open roles by CV
 
