@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:37:14.778Z",
+ "generated_at": "2026-11-18T21:25:35.761Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 37,
+   "matching": 36,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 34,
+   "matching": 33,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -1582,11 +1582,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/associate-reporting-portfolio-analytics-open-end-funds-at-bluestone-solutions-group-4489581224": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 7
   },
   "https://www.linkedin.com/jobs/view/credit-analyst-at-hp-4490736881": {
    "id": "credit",
