@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:37:37.977Z",
+ "generated_at": "2026-11-18T08:37:44.044Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 171,
+   "matching": 173,
    "picks": [
     {
      "title": "FP&A Financial Analyst - CP&O",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 76,
+   "matching": 77,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -141,15 +141,15 @@
      "sponsor": null
     },
     {
-     "title": "Tech M&A Analyst – Investment Banking, Deal Origination",
-     "company": "SA Global Advisors",
-     "location": "Pune District, Maharashtra, India",
-     "posted": "2026-11-17",
-     "url": "https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108",
+     "title": "Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)",
+     "company": "Dawn & Dusk Advisors",
+     "location": "Gurugram, Haryana, India",
+     "posted": "2026-11-18",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059",
      "score": 28,
      "why": [
       "Investment Banking",
-      "M&A"
+      "Valuation"
      ],
      "sponsor": null
     }
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 41,
+   "matching": 42,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 31,
+   "matching": 33,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -2372,6 +2372,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://careers.hcltech.com/job/SME-Hardware-Asset-Management/194690-en_US": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/business-finance-analyst-at-people-at-turno-4490862602": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 28
   }
  }
 }
