@@ -599,5 +599,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/executive-credit-vetting-analyst-at-vois-4490895984 | VOIS | Executive- Credit Vetting Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/chartered-accountants-at-amicus-growth-advisors-4491302477 | Amicus Growth Advisors | Chartered Accountants | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-aptean-india-4491855342 | Aptean India | Treasury Analyst | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-lease-enablement-at-hp-4492072091 | HP | Financial Analyst-Lease Enablement | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-rsm-us-llp-4481103051 | RSM US LLP | FP&A Analyst | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-banking-analyst-securities-research-associate-at-wells-fargo-4492071012 | Wells Fargo | Corporate Banking Analyst (Securities Research Associate) | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-and-risk-analyst-at-accenture-in-india-4492056436 | Accenture in India | Treasury and Risk Analyst | Pune Division, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed
