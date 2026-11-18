@@ -589,5 +589,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-apex-group-ltd-india-branch-4491829740 | Apex Group Ltd (India Branch) | Hedge Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-belhem-india-pvt-ltd-4490832802 | Belhem India Pvt Ltd | Treasury Specialist | Mumbai Metropolitan Region | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645 | Bunge | Process Executive - Credit Risk | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hinduja-group-limited-4492033186 | Hinduja Group Limited | Financial Analyst | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882 | Allvest | Equity Research Analyst | Kurla, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-4491849408 | Leading Investment Banking | Investment Banking Associate | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-thoughtfocus-4491839830 | ThoughtFocus | Hedge Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-team-lead-treasury-at-bunge-4476150674 | Bunge | Associate Team Lead- Treasury | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-17 | note: via LinkedIn
 
 ## Processed

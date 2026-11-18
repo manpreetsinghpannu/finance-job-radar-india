@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:36:16.438Z",
+ "generated_at": "2026-11-18T14:37:29.785Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 177,
+   "matching": 180,
    "picks": [
     {
      "title": "FP&A Financial Analyst - CP&O",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -109,10 +109,10 @@
     },
     {
      "title": "Equity Research Analyst",
-     "company": "Equity research by Sagar",
-     "location": "Bhubaneswar, Odisha, India",
-     "posted": "2026-11-16",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745",
+     "company": "Allvest",
+     "location": "Kurla, Maharashtra, India",
+     "posted": "2026-11-18",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882",
      "score": 28,
      "why": [
       "Equity Research",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 33,
+   "matching": 32,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -1468,11 +1468,6 @@
    "cv": "Credit CV",
    "score": 7
   },
-  "https://www.linkedin.com/jobs/view/valuation-associate-at-starlette-property-valuations-opc-pvt-ltd-4488900413": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 13
-  },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1876,11 +1871,6 @@
   "https://www.linkedin.com/jobs/view/consultant-m-a-tech-at-kpmg-india-4405315691": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/fund-accounting-at-the-hird-4489719995": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
   },
   "https://www.linkedin.com/jobs/view/associate-treasury-analyst-at-baker-tilly-us-4454652895": {
@@ -2427,6 +2417,31 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-hinduja-group-limited-4492033186": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-associate-4491849408": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-thoughtfocus-4491839830": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/associate-team-lead-treasury-at-bunge-4476150674": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
