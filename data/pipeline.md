@@ -596,5 +596,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-team-lead-treasury-at-bunge-4476150674 | Bunge | Associate Team Lead- Treasury | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-17 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/ao-european-loan-portfolio-analyst-at-alliancebernstein-4476309410 | AllianceBernstein | AO/European Loan Portfolio Analyst | Pune Division, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-treasury-at-apollo-global-management-inc-4483882084 | Apollo Global Management, Inc. | Analyst Treasury | Mumbai Metropolitan Region | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/executive-credit-vetting-analyst-at-vois-4490895984 | VOIS | Executive- Credit Vetting Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/chartered-accountants-at-amicus-growth-advisors-4491302477 | Amicus Growth Advisors | Chartered Accountants | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-aptean-india-4491855342 | Aptean India | Treasury Analyst | Bengaluru, Karnataka, India | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed
