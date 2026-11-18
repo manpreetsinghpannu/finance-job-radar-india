@@ -564,5 +564,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.ey.com/ey/job/Associate%2C-Real-Estate-Valuation%2C-Other-Assurance-048583/1137543501/ | EY | Associate, Real Estate Valuation, Other Assurance
 - [ ] https://careers.ey.com/ey/job/Noida-FAAS-MS-Financial-Reporting_Senior-UP-201301/1444324433/ | EY | FAAS MS Financial Reporting_Senior | Noida
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-invit-at-alpha-alternatives-4490834750 | Alpha Alternatives | Investment Associate - InvIT | Mumbai Metropolitan Region | posted: 2026-11-18 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706 | JPMorganChase | Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst | Mumbai, Maharashtra, India | posted: 2026-11-17 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839 | JPMorganChase | Wholesale Credit Risk Associate | Mumbai, Maharashtra, India | posted: 2026-11-18 | note: via LinkedIn
 
 ## Processed

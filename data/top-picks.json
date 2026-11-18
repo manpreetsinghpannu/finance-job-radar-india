@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:48:00.661Z",
+ "generated_at": "2026-11-18T05:37:40.002Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 169,
+   "matching": 168,
    "picks": [
     {
      "title": "FP&A Financial Analyst - CP&O",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 104,
+   "matching": 106,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 30,
+   "matching": 31,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -206,15 +206,14 @@
      "sponsor": null
     },
     {
-     "title": "Associate - Asset Management - Commercial real estate - US Mortgage",
-     "company": "Three Across",
-     "location": "Bangalore Urban, Karnataka, India",
-     "posted": "2026-11-14",
-     "url": "https://www.linkedin.com/jobs/view/associate-asset-management-commercial-real-estate-us-mortgage-at-three-across-4483324194",
-     "score": 17,
+     "title": "Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst",
+     "company": "JPMorganChase",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-17",
+     "url": "https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706",
+     "score": 19,
      "why": [
-      "Real Estate",
-      "Asset Management"
+      "Real Estate"
      ],
      "sponsor": null
     }
@@ -1844,11 +1843,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/controller-financial-planning-and-accounting-at-niit-foundation-4490254941": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745": {
    "id": "equity",
    "cv": "Equity CV",
@@ -2323,6 +2317,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/wholesale-credit-risk-associate-at-jpmorganchase-4490836839": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 30
   }
  }
 }
