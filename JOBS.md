@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 18 Nov, 13:01** (UK time) · **435 open roles** at 234 firms · the radar checks every board about once an hour.
+Updated **Wed 18 Nov, 13:36** (UK time) · **435 open roles** at 234 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 18 Nov, 12:58** · hourly scan · checked 99 boards · **1 new role**
+**Wed 18 Nov, 13:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Process Executive - Credit Risk](https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
+Nothing new this time. The last scan that found something was **Wed 18 Nov, 12:58** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 18 November
+
+<sub>Nothing new at: 13:33</sub>
 
 <details>
 <summary><b>12:58</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
