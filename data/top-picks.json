@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:57:28.846Z",
+ "generated_at": "2026-11-19T14:34:54.951Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 195,
+   "matching": 198,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 33,
+   "matching": 34,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2592,6 +2592,26 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-siemens-digital-industries-software-4456894817": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-careedge-group-4491623218": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/associate-fund-accounting-at-acuity-analytics-4484913475": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/corporate-treasury-operations-ct-settlements-analyst-bengaluru-at-goldman-sachs-4492155195": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

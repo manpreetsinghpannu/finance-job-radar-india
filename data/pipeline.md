@@ -645,5 +645,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-rating-advisory-gurgaon-at-acuity-analytics-4474080988 | Acuity Analytics | Investment Banking_ Rating Advisory, Gurgaon | Gurugram, Haryana, India | posted: 2026-11-19 | note: via LinkedIn
 
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Executive-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/61681944/ | Deloitte India | Executive / Credit Underwriting / Bengaluru / Regulatory & Financial Risk | Bengaluru
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-siemens-digital-industries-software-4456894817 | Siemens Digital Industries Software | Finance Analyst | Pune Division, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-careedge-group-4491623218 | CareEdge Group | Financial Analyst | Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-fund-accounting-at-acuity-analytics-4484913475 | Acuity Analytics | Associate- Fund Accounting | Gurugram, Haryana, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-treasury-operations-ct-settlements-analyst-bengaluru-at-goldman-sachs-4492155195 | Goldman Sachs | Corporate Treasury Operations-CT Settlements-Analyst-Bengaluru | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
