@@ -642,5 +642,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Gurugram/Financial-Planning---Analysis-Representa_ATCI-5672707-S2068125-1 | Accenture | Financial Planning & Analysis Representa | Gurugram | posted: 2026-11-19
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-associate-at-qualcomm-4475447116 | Qualcomm | Finance Analyst, Associate | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-data-science-credit-risk-with-a-us-based-fintech-company-at-the-premier-consultants-recruitment-company-4492433252 | The Premier Consultants ( Recruitment Company ) | Analyst – Data Science (Credit Risk) with a US Based Fintech company | Pune City, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-rating-advisory-gurgaon-at-acuity-analytics-4474080988 | Acuity Analytics | Investment Banking_ Rating Advisory, Gurgaon | Gurugram, Haryana, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
