@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 19 Nov, 00:37** (UK time) · **452 open roles** at 241 firms · the radar checks every board about once an hour.
+Updated **Thu 19 Nov, 01:37** (UK time) · **452 open roles** at 241 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 19 Nov, 00:33** · hourly scan · checked 99 boards · **1 new role**
+**Thu 19 Nov, 01:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682) | Hewlett Packard Enterprise | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 00:33** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 01:33</sub>
 
 <details>
 <summary><b>00:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2154,19 +2152,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Industrial Trainee - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai](https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Mumbai-MH-400028/1427139833/) | EY | Mumbai |
-
-</details>
-
-<sub>Nothing new at: 01:36</sub>
-
-<details>
-<summary><b>00:40</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Credit Executive_Tractors and Farm Equipments (TFE)-Credit_Thane](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274963) | Kotak Mahindra Bank | Thane, Maharashtra, India |
 
 </details>
 
