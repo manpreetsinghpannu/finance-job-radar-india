@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:37:52.665Z",
+ "generated_at": "2026-11-19T07:36:49.982Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 117,
+   "matching": 116,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 79,
+   "matching": 80,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 34,
+   "matching": 33,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -362,11 +362,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 3
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799678": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 10
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768": {
    "id": "investment",
@@ -1703,11 +1698,6 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/associate-asset-management-commercial-real-estate-us-mortgage-at-three-across-4483324194": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-capital-and-debt-advisory-mumbai-at-ey-4467390998": {
    "id": "credit",
    "cv": "Credit CV",
@@ -2522,6 +2512,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809604": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/private-markets-11a-at-crisil-4492404252": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
   }
  }
 }

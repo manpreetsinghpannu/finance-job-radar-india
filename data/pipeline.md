@@ -618,4 +618,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-stockprompt-ai-4492109894 | stockprompt.ai | Stock Market Research Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-executive-at-forsan-foods-consumer-products-india-private-limited-4454942780 | Forsan Foods & Consumer Products India Private Limited | Treasury Executive | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809604 | JPMorgan Chase | Product Controller - Associate | Mumbai, Maharashtra, India | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/private-markets-11a-at-crisil-4492404252 | Crisil | Private markets 11A | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+
 ## Processed
