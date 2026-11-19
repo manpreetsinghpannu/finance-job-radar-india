@@ -620,5 +620,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809604 | JPMorgan Chase | Product Controller - Associate | Mumbai, Maharashtra, India | posted: 2026-11-19
 - [ ] https://www.linkedin.com/jobs/view/private-markets-11a-at-crisil-4492404252 | Crisil | Private markets 11A | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jobsphere-4492134308 | JobSPhere | Financial Analyst | India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
