@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:37:17.064Z",
+ "generated_at": "2026-11-19T17:37:16.013Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 82,
+   "matching": 83,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -2632,6 +2632,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-wells-fargo-4492466628": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }

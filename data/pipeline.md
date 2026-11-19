@@ -654,5 +654,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/excutive-credit-vetting-analyst-at-vois-4491619860 | VOIS | Excutive- Credit Vetting Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-damages-and-valuations-at-secretariat-4492168606 | Secretariat | Analyst, Damages and Valuations | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-vistra-4491621249 | VISTRA | Treasury Analyst | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-wells-fargo-4492466628 | Wells Fargo | Investment Banking Analyst | Greater Hyderabad Area | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
