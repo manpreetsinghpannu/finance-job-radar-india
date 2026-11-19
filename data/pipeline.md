@@ -650,4 +650,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-fund-accounting-at-acuity-analytics-4484913475 | Acuity Analytics | Associate- Fund Accounting | Gurugram, Haryana, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-treasury-operations-ct-settlements-analyst-bengaluru-at-goldman-sachs-4492155195 | Goldman Sachs | Corporate Treasury Operations-CT Settlements-Analyst-Bengaluru | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809946 | JPMorgan Chase | Asset Management - Client Services Platform Analytics | Mumbai, Maharashtra, India | posted: 2026-11-19
+
 ## Processed

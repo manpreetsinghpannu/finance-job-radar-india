@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:34:54.951Z",
+ "generated_at": "2026-11-19T15:37:32.820Z",
  "order": [
   "finance",
   "credit",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 34,
+   "matching": 35,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -2612,6 +2612,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809946": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 9
   }
  }
 }
