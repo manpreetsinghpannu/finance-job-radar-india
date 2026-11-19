@@ -631,4 +631,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172 | Hitachi Energy | Financial Analyst - FP&A | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-wsp-in-india-4491602430 | WSP in India | Treasury Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276053 | Kotak Mahindra Bank | Financial Planning & Analysis_SUPPORT SERVICES_0607_1314_1061164 | Mumbai, Maharashtra, India | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-equity-derivatives-at-millennium-4492162086 | Millennium | Risk Analyst (Equity Derivatives) | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-presentation-associate-at-aimploy-4491394916 | AImploy | Research Analyst & Presentation Associate | Worli, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-valuation-services-at-kroll-4491615160 | Kroll | Analyst, Valuation Services | New Delhi, Delhi, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jenoptik-4491603423 | JENOPTIK | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-qualcomm-4483895462 | Qualcomm | Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+
 ## Processed
