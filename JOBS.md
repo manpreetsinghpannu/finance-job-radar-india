@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 19 Nov, 19:37** (UK time) · **481 open roles** at 254 firms · the radar checks every board about once an hour.
+Updated **Thu 19 Nov, 20:37** (UK time) · **481 open roles** at 254 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,33 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 19 Nov, 19:33** · hourly scan · checked 99 boards · **6 new roles**
+**Thu 19 Nov, 20:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-momentive-software-4439434672) | Momentive Software | Pune Division, Maharashtra, India |
-| 2026-11-19 | [Analyst - Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-wpp-4475411503) | WPP | Mumbai Metropolitan Region |
-
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [SA- Credit Analyst- APAC PF](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/SA--Credit-Analyst--APAC-PF_10080519-WD-2) | MUFG | MUFG Global Service Private Ltd. - Mumbai (NKP) |
-| 2026-11-19 | [Asset & Wealth Management, Private Credit, Asset Finance, Analyst, Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-credit-asset-finance-analyst-bengaluru-at-goldman-sachs-4492187646) | Goldman Sachs | Bengaluru, Karnataka, India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Associate - Capital Markets](https://www.linkedin.com/jobs/view/associate-capital-markets-at-sanctuary-4492475071) | Sanctuary | Delhi, Delhi, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [AM- Fund Accounting](https://www.linkedin.com/jobs/view/am-fund-accounting-at-bnp-paribas-4492415248) | BNP Paribas | Tamil Nadu, India |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 19:33** (6: Finance 2 · Credit 2 · Investment 1 · Fund 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -82,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 20:33</sub>
 
 <details>
 <summary><b>19:33</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 2 · Investment 1 · Fund 1</summary>
@@ -2016,7 +1994,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 21:36, 21:10, 20:36</sub>
+<sub>Nothing new at: 21:36, 21:10</sub>
 
 ## All open roles by CV
 
