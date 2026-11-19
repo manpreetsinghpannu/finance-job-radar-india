@@ -638,4 +638,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jenoptik-4491603423 | JENOPTIK | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-qualcomm-4483895462 | Qualcomm | Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Delhi-T&T-EAID-OIDS-Consultant-Strategy-Consultant-%28oil-and-gas%29-DelhiNCR/59761944/ | Deloitte India | T&T / EAID / OIDS / Consultant/ Strategy Consultant (oil and gas) / Delhi/NCR | Delhi
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Gurugram/Financial-Planning---Analysis-Representa_ATCI-5672707-S2068125-1 | Accenture | Financial Planning & Analysis Representa | Gurugram | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-associate-at-qualcomm-4475447116 | Qualcomm | Finance Analyst, Associate | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-data-science-credit-risk-with-a-us-based-fintech-company-at-the-premier-consultants-recruitment-company-4492433252 | The Premier Consultants ( Recruitment Company ) | Analyst – Data Science (Credit Risk) with a US Based Fintech company | Pune City, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+
 ## Processed
