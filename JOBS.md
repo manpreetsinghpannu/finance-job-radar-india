@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 19 Nov, 17:37** (UK time) · **477 open roles** at 252 firms · the radar checks every board about once an hour.
+Updated **Thu 19 Nov, 18:37** (UK time) · **476 open roles** at 251 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 19 Nov, 17:33** · hourly scan · checked 99 boards · **1 new role**
+**Thu 19 Nov, 18:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-wells-fargo-4492466628) | Wells Fargo | Greater Hyderabad Area |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 17:33** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (199 matching)
+**Finance (FP&A) CV** (198 matching)
 
 1. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
 2. [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-19
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 18:33</sub>
 
 <details>
 <summary><b>17:33</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -241,18 +239,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:33</sub>
-
-<details>
-<summary><b>08:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jobsphere-4492134308) | JobSPhere | India |
-
-</details>
+<sub>Nothing new at: 09:33, 08:33</sub>
 
 <details>
 <summary><b>07:33</b> · hourly scan · <b>2 new</b> → Investment 1 · Other 1</summary>
@@ -2018,25 +2005,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>17:44</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-abb-4490365454) | ABB | Bengaluru East, Karnataka, India |
-| 2026-11-12 | [Associate - Treasury Operations, Investments](https://www.linkedin.com/jobs/view/associate-treasury-operations-investments-at-axa-xl-4490359931) | AXA XL | Gurugram, Haryana, India |
-
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (180)](#finance-fpa-cv-180) · [Credit (120)](#credit-cv-120) · [Equity (26)](#equity-cv-26) · [Investment (70)](#investment-ib--pe-cv-70) · [Consulting (25)](#consulting-cv-25) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
+Everything matched so far, newest first within each CV: [Finance (179)](#finance-fpa-cv-179) · [Credit (120)](#credit-cv-120) · [Equity (26)](#equity-cv-26) · [Investment (70)](#investment-ib--pe-cv-70) · [Consulting (25)](#consulting-cv-25) · [Real Estate (13)](#real-estate-cv-13) · [Fund (26)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-26) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
 
-### Finance (FP&A) CV: 180
+### Finance (FP&A) CV: 179
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2044,7 +2017,6 @@ Everything matched so far, newest first within each CV: [Finance (180)](#finance
 | 2026-11-19 | [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) | Hitachi Energy | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682) | Hewlett Packard Enterprise | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-ralph-lauren-4491358883) | Ralph Lauren | Bengaluru, Karnataka, India |
-| 2026-11-19 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jobsphere-4492134308) | JobSPhere | India |
 | 2026-11-19 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jenoptik-4491603423) | JENOPTIK | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-qualcomm-4483895462) | Qualcomm | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Finance Analyst, Associate](https://www.linkedin.com/jobs/view/finance-analyst-associate-at-qualcomm-4475447116) | Qualcomm | Bengaluru, Karnataka, India |
@@ -2556,10 +2528,11 @@ Everything matched so far, newest first within each CV: [Finance (180)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>60 roles taken off the list because the firm closed the posting</summary>
+<summary>61 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 19 Nov, 18:34 | Financial Analyst | JobSPhere |
 | Thu 19 Nov, 13:54 | Debt Syndication Associate | Misha Capital |
 | Thu 19 Nov, 13:02 | Corporate Finance Analyst | JENOPTIK |
 | Thu 19 Nov, 11:36 | Finance Associate - Due Diligence (CA only) | Treelife |
