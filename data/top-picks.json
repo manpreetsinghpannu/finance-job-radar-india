@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:37:32.820Z",
+ "generated_at": "2026-11-19T16:37:17.064Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 198,
+   "matching": 199,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 120,
+   "matching": 121,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2617,6 +2617,21 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/excutive-credit-vetting-analyst-at-vois-4491619860": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/analyst-damages-and-valuations-at-secretariat-4492168606": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/treasury-analyst-at-vistra-4491621249": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
   }
  }
 }
