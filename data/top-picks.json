@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:37:29.049Z",
+ "generated_at": "2026-11-19T03:15:09.632Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 80,
+   "matching": 79,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -632,11 +632,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 8
-  },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Services-Specialist_AIOC-S01674092-1": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": -2
   },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674091-1": {
    "id": "investment",
