@@ -628,5 +628,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quant-model-risk-analyst-associate-counterparty-credit-risk-at-jpmorganchase-4465924785 | JPMorganChase | Quant Model Risk Analyst/Associate - Counterparty Credit Risk | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-financial-services-debt-at-british-international-investment-4491388692 | British International Investment | Investment Associate, Financial Services, Debt | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-fund-accounting-at-bnp-paribas-4492408782 | BNP Paribas | Associate – Fund Accounting | Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172 | Hitachi Energy | Financial Analyst - FP&A | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-wsp-in-india-4491602430 | WSP in India | Treasury Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed

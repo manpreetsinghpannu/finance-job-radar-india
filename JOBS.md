@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 19 Nov, 10:37** (UK time) · **457 open roles** at 247 firms · the radar checks every board about once an hour.
+Updated **Thu 19 Nov, 11:37** (UK time) · **458 open roles** at 246 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,36 +10,23 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 19 Nov, 10:33** · hourly scan · checked 99 boards · **5 new roles**
+**Thu 19 Nov, 11:33** · hourly scan · checked 99 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) | eBay | Bengaluru, Karnataka, India |
-
-### Credit CV: 3
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-19 | [Quant Model Risk Analyst/Associate - Counterparty Credit Risk](https://www.linkedin.com/jobs/view/quant-model-risk-analyst-associate-counterparty-credit-risk-at-jpmorganchase-4465924785) | JPMorganChase | Bengaluru, Karnataka, India |
-| 2026-11-19 | [Investment Associate, Financial Services, Debt](https://www.linkedin.com/jobs/view/investment-associate-financial-services-debt-at-british-international-investment-4491388692) | British International Investment | Mumbai, Maharashtra, India |
-| 2026-11-19 | [Credit Management Specialist](https://www.linkedin.com/jobs/view/credit-management-specialist-at-infosys-bpm-4491389731) | Infosys BPM | Bengaluru, Karnataka, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Associate – Fund Accounting](https://www.linkedin.com/jobs/view/associate-%E2%80%93-fund-accounting-at-bnp-paribas-4492408782) | BNP Paribas | Tamil Nadu, India |
+| 2026-11-19 | [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) | Hitachi Energy | Bengaluru, Karnataka, India |
+| 2026-11-19 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-wsp-in-india-4491602430) | WSP in India | Noida, Uttar Pradesh, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (190 matching)
+**Finance (FP&A) CV** (191 matching)
 
 1. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
-2. [Financial Analyst, Corporate FP&A](https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973) · Veradigm® · Pune Division, Maharashtra, India · posted 2026-11-18
+2. [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-19
 
 **Credit CV** (118 matching)
 
@@ -76,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<details>
+<summary><b>11:33</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-19 | [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) | Hitachi Energy | Bengaluru, Karnataka, India |
+| 2026-11-19 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-wsp-in-india-4491602430) | WSP in India | Noida, Uttar Pradesh, India |
+
+</details>
 
 <details>
 <summary><b>10:33</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 3 · Fund 1</summary>
@@ -2026,51 +2025,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>11:37</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 1 · Real Estate 1 · Fund 2</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Financial Planning & Analysis Analyst](https://jobs.bt.com/job/Financial-Planning-Analysis-Analyst/64569-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Associate Consultant - Debt](https://www.linkedin.com/jobs/view/associate-consultant-debt-at-kpmg-india-4472328250) | KPMG India | Gurgaon, Haryana, India |
-
-#### Real Estate CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Assurance - Financial Market – Real Estate Valuation – Associate](https://www.linkedin.com/jobs/view/assurance-financial-market-%E2%80%93-real-estate-valuation-%E2%80%93-associate-at-pwc-acceleration-center-india-4488501961) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
-
-#### Fund CV (written for India; tweak the header for UK roles): 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-csc-4488522065) | CSC | Bengaluru, Karnataka, India |
-| 2026-11-12 | [Fund Accounting Analyst2 - C10](https://www.linkedin.com/jobs/view/fund-accounting-analyst2-c10-at-citi-4489203496) | Citi | Pune Division, Maharashtra, India |
-
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (171)](#finance-fpa-cv-171) · [Credit (117)](#credit-cv-117) · [Equity (25)](#equity-cv-25) · [Investment (67)](#investment-ib--pe-cv-67) · [Consulting (24)](#consulting-cv-24) · [Real Estate (12)](#real-estate-cv-12) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (16)](#other-fits-no-cv-closely-may-still-be-worth-a-look-16)
+Everything matched so far, newest first within each CV: [Finance (172)](#finance-fpa-cv-172) · [Credit (117)](#credit-cv-117) · [Equity (25)](#equity-cv-25) · [Investment (67)](#investment-ib--pe-cv-67) · [Consulting (24)](#consulting-cv-24) · [Real Estate (12)](#real-estate-cv-12) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (16)](#other-fits-no-cv-closely-may-still-be-worth-a-look-16)
 
-### Finance (FP&A) CV: 171
+### Finance (FP&A) CV: 172
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-19 | [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) | eBay | Bengaluru, Karnataka, India |
+| 2026-11-19 | [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) | Hitachi Energy | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682) | Hewlett Packard Enterprise | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-ralph-lauren-4491358883) | Ralph Lauren | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jobsphere-4492134308) | JobSPhere | India |
 | 2026-11-19 | [Treasury Executive](https://www.linkedin.com/jobs/view/treasury-executive-at-forsan-foods-consumer-products-india-private-limited-4454942780) | Forsan Foods & Consumer Products India Private Limited | Chennai, Tamil Nadu, India |
+| 2026-11-19 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-wsp-in-india-4491602430) | WSP in India | Noida, Uttar Pradesh, India |
 | 2026-11-18 | [Financial Analyst, Corporate FP&A](https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973) | Veradigm® | Pune Division, Maharashtra, India |
 | 2026-11-18 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hinduja-group-limited-4492033186) | Hinduja Group Limited | Mumbai, Maharashtra, India |
 | 2026-11-18 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-me-n-moms-pvt-ltd-4490867152) | Me N Moms Pvt. Ltd. | Bandra, Maharashtra, India |
@@ -2179,7 +2148,6 @@ Everything matched so far, newest first within each CV: [Finance (171)](#finance
 | 2026-11-12 | [AO/ANALYST TREASURY](https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109) | AllianceBernstein | Pune Division, Maharashtra, India |
 | 2026-11-12 | [Product Control Valuations -Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | 2026-11-12 | [Analyst, Treasury Operations](https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963) | Ciena | Gurugram, Haryana, India |
-| 2026-11-12 | [Finance Associate - Due Diligence (CA only)](https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052) | Treelife | Mumbai, Maharashtra, India |
 | 2026-11-12 | [Associate - Treasury](https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680) | StoneX Group Inc. | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Associate - Treasury Operations, Investments](https://www.linkedin.com/jobs/view/associate-treasury-operations-investments-at-axa-xl-4490359931) | AXA XL | Gurugram, Haryana, India |
 | 2026-11-12 | [Specialist, Financial Planning and Analysis-Hyderabad](https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536) | Deloitte | Hyderabad, Telangana, India |
@@ -2566,6 +2534,7 @@ Everything matched so far, newest first within each CV: [Finance (171)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 19 Nov, 11:36 | Finance Associate - Due Diligence (CA only) | Treelife |
 | Thu 19 Nov, 10:35 | Associate Accountant (Fund Administration) | HC Global Fund Services, LLC |
 | Thu 19 Nov, 08:36 | Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades | Tata Capital |
 | Thu 19 Nov, 08:33 | Research Associate - C11 - MUMBAI | Citi |
@@ -2625,6 +2594,5 @@ Everything matched so far, newest first within each CV: [Finance (171)](#finance
 | Thu 12 Nov, 20:39 | Specialist, FP&A | Invesco |
 | Thu 12 Nov, 14:37 | Financial Analyst | Stellar Fusion |
 | Thu 12 Nov, 12:37 | Research Analyst | PMS AIF Club |
-| Thu 12 Nov, 10:37 | Financial Analyst( Fund Accountant) | ONE BCG - ONE Business Consulting Group |
 
 </details>
