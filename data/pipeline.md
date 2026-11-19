@@ -644,4 +644,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-data-science-credit-risk-with-a-us-based-fintech-company-at-the-premier-consultants-recruitment-company-4492433252 | The Premier Consultants ( Recruitment Company ) | Analyst – Data Science (Credit Risk) with a US Based Fintech company | Pune City, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-rating-advisory-gurgaon-at-acuity-analytics-4474080988 | Acuity Analytics | Investment Banking_ Rating Advisory, Gurgaon | Gurugram, Haryana, India | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Executive-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/61681944/ | Deloitte India | Executive / Credit Underwriting / Bengaluru / Regulatory & Financial Risk | Bengaluru
+
 ## Processed

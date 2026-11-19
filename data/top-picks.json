@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:37:21.103Z",
+ "generated_at": "2026-11-19T13:57:28.846Z",
  "order": [
   "finance",
   "credit",
@@ -552,11 +552,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/debt-syndication-associate-at-misha-capital-4487693181": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 5
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793061": {
    "id": "other",
@@ -2592,6 +2587,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 14
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Executive-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/61681944/": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
   }
  }
 }
