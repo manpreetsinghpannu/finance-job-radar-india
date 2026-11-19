@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:37:26.915Z",
+ "generated_at": "2026-11-19T10:37:25.947Z",
  "order": [
   "finance",
   "credit",
@@ -27,24 +27,24 @@
    "matching": 190,
    "picks": [
     {
+     "title": "FP&A COE Finance Analyst",
+     "company": "eBay",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-19",
+     "url": "https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Finance Analyst"
+     ],
+     "sponsor": null
+    },
+    {
      "title": "Financial Analyst, Corporate FP&A",
      "company": "Veradigm®",
      "location": "Pune Division, Maharashtra, India",
      "posted": "2026-11-18",
      "url": "https://www.linkedin.com/jobs/view/financial-analyst-corporate-fp-a-at-veradigm%C2%AE-4476326973",
-     "score": 28,
-     "why": [
-      "FP&A",
-      "Financial Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "FP&A Financial Analyst - CP&O",
-     "company": "Hitachi Energy",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-17",
-     "url": "https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909",
      "score": 28,
      "why": [
       "FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 115,
+   "matching": 118,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 80,
+   "matching": 81,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -991,11 +991,6 @@
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 13
-  },
-  "https://www.linkedin.com/jobs/view/associate-accountant-fund-administration-at-hc-global-fund-services-llc-4489918545": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 13
   },
   "https://careers.idfcfirst.bank.in/global/en/job/P-231313/Credit-Analyst-FIG": {
@@ -2517,6 +2512,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/credit-management-specialist-at-infosys-bpm-4491389731": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/quant-model-risk-analyst-associate-counterparty-credit-risk-at-jpmorganchase-4465924785": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 30
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-financial-services-debt-at-british-international-investment-4491388692": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/associate-%E2%80%93-fund-accounting-at-bnp-paribas-4492408782": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
   }
  }
 }

@@ -623,5 +623,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jobsphere-4492134308 | JobSPhere | Financial Analyst | India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-fixed-income-fund-analyst-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4492409329 | ALESAYI HOLDING | العيسائي القابضة | Equity & fixed income fund analyst | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/portfolio-analyst-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4492294943 | ALESAYI HOLDING | العيسائي القابضة | Portfolio Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913 | eBay | FP&A COE Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-management-specialist-at-infosys-bpm-4491389731 | Infosys BPM | Credit Management Specialist | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quant-model-risk-analyst-associate-counterparty-credit-risk-at-jpmorganchase-4465924785 | JPMorganChase | Quant Model Risk Analyst/Associate - Counterparty Credit Risk | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-financial-services-debt-at-british-international-investment-4491388692 | British International Investment | Investment Associate, Financial Services, Debt | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-fund-accounting-at-bnp-paribas-4492408782 | BNP Paribas | Associate – Fund Accounting | Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
