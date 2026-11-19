@@ -614,5 +614,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Analyst-II_261010490 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Analyst II | 2 Locations | posted: 2026-11-18
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Intermediate Analyst | Gurugram Haryana India | posted: 2026-11-18
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682 | Hewlett Packard Enterprise | Financial Analyst II | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-ralph-lauren-4491358883 | Ralph Lauren | Financial Planning & Analysis Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-stockprompt-ai-4492109894 | stockprompt.ai | Stock Market Research Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-executive-at-forsan-foods-consumer-products-india-private-limited-4454942780 | Forsan Foods & Consumer Products India Private Limited | Treasury Executive | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
