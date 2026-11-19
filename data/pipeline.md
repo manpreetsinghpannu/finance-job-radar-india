@@ -621,5 +621,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809604 | JPMorgan Chase | Product Controller - Associate | Mumbai, Maharashtra, India | posted: 2026-11-19
 - [ ] https://www.linkedin.com/jobs/view/private-markets-11a-at-crisil-4492404252 | Crisil | Private markets 11A | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jobsphere-4492134308 | JobSPhere | Financial Analyst | India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-fixed-income-fund-analyst-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4492409329 | ALESAYI HOLDING | العيسائي القابضة | Equity & fixed income fund analyst | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/portfolio-analyst-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4492294943 | ALESAYI HOLDING | العيسائي القابضة | Portfolio Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed

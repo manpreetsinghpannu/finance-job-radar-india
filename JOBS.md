@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 19 Nov, 08:37** (UK time) · **453 open roles** at 245 firms · the radar checks every board about once an hour.
+Updated **Thu 19 Nov, 09:37** (UK time) · **453 open roles** at 245 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 19 Nov, 08:33** · hourly scan · checked 99 boards · **1 new role**
+**Thu 19 Nov, 09:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jobsphere-4492134308) | JobSPhere | India |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 08:33** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 09:33</sub>
 
 <details>
 <summary><b>08:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2049,38 +2047,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-12 | [Analyst -Valuations Cotrol](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst--Valuations-Cotrol_JR-0000135525) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 
 </details>
-
-<details>
-<summary><b>09:37</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 1 · Equity 1 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Finance Associate - Due Diligence (CA only)](https://www.linkedin.com/jobs/view/finance-associate-due-diligence-ca-only-at-treelife-4490319052) | Treelife | Mumbai, Maharashtra, India |
-| 2026-11-12 | [Specialist, Financial Planning and Analysis-Hyderabad](https://www.linkedin.com/jobs/view/specialist-financial-planning-and-analysis-hyderabad-at-deloitte-4452754536) | Deloitte | Hyderabad, Telangana, India |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Credit Risk Associate - C&SI Middle Market Corporate](https://www.linkedin.com/jobs/view/credit-risk-associate-c-si-middle-market-corporate-at-jpmorganchase-4440828991) | JPMorganChase | Bengaluru, Karnataka, India |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-wcc-investment-advisors-pvt-ltd-4489087488) | WCC Investment Advisors Pvt. Ltd. | Noida, Uttar Pradesh, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Valuation Controller - Anayst](https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388) | JPMorganChase | Mumbai, Maharashtra, India |
-
-</details>
-
-<sub>Nothing new at: 08:37</sub>
 
 ## All open roles by CV
 
