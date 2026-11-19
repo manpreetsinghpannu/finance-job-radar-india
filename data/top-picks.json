@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:37:35.444Z",
+ "generated_at": "2026-11-19T23:37:18.731Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 122,
+   "matching": 124,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 38,
+   "matching": 40,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 84,
+   "matching": 85,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 36,
+   "matching": 37,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2652,6 +2652,26 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/credit-portfolio-analytics-existing-customer-management-analyst-i-at-citi-4492522469": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/third-party-risk-analyst-at-solventum-4492736078": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/quant-associate-institutional-equities-at-avendus-4492401725": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/capital-markets-services-specialist-at-accenture-in-india-4492721967": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 2
   }
  }
 }

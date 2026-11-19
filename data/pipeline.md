@@ -664,5 +664,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/analyst-treasury-at-wpp-4475411503 | WPP | Analyst - Treasury | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
 
 - [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Associate---Fund-Accounting_R266780 | BlackRock | Associate - Fund Accounting | Bengaluru, India | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/credit-portfolio-analytics-existing-customer-management-analyst-i-at-citi-4492522469 | Citi | Credit Portfolio Analytics - Existing Customer Management - Analyst I | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/third-party-risk-analyst-at-solventum-4492736078 | Solventum | Third-Party Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quant-associate-institutional-equities-at-avendus-4492401725 | Avendus | Quant Associate - Institutional Equities | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/capital-markets-services-specialist-at-accenture-in-india-4492721967 | Accenture in India | Capital Markets Services Specialist | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
