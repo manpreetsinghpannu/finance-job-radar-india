@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 19 Nov, 05:37** (UK time) · **454 open roles** at 244 firms · the radar checks every board about once an hour.
+Updated **Thu 19 Nov, 06:37** (UK time) · **454 open roles** at 244 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 19 Nov, 05:33** · hourly scan · checked 99 boards · **3 new roles**
+**Thu 19 Nov, 06:33** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-ralph-lauren-4491358883) | Ralph Lauren | Bengaluru, Karnataka, India |
-| 2026-11-19 | [Treasury Executive](https://www.linkedin.com/jobs/view/treasury-executive-at-forsan-foods-consumer-products-india-private-limited-4454942780) | Forsan Foods & Consumer Products India Private Limited | Chennai, Tamil Nadu, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Stock Market Research Analyst](https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-stockprompt-ai-4492109894) | stockprompt.ai | Chennai, Tamil Nadu, India |
+Nothing new this time. The last scan that found something was **Thu 19 Nov, 05:33** (3: Finance 2 · Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -69,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 19 November
+
+<sub>Nothing new at: 06:33</sub>
 
 <details>
 <summary><b>05:33</b> · hourly scan · <b>3 new</b> → Finance 2 · Equity 1</summary>
@@ -2114,25 +2105,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>06:37</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-11 | [Transfer pricing Analyst](https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069) | Numerator | Vadodara, Gujarat, India |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [Quality Executive - Retail MFB - Credit - Sarapaka - Muthyalamma Peta Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57115) | Tata Capital | Sarapaka, Telangana, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (169)](#finance-fpa-cv-169) · [Credit (116)](#credit-cv-116) · [Equity (26)](#equity-cv-26) · [Investment (66)](#investment-ib--pe-cv-66) · [Consulting (24)](#consulting-cv-24) · [Real Estate (13)](#real-estate-cv-13) · [Fund (25)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-25) · [Other (15)](#other-fits-no-cv-closely-may-still-be-worth-a-look-15)
@@ -2634,7 +2606,7 @@ Everything matched so far, newest first within each CV: [Finance (169)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>59 roles taken off the list because the firm closed the posting</summary>
+<summary>58 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2696,6 +2668,5 @@ Everything matched so far, newest first within each CV: [Finance (169)](#finance
 | Thu 12 Nov, 09:40 | Technology Investment Banking Associate | Outgrow Consulting Pvt Ltd. |
 | Thu 12 Nov, 09:37 | Valuation /Private Equity/Mergers Acquisitions | The HIRD |
 | Thu 12 Nov, 06:38 | \Equity Research Analyst - CFA Level 1 | V2U Consultancy Services Pvt. Ltd. |
-| Thu 12 Nov, 05:40 | Financial Analyst | Ironlight Markets |
 
 </details>
