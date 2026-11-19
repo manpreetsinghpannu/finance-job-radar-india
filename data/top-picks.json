@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:37:33.542Z",
+ "generated_at": "2026-11-19T21:27:49.554Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 199,
+   "matching": 198,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 123,
+   "matching": 122,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 44,
+   "matching": 43,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 35,
+   "matching": 36,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -302,11 +302,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 4
-  },
-  "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 5
   },
   "https://careers.nomura.com/Nomura/job/Mumbai-RSK-Credit-Risk/1427853400/": {
    "id": "credit",
@@ -1442,11 +1437,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 12
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst---Product-Control_JR-0000116044": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Treasury-Finance---Analyst_JR-0000134154": {
    "id": "finance",
@@ -2657,6 +2647,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Associate---Fund-Accounting_R266780": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
   }
  }
 }

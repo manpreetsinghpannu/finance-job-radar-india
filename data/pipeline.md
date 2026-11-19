@@ -663,4 +663,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/am-fund-accounting-at-bnp-paribas-4492415248 | BNP Paribas | AM- Fund Accounting | Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-treasury-at-wpp-4475411503 | WPP | Analyst - Treasury | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Associate---Fund-Accounting_R266780 | BlackRock | Associate - Fund Accounting | Bengaluru, India | posted: 2026-11-19
+
 ## Processed
