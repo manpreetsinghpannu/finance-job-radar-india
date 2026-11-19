@@ -613,5 +613,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Analyst-II_261010482 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Analyst II | 2 Locations | posted: 2026-11-18
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Analyst-II_261010490 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Analyst II | 2 Locations | posted: 2026-11-18
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484 | Citi | Credit Risk Analytics - Proprietary Cards and Lending Intermediate Analyst | Gurugram Haryana India | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682 | Hewlett Packard Enterprise | Financial Analyst II | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
