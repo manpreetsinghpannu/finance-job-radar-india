@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 19 Nov, 22:30** (UK time) · **480 open roles** at 254 firms · the radar checks every board about once an hour.
+Updated **Thu 19 Nov, 22:37** (UK time) · **480 open roles** at 254 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 19 Nov, 22:27** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 19 Nov, 22:34** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Thu 19 Nov, 21:24** (1: Fund 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Thursday 19 November
 
-<sub>Nothing new at: 22:27, 21:33</sub>
+<sub>Nothing new at: 22:34, 21:33</sub>
 
 <details>
 <summary><b>21:24</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
@@ -1985,24 +1985,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-12 | [Quantitative Analytics Specialist](https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478) | Wells Fargo | Bengaluru, Karnataka, India |
-
-</details>
-
-<details>
-<summary><b>22:36</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [GBS Financial Planning & Analyst (FP&A)](https://www.linkedin.com/jobs/view/gbs-financial-planning-analyst-fp-a-at-sgs-4488539235) | SGS | Hyderabad, Telangana, India |
-| 2026-11-12 | [Financial Planning and Analysis (FP&A) Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-12 | [BD and M&A (Roads)](https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452) | Adani Group | Ahmedabad, Gujarat, India |
 
 </details>
 
