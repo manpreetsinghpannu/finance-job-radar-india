@@ -656,4 +656,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-vistra-4491621249 | VISTRA | Treasury Analyst | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-wells-fargo-4492466628 | Wells Fargo | Investment Banking Analyst | Greater Hyderabad Area | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/SA--Credit-Analyst--APAC-PF_10080519-WD-2 | MUFG | SA- Credit Analyst- APAC PF | MUFG Global Service Private Ltd. - Mumbai (NKP) | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-momentive-software-4439434672 | Momentive Software | Financial Analyst | Pune Division, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/asset-wealth-management-private-credit-asset-finance-analyst-bengaluru-at-goldman-sachs-4492187646 | Goldman Sachs | Asset & Wealth Management, Private Credit, Asset Finance, Analyst, Bengaluru | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-capital-markets-at-sanctuary-4492475071 | Sanctuary | Associate - Capital Markets | Delhi, Delhi, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/am-fund-accounting-at-bnp-paribas-4492415248 | BNP Paribas | AM- Fund Accounting | Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-treasury-at-wpp-4475411503 | WPP | Analyst - Treasury | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
+
 ## Processed
