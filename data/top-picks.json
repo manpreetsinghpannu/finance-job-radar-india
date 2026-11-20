@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:48:51.847Z",
+ "generated_at": "2026-11-20T11:32:13.214Z",
  "order": [
   "finance",
   "credit",
@@ -1718,11 +1718,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 6
   },
-  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-saarthi-4491290441": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/equity-research-associate-pharma-at-icici-securities-4491290354": {
    "id": "equity",
    "cv": "Equity CV",
@@ -2832,6 +2827,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

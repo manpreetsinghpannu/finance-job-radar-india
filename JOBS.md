@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 10:48** (UK time) · **516 open roles** at 275 firms · the radar checks every board about once an hour.
+Updated **Fri 20 Nov, 11:32** (UK time) · **516 open roles** at 275 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,33 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 10:45** · hourly scan · checked 99 boards · **6 new roles**
+**Fri 20 Nov, 11:28** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Jr. Financial Analyst _ Immediate Joiners](https://www.linkedin.com/jobs/view/jr-financial-analyst-immediate-joiners-at-netapp-4492563807) | NetApp | Bengaluru, Karnataka, India |
-| 2026-11-20 | [Analyst-II, Procurement Finance FP&A](https://www.linkedin.com/jobs/view/analyst-ii-procurement-finance-fp-a-at-kraft-heinz-4484530829) | Kraft Heinz | Bengaluru East, Karnataka, India |
-| 2026-11-19 | [Financial Controller - Credit Operating Company - Associate](https://www.kkr.com/careers/career-opportunities/post?gh_jid=6263975004) | KKR | Gurugram |
-
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-20 | [Liquidity Risk Associate](https://www.linkedin.com/jobs/view/liquidity-risk-associate-at-jpmorganchase-4477642960) | JPMorganChase | Mumbai, Maharashtra, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Equity Research Associate (Bernstein – India)](https://www.linkedin.com/jobs/view/equity-research-associate-bernstein-%E2%80%93-india-at-societe-generale-4484936771) | Societe Generale | Mumbai Metropolitan Region |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore](https://www.linkedin.com/jobs/view/alternative-fund-services-private-fund-services-fund-accounting-analyst-associate-bangalore-at-jpmorganchase-4459609079) | JPMorganChase | Bengaluru, Karnataka, India |
+| 2026-11-20 | [Analyst - Corporate Treasury](https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442) | DAMAC Properties | Delhi, Delhi, India |
 
 ## Top picks for each CV
 
@@ -82,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<details>
+<summary><b>11:28</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [Analyst - Corporate Treasury](https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442) | DAMAC Properties | Delhi, Delhi, India |
+
+</details>
 
 <details>
 <summary><b>10:45</b> · hourly scan · <b>6 new</b> → Finance 3 · Credit 1 · Equity 1 · Fund 1</summary>
@@ -1574,13 +1565,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>05:33</b> · hourly scan · <b>5 new</b> → Finance 3 · Credit 1 · Equity 1</summary>
+<summary><b>05:33</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Equity 1</summary>
 
-#### Finance (FP&A) CV: 3
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-16 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-saarthi-4491290441) | Saarthi | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466) | Optimas Solutions | Pune City, Maharashtra, India |
 | 2026-11-16 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-safran-4491279721) | Safran | Shamshabad, Telangana, India |
 
@@ -1595,6 +1585,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-16 | [Equity Research Associate - Pharma](https://www.linkedin.com/jobs/view/equity-research-associate-pharma-at-icici-securities-4491290354) | ICICI Securities | Mumbai, Maharashtra, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2092,6 +2084,7 @@ Everything matched so far, newest first within each CV: [Finance (193)](#finance
 | 2026-11-20 | [Financial Analyst](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Financial-Analyst_REF090735W-1) | Visa | IN - Bengaluru, India |
 | 2026-11-20 | [Jr. Financial Analyst _ Immediate Joiners](https://www.linkedin.com/jobs/view/jr-financial-analyst-immediate-joiners-at-netapp-4492563807) | NetApp | Bengaluru, Karnataka, India |
 | 2026-11-20 | [Analyst-II, Procurement Finance FP&A](https://www.linkedin.com/jobs/view/analyst-ii-procurement-finance-fp-a-at-kraft-heinz-4484530829) | Kraft Heinz | Bengaluru East, Karnataka, India |
+| 2026-11-20 | [Analyst - Corporate Treasury](https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442) | DAMAC Properties | Delhi, Delhi, India |
 | 2026-11-20 | [Australian SMSF Accountant](https://www.linkedin.com/jobs/view/australian-smsf-accountant-at-counthq-4492793909) | CountHQ | Ahmedabad, Gujarat, India |
 | 2026-11-19 | [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) | eBay | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) | Hitachi Energy | Bengaluru, Karnataka, India |
@@ -2153,7 +2146,6 @@ Everything matched so far, newest first within each CV: [Finance (193)](#finance
 | — | [FIS Quantum/Integrity Treasury Application Specialist](https://careers.ey.com/ey/job/Pune-FIS-QuantumIntegrity-Treasury-Application-Specialist-MH-411014/1419691233/) | EY | Pune |
 | 2026-11-16 | [Finance Analyst - Treasury Tower Operations-1](https://www.linkedin.com/jobs/view/finance-analyst-treasury-tower-operations-1-at-caterpillar-inc-4490295429) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
 | 2026-11-16 | [Finance Analyst - IT](https://www.linkedin.com/jobs/view/finance-analyst-it-at-eurofins-4491280486) | Eurofins | Bengaluru, Karnataka, India |
-| 2026-11-16 | [Financial Planning and Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-saarthi-4491290441) | Saarthi | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4490272098) | Mahalakshmi Profiles Pvt. Ltd. | Patna, Bihar, India |
 | 2026-11-16 | [Financial Analyst - CA](https://www.linkedin.com/jobs/view/financial-analyst-ca-at-taglynk-4489715956) | Taglynk | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Finance Analyst II-6](https://www.linkedin.com/jobs/view/finance-analyst-ii-6-at-caterpillar-inc-4490299211) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
@@ -2639,10 +2631,11 @@ Everything matched so far, newest first within each CV: [Finance (193)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>69 roles taken off the list because the firm closed the posting</summary>
+<summary>70 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 20 Nov, 11:28 | Financial Planning and Analysis Analyst | Saarthi |
 | Fri 20 Nov, 10:48 | ANALYST – DEBT SYNDICATION | GrowthAlly Advisors Private Limited |
 | Fri 20 Nov, 10:48 | Investment Banking Analyst / Associate – M&A | GrowthAlly Advisors Private Limited |
 | Fri 20 Nov, 10:45 | Financial Analyst | SRV Media |
