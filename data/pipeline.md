@@ -734,5 +734,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276247 | Kotak Mahindra Bank | Credit Analyst_SUPPORT SERVICES_0140_1314_1075469 | Maharashtra, India | posted: 2026-11-20
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-vittly-consultants-4492577804 | Vittly Consultants | Corporate Finance Specialist | New Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-asset-management-performance-attribution-reporting-at-bnp-paribas-4442506785 | BNP Paribas | Associate - Asset Management Performance Attribution Reporting | Chennai, Tamil Nadu, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/qualitative-quantitative-research-investment-banking-private-markets-empowering-talent-job-opportunities-for-persons-with-disabilities-at-acuity-analytics-4475212795 | Acuity Analytics | Qualitative & Quantitative Research-Investment Banking & Private Markets (Empowering Talent: Job Opportunities for Persons with Disabilities) | Gurugram, Haryana, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
