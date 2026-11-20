@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:37:18.731Z",
+ "generated_at": "2026-11-20T00:37:23.114Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 124,
+   "matching": 125,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2672,6 +2672,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-credit-initiation-at-standard-chartered-india-4492520698": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
   }
  }
 }

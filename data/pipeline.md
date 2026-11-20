@@ -668,5 +668,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/third-party-risk-analyst-at-solventum-4492736078 | Solventum | Third-Party Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quant-associate-institutional-equities-at-avendus-4492401725 | Avendus | Quant Associate - Institutional Equities | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/capital-markets-services-specialist-at-accenture-in-india-4492721967 | Accenture in India | Capital Markets Services Specialist | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-credit-initiation-at-standard-chartered-india-4492520698 | Standard Chartered India | Credit Analyst - Credit Initiation | Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
