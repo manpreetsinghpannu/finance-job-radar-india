@@ -720,4 +720,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264 | PwC Acceleration Center India | Assurance - Financial Markets - Valuation (Private Equity & Private Credit) - Associate | Kolkata, West Bengal, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442 | DAMAC Properties | Analyst - Corporate Treasury | Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57608 | Tata Capital | State Head - Retail Credit - Mortgages - Housing - EM - Credit - Vellore - Anna Salai - MM | India | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/corporate-banking-analyst-securities-research-associate-at-wells-fargo-4492901835 | Wells Fargo | Corporate Banking Analyst -Securities Research Associate | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-at-the-citco-group-limited-4491913684 | The Citco Group Limited | Market Risk Analyst | Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-analyst-at-growthally-advisors-private-limited-4492571810 | GrowthAlly Advisors Private Limited | Investment Banking Associate/Analyst | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-transaction-advisory-at-growthally-advisors-private-limited-4492578325 | GrowthAlly Advisors Private Limited | M&A / Transaction Advisory | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-valuation-services-at-colliers-4484934913 | Colliers | Associate | Valuation Services | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/consultant-integration-and-separation-m-a-at-kpmg-india-4405312803 | KPMG India | Consultant - Integration and Separation (M&A) | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-and-treasury-services-at-worldquant-4468287731 | WorldQuant | Analyst - Portfolio and Treasury Services | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed
