@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 20:13** (UK time) · **544 open roles** at 287 firms · the radar checks every board about once an hour.
+Updated **Fri 20 Nov, 20:45** (UK time) · **544 open roles** at 287 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 20:09** · hourly scan · checked 99 boards · **1 new role**
+**Fri 20 Nov, 20:41** · hourly scan · checked 99 boards · **0 new roles**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Credit Executive](https://www.linkedin.com/jobs/view/credit-executive-4492817682) | Self-employed | Lucknow, Uttar Pradesh, India |
+Nothing new this time. The last scan that found something was **Fri 20 Nov, 20:09** (1: Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<sub>Nothing new at: 20:41</sub>
 
 <details>
 <summary><b>20:09</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2094,7 +2092,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 22:37, 22:00, 21:37, 20:37</sub>
+<sub>Nothing new at: 22:37, 22:00, 21:37</sub>
 
 ## All open roles by CV
 
@@ -2687,7 +2685,7 @@ Everything matched so far, newest first within each CV: [Finance (202)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>72 roles taken off the list because the firm closed the posting</summary>
+<summary>70 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2761,7 +2759,5 @@ Everything matched so far, newest first within each CV: [Finance (202)](#finance
 | Sat 14 Nov, 11:36 | Debt Syndication Executive | Misha Capital |
 | Sat 14 Nov, 10:10 | Research Analyst - Investment Banking | CoKaCo |
 | Fri 13 Nov, 21:39 | Associate, Alternatives Fund Accounting | BlackRock |
-| Fri 13 Nov, 20:40 | Credit Portfolio Officer - C13 - GURUGRAM | Citi |
-| Fri 13 Nov, 20:39 | Portfolio Valuations_Associate Consultant | KPMG India |
 
 </details>
