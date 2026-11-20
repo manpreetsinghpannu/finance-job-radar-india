@@ -701,5 +701,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-nexthire-4492540807 | NEXTHIRE | Financial Planning Analyst | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://jobs.lever.co/paytm/4e9fab80-dd1f-42c1-a163-8737291e6004 | Paytm | Financial Analyst - AM - Lending | Noida, Uttar Pradesh · IN | posted: 2026-11-20 | note: via startup/SME (lever)
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-healthcare-and-lifesciences-at-ambit-private-limited-4492901125 | Ambit Private Limited | Investment Banking Analyst- Healthcare and Lifesciences | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-anand-rathi-share-and-stock-brokers-ltd-4491689904 | Anand Rathi Share and Stock Brokers Ltd | Research Analyst | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-%E2%80%93-financial-reporting-at-promaynov-advisory-services-pvt-ltd-4492564500 | Promaynov Advisory Services Pvt. Ltd | Fund Accounting – Financial Reporting | Pune City, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/australian-smsf-accountant-at-counthq-4492793909 | CountHQ | Australian SMSF Accountant | Ahmedabad, Gujarat, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

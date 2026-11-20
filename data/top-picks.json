@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:43:27.661Z",
+ "generated_at": "2026-11-20T08:44:36.904Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 210,
+   "matching": 211,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 41,
+   "matching": 42,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -2733,11 +2733,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-bu-consultants-4492159980": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -2807,6 +2802,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-at-anand-rathi-share-and-stock-brokers-ltd-4491689904": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-%E2%80%93-financial-reporting-at-promaynov-advisory-services-pvt-ltd-4492564500": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/australian-smsf-accountant-at-counthq-4492793909": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
