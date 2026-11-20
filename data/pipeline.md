@@ -683,5 +683,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-deal-advisory-%E2%80%93-deals-tech-data-solutions-dtds-at-pwc-acceleration-center-india-4483044165 | PwC Acceleration Center India | Associate – Deal Advisory – Deals Tech & Data Solutions (DTDS) | Bengaluru East, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/energy-portfolio-management-at-manikaran-power-limited-4492290066 | Manikaran Power Limited | Energy Portfolio Management | Patna, Bihar, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-asset-management-reporting-data-services-at-bnp-paribas-4492451986 | BNP Paribas | Associate - Asset Management Reporting Data Services | Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-ncr-atleos-4483042151 | NCR Atleos | Finance Analyst | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/freight-logistics-finance-analyst-at-fifo-international-4492167533 | FIFO International | Freight & Logistics Finance Analyst | Kochi, Kerala, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
