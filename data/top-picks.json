@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:43:59.034Z",
+ "generated_at": "2026-11-20T15:41:05.111Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 215,
+   "matching": 222,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 138,
+   "matching": 140,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 39,
+   "matching": 40,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -2901,6 +2901,51 @@
   "https://www.linkedin.com/jobs/view/qualitative-quantitative-research-investment-banking-private-markets-empowering-talent-job-opportunities-for-persons-with-disabilities-at-acuity-analytics-4475212795": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/oct-trade-support-finance-business-partner-at-a-p-moller-maersk-4492496080": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/product-finance-analyst-at-glean-4492565696": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-sage-shakti-business-management-solutions-4492591380": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-cummins-india-4475774905": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analysis-partner-ii-at-nielsen-4466670309": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/credit-review-lending-services-empowering-talent-job-opportunities-for-persons-with-disabilities-at-acuity-analytics-4475226262": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-research-corporate-sector-at-acuity-analytics-4474468481": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-emea-shift-financial-operations-fbs-bengaluru-at-allegis-global-solutions-4492906594": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-ar-ap-at-cancard-inc-4492941322": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
    "score": 18
   }
  }
