@@ -695,5 +695,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601 | Joblet-AI | Financial Research Analyst (Remote) | India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514 | IDFC FIRST Bank | Model Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918 | BoF Careers | Ralph Lauren Financial Planning & Analysis Analyst | Bangalore Urban, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cencora-4491698112 | Cencora | Analyst, Financial Planning & Analysis | Pune Division, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-thoughtspot-4485474349 | ThoughtSpot | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-and-risk-management-at-z1n-capital-4492543811 | Z1N Capital | Credit Underwriter and Risk Management | Gurugram, Haryana, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

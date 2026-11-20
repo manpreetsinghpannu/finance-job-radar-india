@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:42:46.582Z",
+ "generated_at": "2026-11-20T05:49:10.594Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 207,
+   "matching": 209,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 129,
+   "matching": 130,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2388,11 +2388,6 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/chartered-accountants-at-amicus-growth-advisors-4491302477": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-aptean-india-4491855342": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2787,6 +2782,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cencora-4491698112": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-thoughtspot-4485474349": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-and-risk-management-at-z1n-capital-4492543811": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
   }
  }
 }
