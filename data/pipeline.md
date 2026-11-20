@@ -744,5 +744,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-research-corporate-sector-at-acuity-analytics-4474468481 | Acuity Analytics | Credit Research - Corporate Sector | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-emea-shift-financial-operations-fbs-bengaluru-at-allegis-global-solutions-4492906594 | Allegis Global Solutions | Financial Analyst (EMEA Shift) - Financial Operations - FBS, Bengaluru | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-ar-ap-at-cancard-inc-4492941322 | Cancard Inc. | Financial Analyst - AR & AP | Noida, Uttar Pradesh, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-valuation-associate-at-eide-bailly-4475215930 | Eide Bailly | Business Valuation - Associate | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/reporting-specialist-ib-credit-and-market-risk-portfolio-analytics-at-ubs-4492818197 | UBS | Reporting Specialist - IB Credit and Market Risk Portfolio Analytics | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

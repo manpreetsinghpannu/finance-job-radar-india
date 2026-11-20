@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:42:20.613Z",
+ "generated_at": "2026-11-20T17:43:54.935Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 140,
+   "matching": 141,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 44,
+   "matching": 45,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 98,
+   "matching": 99,
    "picks": [
     {
      "title": "Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 40,
+   "matching": 41,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 40,
+   "matching": 41,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2937,6 +2937,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/business-valuation-associate-at-eide-bailly-4475215930": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/reporting-specialist-ib-credit-and-market-risk-portfolio-analytics-at-ubs-4492818197": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 7
   }
  }
 }
