@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T09:46:17.373Z",
+ "generated_at": "2026-11-20T10:48:51.847Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 212,
+   "matching": 213,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 130,
+   "matching": 131,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 42,
+   "matching": 43,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 92,
+   "matching": 91,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 39,
+   "matching": 40,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -802,11 +802,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-srv-media-4489420455": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---Analyst_JR-0000137282": {
    "id": "credit",
@@ -1592,16 +1587,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 20
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-analyst-associate-%E2%80%93-m-a-at-growthally-advisors-private-limited-4489853928": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 27
-  },
-  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4489868375": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648": {
    "id": "fund",
@@ -2813,15 +2798,40 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-netapp-4492575234": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kissht-4492915066": {
    "id": "credit",
    "cv": "Credit CV",
    "score": 23
+  },
+  "https://www.kkr.com/careers/career-opportunities/post?gh_jid=6263975004": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/jr-financial-analyst-immediate-joiners-at-netapp-4492563807": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/liquidity-risk-associate-at-jpmorganchase-4477642960": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-associate-bernstein-%E2%80%93-india-at-societe-generale-4484936771": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/analyst-ii-procurement-finance-fp-a-at-kraft-heinz-4484530829": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/alternative-fund-services-private-fund-services-fund-accounting-analyst-associate-bangalore-at-jpmorganchase-4459609079": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
   }
  }
 }

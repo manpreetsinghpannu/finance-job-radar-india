@@ -710,4 +710,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-netapp-4492575234 | NetApp | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kissht-4492915066 | Kissht | Credit Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://www.kkr.com/careers/career-opportunities/post?gh_jid=6263975004 | KKR | Financial Controller - Credit Operating Company - Associate | Gurugram | posted: 2026-11-19
+- [ ] https://www.linkedin.com/jobs/view/jr-financial-analyst-immediate-joiners-at-netapp-4492563807 | NetApp | Jr. Financial Analyst _ Immediate Joiners | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/liquidity-risk-associate-at-jpmorganchase-4477642960 | JPMorganChase | Liquidity Risk Associate | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-bernstein-%E2%80%93-india-at-societe-generale-4484936771 | Societe Generale | Equity Research Associate (Bernstein – India) | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-ii-procurement-finance-fp-a-at-kraft-heinz-4484530829 | Kraft Heinz | Analyst-II, Procurement Finance FP&A | Bengaluru East, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/alternative-fund-services-private-fund-services-fund-accounting-analyst-associate-bangalore-at-jpmorganchase-4459609079 | JPMorganChase | Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed
