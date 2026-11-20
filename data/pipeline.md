@@ -754,6 +754,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-hospitality-feasibility-valuation-pune-at-zipped-hospitality-4491389234 | Zipped Hospitality | Associate - Hospitality Feasibility & Valuation | Pune | Pune City, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-mumbai-at-csc-4462276794 | CSC | Fund Accounting - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-executive-4492817682 | Self-employed | Credit Executive | Lucknow, Uttar Pradesh, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-hireright-4485324940 | HireRight | Credit and Collections Analyst | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/consultant-fund-solutions-restructuring-india-at-kroll-4474856494 | Kroll | Consultant, Fund Solutions -Restructuring India | New Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:44:16.923Z",
+ "generated_at": "2026-11-20T21:57:40.613Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 141,
+   "matching": 142,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2972,6 +2972,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-hireright-4485324940": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   },
   "https://www.linkedin.com/jobs/view/consultant-fund-solutions-restructuring-india-at-kroll-4474856494": {
    "id": "investment",
