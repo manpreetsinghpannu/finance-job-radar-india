@@ -757,4 +757,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-hireright-4485324940 | HireRight | Credit and Collections Analyst | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/consultant-fund-solutions-restructuring-india-at-kroll-4474856494 | Kroll | Consultant, Fund Solutions -Restructuring India | New Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5879238-S2076167-1 | Accenture | Financial Planning & Analysis Representa | Mumbai | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/fp-a-operations-analyst-at-ge-vernova-4492852484 | GE Vernova | FP&A Operations Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed

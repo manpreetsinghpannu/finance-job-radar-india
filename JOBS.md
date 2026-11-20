@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 22:45** (UK time) · **545 open roles** at 288 firms · the radar checks every board about once an hour.
+Updated **Fri 20 Nov, 23:50** (UK time) · **547 open roles** at 289 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 22:41** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 20 Nov, 23:46** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Fri 20 Nov, 21:53** (2: Credit 1 · Investment 1); open it in the scan log below.
+### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [FP&A Operations Analyst](https://www.linkedin.com/jobs/view/fp-a-operations-analyst-at-ge-vernova-4492852484) | GE Vernova | Chennai, Tamil Nadu, India |
+| 2026-11-20 | [Financial Planning & Analysis Representa](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5879238-S2076167-1) | Accenture | Mumbai |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (222 matching)
+**Finance (FP&A) CV** (224 matching)
 
 1. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
 2. [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-19
@@ -58,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 20 November
+
+<details>
+<summary><b>23:46</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [FP&A Operations Analyst](https://www.linkedin.com/jobs/view/fp-a-operations-analyst-at-ge-vernova-4492852484) | GE Vernova | Chennai, Tamil Nadu, India |
+| 2026-11-20 | [Financial Planning & Analysis Representa](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5879238-S2076167-1) | Accenture | Mumbai |
+
+</details>
 
 <sub>Nothing new at: 22:41</sub>
 
@@ -2094,22 +2111,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 23:56</sub>
 
-<details>
-<summary><b>23:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [MSC Finance Analyst , CBI - APAC](https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299) | Cargill | Bengaluru, Karnataka, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (202)](#finance-fpa-cv-202) · [Credit (137)](#credit-cv-137) · [Equity (30)](#equity-cv-30) · [Investment (87)](#investment-ib--pe-cv-87) · [Consulting (25)](#consulting-cv-25) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
+Everything matched so far, newest first within each CV: [Finance (204)](#finance-fpa-cv-204) · [Credit (137)](#credit-cv-137) · [Equity (30)](#equity-cv-30) · [Investment (87)](#investment-ib--pe-cv-87) · [Consulting (25)](#consulting-cv-25) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
 
-### Finance (FP&A) CV: 202
+### Finance (FP&A) CV: 204
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2128,7 +2134,9 @@ Everything matched so far, newest first within each CV: [Finance (202)](#finance
 | 2026-11-20 | [Financial Analyst - AR & AP](https://www.linkedin.com/jobs/view/financial-analyst-ar-ap-at-cancard-inc-4492941322) | Cancard Inc. | Noida, Uttar Pradesh, India |
 | 2026-11-20 | [Investigator Financial Analyst II](https://www.linkedin.com/jobs/view/investigator-financial-analyst-ii-at-parexel-4492820415) | Parexel | Hyderabad, Telangana, India |
 | 2026-11-20 | [Associate Financial Analyst](https://www.linkedin.com/jobs/view/associate-financial-analyst-at-a-p-moller-maersk-4492975122) | A.P. Moller - Maersk | Pune Division, Maharashtra, India |
+| 2026-11-20 | [FP&A Operations Analyst](https://www.linkedin.com/jobs/view/fp-a-operations-analyst-at-ge-vernova-4492852484) | GE Vernova | Chennai, Tamil Nadu, India |
 | 2026-11-20 | [Financial Planning & Analysis Partner II](https://www.linkedin.com/jobs/view/financial-planning-analysis-partner-ii-at-nielsen-4466670309) | Nielsen | Mumbai Metropolitan Region |
+| 2026-11-20 | [Financial Planning & Analysis Representa](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5879238-S2076167-1) | Accenture | Mumbai |
 | 2026-11-20 | [Analyst - Portfolio and Treasury Services](https://www.linkedin.com/jobs/view/analyst-portfolio-and-treasury-services-at-worldquant-4468287731) | WorldQuant | Mumbai Metropolitan Region |
 | 2026-11-20 | [Analyst - Corporate Treasury](https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442) | DAMAC Properties | Delhi, Delhi, India |
 | 2026-11-20 | [Australian SMSF Accountant](https://www.linkedin.com/jobs/view/australian-smsf-accountant-at-counthq-4492793909) | CountHQ | Ahmedabad, Gujarat, India |
