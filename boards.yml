@@ -37,4 +37,4 @@ boards:
   linkedin:
     location: India
     hours: 24          # posted in the last 24 hours, newest first
-    max_pages: 5       # up to 50 newest cards per search
+    max_pages: 3       # up to 30 newest cards per search (hourly runs keep up)

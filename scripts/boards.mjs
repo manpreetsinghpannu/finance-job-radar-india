@@ -182,6 +182,7 @@ const BOARDS = {
     // paging only the 10 "most relevant" cards were read per search, which
     // favoured big employers' promoted ads over small firms' new posts.
     pageSize: 10,
+    pauseMs: 4000,     // LinkedIn answers 429 (too many requests) when paged faster
     url: (q, cfg, page = 0) => `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${encodeURIComponent(q)}&location=${encodeURIComponent(cfg.location || 'United Kingdom')}&f_TPR=r${(cfg.hours || 24) * 3600}&sortBy=DD&start=${page * 10}`,
     parse: parseLinkedIn,
   },
@@ -239,8 +240,9 @@ async function main() {
      const pages = board.pageSize ? (bc.max_pages || 1) : 1;
      for (let page = 0; page < pages; page++) {
       s.searches++;
-      const r = await get(board.url(q, bc, page));
-      if (!r.text) { s.failed++; console.error(`boards: ${board.name} "${q}" p${page + 1} → ${r.status || r.error}`); await sleep(PAUSE_MS); break; }
+      let r = await get(board.url(q, bc, page));
+      if (r.status === 429) { await sleep(20000); r = await get(board.url(q, bc, page)); } // back off once
+      if (!r.text) { s.failed++; console.error(`boards: ${board.name} "${q}" p${page + 1} → ${r.status || r.error}`); await sleep(board.pauseMs || PAUSE_MS); break; }
       let jobs = [];
       try { jobs = board.parse(r.text); } catch (e) { console.error(`boards: ${board.name} parse error ${e.message}`); }
       s.found += jobs.length;
@@ -257,7 +259,7 @@ async function main() {
         added.push({ ...j, board: board.name });
         s.new++;
       }
-      await sleep(PAUSE_MS);
+      await sleep(board.pauseMs || PAUSE_MS);
       if (!board.pageSize || jobs.length < board.pageSize) break; // last page
      }
     }
