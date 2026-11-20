@@ -177,7 +177,12 @@ const BOARDS = {
   },
   linkedin: {
     name: 'LinkedIn',
-    url: (q, cfg) => `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${encodeURIComponent(q)}&location=${encodeURIComponent(cfg.location || 'United Kingdom')}&f_TPR=r${(cfg.hours || 24) * 3600}&start=0`,
+    // Newest first (sortBy=DD), 10 cards a page; the loop pages through until a
+    // page comes back short or max_pages is reached. Without date sorting and
+    // paging only the 10 "most relevant" cards were read per search, which
+    // favoured big employers' promoted ads over small firms' new posts.
+    pageSize: 10,
+    url: (q, cfg, page = 0) => `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${encodeURIComponent(q)}&location=${encodeURIComponent(cfg.location || 'United Kingdom')}&f_TPR=r${(cfg.hours || 24) * 3600}&sortBy=DD&start=${page * 10}`,
     parse: parseLinkedIn,
   },
   reed: { name: 'Reed', url: (q) => `https://www.reed.co.uk/jobs/${q.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-')}-jobs?dateCreatedOffSet=lastthreedays`, parse: parseReed },
@@ -231,9 +236,11 @@ async function main() {
     summary[board.name] = s;
     if (!state[board.name]) silent.add(board.name);
     for (const q of bc.queries || cfg.queries || []) {
+     const pages = board.pageSize ? (bc.max_pages || 1) : 1;
+     for (let page = 0; page < pages; page++) {
       s.searches++;
-      const r = await get(board.url(q, bc));
-      if (!r.text) { s.failed++; console.error(`boards: ${board.name} "${q}" → ${r.status || r.error}`); await sleep(PAUSE_MS); continue; }
+      const r = await get(board.url(q, bc, page));
+      if (!r.text) { s.failed++; console.error(`boards: ${board.name} "${q}" p${page + 1} → ${r.status || r.error}`); await sleep(PAUSE_MS); break; }
       let jobs = [];
       try { jobs = board.parse(r.text); } catch (e) { console.error(`boards: ${board.name} parse error ${e.message}`); }
       s.found += jobs.length;
@@ -251,6 +258,8 @@ async function main() {
         s.new++;
       }
       await sleep(PAUSE_MS);
+      if (!board.pageSize || jobs.length < board.pageSize) break; // last page
+     }
     }
   }
 

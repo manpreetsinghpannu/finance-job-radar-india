@@ -36,4 +36,5 @@ boards:
     every_hours: 24    # once a day: 4 calls (free-plan limits)
   linkedin:
     location: India
-    hours: 24          # posted in the last 24 hours
+    hours: 24          # posted in the last 24 hours, newest first
+    max_pages: 5       # up to 50 newest cards per search
