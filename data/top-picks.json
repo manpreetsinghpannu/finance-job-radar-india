@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:32:13.214Z",
+ "generated_at": "2026-11-20T11:46:40.482Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 213,
+   "matching": 214,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 131,
+   "matching": 132,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 36,
+   "matching": 37,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -1152,11 +1152,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/research-analyst-at-wcc-investment-advisors-pvt-ltd-4489087488": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388": {
    "id": "investment",
@@ -2827,6 +2822,16 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-finance-business-partnering-at-wise-4492585076": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 25
   },
   "https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442": {
    "id": "finance",

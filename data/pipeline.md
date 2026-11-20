@@ -716,6 +716,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-research-associate-bernstein-%E2%80%93-india-at-societe-generale-4484936771 | Societe Generale | Equity Research Associate (Bernstein – India) | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-ii-procurement-finance-fp-a-at-kraft-heinz-4484530829 | Kraft Heinz | Analyst-II, Procurement Finance FP&A | Bengaluru East, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/alternative-fund-services-private-fund-services-fund-accounting-analyst-associate-bangalore-at-jpmorganchase-4459609079 | JPMorganChase | Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-finance-business-partnering-at-wise-4492585076 | Wise | FP&A Analyst (Finance Business Partnering) | Hyderabad, Telangana, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264 | PwC Acceleration Center India | Assurance - Financial Markets - Valuation (Private Equity & Private Credit) - Associate | Kolkata, West Bengal, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-corporate-treasury-at-damac-properties-4492906442 | DAMAC Properties | Analyst - Corporate Treasury | Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
