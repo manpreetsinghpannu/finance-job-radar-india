@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 04:02** (UK time) · **505 open roles** at 265 firms · the radar checks every board about once an hour.
+Updated **Fri 20 Nov, 04:42** (UK time) · **507 open roles** at 266 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,34 +10,30 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 03:59** · hourly scan · checked 99 boards · **6 new roles**
+**Fri 20 Nov, 04:39** · hourly scan · checked 99 boards · **2 new roles**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Financial Research Analyst (Remote)](https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601) | Joblet-AI | India |
-
-### Investment (IB / PE) CV: 5
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675112-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675114-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
+| 2026-11-20 | [Ralph Lauren Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918) | BoF Careers | Bangalore Urban, Karnataka, India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-19 | [Model Risk Analyst](https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (206 matching)
+**Finance (FP&A) CV** (207 matching)
 
 1. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
 2. [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-19
 
-**Credit CV** (127 matching)
+**Credit CV** (129 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -73,7 +69,22 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 20 November
 
-<sub>Nothing new at: 03:41</sub>
+<details>
+<summary><b>04:39</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [Ralph Lauren Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918) | BoF Careers | Bangalore Urban, Karnataka, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-19 | [Model Risk Analyst](https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>03:59</b> · hourly scan · <b>6 new</b> → Equity 1 · Investment 5</summary>
@@ -2089,16 +2100,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:37</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (187)](#finance-fpa-cv-187) · [Credit (127)](#credit-cv-127) · [Equity (28)](#equity-cv-28) · [Investment (78)](#investment-ib--pe-cv-78) · [Consulting (25)](#consulting-cv-25) · [Real Estate (14)](#real-estate-cv-14) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (18)](#other-fits-no-cv-closely-may-still-be-worth-a-look-18)
+Everything matched so far, newest first within each CV: [Finance (188)](#finance-fpa-cv-188) · [Credit (128)](#credit-cv-128) · [Equity (28)](#equity-cv-28) · [Investment (78)](#investment-ib--pe-cv-78) · [Consulting (25)](#consulting-cv-25) · [Real Estate (14)](#real-estate-cv-14) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (18)](#other-fits-no-cv-closely-may-still-be-worth-a-look-18)
 
-### Finance (FP&A) CV: 187
+### Finance (FP&A) CV: 188
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-20 | [Ralph Lauren Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918) | BoF Careers | Bangalore Urban, Karnataka, India |
 | 2026-11-19 | [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) | eBay | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) | Hitachi Energy | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Commercial Finance Analyst GTR Europe](https://www.linkedin.com/jobs/view/commercial-finance-analyst-gtr-europe-at-bacardi-4484939432) | Bacardi | Gurgaon, Haryana, India |
@@ -2287,7 +2297,7 @@ Everything matched so far, newest first within each CV: [Finance (187)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 126
+### Credit CV: 128
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2296,6 +2306,7 @@ Everything matched so far, newest first within each CV: [Finance (187)](#finance
 | 2026-11-19 | [SA- Credit Analyst- APAC PF](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/SA--Credit-Analyst--APAC-PF_10080519-WD-2) | MUFG | MUFG Global Service Private Ltd. - Mumbai (NKP) |
 | 2026-11-19 | [Credit Portfolio Analytics - Existing Customer Management - Analyst I](https://www.linkedin.com/jobs/view/credit-portfolio-analytics-existing-customer-management-analyst-i-at-citi-4492522469) | Citi | Mumbai, Maharashtra, India |
 | 2026-11-19 | [Analyst – Data Science (Credit Risk) with a US Based Fintech company](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-data-science-credit-risk-with-a-us-based-fintech-company-at-the-premier-consultants-recruitment-company-4492433252) | The Premier Consultants | Pune City, Maharashtra, India |
+| 2026-11-19 | [Model Risk Analyst](https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
 | 2026-11-19 | [Asset & Wealth Management, Private Credit, Asset Finance, Analyst, Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-credit-asset-finance-analyst-bengaluru-at-goldman-sachs-4492187646) | Goldman Sachs | Bengaluru, Karnataka, India |
 | 2026-11-19 | [Credit Risk - Professional I](https://www.linkedin.com/jobs/view/credit-risk-professional-i-at-fiserv-4492144485) | Fiserv | Thane, Maharashtra, India |
 | 2026-11-19 | [Risk Analyst (Equity Derivatives)](https://www.linkedin.com/jobs/view/risk-analyst-equity-derivatives-at-millennium-4492162086) | Millennium | Mumbai, Maharashtra, India |
@@ -2368,6 +2379,7 @@ Everything matched so far, newest first within each CV: [Finance (187)](#finance
 | 2026-11-12 | [Credit Associate - CA](https://www.linkedin.com/jobs/view/credit-associate-ca-at-corenza-4490096731) | Corenza | Bengaluru, Karnataka, India |
 | 2026-11-12 | [Associate Consultant - Debt](https://www.linkedin.com/jobs/view/associate-consultant-debt-at-kpmg-india-4472328250) | KPMG India | Gurgaon, Haryana, India |
 | 2026-11-12 | [Market Risk Officer](https://www.linkedin.com/jobs/view/market-risk-officer-at-bnp-paribas-4490360717) | BNP Paribas | Mumbai, Maharashtra, India |
+| 2026-11-12 | [Model Risk Management-BA3](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Model-Risk-Management-BA3_JR-0000129936-1) | Barclays | Noida, Candor TechSpace |
 | 2026-11-12 | [Liquidity Risk Reporting - BA4](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Liquidity-Risk-Reporting---BA4_JR-0000137572) | Barclays | Chennai, DLF IT Park |
 | 2026-11-11 | [Wholesale Credit Risk Sanctioning - LevFin - Analyst](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1) | Barclays | Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 flo |
 | 2026-11-11 | [Credit Analyst - SME BWC](https://www.linkedin.com/jobs/view/credit-analyst-sme-bwc-at-standard-chartered-india-4488655744) | Standard Chartered India | Mumbai Metropolitan Region |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:02:53.132Z",
+ "generated_at": "2026-11-20T04:42:46.582Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 206,
+   "matching": 207,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 127,
+   "matching": 129,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -1232,6 +1232,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 12
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Model-Risk-Management-BA3_JR-0000129936-1": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 6
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353": {
    "id": "finance",
@@ -2771,6 +2776,16 @@
   "https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601": {
    "id": "equity",
    "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
    "score": 18
   }
  }

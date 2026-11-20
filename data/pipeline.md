@@ -693,5 +693,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-18
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-18
 - [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601 | Joblet-AI | Financial Research Analyst (Remote) | India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514 | IDFC FIRST Bank | Model Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918 | BoF Careers | Ralph Lauren Financial Planning & Analysis Analyst | Bangalore Urban, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
