@@ -705,4 +705,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-%E2%80%93-financial-reporting-at-promaynov-advisory-services-pvt-ltd-4492564500 | Promaynov Advisory Services Pvt. Ltd | Fund Accounting – Financial Reporting | Pune City, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/australian-smsf-accountant-at-counthq-4492793909 | CountHQ | Australian SMSF Accountant | Ahmedabad, Gujarat, India | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267258 | BlackRock | Associate , Investment Operations Specialist, SMA (Separately Managed Accounts) Solutions | Mumbai, India | posted: 2026-11-20
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Financial-Analyst_REF090735W-1 | Visa | Financial Analyst | IN - Bengaluru, India | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-netapp-4492575234 | NetApp | Financial Analyst | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kissht-4492915066 | Kissht | Credit Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed

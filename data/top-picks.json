@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:44:36.904Z",
+ "generated_at": "2026-11-20T09:46:17.373Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 211,
+   "matching": 212,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 131,
+   "matching": 130,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 37,
+   "matching": 36,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 38,
+   "matching": 39,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -1232,16 +1232,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 12
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Noida-Candor-TechSpace/Model-Risk-Management-BA3_JR-0000129936-1": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 6
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Product-Control-Valuations--Analyst_JR-0000135353": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 10
   },
   "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/46683": {
    "id": "credit",
@@ -2433,11 +2423,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 28
   },
-  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Risk-Analytics---Proprietary-Cards-and-Lending-Intermediate-Analyst_261010484": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 28
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2817,6 +2802,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Investment-Operations-Specialist--SMA--Separately-Managed-Accounts--Solutions_R267258": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 10
+  },
+  "https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Financial-Analyst_REF090735W-1": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-netapp-4492575234": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kissht-4492915066": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 23
   }
  }
 }
