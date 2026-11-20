@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:45:42.806Z",
+ "generated_at": "2026-11-20T20:13:07.215Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 140,
+   "matching": 141,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2967,6 +2967,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/credit-executive-4492817682": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

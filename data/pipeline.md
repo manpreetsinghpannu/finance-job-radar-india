@@ -753,5 +753,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-healthcare-at-millennium-4210404138 | Millennium | Research Analyst, Healthcare | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-hospitality-feasibility-valuation-pune-at-zipped-hospitality-4491389234 | Zipped Hospitality | Associate - Hospitality Feasibility & Valuation | Pune | Pune City, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-mumbai-at-csc-4462276794 | CSC | Fund Accounting - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-executive-4492817682 | Self-employed | Credit Executive | Lucknow, Uttar Pradesh, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed
