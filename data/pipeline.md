@@ -700,5 +700,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-underwriter-and-risk-management-at-z1n-capital-4492543811 | Z1N Capital | Credit Underwriter and Risk Management | Gurugram, Haryana, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-nexthire-4492540807 | NEXTHIRE | Financial Planning Analyst | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://jobs.lever.co/paytm/4e9fab80-dd1f-42c1-a163-8737291e6004 | Paytm | Financial Analyst - AM - Lending | Noida, Uttar Pradesh · IN | posted: 2026-11-20 | note: via startup/SME (lever)
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-healthcare-and-lifesciences-at-ambit-private-limited-4492901125 | Ambit Private Limited | Investment Banking Analyst- Healthcare and Lifesciences | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

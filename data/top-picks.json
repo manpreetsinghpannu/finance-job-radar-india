@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:42:12.233Z",
+ "generated_at": "2026-11-20T07:43:27.661Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 91,
+   "matching": 92,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -2801,6 +2801,11 @@
   "https://jobs.lever.co/paytm/4e9fab80-dd1f-42c1-a163-8737291e6004": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-healthcare-and-lifesciences-at-ambit-private-limited-4492901125": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
    "score": 18
   }
  }
