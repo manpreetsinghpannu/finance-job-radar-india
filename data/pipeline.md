@@ -669,5 +669,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/quant-associate-institutional-equities-at-avendus-4492401725 | Avendus | Quant Associate - Institutional Equities | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/capital-markets-services-specialist-at-accenture-in-india-4492721967 | Accenture in India | Capital Markets Services Specialist | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-credit-initiation-at-standard-chartered-india-4492520698 | Standard Chartered India | Credit Analyst - Credit Initiation | Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/strategic-finance-analyst-at-jenoptik-4491391880 | JENOPTIK | Strategic Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-vba-bi-specialist-at-fluor-corporation-4492722910 | Fluor Corporation | Financial Analyst (VBA & BI Specialist) | Vadodara, Gujarat, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-4491616877 | Bajaj Finserv gold loan | Financial Analyst | Cuttack, Odisha, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-analyst-gtr-europe-at-bacardi-4484939432 | Bacardi | Commercial Finance Analyst GTR Europe | Gurgaon, Haryana, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-fp-a-at-revantage-a-blackstone-portfolio-company-4468206252 | Revantage, A Blackstone Portfolio Company | Associate FP&A | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-mondel%C4%93z-international-4468297775 | Mondelēz International | Financial Analyst | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-professional-i-at-fiserv-4492144485 | Fiserv | Credit Risk - Professional I | Thane, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-management-analyst-at-sbm-offshore-4479976307 | SBM Offshore | Credit Management Analyst | Bengaluru, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/model-risk-ecl-at-idfc-first-bank-4491376189 | IDFC FIRST Bank | Model Risk (ECL) | Mumbai, Maharashtra, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-remote-at-crossing-hurdles-4492161240 | Crossing Hurdles | Investment Banking Associate | Remote | India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-remote-at-crossing-hurdles-4492153411 | Crossing Hurdles | Investment Analyst | Remote | India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-deal-advisory-%E2%80%93-deals-tech-data-solutions-dtds-at-pwc-acceleration-center-india-4483044165 | PwC Acceleration Center India | Associate – Deal Advisory – Deals Tech & Data Solutions (DTDS) | Bengaluru East, Karnataka, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/energy-portfolio-management-at-manikaran-power-limited-4492290066 | Manikaran Power Limited | Energy Portfolio Management | Patna, Bihar, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-asset-management-reporting-data-services-at-bnp-paribas-4492451986 | BNP Paribas | Associate - Asset Management Reporting Data Services | Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
