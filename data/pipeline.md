@@ -685,5 +685,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-asset-management-reporting-data-services-at-bnp-paribas-4492451986 | BNP Paribas | Associate - Asset Management Reporting Data Services | Tamil Nadu, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-ncr-atleos-4483042151 | NCR Atleos | Finance Analyst | Mumbai Metropolitan Region | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/freight-logistics-finance-analyst-at-fifo-international-4492167533 | FIFO International | Freight & Logistics Finance Analyst | Kochi, Kerala, India | posted: 2026-11-19 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-bu-consultants-4492159980 | BU Consultants | Financial Reporting Analyst | India | posted: 2026-11-19 | note: via LinkedIn
 
 ## Processed
