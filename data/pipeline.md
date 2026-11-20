@@ -729,4 +729,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/consultant-integration-and-separation-m-a-at-kpmg-india-4405312803 | KPMG India | Consultant - Integration and Separation (M&A) | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-portfolio-and-treasury-services-at-worldquant-4468287731 | WorldQuant | Analyst - Portfolio and Treasury Services | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276244 | Kotak Mahindra Bank | Credit Analyst_SUPPORT SERVICES_0211_3891_1045801 | Ludhiana, Punjab, India | posted: 2026-11-20
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276245 | Kotak Mahindra Bank | Credit Analyst_SUPPORT SERVICES_0140_8087_1051570 | Bangalore, Karnataka, India | posted: 2026-11-20
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276247 | Kotak Mahindra Bank | Credit Analyst_SUPPORT SERVICES_0140_1314_1075469 | Maharashtra, India | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-specialist-at-vittly-consultants-4492577804 | Vittly Consultants | Corporate Finance Specialist | New Delhi, Delhi, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-asset-management-performance-attribution-reporting-at-bnp-paribas-4442506785 | BNP Paribas | Associate - Asset Management Performance Attribution Reporting | Chennai, Tamil Nadu, India | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed
