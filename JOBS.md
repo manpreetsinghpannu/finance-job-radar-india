@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 13:45** (UK time) · **528 open roles** at 276 firms · the radar checks every board about once an hour.
+Updated **Fri 20 Nov, 14:00** (UK time) · **529 open roles** at 277 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 13:41** · hourly scan · checked 99 boards · **5 new roles**
+**Fri 20 Nov, 13:56** · hourly scan · checked 99 boards · **5 new roles**
 
 ### Credit CV: 3
 
@@ -78,7 +78,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Friday 20 November
 
 <details>
-<summary><b>13:41</b> · hourly scan · <b>5 new</b> → Credit 3 · Investment 1 · Real Estate 1</summary>
+<summary><b>13:56</b> · hourly scan · <b>5 new</b> → Credit 3 · Investment 1 · Real Estate 1</summary>
 
 #### Credit CV: 3
 
@@ -2093,7 +2093,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (195)](#finance-fpa-cv-195) · [Credit (134)](#credit-cv-134) · [Equity (28)](#equity-cv-28) · [Investment (83)](#investment-ib--pe-cv-83) · [Consulting (25)](#consulting-cv-25) · [Real Estate (15)](#real-estate-cv-15) · [Fund (31)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-31) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
+Everything matched so far, newest first within each CV: [Finance (195)](#finance-fpa-cv-195) · [Credit (134)](#credit-cv-134) · [Equity (29)](#equity-cv-29) · [Investment (83)](#investment-ib--pe-cv-83) · [Consulting (25)](#consulting-cv-25) · [Real Estate (15)](#real-estate-cv-15) · [Fund (31)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-31) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
 
 ### Finance (FP&A) CV: 195
 
@@ -2666,7 +2666,7 @@ Everything matched so far, newest first within each CV: [Finance (195)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>71 roles taken off the list because the firm closed the posting</summary>
+<summary>70 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
