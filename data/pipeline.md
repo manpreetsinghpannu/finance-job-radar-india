@@ -750,5 +750,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Counterparty-Risk-Analyst---CRM_JR-0000135309 | Barclays | Counterparty Risk Analyst - CRM | Mumbai, Nirlon Knowledge Park (IB) , 9th floor | posted: 2026-11-20
 - [ ] https://www.linkedin.com/jobs/view/investigator-financial-analyst-ii-at-parexel-4492820415 | Parexel | Investigator Financial Analyst II | Hyderabad, Telangana, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-financial-analyst-at-a-p-moller-maersk-4492975122 | A.P. Moller - Maersk | Associate Financial Analyst | Pune Division, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-healthcare-at-millennium-4210404138 | Millennium | Research Analyst, Healthcare | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-hospitality-feasibility-valuation-pune-at-zipped-hospitality-4491389234 | Zipped Hospitality | Associate - Hospitality Feasibility & Valuation | Pune | Pune City, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-mumbai-at-csc-4462276794 | CSC | Fund Accounting - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

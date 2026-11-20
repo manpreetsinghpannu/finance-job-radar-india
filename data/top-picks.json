@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:46:08.180Z",
+ "generated_at": "2026-11-20T19:45:42.806Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 45,
+   "matching": 46,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 99,
+   "matching": 100,
    "picks": [
     {
      "title": "Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 40,
+   "matching": 41,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 41,
+   "matching": 42,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2952,6 +2952,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-healthcare-at-millennium-4210404138": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/associate-hospitality-feasibility-valuation-pune-at-zipped-hospitality-4491389234": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-mumbai-at-csc-4462276794": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
   }
  }
 }
