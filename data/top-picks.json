@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:45:15.731Z",
+ "generated_at": "2026-11-20T21:44:16.923Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 100,
+   "matching": 101,
    "picks": [
     {
      "title": "Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 42,
+   "matching": 43,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2972,6 +2972,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/consultant-fund-solutions-restructuring-india-at-kroll-4474856494": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
   }
  }
 }
