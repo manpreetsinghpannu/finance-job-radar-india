@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 15:41** (UK time) · **539 open roles** at 284 firms · the radar checks every board about once an hour.
+Updated **Fri 20 Nov, 16:42** (UK time) · **537 open roles** at 283 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,32 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 15:37** · hourly scan · checked 99 boards · **9 new roles**
+**Fri 20 Nov, 16:38** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 7
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Product Finance Analyst](https://www.linkedin.com/jobs/view/product-finance-analyst-at-glean-4492565696) | Glean | Bengaluru, Karnataka, India |
-| 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-sage-shakti-business-management-solutions-4492591380) | Sage Shakti Business Management Solutions | Gurugram, Haryana, India |
-| 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-cummins-india-4475774905) | Cummins India | Phaltan, Maharashtra, India |
-| 2026-11-20 | [Financial Analyst (EMEA Shift) - Financial Operations - FBS, Bengaluru](https://www.linkedin.com/jobs/view/financial-analyst-emea-shift-financial-operations-fbs-bengaluru-at-allegis-global-solutions-4492906594) | Allegis Global Solutions | Bengaluru, Karnataka, India |
-| 2026-11-20 | [Financial Analyst - AR & AP](https://www.linkedin.com/jobs/view/financial-analyst-ar-ap-at-cancard-inc-4492941322) | Cancard Inc. | Noida, Uttar Pradesh, India |
-| 2026-11-20 | [Financial Planning & Analysis Partner II](https://www.linkedin.com/jobs/view/financial-planning-analysis-partner-ii-at-nielsen-4466670309) | Nielsen | Mumbai Metropolitan Region |
-| 2026-11-19 | [OCT Trade Support - Finance Business Partner](https://www.linkedin.com/jobs/view/oct-trade-support-finance-business-partner-at-a-p-moller-maersk-4492496080) | A.P. Moller - Maersk | Pune Division, Maharashtra, India |
-
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Credit Review-Lending Services (Empowering Talent: Job Opportunities for Persons with Disabilities)](https://www.linkedin.com/jobs/view/credit-review-lending-services-empowering-talent-job-opportunities-for-persons-with-disabilities-at-acuity-analytics-4475226262) | Acuity Analytics | Gurugram, Haryana, India |
-| 2026-11-20 | [Credit Research - Corporate Sector](https://www.linkedin.com/jobs/view/credit-research-corporate-sector-at-acuity-analytics-4474468481) | Acuity Analytics | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Fri 20 Nov, 15:37** (8: Finance 6 · Credit 2); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (222 matching)
+**Finance (FP&A) CV** (220 matching)
 
 1. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
 2. [Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-hitachi-energy-4492432172) · Hitachi Energy · Bengaluru, Karnataka, India · posted 2026-11-19
@@ -76,17 +59,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 20 November
 
-<details>
-<summary><b>15:37</b> · hourly scan · <b>9 new</b> → Finance 7 · Credit 2</summary>
+<sub>Nothing new at: 16:38</sub>
 
-#### Finance (FP&A) CV: 7
+<details>
+<summary><b>15:37</b> · hourly scan · <b>8 new</b> → Finance 6 · Credit 2</summary>
+
+#### Finance (FP&A) CV: 6
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-20 | [Product Finance Analyst](https://www.linkedin.com/jobs/view/product-finance-analyst-at-glean-4492565696) | Glean | Bengaluru, Karnataka, India |
 | 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-sage-shakti-business-management-solutions-4492591380) | Sage Shakti Business Management Solutions | Gurugram, Haryana, India |
 | 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-cummins-india-4475774905) | Cummins India | Phaltan, Maharashtra, India |
-| 2026-11-20 | [Financial Analyst (EMEA Shift) - Financial Operations - FBS, Bengaluru](https://www.linkedin.com/jobs/view/financial-analyst-emea-shift-financial-operations-fbs-bengaluru-at-allegis-global-solutions-4492906594) | Allegis Global Solutions | Bengaluru, Karnataka, India |
 | 2026-11-20 | [Financial Analyst - AR & AP](https://www.linkedin.com/jobs/view/financial-analyst-ar-ap-at-cancard-inc-4492941322) | Cancard Inc. | Noida, Uttar Pradesh, India |
 | 2026-11-20 | [Financial Planning & Analysis Partner II](https://www.linkedin.com/jobs/view/financial-planning-analysis-partner-ii-at-nielsen-4466670309) | Nielsen | Mumbai Metropolitan Region |
 | 2026-11-19 | [OCT Trade Support - Finance Business Partner](https://www.linkedin.com/jobs/view/oct-trade-support-finance-business-partner-at-a-p-moller-maersk-4492496080) | A.P. Moller - Maersk | Pune Division, Maharashtra, India |
@@ -97,6 +81,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-20 | [Credit Review-Lending Services (Empowering Talent: Job Opportunities for Persons with Disabilities)](https://www.linkedin.com/jobs/view/credit-review-lending-services-empowering-talent-job-opportunities-for-persons-with-disabilities-at-acuity-analytics-4475226262) | Acuity Analytics | Gurugram, Haryana, India |
 | 2026-11-20 | [Credit Research - Corporate Sector](https://www.linkedin.com/jobs/view/credit-research-corporate-sector-at-acuity-analytics-4474468481) | Acuity Analytics | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2083,28 +2069,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>16:37</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-hp-4490736881) | HP | Bengaluru, Karnataka, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Capital Markets Operations Analyst](https://www.linkedin.com/jobs/view/capital-markets-operations-analyst-at-accenture-in-india-4490736892) | Accenture in India | Bengaluru, Karnataka, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (202)](#finance-fpa-cv-202) · [Credit (136)](#credit-cv-136) · [Equity (29)](#equity-cv-29) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (25)](#consulting-cv-25) · [Real Estate (15)](#real-estate-cv-15) · [Fund (31)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-31) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
+Everything matched so far, newest first within each CV: [Finance (200)](#finance-fpa-cv-200) · [Credit (136)](#credit-cv-136) · [Equity (29)](#equity-cv-29) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (25)](#consulting-cv-25) · [Real Estate (15)](#real-estate-cv-15) · [Fund (31)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-31) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
 
-### Finance (FP&A) CV: 202
+### Finance (FP&A) CV: 200
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2120,7 +2089,6 @@ Everything matched so far, newest first within each CV: [Finance (202)](#finance
 | 2026-11-20 | [Product Finance Analyst](https://www.linkedin.com/jobs/view/product-finance-analyst-at-glean-4492565696) | Glean | Bengaluru, Karnataka, India |
 | 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-sage-shakti-business-management-solutions-4492591380) | Sage Shakti Business Management Solutions | Gurugram, Haryana, India |
 | 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-cummins-india-4475774905) | Cummins India | Phaltan, Maharashtra, India |
-| 2026-11-20 | [Financial Analyst (EMEA Shift) - Financial Operations - FBS, Bengaluru](https://www.linkedin.com/jobs/view/financial-analyst-emea-shift-financial-operations-fbs-bengaluru-at-allegis-global-solutions-4492906594) | Allegis Global Solutions | Bengaluru, Karnataka, India |
 | 2026-11-20 | [Financial Analyst - AR & AP](https://www.linkedin.com/jobs/view/financial-analyst-ar-ap-at-cancard-inc-4492941322) | Cancard Inc. | Noida, Uttar Pradesh, India |
 | 2026-11-20 | [Financial Planning & Analysis Partner II](https://www.linkedin.com/jobs/view/financial-planning-analysis-partner-ii-at-nielsen-4466670309) | Nielsen | Mumbai Metropolitan Region |
 | 2026-11-20 | [Analyst - Portfolio and Treasury Services](https://www.linkedin.com/jobs/view/analyst-portfolio-and-treasury-services-at-worldquant-4468287731) | WorldQuant | Mumbai Metropolitan Region |
@@ -2226,7 +2194,6 @@ Everything matched so far, newest first within each CV: [Finance (202)](#finance
 | 2026-11-13 | [Financial Analyst, Renewable Energy](https://www.linkedin.com/jobs/view/financial-analyst-renewable-energy-at-enfinity-global-4489544791) | Enfinity Global | Delhi, Delhi, India |
 | 2026-11-13 | [Financial Analyst II, ASSPL Finance Team](https://www.linkedin.com/jobs/view/financial-analyst-ii-asspl-finance-team-at-amazon-4455784771) | Amazon | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Financial Analyst - Financial Modelling & Project Financing of Utility Scale Solar Renewable Projects](https://www.linkedin.com/jobs/view/financial-analyst-financial-modelling-project-financing-of-utility-scale-solar-renewable-projects-at-engie-india-4488930649) | ENGIE India | Pune District, Maharashtra, India |
-| 2026-11-13 | [Financial Analyst, Finance-as-a-Service(FaaS)](https://www.linkedin.com/jobs/view/financial-analyst-finance-as-a-service-faas-at-amazon-4482728885) | Amazon | Bengaluru, Karnataka, India |
 | 2026-11-13 | [MSC Finance Analyst , CBI - APAC](https://www.linkedin.com/jobs/view/msc-finance-analyst-cbi-apac-at-cargill-4472990299) | Cargill | Bengaluru, Karnataka, India |
 | 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-4482442851) | Ingersoll Rand | Ahmedabad, Gujarat, India |
 | 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-compressor-systems-services-4489562782) | Ingersoll Rand Compressor Systems & Services | Ahmedabad, Gujarat, India |
@@ -2686,10 +2653,12 @@ Everything matched so far, newest first within each CV: [Finance (202)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>68 roles taken off the list because the firm closed the posting</summary>
+<summary>70 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 20 Nov, 16:41 | Financial Analyst, Finance-as-a-Service(FaaS) | Amazon |
+| Fri 20 Nov, 16:38 | Financial Analyst (EMEA Shift) - Financial Operations - FBS, Bengaluru | Allegis Global Solutions |
 | Fri 20 Nov, 11:46 | Research Analyst | WCC Investment Advisors Pvt. Ltd. |
 | Fri 20 Nov, 11:42 | Financial Planning and Analysis Analyst | Saarthi |
 | Fri 20 Nov, 10:48 | ANALYST – DEBT SYNDICATION | GrowthAlly Advisors Private Limited |
