@@ -747,4 +747,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/business-valuation-associate-at-eide-bailly-4475215930 | Eide Bailly | Business Valuation - Associate | Mumbai Metropolitan Region | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/reporting-specialist-ib-credit-and-market-risk-portfolio-analytics-at-ubs-4492818197 | UBS | Reporting Specialist - IB Credit and Market Risk Portfolio Analytics | Mumbai, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Counterparty-Risk-Analyst---CRM_JR-0000135309 | Barclays | Counterparty Risk Analyst - CRM | Mumbai, Nirlon Knowledge Park (IB) , 9th floor | posted: 2026-11-20
+- [ ] https://www.linkedin.com/jobs/view/investigator-financial-analyst-ii-at-parexel-4492820415 | Parexel | Investigator Financial Analyst II | Hyderabad, Telangana, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-financial-analyst-at-a-p-moller-maersk-4492975122 | A.P. Moller - Maersk | Associate Financial Analyst | Pune Division, Maharashtra, India | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed

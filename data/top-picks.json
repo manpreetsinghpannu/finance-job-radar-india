@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:43:54.935Z",
+ "generated_at": "2026-11-20T18:46:08.180Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 220,
+   "matching": 222,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 141,
+   "matching": 140,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -190,7 +190,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 41,
+   "matching": 40,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -267,11 +267,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 6
-  },
-  "https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8606": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 15
   },
   "https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting---Strategic-Partnership-_R8560": {
    "id": "fund",
@@ -1888,11 +1883,6 @@
    "cv": "Equity CV",
    "score": 8
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784527": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 28
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-hp-4490909175": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2947,6 +2937,21 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 7
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Counterparty-Risk-Analyst---CRM_JR-0000135309": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 17
+  },
+  "https://www.linkedin.com/jobs/view/investigator-financial-analyst-ii-at-parexel-4492820415": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/associate-financial-analyst-at-a-p-moller-maersk-4492975122": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
