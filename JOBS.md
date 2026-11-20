@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 03:44** (UK time) · **498 open roles** at 264 firms · the radar checks every board about once an hour.
+Updated **Fri 20 Nov, 04:02** (UK time) · **505 open roles** at 265 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,23 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 03:41** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 20 Nov, 03:59** · hourly scan · checked 99 boards · **6 new roles**
 
-Nothing new this time. The last scan that found something was **Fri 20 Nov, 03:09** (1: Finance 1); open it in the scan log below.
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [Financial Research Analyst (Remote)](https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601) | Joblet-AI | India |
+
+### Investment (IB / PE) CV: 5
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675112-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675114-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
 
 ## Top picks for each CV
 
@@ -28,12 +42,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (40 matching)
+**Equity CV** (41 matching)
 
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) · Allvest · Kurla, Maharashtra, India · posted 2026-11-18
 
-**Investment (IB / PE) CV** (86 matching)
+**Investment (IB / PE) CV** (91 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)](https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059) · Dawn & Dusk Advisors · Gurugram, Haryana, India · posted 2026-11-18
@@ -60,6 +74,27 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Friday 20 November
 
 <sub>Nothing new at: 03:41</sub>
+
+<details>
+<summary><b>03:59</b> · hourly scan · <b>6 new</b> → Equity 1 · Investment 5</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [Financial Research Analyst (Remote)](https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601) | Joblet-AI | India |
+
+#### Investment (IB / PE) CV: 5
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675112-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675114-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
+
+</details>
 
 <details>
 <summary><b>03:09</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2058,7 +2093,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (187)](#finance-fpa-cv-187) · [Credit (126)](#credit-cv-126) · [Equity (27)](#equity-cv-27) · [Investment (73)](#investment-ib--pe-cv-73) · [Consulting (25)](#consulting-cv-25) · [Real Estate (14)](#real-estate-cv-14) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (18)](#other-fits-no-cv-closely-may-still-be-worth-a-look-18)
+Everything matched so far, newest first within each CV: [Finance (187)](#finance-fpa-cv-187) · [Credit (127)](#credit-cv-127) · [Equity (28)](#equity-cv-28) · [Investment (78)](#investment-ib--pe-cv-78) · [Consulting (25)](#consulting-cv-25) · [Real Estate (14)](#real-estate-cv-14) · [Fund (28)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-28) · [Other (18)](#other-fits-no-cv-closely-may-still-be-worth-a-look-18)
 
 ### Finance (FP&A) CV: 187
 
@@ -2383,10 +2418,11 @@ Everything matched so far, newest first within each CV: [Finance (187)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 27
+### Equity CV: 28
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-20 | [Financial Research Analyst (Remote)](https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601) | Joblet-AI | India |
 | 2026-11-19 | [Stock Market Research Analyst](https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-stockprompt-ai-4492109894) | stockprompt.ai | Chennai, Tamil Nadu, India |
 | 2026-11-19 | [Research Analyst & Presentation Associate](https://www.linkedin.com/jobs/view/research-analyst-presentation-associate-at-aimploy-4491394916) | AImploy | Worli, Maharashtra, India |
 | 2026-11-19 | [Quant Associate - Institutional Equities](https://www.linkedin.com/jobs/view/quant-associate-institutional-equities-at-avendus-4492401725) | Avendus | Mumbai Metropolitan Region |
@@ -2415,7 +2451,7 @@ Everything matched so far, newest first within each CV: [Finance (187)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 73
+### Investment (IB / PE) CV: 78
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2431,8 +2467,13 @@ Everything matched so far, newest first within each CV: [Finance (187)](#finance
 | 2026-11-18 | [IN_Senior Associate_Investment banking_CFIB_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-senior-associate-investment-banking-cfib-advisory-mumbai-at-pwc-india-4491812425) | PwC India | Mumbai, Maharashtra, India |
 | 2026-11-18 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-4491849408) | Leading Investment Banking | Bengaluru, Karnataka, India |
 | 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Analyst_AIOC-S01675294-1) | Accenture | Navi Mumbai |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675112-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675114-1) | Accenture | Bengaluru |
+| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1) | Accenture | Bengaluru |
 | 2026-11-18 | [Investment Associate - InvIT](https://www.linkedin.com/jobs/view/investment-associate-invit-at-alpha-alternatives-4490834750) | Alpha Alternatives | Mumbai Metropolitan Region |
 | 2026-11-18 | [Capital Markets Operations Associate](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Associate_AIOC-S01675293-1) | Accenture | Navi Mumbai |
+| 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
 | 2026-11-17 | [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) | PRP Professional Edge Associates Pvt Ltd | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Tech M&A Analyst – Investment Banking, Deal Origination](https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108) | SA Global Advisors | Pune District, Maharashtra, India |
 | 2026-11-17 | [Growthally Advisors - Investment Banking Analyst](https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
@@ -2601,12 +2642,11 @@ Everything matched so far, newest first within each CV: [Finance (187)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>65 roles taken off the list because the firm closed the posting</summary>
+<summary>64 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Fri 20 Nov, 03:44 | FP&A Specialist | Sidel |
-| Fri 20 Nov, 03:43 | Model Risk Management-BA3 | Barclays |
+| Fri 20 Nov, 04:02 | FP&A Specialist | Sidel |
 | Thu 19 Nov, 21:27 | Associate Consultant, Financial Institution & Counterparty Risk | Northern Trust |
 | Thu 19 Nov, 21:27 | Analyst - Product Control | Barclays |
 | Thu 19 Nov, 19:37 | Financial Analyst | Decipher Financials |

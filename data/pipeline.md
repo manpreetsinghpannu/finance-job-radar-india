@@ -687,4 +687,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/freight-logistics-finance-analyst-at-fifo-international-4492167533 | FIFO International | Freight & Logistics Finance Analyst | Kochi, Kerala, India | posted: 2026-11-19 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-reporting-analyst-at-bu-consultants-4492159980 | BU Consultants | Financial Reporting Analyst | India | posted: 2026-11-19 | note: via LinkedIn
 
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-18
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675112-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-18
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675114-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-18
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1 | Accenture | Capital Markets Operations Analyst | Bengaluru | posted: 2026-11-18
+- [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1 | Accenture | Capital Markets Operations Specialist | Bengaluru | posted: 2026-11-18
+- [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601 | Joblet-AI | Financial Research Analyst (Remote) | India | posted: 2026-11-20 | note: via LinkedIn
+
 ## Processed
