@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:44:41.362Z",
+ "generated_at": "2026-11-21T05:44:11.426Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 47,
+   "matching": 46,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -2447,11 +2447,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 13
-  },
-  "https://www.linkedin.com/jobs/view/research-analyst-presentation-associate-at-aimploy-4491394916": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/analyst-valuation-services-at-kroll-4491615160": {
    "id": "investment",
