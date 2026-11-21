@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 03:01** (UK time) · **550 open roles** at 290 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 03:44** (UK time) · **550 open roles** at 290 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 02:57** · hourly scan · checked 99 boards · **1 new role**
+**Sat 21 Nov, 03:40** · hourly scan · checked 99 boards · **0 new roles**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Stock market dealer and technical research analyst](https://www.linkedin.com/jobs/view/stock-market-dealer-and-technical-research-analyst-at-rising-bull-4492856795) | RISING BULL | Raipur district, Chhattisgarh, India |
+Nothing new this time. The last scan that found something was **Sat 21 Nov, 02:57** (1: Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<sub>Nothing new at: 03:40</sub>
 
 <details>
 <summary><b>02:57</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -2123,8 +2121,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-14 | [Quality Executive - Retail MFB - Credit - Kittur - Shimbi Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57019) | Tata Capital | India |
 
 </details>
-
-<sub>Nothing new at: 03:37</sub>
 
 ## All open roles by CV
 
