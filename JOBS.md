@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 20 Nov, 23:50** (UK time) · **547 open roles** at 289 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 00:45** (UK time) · **547 open roles** at 289 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 20 Nov, 23:46** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 21 Nov, 00:41** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [FP&A Operations Analyst](https://www.linkedin.com/jobs/view/fp-a-operations-analyst-at-ge-vernova-4492852484) | GE Vernova | Chennai, Tamil Nadu, India |
-| 2026-11-20 | [Financial Planning & Analysis Representa](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5879238-S2076167-1) | Accenture | Mumbai |
+Nothing new this time. The last scan that found something was **Fri 20 Nov, 23:46** (2: Finance 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -61,6 +56,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Saturday 21 November
+
+<sub>Nothing new at: 00:41</sub>
 
 ### Friday 20 November
 
@@ -2105,11 +2104,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 02:18, 01:36, 00:36</sub>
-
-### Friday 13 November
-
-<sub>Nothing new at: 23:56</sub>
+<sub>Nothing new at: 02:18, 01:36</sub>
 
 ## All open roles by CV
 
