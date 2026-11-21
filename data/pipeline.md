@@ -797,5 +797,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339 | Linedata | Analyst - Investment Research | Mumbai Metropolitan Region | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229 | Linedata | Associate - Investment Research | Mumbai Metropolitan Region | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492866767 | Joblet-AI | FP&A Analyst (Remote) | India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029 | Accenture services Pvt Ltd | S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant | Gurugram, Haryana, India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

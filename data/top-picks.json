@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:16:45.148Z",
+ "generated_at": "2026-11-21T23:41:17.341Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 99,
+   "matching": 100,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,8 +158,22 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 52,
+   "matching": 53,
    "picks": [
+    {
+     "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
+     "company": "Accenture services Pvt Ltd",
+     "location": "Gurugram, Haryana, India",
+     "posted": "2026-11-21",
+     "url": "https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029",
+     "score": 16,
+     "why": [
+      "Consultant",
+      "Strategy",
+      "Transformation"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
      "company": "EY",
@@ -170,19 +184,6 @@
      "why": [
       "Consultant",
       "Consulting"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Business Transformation Consultant-Finance Transformation",
-     "company": "IBM",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-20",
-     "url": "https://www.linkedin.com/jobs/view/business-transformation-consultant-finance-transformation-at-ibm-4468381597",
-     "score": 12,
-     "why": [
-      "Consultant",
-      "Transformation"
      ],
      "sponsor": null
     }
@@ -3068,6 +3069,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 16
   }
  }
 }
