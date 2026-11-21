@@ -772,4 +772,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954 | JPMorganChase | WCR Portfolio Analytics - Associate | Mumbai, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219 | FNZ | 1st Line Ops Risk Analyst | Gurugram, Haryana, India | posted: 2026-11-21 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57666 | Tata Capital | Technical Officer - Technical Valuation - Housing - Valuation - Nalgonda - Central Commercial Complex - J Grades | Hyderabad, Telangana, India | posted: 2026-11-21
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-american-express-global-business-travel-4492312156 | American Express Global Business Travel | FP&A Analyst | Gurgaon, Haryana, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-matrimony-com-limited-4492881594 | Matrimony.com Limited | Financial Planning and Analysis Specialist | Chennai, Tamil Nadu, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-associate-at-baker-tilly-us-4483430829 | Baker Tilly US | FP&A Associate | Bengaluru East, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843 | Signify | Financial Analyst (FP&A) | Pune Division, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-research-associate-at-sdsr-4492310282 | SDSR | Financial Research Associate | Kolkata metropolitan area, West Bengal, India | posted: 2026-11-21 | note: via LinkedIn
+
 ## Processed
