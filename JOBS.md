@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 07:42** (UK time) · **549 open roles** at 288 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 08:43** (UK time) · **548 open roles** at 287 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 07:39** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 21 Nov, 08:40** · hourly scan · checked 99 boards · **0 new roles**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Financial Research Analyst](https://www.linkedin.com/jobs/view/financial-research-analyst-at-money-purse-finserv-4493273068) | Money Purse Finserv | Hyderabad, Telangana, India |
-
-### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Consultant / APM: IT PM / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-IT-PM-Bengaluru-Finance-Transformation-Finance-Strategy/61726644/) | Deloitte India | Bengaluru |
+Nothing new this time. The last scan that found something was **Sat 21 Nov, 07:39** (2: Equity 1 · Consulting 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -38,7 +28,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (47 matching)
+**Equity CV** (46 matching)
 
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) · Allvest · Kurla, Maharashtra, India · posted 2026-11-18
 2. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<sub>Nothing new at: 08:40</sub>
 
 <details>
 <summary><b>07:39</b> · hourly scan · <b>2 new</b> → Equity 1 · Consulting 1</summary>
@@ -482,13 +474,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>03:59</b> · hourly scan · <b>6 new</b> → Equity 1 · Investment 5</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Financial Research Analyst (Remote)](https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601) | Joblet-AI | India |
+<summary><b>03:59</b> · hourly scan · <b>5 new</b> → Investment 5</summary>
 
 #### Investment (IB / PE) CV: 5
 
@@ -499,6 +485,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675114-1) | Accenture | Bengaluru |
 | 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1) | Accenture | Bengaluru |
 | 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2098,11 +2086,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:36, 08:36</sub>
+<sub>Nothing new at: 09:36</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (203)](#finance-fpa-cv-203) · [Credit (137)](#credit-cv-137) · [Equity (31)](#equity-cv-31) · [Investment (86)](#investment-ib--pe-cv-86) · [Consulting (28)](#consulting-cv-28) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
+Everything matched so far, newest first within each CV: [Finance (203)](#finance-fpa-cv-203) · [Credit (137)](#credit-cv-137) · [Equity (30)](#equity-cv-30) · [Investment (86)](#investment-ib--pe-cv-86) · [Consulting (28)](#consulting-cv-28) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
 
 ### Finance (FP&A) CV: 203
 
@@ -2454,7 +2442,7 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 31
+### Equity CV: 30
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2463,7 +2451,6 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 | 2026-11-20 | [Equity Research Associate (Bernstein – India)](https://www.linkedin.com/jobs/view/equity-research-associate-bernstein-%E2%80%93-india-at-societe-generale-4484936771) | Societe Generale | Mumbai Metropolitan Region |
 | 2026-11-20 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-anand-rathi-share-and-stock-brokers-ltd-4491689904) | Anand Rathi Share and Stock Brokers Ltd | Mumbai, Maharashtra, India |
 | 2026-11-20 | [Research Analyst, Healthcare](https://www.linkedin.com/jobs/view/research-analyst-healthcare-at-millennium-4210404138) | Millennium | Mumbai, Maharashtra, India |
-| 2026-11-20 | [Financial Research Analyst (Remote)](https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601) | Joblet-AI | India |
 | 2026-11-19 | [Stock Market Research Analyst](https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-stockprompt-ai-4492109894) | stockprompt.ai | Chennai, Tamil Nadu, India |
 | 2026-11-19 | [Quant Associate - Institutional Equities](https://www.linkedin.com/jobs/view/quant-associate-institutional-equities-at-avendus-4492401725) | Avendus | Mumbai Metropolitan Region |
 | 2026-11-18 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) | Allvest | Kurla, Maharashtra, India |
@@ -2696,10 +2683,11 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>75 roles taken off the list because the firm closed the posting</summary>
+<summary>76 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 21 Nov, 08:40 | Financial Research Analyst (Remote) | Joblet-AI |
 | Sat 21 Nov, 07:41 | Capital Markets Operations Specialist | Accenture |
 | Sat 21 Nov, 07:39 | Analyst – Data Science (Credit Risk) with a US Based Fintech company | The Premier Consultants |
 | Sat 21 Nov, 06:40 | Freight & Logistics Finance Analyst | FIFO International |

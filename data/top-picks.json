@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:42:36.304Z",
+ "generated_at": "2026-11-21T08:43:49.802Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 47,
+   "matching": 46,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -2672,11 +2672,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 2
-  },
-  "https://www.linkedin.com/jobs/view/financial-research-analyst-remote-at-joblet-ai-4492536601": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514": {
    "id": "credit",
