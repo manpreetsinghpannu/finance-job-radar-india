@@ -765,4 +765,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://southasiacareers.deloitte.com/job/Delhi-Consultant-Oracle-Planning-Delhi-Finance-Transformation-Business-Finance/60080644/ | Deloitte India | Consultant / Oracle Planning / Delhi / Finance Transformation / Business Finance | Delhi
 - [ ] https://www.linkedin.com/jobs/view/stock-market-dealer-and-technical-research-analyst-at-rising-bull-4492856795 | RISING BULL | Stock market dealer and technical research analyst | Raipur district, Chhattisgarh, India | posted: 2026-11-21 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57627 | Tata Capital | Quality Executive - Retail MFB - Credit - Guduru - Hindur Road - J Grades | India | posted: 2026-11-21
+
 ## Processed

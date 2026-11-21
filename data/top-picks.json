@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:44:11.426Z",
+ "generated_at": "2026-11-21T06:44:07.432Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 226,
+   "matching": 225,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 141,
+   "matching": 142,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2658,11 +2658,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/freight-logistics-finance-analyst-at-fifo-international-4492167533": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -2997,6 +2992,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 18
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57627": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
