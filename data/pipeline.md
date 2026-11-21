@@ -783,5 +783,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/am-financial-planning-analysis-at-tata-communications-4467841401 | Tata Communications | AM- Financial Planning & Analysis | Mumbai, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/smsf-accountant-surat-at-auzin-advisory-private-limited-4493262976 | Auzin Advisory Private Limited | SMSF Accountant-Surat | Surat, Gujarat, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/stock-trader-4492883742 | Sunny Kumar Trader | Stock Trader | New Delhi, Delhi, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492 | Jobs4PanIndia | Financial Analyst | India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

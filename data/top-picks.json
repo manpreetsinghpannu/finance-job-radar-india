@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:42:22.421Z",
+ "generated_at": "2026-11-21T14:41:12.001Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 142,
+   "matching": 141,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -875,11 +875,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/fp-a-executive-at-caclubindia-4489647024": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/274782": {
    "id": "credit",
    "cv": "Credit CV",
@@ -1209,11 +1204,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 10
-  },
-  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/46683": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 8
   },
   "https://www.linkedin.com/jobs/view/investment-analyst-at-hos-bharat-services-private-limited-4488509960": {
    "id": "equity",
@@ -3044,6 +3034,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
