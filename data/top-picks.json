@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:44:17.961Z",
+ "generated_at": "2026-11-21T19:45:17.954Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 48,
+   "matching": 50,
    "picks": [
     {
      "title": "Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)",
@@ -3059,15 +3059,20 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-alpha-strategies-at-prosperity-wealth-management-pvt-ltd-india-4492893779": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.linkedin.com/jobs/view/accountant-jaipur-at-naukripay-group-4492895094": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
   }
  }
 }

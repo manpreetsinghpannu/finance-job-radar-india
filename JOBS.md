@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 18:44** (UK time) · **563 open roles** at 297 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 19:45** (UK time) · **564 open roles** at 297 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 18:40** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 21 Nov, 19:41** · hourly scan · checked 99 boards · **2 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Accountant ( Jaipur)](https://www.linkedin.com/jobs/view/accountant-jaipur-at-naukripay-group-4492895094) | Naukripay group | Jaipur, Rajasthan, India |
-
-### Other (fits no CV closely, may still be worth a look): 1
+### Equity CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-21 | [Quantitative Researcher – Alpha Strategies](https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-alpha-strategies-at-prosperity-wealth-management-pvt-ltd-india-4492893779) | Prosperity Wealth Management Pvt. Ltd. | Chennai, Tamil Nadu, India |
+| 2026-11-21 | [Analyst - Investment Research](https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339) | Linedata | Mumbai Metropolitan Region |
+| 2026-11-21 | [Associate - Investment Research](https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229) | Linedata | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
@@ -38,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (48 matching)
+**Equity CV** (50 matching)
 
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) · Allvest · Kurla, Maharashtra, India · posted 2026-11-18
@@ -70,7 +65,19 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 21 November
 
 <details>
-<summary><b>18:40</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
+<summary><b>19:41</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
+
+#### Equity CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [Analyst - Investment Research](https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339) | Linedata | Mumbai Metropolitan Region |
+| 2026-11-21 | [Associate - Investment Research](https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229) | Linedata | Mumbai Metropolitan Region |
+
+</details>
+
+<details>
+<summary><b>18:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -78,11 +85,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-20 | [Accountant ( Jaipur)](https://www.linkedin.com/jobs/view/accountant-jaipur-at-naukripay-group-4492895094) | Naukripay group | Jaipur, Rajasthan, India |
 
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Quantitative Researcher – Alpha Strategies](https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-alpha-strategies-at-prosperity-wealth-management-pvt-ltd-india-4492893779) | Prosperity Wealth Management Pvt. Ltd. | Chennai, Tamil Nadu, India |
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2120,11 +2123,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 14 November
 
-<sub>Nothing new at: 23:35, 23:25, 22:36, 21:36, 21:23, 20:36, 19:42</sub>
+<sub>Nothing new at: 23:35, 23:25, 22:36, 21:36, 21:23, 20:36</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (212)](#finance-fpa-cv-212) · [Credit (137)](#credit-cv-137) · [Equity (32)](#equity-cv-32) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (29)](#consulting-cv-29) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (21)](#other-fits-no-cv-closely-may-still-be-worth-a-look-21)
+Everything matched so far, newest first within each CV: [Finance (212)](#finance-fpa-cv-212) · [Credit (137)](#credit-cv-137) · [Equity (34)](#equity-cv-34) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (29)](#consulting-cv-29) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
 
 ### Finance (FP&A) CV: 212
 
@@ -2485,12 +2488,14 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 32
+### Equity CV: 34
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-21 | [Analyst - Investment Research](https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339) | Linedata | Mumbai Metropolitan Region |
 | 2026-11-21 | [Stock market dealer and technical research analyst](https://www.linkedin.com/jobs/view/stock-market-dealer-and-technical-research-analyst-at-rising-bull-4492856795) | RISING BULL | Raipur district, Chhattisgarh, India |
 | 2026-11-21 | [Financial Research Analyst](https://www.linkedin.com/jobs/view/financial-research-analyst-at-money-purse-finserv-4493273068) | Money Purse Finserv | Hyderabad, Telangana, India |
+| 2026-11-21 | [Associate - Investment Research](https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229) | Linedata | Mumbai Metropolitan Region |
 | 2026-11-21 | [WCR Portfolio Analytics - Associate](https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-21 | [Financial Research Associate](https://www.linkedin.com/jobs/view/financial-research-associate-at-sdsr-4492310282) | SDSR | Kolkata metropolitan area, West Bengal, India |
 | 2026-11-20 | [Equity Research Associate (Bernstein – India)](https://www.linkedin.com/jobs/view/equity-research-associate-bernstein-%E2%80%93-india-at-societe-generale-4484936771) | Societe Generale | Mumbai Metropolitan Region |
@@ -2703,13 +2708,12 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 21
+### Other (fits no CV closely, may still be worth a look): 20
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-21 | [Stock Trader](https://www.linkedin.com/jobs/view/stock-trader-4492883742) | Sunny Kumar Trader | New Delhi, Delhi, India |
 | 2026-11-21 | [Analyst - Pricing Credits - 2271](https://www.linkedin.com/jobs/view/analyst-pricing-credits-2271-at-medline-4418728208) | Medline | Pune Division, Maharashtra, India |
-| 2026-11-21 | [Quantitative Researcher – Alpha Strategies](https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-alpha-strategies-at-prosperity-wealth-management-pvt-ltd-india-4492893779) | Prosperity Wealth Management Pvt. Ltd. | Chennai, Tamil Nadu, India |
 | 2026-11-20 | [GB/G Portfolio Management Analyst - Indirect Procurement](https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270) | BASF | Hyderabad, Telangana, India |
 | 2026-11-19 | [Product Controller - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809604) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-19 | [Analyst, Damages and Valuations](https://www.linkedin.com/jobs/view/analyst-damages-and-valuations-at-secretariat-4492168606) | Secretariat | Mumbai, Maharashtra, India |
@@ -2732,10 +2736,11 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>82 roles taken off the list because the firm closed the posting</summary>
+<summary>83 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 21 Nov, 19:41 | Quantitative Researcher – Alpha Strategies | Prosperity Wealth Management Pvt. Ltd. |
 | Sat 21 Nov, 18:43 | Associate - Hospitality Feasibility & Valuation | Zipped Hospitality |
 | Sat 21 Nov, 18:43 | Investment Banking Analyst | Aabhar Corporate Services Limited |
 | Sat 21 Nov, 16:40 | Quality Executive - Retail MFB - Credit - Bejjanki - Ganneruvaram - J Grades | Tata Capital |
