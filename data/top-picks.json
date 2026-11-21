@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:44:07.432Z",
+ "generated_at": "2026-11-21T07:42:36.304Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 225,
+   "matching": 226,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 142,
+   "matching": 141,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 101,
+   "matching": 100,
    "picks": [
     {
      "title": "Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 50,
+   "matching": 51,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -1122,11 +1122,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 8
-  },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674471-1": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": -2
   },
   "https://www.linkedin.com/jobs/view/credit-analyst-working-capital-at-ech-aar-manpower-solutions-4489086537": {
    "id": "credit",
@@ -2478,11 +2473,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-data-science-credit-risk-with-a-us-based-fintech-company-at-the-premier-consultants-recruitment-company-4492433252": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/investment-banking-rating-advisory-gurgaon-at-acuity-analytics-4474080988": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -2997,6 +2987,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-IT-PM-Bengaluru-Finance-Transformation-Finance-Strategy/61726644/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-research-analyst-at-money-purse-finserv-4493273068": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
   }
  }
 }

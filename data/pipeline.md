@@ -767,4 +767,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57627 | Tata Capital | Quality Executive - Retail MFB - Credit - Guduru - Hindur Road - J Grades | India | posted: 2026-11-21
 
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-IT-PM-Bengaluru-Finance-Transformation-Finance-Strategy/61726644/ | Deloitte India | Consultant / APM: IT PM / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
+- [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-at-money-purse-finserv-4493273068 | Money Purse Finserv | Financial Research Analyst | Hyderabad, Telangana, India | posted: 2026-11-21 | note: via LinkedIn
+
 ## Processed
