@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:45:17.954Z",
+ "generated_at": "2026-11-21T19:59:57.685Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 236,
+   "matching": 235,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -1139,11 +1139,6 @@
    "cv": "Investment (IB / PE) CV",
    "score": 11
   },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst--Valuations-Cotrol_JR-0000135525": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
-  },
   "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-analyst-at-imi-4473548161": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -1223,11 +1218,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Product-Control-Financial-reporting_JR-0000131990": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/credit-research-banking-analyst-at-acuity-analytics-4480033723": {
    "id": "credit",
@@ -3064,15 +3054,15 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339": {
    "id": "equity",
    "cv": "Equity CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 16
   }
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 19:45** (UK time) · **564 open roles** at 297 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 19:59** (UK time) · **562 open roles** at 297 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 19:41** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 21 Nov, 19:56** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Equity CV: 2
 
@@ -23,7 +23,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (236 matching)
+**Finance (FP&A) CV** (235 matching)
 
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
 2. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
@@ -65,7 +65,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 21 November
 
 <details>
-<summary><b>19:41</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
+<summary><b>19:56</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
 
 #### Equity CV: 2
 
@@ -2127,9 +2127,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (212)](#finance-fpa-cv-212) · [Credit (137)](#credit-cv-137) · [Equity (34)](#equity-cv-34) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (29)](#consulting-cv-29) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
+Everything matched so far, newest first within each CV: [Finance (211)](#finance-fpa-cv-211) · [Credit (137)](#credit-cv-137) · [Equity (34)](#equity-cv-34) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (29)](#consulting-cv-29) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
-### Finance (FP&A) CV: 212
+### Finance (FP&A) CV: 211
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2289,7 +2289,6 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 | 2026-11-12 | [Financial Planning and Analysis (FP&A) Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-fp-a-specialist-at-dassault-syst%C3%A8mes-4482471502) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
 | 2026-11-12 | [Financial Analyst, AWS Finance](https://www.linkedin.com/jobs/view/financial-analyst-aws-finance-at-amazon-4472182312) | Amazon | Hyderabad, Telangana, India |
 | 2026-11-12 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-international-schools-partnership-limited-4489019507) | International Schools Partnership Limited | Bangalore Urban, Karnataka, India |
-| 2026-11-12 | [Analyst - Product Control Financial reporting](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Product-Control-Financial-reporting_JR-0000131990) | Barclays | Chennai, DLF IT Park |
 | 2026-11-12 | [AO/ANALYST TREASURY](https://www.linkedin.com/jobs/view/ao-analyst-treasury-at-alliancebernstein-4490321109) | AllianceBernstein | Pune Division, Maharashtra, India |
 | 2026-11-12 | [Analyst, Treasury Operations](https://www.linkedin.com/jobs/view/analyst-treasury-operations-at-ciena-4489261963) | Ciena | Gurugram, Haryana, India |
 | 2026-11-12 | [Associate - Treasury](https://www.linkedin.com/jobs/view/associate-treasury-at-stonex-group-inc-4470144680) | StoneX Group Inc. | Bengaluru, Karnataka, India |
@@ -2708,7 +2707,7 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 20
+### Other (fits no CV closely, may still be worth a look): 19
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2722,7 +2721,6 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 | 2026-11-16 | [Associate - Product Controller, Investments](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808758) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-14 | [Specialist, Data Management & Quantitative Analysis](https://www.linkedin.com/jobs/view/specialist-data-management-quantitative-analysis-at-bny-4483128577) | BNY | Pune/Pimpri-Chinchwad Area |
 | — | [OPS-GMO / FI Credits MO](https://careers.nomura.com/Nomura/job/Mumbai-OPS-GMO-FI-Credits-MO/1450074700/) | Nomura | Mumbai |
-| 2026-11-12 | [Analyst -Valuations Cotrol](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst--Valuations-Cotrol_JR-0000135525) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | 2026-11-12 | [Quantitative Analytics Specialist](https://www.linkedin.com/jobs/view/quantitative-analytics-specialist-at-wells-fargo-4490535478) | Wells Fargo | Bengaluru, Karnataka, India |
 | 2026-11-11 | [Market Data Vendor Onboarding Associate, Investment Management](https://morganstanley.eightfold.ai/careers?pid=549800787343&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 | — | [CareCredit - Practice Development Specialist](https://www.synchronycareers.com/en/job/orlando/carecredit-practice-development-specialist/49398/102921862096) | Synchrony |  |
@@ -2736,11 +2734,13 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>83 roles taken off the list because the firm closed the posting</summary>
+<summary>85 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Sat 21 Nov, 19:41 | Quantitative Researcher – Alpha Strategies | Prosperity Wealth Management Pvt. Ltd. |
+| Sat 21 Nov, 19:57 | Analyst -Valuations Cotrol | Barclays |
+| Sat 21 Nov, 19:56 | Analyst - Product Control Financial reporting | Barclays |
+| Sat 21 Nov, 19:56 | Quantitative Researcher – Alpha Strategies | Prosperity Wealth Management Pvt. Ltd. |
 | Sat 21 Nov, 18:43 | Associate - Hospitality Feasibility & Valuation | Zipped Hospitality |
 | Sat 21 Nov, 18:43 | Investment Banking Analyst | Aabhar Corporate Services Limited |
 | Sat 21 Nov, 16:40 | Quality Executive - Retail MFB - Credit - Bejjanki - Ganneruvaram - J Grades | Tata Capital |
