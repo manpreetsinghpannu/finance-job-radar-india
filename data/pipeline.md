@@ -777,6 +777,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-matrimony-com-limited-4492881594 | Matrimony.com Limited | Financial Planning and Analysis Specialist | Chennai, Tamil Nadu, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-associate-at-baker-tilly-us-4483430829 | Baker Tilly US | FP&A Associate | Bengaluru East, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843 | Signify | Financial Analyst (FP&A) | Pune Division, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-risk-controls-market-risk-at-bnp-paribas-4485372370 | BNP Paribas | Associate - Risk Controls - Market Risk | Bengaluru, Karnataka, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/it-embedded-risk-associate-at-the-depository-trust-clearing-corporation-dtcc-4477659877 | The Depository Trust & Clearing Corporation (DTCC) | IT Embedded Risk Associate | Hyderabad, Telangana, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-research-associate-at-sdsr-4492310282 | SDSR | Financial Research Associate | Kolkata metropolitan area, West Bengal, India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
