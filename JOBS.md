@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 10:05** (UK time) · **549 open roles** at 287 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 10:43** (UK time) · **549 open roles** at 286 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 10:01** · hourly scan · checked 99 boards · **1 new role**
+**Sat 21 Nov, 10:40** · hourly scan · checked 99 boards · **1 new role**
 
-### Equity CV: 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-21 | [WCR Portfolio Analytics - Associate](https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-21 | [1st Line Ops Risk Analyst](https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219) | FNZ | Gurugram, Haryana, India |
 
 ## Top picks for each CV
 
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<details>
+<summary><b>10:40</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [1st Line Ops Risk Analyst](https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219) | FNZ | Gurugram, Haryana, India |
+
+</details>
 
 <details>
 <summary><b>10:01</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -454,7 +465,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>05:45</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
+<summary><b>05:45</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -463,11 +474,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-20 | [Analyst, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cencora-4491698112) | Cencora | Pune Division, Maharashtra, India |
 | 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-thoughtspot-4485474349) | ThoughtSpot | Bengaluru, Karnataka, India |
 
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Credit Underwriter and Risk Management](https://www.linkedin.com/jobs/view/credit-underwriter-and-risk-management-at-z1n-capital-4492543811) | Z1N Capital | Gurugram, Haryana, India |
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2073,34 +2080,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-compressor-systems-services-4489562782) | Ingersoll Rand Compressor Systems & Services | Ahmedabad, Gujarat, India |
-
-</details>
-
-<details>
-<summary><b>10:10</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Services Support Associate II-Treasury-Hyderabad](https://www.linkedin.com/jobs/view/services-support-associate-ii-treasury-hyderabad-at-deloitte-4481661949) | Deloitte | Hyderabad, Telangana, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Valuation Services Consultant - Commercial Valuation](https://www.linkedin.com/jobs/view/valuation-services-consultant-commercial-valuation-at-crowe-capabilities-center-%E2%80%93-india-4483120195) | Crowe Capabilities Center – India | Greater Hyderabad Area |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (203)](#finance-fpa-cv-203) · [Credit (137)](#credit-cv-137) · [Equity (31)](#equity-cv-31) · [Investment (86)](#investment-ib--pe-cv-86) · [Consulting (28)](#consulting-cv-28) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
@@ -2318,6 +2297,7 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-21 | [Quality Executive - Retail MFB - Credit - Guduru - Hindur Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57627) | Tata Capital | India |
+| 2026-11-21 | [1st Line Ops Risk Analyst](https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219) | FNZ | Gurugram, Haryana, India |
 | 2026-11-20 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kissht-4492915066) | Kissht | Mumbai, Maharashtra, India |
 | 2026-11-20 | [Credit Analyst - Credit Initiation](https://www.linkedin.com/jobs/view/credit-analyst-credit-initiation-at-standard-chartered-india-4492520698) | Standard Chartered India | Delhi, Delhi, India |
 | 2026-11-20 | [Credit Analyst_SUPPORT SERVICES_0211_3891_1045801](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276244) | Kotak Mahindra Bank | Ludhiana, Punjab, India |
@@ -2331,7 +2311,6 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 | 2026-11-20 | [Credit and Collections Analyst](https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-hireright-4485324940) | HireRight | Mumbai Metropolitan Region |
 | 2026-11-20 | [Corporate Banking Analyst -Securities Research Associate](https://www.linkedin.com/jobs/view/corporate-banking-analyst-securities-research-associate-at-wells-fargo-4492901835) | Wells Fargo | Bengaluru, Karnataka, India |
 | 2026-11-20 | [Credit Executive](https://www.linkedin.com/jobs/view/credit-executive-4492817682) | Self-employed | Lucknow, Uttar Pradesh, India |
-| 2026-11-20 | [Credit Underwriter and Risk Management](https://www.linkedin.com/jobs/view/credit-underwriter-and-risk-management-at-z1n-capital-4492543811) | Z1N Capital | Gurugram, Haryana, India |
 | 2026-11-20 | [State Head - Retail Credit - Mortgages - Housing - EM - Credit - Vellore - Anna Salai - MM](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57608) | Tata Capital | India |
 | 2026-11-20 | [Reporting Specialist - IB Credit and Market Risk Portfolio Analytics](https://www.linkedin.com/jobs/view/reporting-specialist-ib-credit-and-market-risk-portfolio-analytics-at-ubs-4492818197) | UBS | Mumbai, Maharashtra, India |
 | 2026-11-19 | [Quant Model Risk Analyst/Associate - Counterparty Credit Risk](https://www.linkedin.com/jobs/view/quant-model-risk-analyst-associate-counterparty-credit-risk-at-jpmorganchase-4465924785) | JPMorganChase | Bengaluru, Karnataka, India |
@@ -2701,6 +2680,7 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 21 Nov, 10:41 | Credit Underwriter and Risk Management | Z1N Capital |
 | Sat 21 Nov, 08:40 | Financial Research Analyst (Remote) | Joblet-AI |
 | Sat 21 Nov, 07:41 | Capital Markets Operations Specialist | Accenture |
 | Sat 21 Nov, 07:39 | Analyst – Data Science (Credit Risk) with a US Based Fintech company | The Premier Consultants |
@@ -2776,6 +2756,5 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 | Sat 14 Nov, 22:37 | Treasury & Settlement Operations Executive | Riverpe |
 | Sat 14 Nov, 18:36 | Equity & Credit Research Expert | Mindnexa Solutions |
 | Sat 14 Nov, 11:36 | Debt Syndication Executive | Misha Capital |
-| Sat 14 Nov, 10:10 | Research Analyst - Investment Banking | CoKaCo |
 
 </details>

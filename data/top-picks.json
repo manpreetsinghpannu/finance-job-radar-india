@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:05:57.827Z",
+ "generated_at": "2026-11-21T10:43:48.523Z",
  "order": [
   "finance",
   "credit",
@@ -2693,11 +2693,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/credit-underwriter-and-risk-management-at-z1n-capital-4492543811": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-nexthire-4492540807": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -2997,6 +2992,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }
