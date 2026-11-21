@@ -787,5 +787,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621 | Cytiva | FP&A Analyst - A&D,MCS&UFMR&D | Bengaluru East, Karnataka, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-pricing-credits-2271-at-medline-4418728208 | Medline | Analyst - Pricing Credits - 2271 | Pune Division, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/r-d-pipeline-valuation-analyst-at-elanco-4446211970 | Elanco | R&D Pipeline Valuation Analyst | Bengaluru, Karnataka, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-transformation-consultant-finance-transformation-at-ibm-4468381597 | IBM | Business Transformation Consultant-Finance Transformation | Bengaluru, Karnataka, India | posted: 2026-11-20 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034 | Rieke | Financial Analyst | Baddi, Himachal Pradesh, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561 | Darshil Shah and associates | Chartered Accountant / Inter CA | Ahmedabad, Gujarat, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270 | BASF | GB/G Portfolio Management Analyst - Indirect Procurement | Hyderabad, Telangana, India | posted: 2026-11-20 | note: via LinkedIn
 
 ## Processed

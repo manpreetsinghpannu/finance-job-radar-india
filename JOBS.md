@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 16:42** (UK time) · **558 open roles** at 292 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 17:31** (UK time) · **562 open roles** at 296 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,32 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 16:38** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 21 Nov, 17:27** · hourly scan · checked 99 boards · **4 new roles**
 
-Nothing new this time. The last scan that found something was **Sat 21 Nov, 15:40** (3: Finance 1 · Investment 1 · Other 1); open it in the scan log below.
+### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
+| 2026-11-21 | [Chartered Accountant / Inter CA](https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561) | Darshil Shah and associates | Ahmedabad, Gujarat, India |
+
+### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [Business Transformation Consultant-Finance Transformation](https://www.linkedin.com/jobs/view/business-transformation-consultant-finance-transformation-at-ibm-4468381597) | IBM | Bengaluru, Karnataka, India |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [GB/G Portfolio Management Analyst - Indirect Procurement](https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270) | BASF | Hyderabad, Telangana, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (232 matching)
+**Finance (FP&A) CV** (235 matching)
 
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
 2. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
@@ -38,10 +55,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)](https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059) · Dawn & Dusk Advisors · Gurugram, Haryana, India · posted 2026-11-18
 
-**Consulting CV** (51 matching)
+**Consulting CV** (52 matching)
 
 1. [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) · EY · Mumbai
-2. [Consultant / APM: Scrum Master / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-Scrum-Master-Bengaluru-Finance-Transformation-Finance-Strategy/61420644/) · Deloitte India · Bengaluru
+2. [Business Transformation Consultant-Finance Transformation](https://www.linkedin.com/jobs/view/business-transformation-consultant-finance-transformation-at-ibm-4468381597) · IBM · Bengaluru, Karnataka, India · posted 2026-11-20
 
 **Real Estate CV** (43 matching)
 
@@ -58,6 +75,30 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<details>
+<summary><b>17:27</b> · hourly scan · <b>4 new</b> → Finance 2 · Consulting 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
+| 2026-11-21 | [Chartered Accountant / Inter CA](https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561) | Darshil Shah and associates | Ahmedabad, Gujarat, India |
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [Business Transformation Consultant-Finance Transformation](https://www.linkedin.com/jobs/view/business-transformation-consultant-finance-transformation-at-ibm-4468381597) | IBM | Bengaluru, Karnataka, India |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-20 | [GB/G Portfolio Management Analyst - Indirect Procurement](https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270) | BASF | Hyderabad, Telangana, India |
+
+</details>
 
 <sub>Nothing new at: 16:38</sub>
 
@@ -2094,22 +2135,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>16:42</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Associate - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai](https://www.linkedin.com/jobs/view/associate-sat-national-sat-tcf-capital-and-debt-advisory-mumbai-at-ey-4467390998) | EY | Mumbai, Maharashtra, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (209)](#finance-fpa-cv-209) · [Credit (136)](#credit-cv-136) · [Equity (32)](#equity-cv-32) · [Investment (87)](#investment-ib--pe-cv-87) · [Consulting (28)](#consulting-cv-28) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (211)](#finance-fpa-cv-211) · [Credit (136)](#credit-cv-136) · [Equity (32)](#equity-cv-32) · [Investment (87)](#investment-ib--pe-cv-87) · [Consulting (29)](#consulting-cv-29) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
 
-### Finance (FP&A) CV: 209
+### Finance (FP&A) CV: 211
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2117,9 +2147,11 @@ Everything matched so far, newest first within each CV: [Finance (209)](#finance
 | 2026-11-21 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-american-express-global-business-travel-4492312156) | American Express Global Business Travel | Gurgaon, Haryana, India |
 | 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492) | Jobs4PanIndia | India |
 | 2026-11-21 | [FP&A Analyst - A&D,MCS&UFMR&D](https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621) | Cytiva | Bengaluru East, Karnataka, India |
+| 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
 | 2026-11-21 | [AM- Financial Planning & Analysis](https://www.linkedin.com/jobs/view/am-financial-planning-analysis-at-tata-communications-4467841401) | Tata Communications | Mumbai, Maharashtra, India |
 | 2026-11-21 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-matrimony-com-limited-4492881594) | Matrimony.com Limited | Chennai, Tamil Nadu, India |
 | 2026-11-21 | [SMSF Accountant-Surat](https://www.linkedin.com/jobs/view/smsf-accountant-surat-at-auzin-advisory-private-limited-4493262976) | Auzin Advisory Private Limited | Surat, Gujarat, India |
+| 2026-11-21 | [Chartered Accountant / Inter CA](https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561) | Darshil Shah and associates | Ahmedabad, Gujarat, India |
 | 2026-11-20 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-nexthire-4492540807) | NEXTHIRE | Mumbai, Maharashtra, India |
 | 2026-11-20 | [Ralph Lauren Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918) | BoF Careers | Bangalore Urban, Karnataka, India |
 | 2026-11-20 | [Analyst, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cencora-4491698112) | Cencora | Pune Division, Maharashtra, India |
@@ -2593,13 +2625,14 @@ Everything matched so far, newest first within each CV: [Finance (209)](#finance
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 28
+### Consulting CV: 29
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Consultant / Financial Services / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Financial-Services-Bengaluru-Finance-Transformation-Finance-Strategy/60055544/) | Deloitte India | Bengaluru |
 | — | [Consultant / APM: IT PM / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-IT-PM-Bengaluru-Finance-Transformation-Finance-Strategy/61726644/) | Deloitte India | Bengaluru |
 | — | [Consultant / Oracle Planning / Delhi / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Delhi-Consultant-Oracle-Planning-Delhi-Finance-Transformation-Business-Finance/60080644/) | Deloitte India | Delhi |
+| 2026-11-20 | [Business Transformation Consultant-Finance Transformation](https://www.linkedin.com/jobs/view/business-transformation-consultant-finance-transformation-at-ibm-4468381597) | IBM | Bengaluru, Karnataka, India |
 | — | [T&T / EAID / OIDS / Consultant/ Strategy Consultant (oil and gas) / Delhi/NCR](https://southasiacareers.deloitte.com/job/Delhi-T&T-EAID-OIDS-Consultant-Strategy-Consultant-%28oil-and-gas%29-DelhiNCR/59761944/) | Deloitte India | Delhi |
 | — | [Consultant / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61613544/) | Deloitte India | Bengaluru |
 | 2026-11-17 | [Associate Consultant-Finance Transformation - Gurgaon](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005) | KPMG India | Gurgaon, Haryana, India |
@@ -2683,12 +2716,13 @@ Everything matched so far, newest first within each CV: [Finance (209)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 19
+### Other (fits no CV closely, may still be worth a look): 20
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-21 | [Stock Trader](https://www.linkedin.com/jobs/view/stock-trader-4492883742) | Sunny Kumar Trader | New Delhi, Delhi, India |
 | 2026-11-21 | [Analyst - Pricing Credits - 2271](https://www.linkedin.com/jobs/view/analyst-pricing-credits-2271-at-medline-4418728208) | Medline | Pune Division, Maharashtra, India |
+| 2026-11-20 | [GB/G Portfolio Management Analyst - Indirect Procurement](https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270) | BASF | Hyderabad, Telangana, India |
 | 2026-11-19 | [Product Controller - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809604) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-19 | [Analyst, Damages and Valuations](https://www.linkedin.com/jobs/view/analyst-damages-and-valuations-at-secretariat-4492168606) | Secretariat | Mumbai, Maharashtra, India |
 | 2026-11-19 | [Energy Portfolio Management](https://www.linkedin.com/jobs/view/energy-portfolio-management-at-manikaran-power-limited-4492290066) | Manikaran Power Limited | Patna, Bihar, India |
