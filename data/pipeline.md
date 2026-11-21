@@ -769,5 +769,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-IT-PM-Bengaluru-Finance-Transformation-Finance-Strategy/61726644/ | Deloitte India | Consultant / APM: IT PM / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
 - [ ] https://www.linkedin.com/jobs/view/financial-research-analyst-at-money-purse-finserv-4493273068 | Money Purse Finserv | Financial Research Analyst | Hyderabad, Telangana, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954 | JPMorganChase | WCR Portfolio Analytics - Associate | Mumbai, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

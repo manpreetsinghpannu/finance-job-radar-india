@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 08:43** (UK time) · **548 open roles** at 287 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 09:45** (UK time) · **549 open roles** at 287 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 08:40** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 21 Nov, 09:41** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 21 Nov, 07:39** (2: Equity 1 · Consulting 1); open it in the scan log below.
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [WCR Portfolio Analytics - Associate](https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954) | JPMorganChase | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -28,7 +32,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (46 matching)
+**Equity CV** (47 matching)
 
 1. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) · Allvest · Kurla, Maharashtra, India · posted 2026-11-18
 2. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
@@ -48,7 +52,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 2. [Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 
-**Fund CV (written for India; tweak the header for UK roles)** (43 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (44 matching)
 
 1. [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) · Deutsche Bank · Jaipur, Rajasthan, India · posted 2026-11-16
 2. [Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore](https://www.linkedin.com/jobs/view/alternative-fund-services-private-fund-services-fund-accounting-analyst-associate-bangalore-at-jpmorganchase-4459609079) · JPMorganChase · Bengaluru, Karnataka, India · posted 2026-11-20
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<details>
+<summary><b>09:41</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [WCR Portfolio Analytics - Associate](https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954) | JPMorganChase | Mumbai, Maharashtra, India |
+
+</details>
 
 <sub>Nothing new at: 08:40</sub>
 
@@ -2086,11 +2101,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 09:36</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (203)](#finance-fpa-cv-203) · [Credit (137)](#credit-cv-137) · [Equity (30)](#equity-cv-30) · [Investment (86)](#investment-ib--pe-cv-86) · [Consulting (28)](#consulting-cv-28) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
+Everything matched so far, newest first within each CV: [Finance (203)](#finance-fpa-cv-203) · [Credit (137)](#credit-cv-137) · [Equity (31)](#equity-cv-31) · [Investment (86)](#investment-ib--pe-cv-86) · [Consulting (28)](#consulting-cv-28) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (17)](#other-fits-no-cv-closely-may-still-be-worth-a-look-17)
 
 ### Finance (FP&A) CV: 203
 
@@ -2442,12 +2455,13 @@ Everything matched so far, newest first within each CV: [Finance (203)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 30
+### Equity CV: 31
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-21 | [Stock market dealer and technical research analyst](https://www.linkedin.com/jobs/view/stock-market-dealer-and-technical-research-analyst-at-rising-bull-4492856795) | RISING BULL | Raipur district, Chhattisgarh, India |
 | 2026-11-21 | [Financial Research Analyst](https://www.linkedin.com/jobs/view/financial-research-analyst-at-money-purse-finserv-4493273068) | Money Purse Finserv | Hyderabad, Telangana, India |
+| 2026-11-21 | [WCR Portfolio Analytics - Associate](https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-20 | [Equity Research Associate (Bernstein – India)](https://www.linkedin.com/jobs/view/equity-research-associate-bernstein-%E2%80%93-india-at-societe-generale-4484936771) | Societe Generale | Mumbai Metropolitan Region |
 | 2026-11-20 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-anand-rathi-share-and-stock-brokers-ltd-4491689904) | Anand Rathi Share and Stock Brokers Ltd | Mumbai, Maharashtra, India |
 | 2026-11-20 | [Research Analyst, Healthcare](https://www.linkedin.com/jobs/view/research-analyst-healthcare-at-millennium-4210404138) | Millennium | Mumbai, Maharashtra, India |

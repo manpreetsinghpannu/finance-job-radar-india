@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:43:49.802Z",
+ "generated_at": "2026-11-21T09:45:06.752Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 43,
+   "matching": 44,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -2992,6 +2992,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 10
   }
  }
 }
