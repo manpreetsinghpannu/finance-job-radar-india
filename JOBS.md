@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 17:31** (UK time) · **562 open roles** at 296 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 17:45** (UK time) · **563 open roles** at 297 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 17:27** · hourly scan · checked 99 boards · **4 new roles**
+**Sat 21 Nov, 17:41** · hourly scan · checked 99 boards · **5 new roles**
 
 ### Finance (FP&A) CV: 2
 
@@ -18,6 +18,12 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 |---|---|---|---|
 | 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
 | 2026-11-21 | [Chartered Accountant / Inter CA](https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561) | Darshil Shah and associates | Ahmedabad, Gujarat, India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [Vendor Risk Analyst](https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-kaufman-rossin-4403196386) | Kaufman Rossin | Bengaluru, Karnataka, India |
 
 ### Consulting CV: 1
 
@@ -40,7 +46,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
 2. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
 
-**Credit CV** (140 matching)
+**Credit CV** (141 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -77,7 +83,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 21 November
 
 <details>
-<summary><b>17:27</b> · hourly scan · <b>4 new</b> → Finance 2 · Consulting 1 · Other 1</summary>
+<summary><b>17:41</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 1 · Consulting 1 · Other 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -85,6 +91,12 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
 | 2026-11-21 | [Chartered Accountant / Inter CA](https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561) | Darshil Shah and associates | Ahmedabad, Gujarat, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-21 | [Vendor Risk Analyst](https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-kaufman-rossin-4403196386) | Kaufman Rossin | Bengaluru, Karnataka, India |
 
 #### Consulting CV: 1
 
@@ -2122,22 +2134,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>17:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Assurance – Risk Modelling Services - Market/ Liquidity Risk Specialist - Associate](https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-market-liquidity-risk-specialist-associate-at-pwc-acceleration-center-india-4481032866) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (211)](#finance-fpa-cv-211) · [Credit (136)](#credit-cv-136) · [Equity (32)](#equity-cv-32) · [Investment (87)](#investment-ib--pe-cv-87) · [Consulting (29)](#consulting-cv-29) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
+Everything matched so far, newest first within each CV: [Finance (211)](#finance-fpa-cv-211) · [Credit (137)](#credit-cv-137) · [Equity (32)](#equity-cv-32) · [Investment (87)](#investment-ib--pe-cv-87) · [Consulting (29)](#consulting-cv-29) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
 
 ### Finance (FP&A) CV: 211
 
@@ -2355,12 +2354,13 @@ Everything matched so far, newest first within each CV: [Finance (211)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 136
+### Credit CV: 137
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-21 | [Quality Executive - Retail MFB - Credit - Guduru - Hindur Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57627) | Tata Capital | India |
 | 2026-11-21 | [1st Line Ops Risk Analyst](https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219) | FNZ | Gurugram, Haryana, India |
+| 2026-11-21 | [Vendor Risk Analyst](https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-kaufman-rossin-4403196386) | Kaufman Rossin | Bengaluru, Karnataka, India |
 | 2026-11-21 | [Associate - Risk Controls - Market Risk](https://www.linkedin.com/jobs/view/associate-risk-controls-market-risk-at-bnp-paribas-4485372370) | BNP Paribas | Bengaluru, Karnataka, India |
 | 2026-11-20 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kissht-4492915066) | Kissht | Mumbai, Maharashtra, India |
 | 2026-11-20 | [Credit Analyst - Credit Initiation](https://www.linkedin.com/jobs/view/credit-analyst-credit-initiation-at-standard-chartered-india-4492520698) | Standard Chartered India | Delhi, Delhi, India |

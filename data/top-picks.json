@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:31:11.507Z",
+ "generated_at": "2026-11-21T17:45:10.904Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 140,
+   "matching": 141,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -3053,6 +3053,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-kaufman-rossin-4403196386": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   },
   "https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561": {
    "id": "finance",
