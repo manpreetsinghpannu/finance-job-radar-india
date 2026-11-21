@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T12:45:09.285Z",
+ "generated_at": "2026-11-21T13:42:22.421Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 143,
+   "matching": 142,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2925,11 +2925,6 @@
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/credit-executive-4492817682": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://www.linkedin.com/jobs/view/credit-and-collections-analyst-at-hireright-4485324940": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3044,6 +3039,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/stock-trader-4492883742": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
