@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 19:59** (UK time) · **562 open roles** at 297 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 20:46** (UK time) · **562 open roles** at 297 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,14 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 19:56** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 21 Nov, 20:42** · hourly scan · checked 99 boards · **0 new roles**
 
-### Equity CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Analyst - Investment Research](https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339) | Linedata | Mumbai Metropolitan Region |
-| 2026-11-21 | [Associate - Investment Research](https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229) | Linedata | Mumbai Metropolitan Region |
+Nothing new this time. The last scan that found something was **Sat 21 Nov, 19:56** (2: Equity 2); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -63,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<sub>Nothing new at: 20:42</sub>
 
 <details>
 <summary><b>19:56</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
@@ -2123,7 +2120,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 14 November
 
-<sub>Nothing new at: 23:35, 23:25, 22:36, 21:36, 21:23, 20:36</sub>
+<sub>Nothing new at: 23:35, 23:25, 22:36, 21:36, 21:23</sub>
 
 ## All open roles by CV
 
