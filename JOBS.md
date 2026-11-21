@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 21:45** (UK time) · **563 open roles** at 298 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 22:44** (UK time) · **563 open roles** at 298 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 21:42** · hourly scan · checked 99 boards · **1 new role**
+**Sat 21 Nov, 22:40** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492866767) | Joblet-AI | India |
+Nothing new this time. The last scan that found something was **Sat 21 Nov, 21:42** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 21 November
+
+<sub>Nothing new at: 22:40</sub>
 
 <details>
 <summary><b>21:42</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2135,7 +2133,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 14 November
 
-<sub>Nothing new at: 23:35, 23:25, 22:36</sub>
+<sub>Nothing new at: 23:35, 23:25</sub>
 
 ## All open roles by CV
 
@@ -2747,7 +2745,7 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>85 roles taken off the list because the firm closed the posting</summary>
+<summary>84 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2835,6 +2833,5 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 | Mon 16 Nov, 08:37 | Commercial & Investment Bank Risk Associate | JPMorgan Chase |
 | Mon 16 Nov, 07:34 | Quantitative Risk & Credit Analytics – Associate / Senior Associate | ALP |
 | Sun 15 Nov, 19:37 | Investment Banking Associate | Mindnexa Solutions |
-| Sat 14 Nov, 22:37 | Treasury & Settlement Operations Executive | Riverpe |
 
 </details>
