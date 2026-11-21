@@ -1,21 +1,21 @@
 {
-  "finished_at": "2026-11-21T03:44:18.029Z",
+  "finished_at": "2026-11-21T04:44:42.161Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 30624,
-  "filtered_out": 30567,
+  "postings_seen": 37538,
+  "filtered_out": 37479,
   "new_matches": 0,
-  "boards_failed": 40,
+  "boards_failed": 46,
   "failed": [
     {
-      "company": "JPMorgan Chase",
-      "error": "fetch failed"
+      "company": "Invesco",
+      "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Vanguard",
+      "company": "Invesco (Early Careers)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -23,7 +23,19 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
+      "company": "Vanguard",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "BlackRock",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
       "company": "Franklin Templeton",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "MUFG",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -35,7 +47,15 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "MUFG",
+      "company": "PIMCO",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Blackstone",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Blackstone (Campus)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -43,11 +63,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "S&P Global",
+      "company": "Ares Management",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "CME Group",
+      "company": "S&P Global",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -59,10 +79,6 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "AIG",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
       "company": "LSEG (Graduates)",
       "error": "HTTP 429 Too Many Requests"
     },
@@ -71,7 +87,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Accenture",
+      "company": "CME Group",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "AIG",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -83,11 +103,19 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
+      "company": "Accenture",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
       "company": "PayPal",
       "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "GSK",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Unilever (Early Careers)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -99,15 +127,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Unilever (Early Careers)",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "BNY",
-      "error": "fetch failed"
-    },
-    {
-      "company": "Diageo",
+      "company": "Houlihan Lokey (Campus)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -115,7 +135,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Houlihan Lokey (Campus)",
+      "company": "Diageo",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Shell",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -127,11 +151,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Mizuho",
+      "company": "State Street",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "State Street",
+      "company": "Mizuho",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -147,16 +171,16 @@
       "error": "fetch failed"
     },
     {
-      "company": "Duff & Phelps (Kroll)",
-      "error": "HTTP 404 Not Found"
-    },
-    {
       "company": "Ameriprise Financial",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "EY",
-      "error": "This operation was aborted"
+      "company": "Duff & Phelps (Kroll)",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Genpact",
+      "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Brookfield",

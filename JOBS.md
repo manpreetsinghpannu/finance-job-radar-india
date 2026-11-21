@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 03:44** (UK time) · **550 open roles** at 290 firms · the radar checks every board about once an hour.
+Updated **Sat 21 Nov, 04:44** (UK time) · **550 open roles** at 290 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 03:40** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 21 Nov, 04:40** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 21 Nov, 02:57** (1: Equity 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 21 November
 
-<sub>Nothing new at: 03:40</sub>
+<sub>Nothing new at: 04:40, 03:40</sub>
 
 <details>
 <summary><b>02:57</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -2108,17 +2108,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-14 | [Treasury Hedge Accounting Analyst](https://www.linkedin.com/jobs/view/treasury-hedge-accounting-analyst-at-barclays-4488589717) | Barclays | Chennai, Tamil Nadu, India |
-
-</details>
-
-<details>
-<summary><b>04:36</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-14 | [Quality Executive - Retail MFB - Credit - Kittur - Shimbi Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57019) | Tata Capital | India |
 
 </details>
 
