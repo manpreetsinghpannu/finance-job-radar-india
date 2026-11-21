@@ -760,4 +760,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5879238-S2076167-1 | Accenture | Financial Planning & Analysis Representa | Mumbai | posted: 2026-11-20
 - [ ] https://www.linkedin.com/jobs/view/fp-a-operations-analyst-at-ge-vernova-4492852484 | GE Vernova | FP&A Operations Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-20 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-T&T-HC-OT-M&A-Consultant-MumbaiDelhi/58902344/ | Deloitte India | T&T- HC- OT- M&A- Consultant- Mumbai/Delhi | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Financial-Services-Bengaluru-Finance-Transformation-Finance-Strategy/60055544/ | Deloitte India | Consultant / Financial Services / Bengaluru / Finance Transformation / Finance Strategy | Bengaluru
+- [ ] https://southasiacareers.deloitte.com/job/Delhi-Consultant-Oracle-Planning-Delhi-Finance-Transformation-Business-Finance/60080644/ | Deloitte India | Consultant / Oracle Planning / Delhi / Finance Transformation / Business Finance | Delhi
+
 ## Processed

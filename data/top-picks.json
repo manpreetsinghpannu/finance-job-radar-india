@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T01:50:10.187Z",
+ "generated_at": "2026-11-21T02:45:20.542Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 224,
+   "matching": 226,
    "picks": [
     {
      "title": "FP&A COE Finance Analyst",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 47,
+   "matching": 50,
    "picks": [
     {
      "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
@@ -622,11 +622,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 8
-  },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01674096-1": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": -2
   },
   "https://www.linkedin.com/jobs/view/corporate-treasury-desk-strategist-associate-quantitative-strategists-at-morgan-stanley-4445221363": {
    "id": "finance",
@@ -2987,6 +2982,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-T&T-HC-OT-M&A-Consultant-MumbaiDelhi/58902344/": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Financial-Services-Bengaluru-Finance-Transformation-Finance-Strategy/60055544/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 12
+  },
+  "https://southasiacareers.deloitte.com/job/Delhi-Consultant-Oracle-Planning-Delhi-Finance-Transformation-Business-Finance/60080644/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
   }
  }
 }
