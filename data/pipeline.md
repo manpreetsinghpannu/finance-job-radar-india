@@ -796,5 +796,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-jaipur-at-naukripay-group-4492895094 | Naukripay group | Accountant ( Jaipur) | Jaipur, Rajasthan, India | posted: 2026-11-20 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339 | Linedata | Analyst - Investment Research | Mumbai Metropolitan Region | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229 | Linedata | Associate - Investment Research | Mumbai Metropolitan Region | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492866767 | Joblet-AI | FP&A Analyst (Remote) | India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
