@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:45:20.542Z",
+ "generated_at": "2026-11-21T03:01:28.790Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Equity Research Analyst",
@@ -2997,6 +2997,11 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/stock-market-dealer-and-technical-research-analyst-at-rising-bull-4492856795": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
   }
  }
 }
