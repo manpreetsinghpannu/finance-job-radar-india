@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:41:12.001Z",
+ "generated_at": "2026-11-21T15:44:20.182Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 232,
+   "matching": 233,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 100,
+   "matching": 101,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -192,7 +192,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 42,
+   "matching": 43,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -3038,6 +3038,21 @@
   "https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/analyst-pricing-credits-2271-at-medline-4418728208": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/r-d-pipeline-valuation-analyst-at-elanco-4446211970": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
    "score": 18
   }
  }

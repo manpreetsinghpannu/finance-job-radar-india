@@ -784,5 +784,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/smsf-accountant-surat-at-auzin-advisory-private-limited-4493262976 | Auzin Advisory Private Limited | SMSF Accountant-Surat | Surat, Gujarat, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/stock-trader-4492883742 | Sunny Kumar Trader | Stock Trader | New Delhi, Delhi, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492 | Jobs4PanIndia | Financial Analyst | India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621 | Cytiva | FP&A Analyst - A&D,MCS&UFMR&D | Bengaluru East, Karnataka, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-pricing-credits-2271-at-medline-4418728208 | Medline | Analyst - Pricing Credits - 2271 | Pune Division, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/r-d-pipeline-valuation-analyst-at-elanco-4446211970 | Elanco | R&D Pipeline Valuation Analyst | Bengaluru, Karnataka, India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
