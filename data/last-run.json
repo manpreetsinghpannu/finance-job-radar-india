@@ -1,29 +1,17 @@
 {
-  "finished_at": "2026-11-21T15:44:20.991Z",
+  "finished_at": "2026-11-21T16:42:15.379Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 35900,
-  "filtered_out": 35861,
-  "new_matches": 3,
-  "boards_failed": 50,
+  "postings_seen": 37759,
+  "filtered_out": 37701,
+  "new_matches": 0,
+  "boards_failed": 39,
   "failed": [
     {
       "company": "BlackRock",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Wellington Management",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Vanguard",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Invesco",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -31,11 +19,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Franklin Templeton",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "MUFG",
+      "company": "Invesco",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -43,7 +27,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Blackstone",
+      "company": "Barclays",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -51,11 +35,19 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Blackstone (Campus)",
+      "company": "Blackstone",
       "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Bain Capital",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Blackstone (Campus)",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Ares Management",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -67,19 +59,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
+      "company": "LSEG",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
       "company": "CME Group",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "AIG",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Marsh McLennan",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Mastercard",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -88,10 +72,6 @@
     },
     {
       "company": "Visa",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "PayPal",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -107,7 +87,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Unilever",
+      "company": "Unilever (Early Careers)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -115,7 +95,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Shell",
+      "company": "Houlihan Lokey (Lateral)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -123,11 +103,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Rolls-Royce",
+      "company": "Shell",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Houlihan Lokey (Lateral)",
+      "company": "Rolls-Royce",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -151,18 +131,6 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Nomura",
-      "error": "HTTP 503 Service Unavailable"
-    },
-    {
-      "company": "Janus Henderson",
-      "error": "HTTP 503 Service Unavailable"
-    },
-    {
-      "company": "SMBC",
-      "error": "HTTP 503 Service Unavailable"
-    },
-    {
       "company": "Wipro",
       "error": "bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant"
     },
@@ -175,12 +143,12 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Ameriprise Financial",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Ameriprise Financial",
+      "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Genpact",
@@ -191,24 +159,12 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Mahindra Group",
-      "error": "HTTP 503 Service Unavailable"
-    },
-    {
-      "company": "Asian Paints",
-      "error": "HTTP 503 Service Unavailable"
-    },
-    {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
     },
     {
       "company": "Target India",
       "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "GIC",
-      "error": "This operation was aborted"
     }
   ]
 }
