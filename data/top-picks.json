@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:36:00.478Z",
+ "generated_at": "2026-11-22T18:46:39.198Z",
  "order": [
   "finance",
   "credit",
@@ -3164,6 +3164,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/accountant-4493514243": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 18:36** (UK time) · **582 open roles** at 309 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 18:46** (UK time) · **583 open roles** at 310 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 18:32** · hourly scan · checked 99 boards · **2 new roles**
+**Sun 22 Nov, 18:42** · hourly scan · checked 99 boards · **3 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-22 | [Supply Chain Product FP&A Analyst](https://www.linkedin.com/jobs/view/supply-chain-product-fp-a-analyst-at-cisco-4485973592) | Cisco | Bengaluru, Karnataka, India |
+| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493514243) | Client of Shree Vardhaman Services | Lucknow, Uttar Pradesh, India |
 
 ### Fund CV (written for India; tweak the header for UK roles): 1
 
@@ -70,13 +71,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Sunday 22 November
 
 <details>
-<summary><b>18:32</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
+<summary><b>18:42</b> · hourly scan · <b>3 new</b> → Finance 2 · Fund 1</summary>
 
-#### Finance (FP&A) CV: 1
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-22 | [Supply Chain Product FP&A Analyst](https://www.linkedin.com/jobs/view/supply-chain-product-fp-a-analyst-at-cisco-4485973592) | Cisco | Bengaluru, Karnataka, India |
+| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493514243) | Client of Shree Vardhaman Services | Lucknow, Uttar Pradesh, India |
 
 #### Fund CV (written for India; tweak the header for UK roles): 1
 
@@ -2228,7 +2230,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (223)](#finance-fpa-cv-223) · [Credit (140)](#credit-cv-140) · [Equity (36)](#equity-cv-36) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (34)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-34) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (224)](#finance-fpa-cv-224) · [Credit (140)](#credit-cv-140) · [Equity (36)](#equity-cv-36) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (34)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-34) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
 ### Finance (FP&A) CV: 223
 
@@ -2246,6 +2248,7 @@ Everything matched so far, newest first within each CV: [Finance (223)](#finance
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493100202) | ind Corpus | Jaipur, Rajasthan, India |
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-zetheta-algorithms-private-limited-4493178679) | Zetheta Algorithms Private Limited | India |
 | 2026-11-22 | [Chartered Accountant](https://www.linkedin.com/jobs/view/chartered-accountant-at-hair-rap-by-yoyo-4492352545) | HAIR RAP BY YOYO | Ahmedabad, Gujarat, India |
+| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493514243) | Client of Shree Vardhaman Services | Lucknow, Uttar Pradesh, India |
 | 2026-11-21 | [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) | Signify | Pune Division, Maharashtra, India |
 | 2026-11-21 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-american-express-global-business-travel-4492312156) | American Express Global Business Travel | Gurgaon, Haryana, India |
 | 2026-11-21 | [FP&A Analyst - A&D,MCS&UFMR&D](https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621) | Cytiva | Bengaluru East, Karnataka, India |
@@ -2859,8 +2862,8 @@ Everything matched so far, newest first within each CV: [Finance (223)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Sun 22 Nov, 18:35 | Financial Analyst - AR & AP | Cancard Inc. |
-| Sun 22 Nov, 18:34 | Accountant | ADCO |
+| Sun 22 Nov, 18:45 | Financial Analyst - AR & AP | Cancard Inc. |
+| Sun 22 Nov, 18:44 | Accountant | ADCO |
 | Sun 22 Nov, 15:38 | Consultant - Financial Institutions & Counterparty Risk | Northern Trust |
 | Sun 22 Nov, 11:13 | FP&A Advisor | Shell |
 | Sun 22 Nov, 11:13 | Credit Associate | PInterview- Management Consultant Coaching |

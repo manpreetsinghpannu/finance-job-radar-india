@@ -826,5 +826,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/hiring-hedge-fund-accounting-professionals%21-at-ss-c-technologies-4413725574 | SS&C Technologies | Hiring Hedge Fund Accounting Professionals! | Navi Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/supply-chain-product-fp-a-analyst-at-cisco-4485973592 | Cisco | Supply Chain Product FP&A Analyst | Bengaluru, Karnataka, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-private-credit-associate-at-blackrock-4442470018 | BlackRock | Fund Accounting, Private Credit , Associate | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-4493514243 | Client of Shree Vardhaman Services | Accountant | Lucknow, Uttar Pradesh, India | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
