@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 21 Nov, 23:41** (UK time) · **564 open roles** at 299 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 00:44** (UK time) · **564 open roles** at 299 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 21 Nov, 23:37** · hourly scan · checked 99 boards · **1 new role**
+**Sun 22 Nov, 00:40** · hourly scan · checked 99 boards · **0 new roles**
 
-### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) | Accenture services Pvt Ltd | Gurugram, Haryana, India |
+Nothing new this time. The last scan that found something was **Sat 21 Nov, 23:37** (1: Consulting 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -60,6 +56,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Sunday 22 November
+
+<sub>Nothing new at: 00:40</sub>
 
 ### Saturday 21 November
 
@@ -2134,17 +2134,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 04:35, 03:35, 03:07, 02:36, 01:49, 01:36</sub>
-
-<details>
-<summary><b>00:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Supply Chain Financial Analyst](https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656) | GamblingCareers.com | Gurugram, Haryana, India |
-
-</details>
 
 ## All open roles by CV
 
