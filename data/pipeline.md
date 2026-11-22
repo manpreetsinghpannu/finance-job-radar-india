@@ -814,5 +814,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-financial-reporting-hyderabad-at-deloitte-4466505246 | Deloitte | Associate - Financial Reporting - Hyderabad | Hyderabad, Telangana, India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-finance-analyst-debt-at-vista-analytics-llp-4492338980 | Vista Analytics LLP | Corporate Finance Analyst - Debt | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-at-peak-realty-india-pvt-ltd-4492304634 | Peak Realty India Pvt Ltd | Accountant | Nagpur, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781 | Kanou Capital LLP | Equity Research Analyst — Energy Transition Focus | Greater Delhi Area | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-wolf-of-dalal-street-4492359138 | WOLF OF DALAL STREET | Financial Analyst | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-adco-4492356113 | ADCO | Accountant | Bhubaneswar, Odisha, India | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 11:15** (UK time) · **573 open roles** at 305 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 11:42** (UK time) · **576 open roles** at 308 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,26 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 11:11** · hourly scan · checked 99 boards · **2 new roles**
+**Sun 22 Nov, 11:39** · hourly scan · checked 99 boards · **3 new roles**
 
 ### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-22 | [Corporate Finance Analyst - Debt](https://www.linkedin.com/jobs/view/corporate-finance-analyst-debt-at-vista-analytics-llp-4492338980) | Vista Analytics LLP | Mumbai, Maharashtra, India |
-| 2026-11-21 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-peak-realty-india-pvt-ltd-4492304634) | Peak Realty India Pvt Ltd | Nagpur, Maharashtra, India |
+| 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-wolf-of-dalal-street-4492359138) | WOLF OF DALAL STREET | Mumbai, Maharashtra, India |
+| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-adco-4492356113) | ADCO | Bhubaneswar, Odisha, India |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-22 | [Equity Research Analyst — Energy Transition Focus](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781) | Kanou Capital LLP | Greater Delhi Area |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (242 matching)
+**Finance (FP&A) CV** (244 matching)
 
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-perforce-software-4493312771) · Perforce Software · Pune Division, Maharashtra, India · posted 2026-11-22
 2. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
@@ -33,10 +39,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (51 matching)
+**Equity CV** (52 matching)
 
-1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
-2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) · Allvest · Kurla, Maharashtra, India · posted 2026-11-18
+1. [Equity Research Analyst — Energy Transition Focus](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781) · Kanou Capital LLP · Greater Delhi Area · posted 2026-11-22
+2. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 
 **Investment (IB / PE) CV** (100 matching)
 
@@ -63,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>11:39</b> · hourly scan · <b>3 new</b> → Finance 2 · Equity 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-wolf-of-dalal-street-4492359138) | WOLF OF DALAL STREET | Mumbai, Maharashtra, India |
+| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-adco-4492356113) | ADCO | Bhubaneswar, Odisha, India |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-22 | [Equity Research Analyst — Energy Transition Focus](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781) | Kanou Capital LLP | Greater Delhi Area |
+
+</details>
 
 <details>
 <summary><b>11:11</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
@@ -2198,30 +2222,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 12:35</sub>
 
-<details>
-<summary><b>11:38</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (217)](#finance-fpa-cv-217) · [Credit (140)](#credit-cv-140) · [Equity (35)](#equity-cv-35) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (219)](#finance-fpa-cv-219) · [Credit (140)](#credit-cv-140) · [Equity (36)](#equity-cv-36) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
-### Finance (FP&A) CV: 217
+### Finance (FP&A) CV: 219
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-22 | [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-perforce-software-4493312771) | Perforce Software | Pune Division, Maharashtra, India |
 | 2026-11-22 | [Corporate Finance Analyst - Debt](https://www.linkedin.com/jobs/view/corporate-finance-analyst-debt-at-vista-analytics-llp-4492338980) | Vista Analytics LLP | Mumbai, Maharashtra, India |
+| 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-wolf-of-dalal-street-4492359138) | WOLF OF DALAL STREET | Mumbai, Maharashtra, India |
 | 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4493154504) | shree insurance consultant | Jalgaon, Maharashtra, India |
 | 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-practicing-talent-business-services-ptbs-4492334982) | Practicing Talent Business Services | Nashik, Maharashtra, India |
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493100202) | ind Corpus | Jaipur, Rajasthan, India |
+| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-adco-4492356113) | ADCO | Bhubaneswar, Odisha, India |
 | 2026-11-21 | [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) | Signify | Pune Division, Maharashtra, India |
 | 2026-11-21 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-american-express-global-business-travel-4492312156) | American Express Global Business Travel | Gurgaon, Haryana, India |
 | 2026-11-21 | [FP&A Analyst - A&D,MCS&UFMR&D](https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621) | Cytiva | Bengaluru East, Karnataka, India |
@@ -2580,10 +2595,11 @@ Everything matched so far, newest first within each CV: [Finance (217)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 35
+### Equity CV: 36
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-22 | [Equity Research Analyst — Energy Transition Focus](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781) | Kanou Capital LLP | Greater Delhi Area |
 | 2026-11-22 | [Medical Tourism Research Analyst](https://www.linkedin.com/jobs/view/medical-tourism-research-analyst-4493151712) | Ash s med | Jaipur, Rajasthan, India |
 | 2026-11-21 | [Analyst - Investment Research](https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339) | Linedata | Mumbai Metropolitan Region |
 | 2026-11-21 | [Stock market dealer and technical research analyst](https://www.linkedin.com/jobs/view/stock-market-dealer-and-technical-research-analyst-at-rising-bull-4492856795) | RISING BULL | Raipur district, Chhattisgarh, India |
