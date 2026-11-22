@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 02:40** (UK time) · **564 open roles** at 298 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 03:11** (UK time) · **563 open roles** at 297 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 02:36** · hourly scan · checked 99 boards · **1 new role**
+**Sun 22 Nov, 03:07** · hourly scan · checked 99 boards · **0 new roles**
 
-### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/) | Deloitte India | Bengaluru |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 02:36** (1: Consulting 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (236 matching)
+**Finance (FP&A) CV** (235 matching)
 
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
 2. [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) · eBay · Bengaluru, Karnataka, India · posted 2026-11-19
@@ -63,6 +59,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 22 November
 
+<sub>Nothing new at: 03:07</sub>
+
 <details>
 <summary><b>02:36</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
 
@@ -89,20 +87,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 23:12, 22:40</sub>
-
-<details>
-<summary><b>21:42</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492866767) | Joblet-AI | India |
-
-</details>
-
-<sub>Nothing new at: 20:42</sub>
+<sub>Nothing new at: 23:12, 22:40, 21:42, 20:42</sub>
 
 <details>
 <summary><b>19:56</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
@@ -2139,13 +2124,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:35, 03:35, 03:07</sub>
+<sub>Nothing new at: 04:35, 03:35</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (211)](#finance-fpa-cv-211) · [Credit (137)](#credit-cv-137) · [Equity (34)](#equity-cv-34) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (210)](#finance-fpa-cv-210) · [Credit (137)](#credit-cv-137) · [Equity (34)](#equity-cv-34) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
-### Finance (FP&A) CV: 211
+### Finance (FP&A) CV: 210
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2153,7 +2138,6 @@ Everything matched so far, newest first within each CV: [Finance (211)](#finance
 | 2026-11-21 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-american-express-global-business-travel-4492312156) | American Express Global Business Travel | Gurgaon, Haryana, India |
 | 2026-11-21 | [FP&A Analyst - A&D,MCS&UFMR&D](https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621) | Cytiva | Bengaluru East, Karnataka, India |
 | 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
-| 2026-11-21 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492866767) | Joblet-AI | India |
 | 2026-11-21 | [AM- Financial Planning & Analysis](https://www.linkedin.com/jobs/view/am-financial-planning-analysis-at-tata-communications-4467841401) | Tata Communications | Mumbai, Maharashtra, India |
 | 2026-11-21 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-matrimony-com-limited-4492881594) | Matrimony.com Limited | Chennai, Tamil Nadu, India |
 | 2026-11-21 | [SMSF Accountant-Surat](https://www.linkedin.com/jobs/view/smsf-accountant-surat-at-auzin-advisory-private-limited-4493262976) | Auzin Advisory Private Limited | Surat, Gujarat, India |
@@ -2752,10 +2736,11 @@ Everything matched so far, newest first within each CV: [Finance (211)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>85 roles taken off the list because the firm closed the posting</summary>
+<summary>86 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 22 Nov, 03:08 | FP&A Analyst (Remote) | Joblet-AI |
 | Sun 22 Nov, 02:38 | Financial Analyst | Jobs4PanIndia |
 | Sat 21 Nov, 19:57 | Analyst -Valuations Cotrol | Barclays |
 | Sat 21 Nov, 19:56 | Analyst - Product Control Financial reporting | Barclays |
