@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T01:44:50.423Z",
+ "generated_at": "2026-11-22T02:40:15.544Z",
  "order": [
   "finance",
   "credit",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 53,
+   "matching": 54,
    "picks": [
     {
      "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
@@ -3005,11 +3005,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3074,6 +3069,11 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 16
+  },
+  "https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 8
   }
  }
 }

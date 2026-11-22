@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 01:44** (UK time) · **564 open roles** at 299 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 02:40** (UK time) · **564 open roles** at 298 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 01:41** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 22 Nov, 02:36** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Sat 21 Nov, 23:37** (1: Consulting 1); open it in the scan log below.
+### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/) | Deloitte India | Bengaluru |
 
 ## Top picks for each CV
 
@@ -38,7 +42,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)](https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059) · Dawn & Dusk Advisors · Gurugram, Haryana, India · posted 2026-11-18
 
-**Consulting CV** (53 matching)
+**Consulting CV** (54 matching)
 
 1. [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) · Accenture services Pvt Ltd · Gurugram, Haryana, India · posted 2026-11-21
 2. [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) · EY · Mumbai
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>02:36</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/) | Deloitte India | Bengaluru |
+
+</details>
 
 <sub>Nothing new at: 01:41, 00:53</sub>
 
@@ -169,16 +184,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492) | Jobs4PanIndia | India |
-
-</details>
+<sub>Nothing new at: 14:37</sub>
 
 <details>
 <summary><b>13:38</b> · hourly scan · <b>1 new</b> → Other 1</summary>
@@ -2133,19 +2139,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:35, 03:35, 03:07, 02:36, 01:49</sub>
+<sub>Nothing new at: 04:35, 03:35, 03:07</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (212)](#finance-fpa-cv-212) · [Credit (137)](#credit-cv-137) · [Equity (34)](#equity-cv-34) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (30)](#consulting-cv-30) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (211)](#finance-fpa-cv-211) · [Credit (137)](#credit-cv-137) · [Equity (34)](#equity-cv-34) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
-### Finance (FP&A) CV: 212
+### Finance (FP&A) CV: 211
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-21 | [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) | Signify | Pune Division, Maharashtra, India |
 | 2026-11-21 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-american-express-global-business-travel-4492312156) | American Express Global Business Travel | Gurgaon, Haryana, India |
-| 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-jobs4panindia-4492893492) | Jobs4PanIndia | India |
 | 2026-11-21 | [FP&A Analyst - A&D,MCS&UFMR&D](https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621) | Cytiva | Bengaluru East, Karnataka, India |
 | 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
 | 2026-11-21 | [FP&A Analyst (Remote)](https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492866767) | Joblet-AI | India |
@@ -2627,10 +2632,11 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 30
+### Consulting CV: 31
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/) | Deloitte India | Bengaluru |
 | 2026-11-21 | [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) | Accenture services Pvt Ltd | Gurugram, Haryana, India |
 | — | [Consultant / Financial Services / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Financial-Services-Bengaluru-Finance-Transformation-Finance-Strategy/60055544/) | Deloitte India | Bengaluru |
 | — | [Consultant / APM: IT PM / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-APM-IT-PM-Bengaluru-Finance-Transformation-Finance-Strategy/61726644/) | Deloitte India | Bengaluru |
@@ -2746,10 +2752,11 @@ Everything matched so far, newest first within each CV: [Finance (212)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>84 roles taken off the list because the firm closed the posting</summary>
+<summary>85 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 22 Nov, 02:38 | Financial Analyst | Jobs4PanIndia |
 | Sat 21 Nov, 19:57 | Analyst -Valuations Cotrol | Barclays |
 | Sat 21 Nov, 19:56 | Analyst - Product Control Financial reporting | Barclays |
 | Sat 21 Nov, 19:56 | Quantitative Researcher – Alpha Strategies | Prosperity Wealth Management Pvt. Ltd. |

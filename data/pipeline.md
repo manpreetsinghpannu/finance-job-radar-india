@@ -799,4 +799,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-remote-at-joblet-ai-4492866767 | Joblet-AI | FP&A Analyst (Remote) | India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029 | Accenture services Pvt Ltd | S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant | Gurugram, Haryana, India | posted: 2026-11-21 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/ | Deloitte India | Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance | Bengaluru
+
 ## Processed
