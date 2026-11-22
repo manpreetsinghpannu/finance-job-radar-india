@@ -819,5 +819,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-at-adco-4492356113 | ADCO | Accountant | Bhubaneswar, Odisha, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-at-zetheta-algorithms-private-limited-4493178679 | Zetheta Algorithms Private Limited | Accountant | India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/program-finance-analyst-at-opmobility-4466695792 | OPmobility | Program Finance Analyst | Mulshi, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-4493371306 | IVaunt | Accountant | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/chartered-accountant-at-hair-rap-by-yoyo-4492352545 | HAIR RAP BY YOYO | Chartered Accountant | Ahmedabad, Gujarat, India | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

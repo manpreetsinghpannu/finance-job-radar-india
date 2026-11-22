@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T13:43:52.984Z",
+ "generated_at": "2026-11-22T14:41:35.991Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 246,
+   "matching": 248,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -3144,6 +3144,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/accountant-4493371306": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/chartered-accountant-at-hair-rap-by-yoyo-4492352545": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
