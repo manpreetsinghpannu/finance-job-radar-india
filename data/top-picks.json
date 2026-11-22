@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:56:18.582Z",
+ "generated_at": "2026-11-22T09:46:47.125Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 240,
+   "matching": 241,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 144,
+   "matching": 145,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -3109,6 +3109,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-associate-technology-media-telecoms-at-jpmorganchase-4449914663": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/associate-financial-reporting-hyderabad-at-deloitte-4466505246": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }

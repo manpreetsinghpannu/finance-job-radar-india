@@ -809,5 +809,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-underwriter-credit-analysis-home-loans-at-acura-solutions-ltd-4493174532 | ACURA SOLUTIONS LTD | Credit Underwriter - Credit Analysis, Home Loans | Bengaluru, Karnataka, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-practicing-talent-business-services-ptbs-4492334982 | Practicing Talent Business Services (PTBS) | Financial Analyst | Nashik, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-4493100202 | ind Corpus | Accountant | Jaipur, Rajasthan, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-associate-technology-media-telecoms-at-jpmorganchase-4449914663 | JPMorganChase | Wholesale Credit Risk EMEA Associate - Technology, Media & Telecoms | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-remote-at-crossing-hurdles-4492894406 | Crossing Hurdles | Financial Analyst | Remote | India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-financial-reporting-hyderabad-at-deloitte-4466505246 | Deloitte | Associate - Financial Reporting - Hyderabad | Hyderabad, Telangana, India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed
