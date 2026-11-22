@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:40:31.436Z",
+ "generated_at": "2026-11-22T08:41:31.597Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 238,
+   "matching": 240,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 143,
+   "matching": 144,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -3096,6 +3096,21 @@
    "score": 18
   },
   "https://www.linkedin.com/jobs/view/senoir-accountant-4492897304": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/credit-underwriter-credit-analysis-home-loans-at-acura-solutions-ltd-4493174532": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-practicing-talent-business-services-ptbs-4492334982": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/accountant-4493100202": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
