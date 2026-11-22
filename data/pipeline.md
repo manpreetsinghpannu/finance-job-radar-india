@@ -821,5 +821,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/program-finance-analyst-at-opmobility-4466695792 | OPmobility | Program Finance Analyst | Mulshi, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-4493371306 | IVaunt | Accountant | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/chartered-accountant-at-hair-rap-by-yoyo-4492352545 | HAIR RAP BY YOYO | Chartered Accountant | Ahmedabad, Gujarat, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-ii-apac-itx-team-at-amazon-4469206605 | Amazon | Finance Analyst II, APAC ITX team | Hyderabad, Telangana, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operational-risk-analyst-at-idfc-first-bank-4450911046 | IDFC FIRST Bank | Operational Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hiring-hedge-fund-accounting-professionals%21-at-ss-c-technologies-4413725574 | SS&C Technologies | Hiring Hedge Fund Accounting Professionals! | Navi Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
