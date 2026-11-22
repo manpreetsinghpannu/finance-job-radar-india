@@ -829,5 +829,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-4493514243 | Client of Shree Vardhaman Services | Accountant | Lucknow, Uttar Pradesh, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-remote-at-mcfadyen-digital-4493190599 | McFadyen Digital | Research Analyst - Remote | Thiruvananthapuram, Kerala, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-at-pune-technical-trading-company-4492368037 | Pune Technical Trading Company | Accountant | Pune City, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-invoice-to-cash-at-caterpillar-inc-4482441835 | Caterpillar Inc. | Accountant (Invoice To Cash) | Bengaluru East, Karnataka, India | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed

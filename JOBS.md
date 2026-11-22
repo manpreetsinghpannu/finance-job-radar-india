@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 19:41** (UK time) · **583 open roles** at 310 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 20:44** (UK time) · **584 open roles** at 310 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 19:37** · hourly scan · checked 99 boards · **2 new roles**
+**Sun 22 Nov, 20:40** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-pune-technical-trading-company-4492368037) | Pune Technical Trading Company | Pune City, Maharashtra, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Research Analyst - Remote](https://www.linkedin.com/jobs/view/research-analyst-remote-at-mcfadyen-digital-4493190599) | McFadyen Digital | Thiruvananthapuram, Kerala, India |
+| 2026-11-22 | [Accountant (Invoice To Cash)](https://www.linkedin.com/jobs/view/accountant-invoice-to-cash-at-caterpillar-inc-4482441835) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (249 matching)
+**Finance (FP&A) CV** (250 matching)
 
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-perforce-software-4493312771) · Perforce Software · Pune Division, Maharashtra, India · posted 2026-11-22
 2. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>20:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-22 | [Accountant (Invoice To Cash)](https://www.linkedin.com/jobs/view/accountant-invoice-to-cash-at-caterpillar-inc-4482441835) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>19:37</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
@@ -2229,13 +2234,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 15 November
 
-<sub>Nothing new at: 23:33, 23:11, 22:35, 21:44, 20:35</sub>
+<sub>Nothing new at: 23:33, 23:11, 22:35, 21:44</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (224)](#finance-fpa-cv-224) · [Credit (140)](#credit-cv-140) · [Equity (37)](#equity-cv-37) · [Investment (83)](#investment-ib--pe-cv-83) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (34)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-34) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (225)](#finance-fpa-cv-225) · [Credit (140)](#credit-cv-140) · [Equity (37)](#equity-cv-37) · [Investment (83)](#investment-ib--pe-cv-83) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (34)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-34) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
-### Finance (FP&A) CV: 224
+### Finance (FP&A) CV: 225
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2252,6 +2257,7 @@ Everything matched so far, newest first within each CV: [Finance (224)](#finance
 | 2026-11-22 | [Chartered Accountant](https://www.linkedin.com/jobs/view/chartered-accountant-at-hair-rap-by-yoyo-4492352545) | HAIR RAP BY YOYO | Ahmedabad, Gujarat, India |
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493514243) | Client of Shree Vardhaman Services | Lucknow, Uttar Pradesh, India |
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-pune-technical-trading-company-4492368037) | Pune Technical Trading Company | Pune City, Maharashtra, India |
+| 2026-11-22 | [Accountant (Invoice To Cash)](https://www.linkedin.com/jobs/view/accountant-invoice-to-cash-at-caterpillar-inc-4482441835) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
 | 2026-11-21 | [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) | Signify | Pune Division, Maharashtra, India |
 | 2026-11-21 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-american-express-global-business-travel-4492312156) | American Express Global Business Travel | Gurgaon, Haryana, India |
 | 2026-11-21 | [FP&A Analyst - A&D,MCS&UFMR&D](https://www.linkedin.com/jobs/view/fp-a-analyst-a-d-mcs-ufmr-d-at-cytiva-4475223621) | Cytiva | Bengaluru East, Karnataka, India |
