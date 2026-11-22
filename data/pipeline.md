@@ -801,5 +801,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/ | Deloitte India | Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance | Bengaluru
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-perforce-software-4493312771 | Perforce Software | Financial Analyst (FP&A) | Pune Division, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-4493154504 | shree insurance consultant | Financial Analyst | Jalgaon, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-associate-at-pinterview-management-consultant-coaching-4492337702 | PInterview- Management Consultant Coaching | Credit Associate | Delhi, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-deloitte-4492331937 | Deloitte | Credit Risk Analyst | Greater Bengaluru Area | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
