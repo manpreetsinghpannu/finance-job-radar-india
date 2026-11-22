@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 20:44** (UK time) · **584 open roles** at 310 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 21:42** (UK time) · **584 open roles** at 310 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 20:40** · hourly scan · checked 99 boards · **1 new role**
+**Sun 22 Nov, 21:39** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Accountant (Invoice To Cash)](https://www.linkedin.com/jobs/view/accountant-invoice-to-cash-at-caterpillar-inc-4482441835) | Caterpillar Inc. | Bengaluru East, Karnataka, India |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 20:40** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 21:39</sub>
 
 <details>
 <summary><b>20:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
