@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 17:33** (UK time) · **582 open roles** at 311 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 17:45** (UK time) · **582 open roles** at 311 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 17:29** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 22 Nov, 17:41** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sun 22 Nov, 15:38** (3: Finance 1 · Credit 1 · Fund 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 22 November
 
-<sub>Nothing new at: 17:29, 16:37</sub>
+<sub>Nothing new at: 17:41, 16:37</sub>
 
 <details>
 <summary><b>15:38</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Fund 1</summary>
@@ -2209,23 +2209,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-15 | [Experienced Associate_Treasury Management System Implementation_Finance Solutions](https://www.linkedin.com/jobs/view/experienced-associate-treasury-management-system-implementation-finance-solutions-at-pwc-acceleration-center-india-4454142597) | PwC Acceleration Center India | Mumbai Metropolitan Region |
 
 <sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
-<details>
-<summary><b>17:35</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Team Member Credit Risk Modelling](https://www.linkedin.com/jobs/view/team-member-credit-risk-modelling-at-yes-bank-4466389147) | YES BANK | Mumbai Metropolitan Region |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Associate, Turnaround & Restructuring Services](https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871) | Portage Point Partners | Gurugram, Haryana, India |
 
 </details>
 
