@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:46:39.198Z",
+ "generated_at": "2026-11-22T19:41:53.291Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 248,
+   "matching": 249,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 52,
+   "matching": 53,
    "picks": [
     {
      "title": "Equity Research Analyst — Energy Transition Focus",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 100,
+   "matching": 99,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -2495,11 +2495,6 @@
    "cv": "Credit CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/associate-capital-markets-at-sanctuary-4492475071": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 7
-  },
   "https://www.linkedin.com/jobs/view/am-fund-accounting-at-bnp-paribas-4492415248": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -3120,11 +3115,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 19
   },
-  "https://www.linkedin.com/jobs/view/accountant-at-zetheta-algorithms-private-limited-4493178679": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/program-finance-analyst-at-opmobility-4466695792": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3166,6 +3156,16 @@
    "score": 16
   },
   "https://www.linkedin.com/jobs/view/accountant-4493514243": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-remote-at-mcfadyen-digital-4493190599": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-pune-technical-trading-company-4492368037": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
