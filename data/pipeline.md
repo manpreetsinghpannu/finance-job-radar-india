@@ -824,5 +824,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-ii-apac-itx-team-at-amazon-4469206605 | Amazon | Finance Analyst II, APAC ITX team | Hyderabad, Telangana, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/operational-risk-analyst-at-idfc-first-bank-4450911046 | IDFC FIRST Bank | Operational Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/hiring-hedge-fund-accounting-professionals%21-at-ss-c-technologies-4413725574 | SS&C Technologies | Hiring Hedge Fund Accounting Professionals! | Navi Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/supply-chain-product-fp-a-analyst-at-cisco-4485973592 | Cisco | Supply Chain Product FP&A Analyst | Bengaluru, Karnataka, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-private-credit-associate-at-blackrock-4442470018 | BlackRock | Fund Accounting, Private Credit , Associate | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
