@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 15:41** (UK time) · **582 open roles** at 311 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 16:41** (UK time) · **582 open roles** at 311 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 15:38** · hourly scan · checked 99 boards · **3 new roles**
+**Sun 22 Nov, 16:37** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Finance Analyst II, APAC ITX team](https://www.linkedin.com/jobs/view/finance-analyst-ii-apac-itx-team-at-amazon-4469206605) | Amazon | Hyderabad, Telangana, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Operational Risk Analyst](https://www.linkedin.com/jobs/view/operational-risk-analyst-at-idfc-first-bank-4450911046) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Hiring Hedge Fund Accounting Professionals!](https://www.linkedin.com/jobs/view/hiring-hedge-fund-accounting-professionals%21-at-ss-c-technologies-4413725574) | SS&C Technologies | Navi Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 15:38** (3: Finance 1 · Credit 1 · Fund 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 16:37</sub>
 
 <details>
 <summary><b>15:38</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Fund 1</summary>
@@ -2244,17 +2230,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 17:01</sub>
-
-<details>
-<summary><b>16:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Business Finance Analyst – FP&A](https://www.linkedin.com/jobs/view/business-finance-analyst-%E2%80%93-fp-a-at-moengage-4490243251) | MoEngage | Bengaluru, Karnataka, India |
-
-</details>
 
 ## All open roles by CV
 
