@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 08:41** (UK time) · **572 open roles** at 305 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 08:56** (UK time) · **571 open roles** at 305 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 08:37** · hourly scan · checked 99 boards · **3 new roles**
+**Sun 22 Nov, 08:52** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-practicing-talent-business-services-ptbs-4492334982) | Practicing Talent Business Services | Nashik, Maharashtra, India |
-| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493100202) | ind Corpus | Jaipur, Rajasthan, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Credit Underwriter - Credit Analysis, Home Loans](https://www.linkedin.com/jobs/view/credit-underwriter-credit-analysis-home-loans-at-acura-solutions-ltd-4493174532) | ACURA SOLUTIONS LTD | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 08:37** (3: Finance 2 · Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -44,12 +33,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-allvest-4491834882) · Allvest · Kurla, Maharashtra, India · posted 2026-11-18
 
-**Investment (IB / PE) CV** (100 matching)
+**Investment (IB / PE) CV** (99 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)](https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059) · Dawn & Dusk Advisors · Gurugram, Haryana, India · posted 2026-11-18
 
-**Consulting CV** (54 matching)
+**Consulting CV** (53 matching)
 
 1. [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) · Accenture services Pvt Ltd · Gurugram, Haryana, India · posted 2026-11-21
 2. [Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore](https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/) · EY · Mumbai
@@ -69,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 08:52</sub>
 
 <details>
 <summary><b>08:37</b> · hourly scan · <b>3 new</b> → Finance 2 · Credit 1</summary>
@@ -1464,7 +1455,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 14:54</sub>
 
 <details>
-<summary><b>14:33</b> · hourly scan · <b>7 new</b> → Finance 3 · Credit 1 · Equity 1 · Investment 1 · Consulting 1</summary>
+<summary><b>14:33</b> · hourly scan · <b>6 new</b> → Finance 3 · Credit 1 · Equity 1 · Consulting 1</summary>
 
 #### Finance (FP&A) CV: 3
 
@@ -1486,17 +1477,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-17 | [Equity Research Associate - Cement](https://www.linkedin.com/jobs/view/equity-research-associate-cement-at-emkay-global-financial-services-ltd-4491172477) | Emkay Global Financial Services Ltd | Mumbai, Maharashtra, India |
 
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [IN_Associate_ Financial Due Diligence /Transaction Services _Deals_Advisory_Bangalore](https://www.linkedin.com/jobs/view/in-associate-financial-due-diligence-transaction-services-deals-advisory-bangalore-at-pwc-india-4490461378) | PwC India | Bengaluru, Karnataka, India |
-
 #### Consulting CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | — | [Consultant / Finance AI Implementation / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Finance-AI-Implementation-Bengaluru-Finance-Transformation-Finance-Strategy/61613544/) | Deloitte India | Bengaluru |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2191,7 +2178,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (215)](#finance-fpa-cv-215) · [Credit (140)](#credit-cv-140) · [Equity (35)](#equity-cv-35) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (215)](#finance-fpa-cv-215) · [Credit (140)](#credit-cv-140) · [Equity (35)](#equity-cv-35) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
 ### Finance (FP&A) CV: 215
 
@@ -2598,7 +2585,7 @@ Everything matched so far, newest first within each CV: [Finance (215)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 | 2026-11-06 | [Research Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463) | JPMorgan Chase | Mumbai, Maharashtra, India |
 
-### Investment (IB / PE) CV: 85
+### Investment (IB / PE) CV: 84
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2637,7 +2624,6 @@ Everything matched so far, newest first within each CV: [Finance (215)](#finance
 | 2026-11-17 | [Growthally Advisors - Investment Banking Analyst](https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-17 | [Investment Banking Analyst – Global Fundraising & Private Capital](https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123) | Jobgether | India |
 | 2026-11-17 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-rungta-advisors-4490193707) | Rungta Advisors | Pune City, Maharashtra, India |
-| 2026-11-17 | [IN_Associate_ Financial Due Diligence /Transaction Services _Deals_Advisory_Bangalore](https://www.linkedin.com/jobs/view/in-associate-financial-due-diligence-transaction-services-deals-advisory-bangalore-at-pwc-india-4490461378) | PwC India | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Global banking - Investment Banking Associate](https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166) | UBS | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077) | Educore | Gurugram, Haryana, India |
 | — | [Associate - SaT - CHS - SaT - TCF - M&A Advisory - New Delhi](https://careers.ey.com/ey/job/New-Delhi-Associate-SaT-CHS-SaT-TCF-M&A-Advisory-New-Delhi-Nati-110037/1439233033/) | EY | New Delhi |
@@ -2808,10 +2794,11 @@ Everything matched so far, newest first within each CV: [Finance (215)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>86 roles taken off the list because the firm closed the posting</summary>
+<summary>87 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sun 22 Nov, 08:54 | IN_Associate_ Financial Due Diligence /Transaction Services _Deals_Advisory_Bangalore | PwC India |
 | Sun 22 Nov, 03:08 | FP&A Analyst (Remote) | Joblet-AI |
 | Sun 22 Nov, 02:38 | Financial Analyst | Jobs4PanIndia |
 | Sat 21 Nov, 19:57 | Analyst -Valuations Cotrol | Barclays |

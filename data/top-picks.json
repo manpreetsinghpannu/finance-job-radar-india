@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:41:31.597Z",
+ "generated_at": "2026-11-22T08:56:18.582Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 100,
+   "matching": 99,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 54,
+   "matching": 53,
    "picks": [
     {
      "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
@@ -2074,11 +2074,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/in-associate-financial-due-diligence-transaction-services-deals-advisory-bangalore-at-pwc-india-4490461378": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/project-finance-analyst-cp-o-at-hitachi-energy-4491164074": {
    "id": "finance",
