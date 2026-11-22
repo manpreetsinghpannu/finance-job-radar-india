@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 12:41** (UK time) · **577 open roles** at 309 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 13:43** (UK time) · **578 open roles** at 310 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 12:37** · hourly scan · checked 99 boards · **1 new role**
+**Sun 22 Nov, 13:39** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-zetheta-algorithms-private-limited-4493178679) | Zetheta Algorithms Private Limited | India |
+| 2026-11-22 | [Program Finance Analyst](https://www.linkedin.com/jobs/view/program-finance-analyst-at-opmobility-4466695792) | OPmobility | Mulshi, Maharashtra, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (245 matching)
+**Finance (FP&A) CV** (246 matching)
 
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-perforce-software-4493312771) · Perforce Software · Pune Division, Maharashtra, India · posted 2026-11-22
 2. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<details>
+<summary><b>13:39</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-22 | [Program Finance Analyst](https://www.linkedin.com/jobs/view/program-finance-analyst-at-opmobility-4466695792) | OPmobility | Mulshi, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>12:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2211,24 +2222,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>13:35</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-india-at-ebanx-4412917274) | EBANX | India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (220)](#finance-fpa-cv-220) · [Credit (140)](#credit-cv-140) · [Equity (36)](#equity-cv-36) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
+Everything matched so far, newest first within each CV: [Finance (221)](#finance-fpa-cv-221) · [Credit (140)](#credit-cv-140) · [Equity (36)](#equity-cv-36) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (32)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-32) · [Other (19)](#other-fits-no-cv-closely-may-still-be-worth-a-look-19)
 
-### Finance (FP&A) CV: 220
+### Finance (FP&A) CV: 221
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2237,6 +2235,7 @@ Everything matched so far, newest first within each CV: [Finance (220)](#finance
 | 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-wolf-of-dalal-street-4492359138) | WOLF OF DALAL STREET | Mumbai, Maharashtra, India |
 | 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-4493154504) | shree insurance consultant | Jalgaon, Maharashtra, India |
 | 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-practicing-talent-business-services-ptbs-4492334982) | Practicing Talent Business Services | Nashik, Maharashtra, India |
+| 2026-11-22 | [Program Finance Analyst](https://www.linkedin.com/jobs/view/program-finance-analyst-at-opmobility-4466695792) | OPmobility | Mulshi, Maharashtra, India |
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493100202) | ind Corpus | Jaipur, Rajasthan, India |
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-adco-4492356113) | ADCO | Bhubaneswar, Odisha, India |
 | 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-zetheta-algorithms-private-limited-4493178679) | Zetheta Algorithms Private Limited | India |
