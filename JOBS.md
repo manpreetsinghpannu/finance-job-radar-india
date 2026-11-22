@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 16:41** (UK time) · **582 open roles** at 311 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 17:33** (UK time) · **582 open roles** at 311 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 16:37** · hourly scan · checked 99 boards · **0 new roles**
+**Sun 22 Nov, 17:29** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sun 22 Nov, 15:38** (3: Finance 1 · Credit 1 · Fund 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Sunday 22 November
 
-<sub>Nothing new at: 16:37</sub>
+<sub>Nothing new at: 17:29, 16:37</sub>
 
 <details>
 <summary><b>15:38</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Fund 1</summary>
@@ -2228,8 +2228,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-15 | [Associate, Turnaround & Restructuring Services](https://www.linkedin.com/jobs/view/associate-turnaround-restructuring-services-at-portage-point-partners-4419555871) | Portage Point Partners | Gurugram, Haryana, India |
 
 </details>
-
-<sub>Nothing new at: 17:01</sub>
 
 ## All open roles by CV
 
