@@ -812,5 +812,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-associate-technology-media-telecoms-at-jpmorganchase-4449914663 | JPMorganChase | Wholesale Credit Risk EMEA Associate - Technology, Media & Telecoms | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-remote-at-crossing-hurdles-4492894406 | Crossing Hurdles | Financial Analyst | Remote | India | posted: 2026-11-21 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-financial-reporting-hyderabad-at-deloitte-4466505246 | Deloitte | Associate - Financial Reporting - Hyderabad | Hyderabad, Telangana, India | posted: 2026-11-21 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-finance-analyst-debt-at-vista-analytics-llp-4492338980 | Vista Analytics LLP | Corporate Finance Analyst - Debt | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-peak-realty-india-pvt-ltd-4492304634 | Peak Realty India Pvt Ltd | Accountant | Nagpur, Maharashtra, India | posted: 2026-11-21 | note: via LinkedIn
 
 ## Processed

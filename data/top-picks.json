@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:42:11.365Z",
+ "generated_at": "2026-11-22T11:15:23.310Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 241,
+   "matching": 242,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 99,
+   "matching": 100,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -2090,11 +2090,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 26
   },
-  "https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/FP-A-Advisor_R210810-1": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 12
-  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210787644": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -3075,11 +3070,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/credit-associate-at-pinterview-management-consultant-coaching-4492337702": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 9
-  },
   "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-deloitte-4492331937": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3119,6 +3109,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-analyst-debt-at-vista-analytics-llp-4492338980": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/accountant-at-peak-realty-india-pvt-ltd-4492304634": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
