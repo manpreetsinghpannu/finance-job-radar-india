@@ -817,5 +817,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781 | Kanou Capital LLP | Equity Research Analyst — Energy Transition Focus | Greater Delhi Area | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-wolf-of-dalal-street-4492359138 | WOLF OF DALAL STREET | Financial Analyst | Mumbai, Maharashtra, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-at-adco-4492356113 | ADCO | Accountant | Bhubaneswar, Odisha, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-zetheta-algorithms-private-limited-4493178679 | Zetheta Algorithms Private Limited | Accountant | India | posted: 2026-11-22 | note: via LinkedIn
 
 ## Processed
