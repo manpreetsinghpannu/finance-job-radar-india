@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sun 22 Nov, 09:46** (UK time) · **573 open roles** at 305 firms · the radar checks every board about once an hour.
+Updated **Sun 22 Nov, 10:42** (UK time) · **573 open roles** at 305 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sun 22 Nov, 09:43** · hourly scan · checked 99 boards · **2 new roles**
+**Sun 22 Nov, 10:38** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Associate - Financial Reporting - Hyderabad](https://www.linkedin.com/jobs/view/associate-financial-reporting-hyderabad-at-deloitte-4466505246) | Deloitte | Hyderabad, Telangana, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Wholesale Credit Risk EMEA Associate - Technology, Media & Telecoms](https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-associate-technology-media-telecoms-at-jpmorganchase-4449914663) | JPMorganChase | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Sun 22 Nov, 09:43** (2: Finance 1 · Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Sunday 22 November
+
+<sub>Nothing new at: 10:38</sub>
 
 <details>
 <summary><b>09:43</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
@@ -2202,8 +2194,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-15 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-mow-capital-4489399036) | MoW Capital | India |
 
 </details>
-
-<sub>Nothing new at: 10:35</sub>
 
 ## All open roles by CV
 
