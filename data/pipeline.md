@@ -832,4 +832,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-invoice-to-cash-at-caterpillar-inc-4482441835 | Caterpillar Inc. | Accountant (Invoice To Cash) | Bengaluru East, Karnataka, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-4493197614 | Rajesh Suresh Jain & Associates, Chartered Accountants | Accountant | Delhi, India | posted: 2026-11-22 | note: via LinkedIn
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Fund-Accounting-Analyst_261010919 | Citi | Officer, Fund Accounting Analyst | Gurugram Haryana India | posted: 2026-11-23
+- [ ] https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Valuation-Mumbai-MH-400028/1420901233/ | EY | Industrial Trainee - SaT - National - SaT - TCF - Valuation - Mumbai | Mumbai
+
 ## Processed

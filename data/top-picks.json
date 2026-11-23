@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:44:07.892Z",
+ "generated_at": "2026-11-23T02:41:44.371Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 99,
+   "matching": 100,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -192,7 +192,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 42,
+   "matching": 43,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -224,7 +224,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 46,
+   "matching": 47,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -240,11 +240,11 @@
      "sponsor": null
     },
     {
-     "title": "Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore",
-     "company": "JPMorganChase",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-20",
-     "url": "https://www.linkedin.com/jobs/view/alternative-fund-services-private-fund-services-fund-accounting-analyst-associate-bangalore-at-jpmorganchase-4459609079",
+     "title": "Officer, Fund Accounting Analyst",
+     "company": "Citi",
+     "location": "Gurugram Haryana India",
+     "posted": "2026-11-23",
+     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Fund-Accounting-Analyst_261010919",
      "score": 18,
      "why": [
       "Fund Accounting"
@@ -3179,6 +3179,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Fund-Accounting-Analyst_261010919": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 18
+  },
+  "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Valuation-Mumbai-MH-400028/1420901233/": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
   }
  }
 }
