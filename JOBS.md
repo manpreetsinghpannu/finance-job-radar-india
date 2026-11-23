@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 15:33** (UK time) · **622 open roles** at 335 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 15:49** (UK time) · **622 open roles** at 335 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 15:26** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 23 Nov, 15:42** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
@@ -70,7 +70,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Monday 23 November
 
 <details>
-<summary><b>15:26</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
+<summary><b>15:42</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -2262,30 +2262,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 16:33</sub>
 
-<details>
-<summary><b>15:34</b> · hourly scan · <b>4 new</b> → Finance 2 · Consulting 1 · Fund 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [ISC PC FP&A Analyst](https://www.linkedin.com/jobs/view/isc-pc-fp-a-analyst-at-akzonobel-4489762391) | AkzoNobel | Pune Division, Maharashtra, India |
-| 2026-11-16 | [FP&A Specialist](https://www.linkedin.com/jobs/view/fp-a-specialist-at-wipro-4490651549) | Wipro | Greater Kolkata Area |
-
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [IN_Associate_Valuations_Valuations_Advisory_Mumbai](https://www.linkedin.com/jobs/view/in-associate-valuations-valuations-advisory-mumbai-at-pwc-india-4490654525) | PwC India | Mumbai, Maharashtra, India |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Operations - Portfolio Monitoring Unit (Private Markets)- Analyst](https://www.linkedin.com/jobs/view/operations-portfolio-monitoring-unit-private-markets-analyst-at-kkr-4445537031) | KKR | Gurugram, Haryana, India |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (243)](#finance-fpa-cv-243) · [Credit (147)](#credit-cv-147) · [Equity (38)](#equity-cv-38) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (32)](#consulting-cv-32) · [Real Estate (16)](#real-estate-cv-16) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
@@ -2959,7 +2935,7 @@ Everything matched so far, newest first within each CV: [Finance (243)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Mon 23 Nov, 15:28 | Investment Banking Analyst | MoW Capital |
+| Mon 23 Nov, 15:44 | Investment Banking Analyst | MoW Capital |
 | Mon 23 Nov, 13:41 | Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking) | Dawn & Dusk Advisors |
 | Mon 23 Nov, 12:47 | Investment Analyst | Pipraiser |
 | Mon 23 Nov, 12:47 | Credit Risk Strategy | Whizz HR |
