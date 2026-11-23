@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T04:11:56.113Z",
+ "generated_at": "2026-11-23T04:43:51.080Z",
  "order": [
   "finance",
   "credit",
@@ -3189,6 +3189,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://careers.nomura.com/Nomura/job/Mumbai-Trader-400076/1452873700/": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

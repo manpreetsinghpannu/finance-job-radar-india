@@ -835,4 +835,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Fund-Accounting-Analyst_261010919 | Citi | Officer, Fund Accounting Analyst | Gurugram Haryana India | posted: 2026-11-23
 - [ ] https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Valuation-Mumbai-MH-400028/1420901233/ | EY | Industrial Trainee - SaT - National - SaT - TCF - Valuation - Mumbai | Mumbai
 
+- [ ] https://careers.nomura.com/Nomura/job/Mumbai-Trader-400076/1452873700/ | Nomura | Trader | Mumbai
+
 ## Processed
