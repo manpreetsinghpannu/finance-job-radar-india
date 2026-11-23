@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:04:04.100Z",
+ "generated_at": "2026-11-23T09:44:24.151Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 257,
+   "matching": 259,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 149,
+   "matching": 150,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -191,7 +191,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 44,
+   "matching": 45,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -3245,6 +3245,21 @@
    "score": 15
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57804": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-selections-hr-services-private-limited-4493399728": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-cognition-solutions-4493627309": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18

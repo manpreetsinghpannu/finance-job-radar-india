@@ -852,4 +852,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-indium-capital-advisors-4493729037 | Indium Capital Advisors | Investment Banking Associate | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531 | Perfint Healthcare Pvt Ltd. | Finance Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57804 | Tata Capital | State Head - Retail Credit - Credit - Housing - EM - Indore - NRK Tech Park - MM | Indore, Madhya Pradesh, India | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-selections-hr-services-private-limited-4493399728 | Selections HR Services Private Limited | Financial Planning Analyst | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-cognition-solutions-4493627309 | Cognition Solutions | Financial Analyst | India | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed
