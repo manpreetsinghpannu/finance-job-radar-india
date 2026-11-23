@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 17:40** (UK time) · **624 open roles** at 334 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 18:44** (UK time) · **624 open roles** at 334 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,28 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 17:39** · hourly scan · checked 99 boards · **6 new roles**
+**Mon 23 Nov, 18:38** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 4
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-cisco-4485986613) | Cisco | Bengaluru, Karnataka, India |
-| 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hitachi-energy-4493677554) | Hitachi Energy | Savli, Gujarat, India |
-| 2026-11-23 | [Financial Analyst-Supply Chain](https://www.linkedin.com/jobs/view/financial-analyst-supply-chain-at-hp-4493672919) | HP | Bengaluru, Karnataka, India |
-| 2026-11-23 | [FP&A Associate](https://www.linkedin.com/jobs/view/fp-a-associate-at-cushman-wakefield-4493654746) | Cushman & Wakefield | Bengaluru, Karnataka, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Associate, Credit Portfolio Management, Risk Management Group](https://www.linkedin.com/jobs/view/associate-credit-portfolio-management-risk-management-group-at-dbs-bank-4493670575) | DBS Bank | Greater Chennai Area |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Global Capital Market - Associate, Infra Capital Markets (Mumbai)](https://www.linkedin.com/jobs/view/global-capital-market-associate-infra-capital-markets-mumbai-at-morgan-stanley-4478529104) | Morgan Stanley | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 17:39** (6: Finance 4 · Credit 1 · Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -77,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<sub>Nothing new at: 18:38</sub>
 
 <details>
 <summary><b>17:39</b> · hourly scan · <b>6 new</b> → Finance 4 · Credit 1 · Investment 1</summary>
@@ -2257,27 +2240,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-16 | [Financial Risk Analyst](https://www.linkedin.com/jobs/view/financial-risk-analyst-at-swiss-re-4482959322) | Swiss Re | Bengaluru, Karnataka, India |
-
-</details>
-
-<details>
-<summary><b>18:38</b> · hourly scan · <b>4 new</b> → Finance 3 · Investment 1</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Financial Analyst-Business Finance](https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-hp-4490909175) | HP | Gurugram, Haryana, India |
-| 2026-11-16 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-icon-plc-4490117675) | ICON plc | Chennai, Tamil Nadu, India |
-| 2026-11-16 | [Project Financial Analyst 1](https://www.linkedin.com/jobs/view/project-financial-analyst-1-at-fortrea-4490109980) | Fortrea | Bengaluru, Karnataka, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Transaction Specialist - IT Mergers & Acquisitions, Finance](https://www.linkedin.com/jobs/view/transaction-specialist-it-mergers-acquisitions-finance-at-solventum-4475518143) | Solventum | Bengaluru, Karnataka, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
