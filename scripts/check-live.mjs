@@ -21,6 +21,9 @@
  *   - Adzuna blocks automated page loads (403) and anything else unknown:
  *     not checked, never removed.
  *
+ *   - Adzuna postings (which can't be checked) are taken off 3 days after
+ *     they were posted (ADZUNA_MAX_DAYS).
+ *
  * `--all` checks every listed role once regardless of when it was last
  * checked (the "Full job-list check" workflow).
  *
@@ -199,6 +202,22 @@ async function main() {
       unsure++;
     }
   }
+  // Adzuna can't be checked (it blocks page loads), so its roles expire by age.
+  const ADZUNA_MAX_DAYS = 3;
+  const cutoff = new Date(now - ADZUNA_MAX_DAYS * 86400000).toISOString().slice(0, 10);
+  const firstSeen = new Map();
+  if (existsSync('data/scan-history.tsv')) for (const l of readFileSync('data/scan-history.tsv', 'utf8').split('\n')) { const [u, d] = l.split('\t'); if (u && d) firstSeen.set(u, d.slice(0, 10)); }
+  let aged = 0;
+  for (const line of existsSync('data/pipeline.md') ? readFileSync('data/pipeline.md', 'utf8').split('\n') : []) {
+    const m = line.match(/^- \[ \] (https:\/\/www\.adzuna\.[a-z.]+\/\S+)/);
+    if (!m || store[m[1]]?.status === 'closed') continue;
+    const posted = (line.match(/\| posted: (\d{4}-\d{2}-\d{2})/) || [])[1] || firstSeen.get(m[1]);
+    if (!posted || posted >= cutoff) continue;
+    const at = new Date().toISOString().replace(/\.\d+Z$/, 'Z');
+    store[m[1]] = { status: 'closed', checked_at: at, closed_at: at, reason: `Adzuna: posted ${posted}, over ${ADZUNA_MAX_DAYS} days ago` };
+    aged++;
+  }
+  if (aged) console.log(`check-live: ${aged} Adzuna role(s) over ${ADZUNA_MAX_DAYS} days old taken off`);
   writeFileSync(STORE, `${JSON.stringify(store, null, 1)}\n`);
   const kinds = {};
   for (const x of verdicts) if (!x.skip) { const k = (kinds[x.vendor] ||= { checked: 0, closed: 0 }); k.checked++; if (x.v?.result === 'expired' && !suspicious.has(x.vendor)) k.closed++; }
