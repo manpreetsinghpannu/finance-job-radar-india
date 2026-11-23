@@ -856,4 +856,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-selections-hr-services-private-limited-4493399728 | Selections HR Services Private Limited | Financial Planning Analyst | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-cognition-solutions-4493627309 | Cognition Solutions | Financial Analyst | India | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://jobs.bt.com/job/OR-Finance-Analyst/64042-en_GB | BT Group | OR Finance Analyst | Gurugram IQ, Gurugram, India, | posted: 2026-11-23
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276574 | Kotak Mahindra Bank | Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1046371 | Mumbai, Maharashtra, India | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/chartered-accountant-fp-a-at-cavitak-4493739841 | CAVITAK | Chartered Accountant (FP&A) | Ahmedabad, Gujarat, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-associate-at-youtube-for-brands-4492378940 | Youtube For Brands | Finance Associate | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-at-ayvens-4492379993 | Ayvens | Credit Analyst | Mumbai, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/mgr-fund-accounting-at-northern-trust-4492604082 | Northern Trust | Mgr, Fund Accounting | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532 | Versatile Club Employer of Record | Property Accountant, Commercial Real Estate | India | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed

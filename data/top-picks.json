@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:44:24.151Z",
+ "generated_at": "2026-11-23T10:42:39.004Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 259,
+   "matching": 263,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 150,
+   "matching": 152,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -191,8 +191,21 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 45,
+   "matching": 46,
    "picks": [
+    {
+     "title": "Property Accountant, Commercial Real Estate",
+     "company": "Versatile Club Employer of Record",
+     "location": "India",
+     "posted": "2026-11-23",
+     "url": "https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532",
+     "score": 24,
+     "why": [
+      "Real Estate",
+      "Property"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
      "company": "Goldman Sachs",
@@ -205,25 +218,13 @@
       "Asset Management"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Wholesale Credit Risk APAC/EMEA - Real Estate - Analyst",
-     "company": "JPMorganChase",
-     "location": "Mumbai, Maharashtra, India",
-     "posted": "2026-11-17",
-     "url": "https://www.linkedin.com/jobs/view/wholesale-credit-risk-apac-emea-real-estate-analyst-at-jpmorganchase-4490184706",
-     "score": 17,
-     "why": [
-      "Real Estate"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 49,
+   "matching": 50,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -3263,6 +3264,41 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://jobs.bt.com/job/OR-Finance-Analyst/64042-en_GB": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276574": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/chartered-accountant-fp-a-at-cavitak-4493739841": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/finance-associate-at-youtube-for-brands-4492378940": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-ayvens-4492379993": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/mgr-fund-accounting-at-northern-trust-4492604082": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532": {
+   "id": "real_estate",
+   "cv": "Real Estate CV",
+   "score": 24
   }
  }
 }
