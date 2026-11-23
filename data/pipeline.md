@@ -889,4 +889,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-research-banking-insurance-sector-at-acuity-analytics-4492613641 | Acuity Analytics | Equity Research (Banking & Insurance Sector) | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-india-global-travel-retail-at-bacardi-4493664165 | Bacardi | Commercial Analyst India, Global Travel Retail | Gurgaon, Haryana, India | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/IHC-Portfolio-Risk-Analyst--BA3_JR-0000134090-1 | Barclays | IHC Portfolio Risk Analyst- BA3 | 2 Locations | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-cisco-4485986613 | Cisco | Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-hitachi-energy-4493677554 | Hitachi Energy | Financial Analyst | Savli, Gujarat, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-supply-chain-at-hp-4493672919 | HP | Financial Analyst-Supply Chain | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-associate-at-cushman-wakefield-4493654746 | Cushman & Wakefield | FP&A Associate | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-credit-portfolio-management-risk-management-group-at-dbs-bank-4493670575 | DBS Bank | Associate, Credit Portfolio Management, Risk Management Group | Greater Chennai Area | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-capital-market-associate-infra-capital-markets-mumbai-at-morgan-stanley-4478529104 | Morgan Stanley | Global Capital Market - Associate, Infra Capital Markets (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed
