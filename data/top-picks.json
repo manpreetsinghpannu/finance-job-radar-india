@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:42:39.004Z",
+ "generated_at": "2026-11-23T11:43:23.764Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 152,
+   "matching": 154,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -2160,11 +2160,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 1
   },
-  "https://www.linkedin.com/jobs/view/financial-planning-analyst-at-me-n-moms-pvt-ltd-4490867152": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/risk-analyst-at-dodo-payments-4491132707": {
    "id": "credit",
    "cv": "Credit CV",
@@ -2426,11 +2421,6 @@
    "score": 8
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-siemens-digital-industries-software-4456894817": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 16
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-careedge-group-4491623218": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 16
@@ -3299,6 +3289,31 @@
    "id": "real_estate",
    "cv": "Real Estate CV",
    "score": 24
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811292": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 7
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-at-muscle-pro-nutrition-pvt-ltd-4492609063": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-4492366996": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/currency-trader-at-pipraiser-4492388790": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/accountant-ahmedabad-guj-at-trelleborg-sealing-solutions-4429681745": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

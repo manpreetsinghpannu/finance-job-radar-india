@@ -864,4 +864,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/mgr-fund-accounting-at-northern-trust-4492604082 | Northern Trust | Mgr, Fund Accounting | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532 | Versatile Club Employer of Record | Property Accountant, Commercial Real Estate | India | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811292 | JPMorgan Chase | Private Credit Investment Specialist | Mumbai, Maharashtra, India | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-muscle-pro-nutrition-pvt-ltd-4492609063 | Muscle Pro Nutrition Pvt Ltd | Financial Controller | Mumbai, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-4492366996 | Sarva Finserv | Credit Analyst | Mumbai Metropolitan Region | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/currency-trader-at-pipraiser-4492388790 | Pipraiser | Currency Trader | India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-ahmedabad-guj-at-trelleborg-sealing-solutions-4429681745 | Trelleborg Sealing Solutions | Accountant , Ahmedabad GUJ | Greater Ahmedabad Area | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed
