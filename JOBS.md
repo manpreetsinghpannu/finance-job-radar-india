@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 19:47** (UK time) · **626 open roles** at 336 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 20:43** (UK time) · **626 open roles** at 336 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 19:39** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 23 Nov, 20:37** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Associate Financial Analyst, Daily Valuation - India](https://www.linkedin.com/jobs/view/associate-financial-analyst-daily-valuation-india-at-ascensus-4493682881) | Ascensus | Greater Hyderabad Area |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [US Stock Trader](https://www.linkedin.com/jobs/view/us-stock-trader-at-drug-drop-rx-4492642556) | Drug Drop Rx | India |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 19:39** (2: Finance 1 · Other 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<sub>Nothing new at: 20:37</sub>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
@@ -2229,36 +2221,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>20:34</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Treasury ops - Nostro Management Operations, AS](https://www.linkedin.com/jobs/view/treasury-ops-nostro-management-operations-as-at-deutsche-bank-4490126427) | Deutsche Bank | Jaipur, Rajasthan, India |
-
-</details>
-
-<details>
-<summary><b>20:19</b> · hourly scan · <b>2 new</b> → Fund 1 · Other 1</summary>
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) | Deutsche Bank | Jaipur, Rajasthan, India |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [CareCredit - Practice Development Specialist](https://www.synchronycareers.com/en/job/orlando/carecredit-practice-development-specialist/49398/102921862096) | Synchrony |  |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (246)](#finance-fpa-cv-246) · [Credit (147)](#credit-cv-147) · [Equity (38)](#equity-cv-38) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (32)](#consulting-cv-32) · [Real Estate (16)](#real-estate-cv-16) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
@@ -2932,7 +2894,7 @@ Everything matched so far, newest first within each CV: [Finance (246)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>100 roles taken off the list because the firm closed the posting</summary>
+<summary>99 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3035,6 +2997,5 @@ Everything matched so far, newest first within each CV: [Finance (246)](#finance
 | Tue 17 Nov, 07:35 | Investment Research Analyst | WCC Investment Advisors Pvt. Ltd. |
 | Tue 17 Nov, 06:34 | Private Credit Analyst - Investor Relations | NJ Macson |
 | Mon 16 Nov, 22:50 | Investment Analyst | Blake Atlantic |
-| Mon 16 Nov, 20:22 | Financial Planning Analyst_CXO Office | Curefoods |
 
 </details>
