@@ -880,4 +880,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://morganstanley.eightfold.ai/careers?pid=549800817698&domain=morganstanley.com | Morgan Stanley | Corporate Treasury Strats, Associate, Quantitative Strategists | Mumbai, Maharashtra, India | posted: 2026-11-23
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550 | VRecruitFirst | Financial Planning & Analysis (FP&A) Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Quantitative-Analyst_R-15490 | Invesco | Quantitative Analyst | Hyderabad, Telangana | posted: 2026-11-23
+- [ ] https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Analyst-Financial-Advisory-Support_R26_3400 | Ameriprise Financial | Analyst Financial Advisory Support | Noida, Uttar Pradesh, India | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-cleantech-industry-resources-cir-4399865536 | Cleantech Industry Resources (CIR) | Financial Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-cokaco-4492622264 | CoKaCo | Research Analyst | Mumbai, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725 | Wealthy | Finance Management Trainee | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed

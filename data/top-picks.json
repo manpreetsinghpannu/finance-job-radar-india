@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:43:53.989Z",
+ "generated_at": "2026-11-23T14:49:42.299Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 268,
+   "matching": 269,
    "picks": [
     {
      "title": "Financial Planning & Analysis (FP&A) Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 53,
+   "matching": 54,
    "picks": [
     {
      "title": "Equity Research Analyst — Energy Transition Focus",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 101,
+   "matching": 102,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 53,
+   "matching": 54,
    "picks": [
     {
      "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
@@ -3334,6 +3334,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 28
+  },
+  "https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Quantitative-Analyst_R-15490": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Analyst-Financial-Advisory-Support_R26_3400": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-cleantech-industry-resources-cir-4399865536": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-at-cokaco-4492622264": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
