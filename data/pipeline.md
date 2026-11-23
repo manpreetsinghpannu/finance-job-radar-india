@@ -877,4 +877,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-corporate-accounting-at-one-bcg-one-business-consulting-group-4493776422 | ONE BCG - ONE Business Consulting Group | Financial analyst - Corporate Accounting | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-kaufman-rossin-4493646181 | Kaufman Rossin | Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://morganstanley.eightfold.ai/careers?pid=549800817698&domain=morganstanley.com | Morgan Stanley | Corporate Treasury Strats, Associate, Quantitative Strategists | Mumbai, Maharashtra, India | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550 | VRecruitFirst | Financial Planning & Analysis (FP&A) Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed

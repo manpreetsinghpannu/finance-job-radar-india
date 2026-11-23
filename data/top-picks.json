@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:47:40.409Z",
+ "generated_at": "2026-11-23T13:43:53.989Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 267,
+   "matching": 268,
    "picks": [
+    {
+     "title": "Financial Planning & Analysis (FP&A) Analyst",
+     "company": "VRecruitFirst",
+     "location": "Ahmedabad, Gujarat, India",
+     "posted": "2026-11-23",
+     "url": "https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550",
+     "score": 28,
+     "why": [
+      "FP&A",
+      "Financial Planning"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Financial Analyst (FP&A)",
      "company": "Signify",
@@ -36,19 +49,6 @@
      "why": [
       "FP&A",
       "Financial Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "FP&A COE Finance Analyst",
-     "company": "eBay",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-19",
-     "url": "https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913",
-     "score": 26,
-     "why": [
-      "FP&A",
-      "Finance Analyst"
      ],
      "sponsor": null
     }
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 102,
+   "matching": 101,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -141,15 +141,15 @@
      "sponsor": null
     },
     {
-     "title": "Financial Analyst- Advisory (Valuation, Financial Due Diligence & Investment Banking)",
-     "company": "Dawn & Dusk Advisors",
-     "location": "Gurugram, Haryana, India",
-     "posted": "2026-11-18",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059",
+     "title": "Tech M&A Analyst – Investment Banking, Deal Origination",
+     "company": "SA Global Advisors",
+     "location": "Pune District, Maharashtra, India",
+     "posted": "2026-11-17",
+     "url": "https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108",
      "score": 26,
      "why": [
       "Investment Banking",
-      "Valuation"
+      "M&A"
      ],
      "sponsor": null
     }
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 54,
+   "matching": 53,
    "picks": [
     {
      "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
@@ -191,7 +191,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 45,
+   "matching": 44,
    "picks": [
     {
      "title": "Property Accountant, Commercial Real Estate",
@@ -2175,11 +2175,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 16
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-advisory-valuation-financial-due-diligence-investment-banking-at-dawn-dusk-advisors-4491822059": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 26
-  },
   "https://www.linkedin.com/jobs/view/research-analyst-at-weekday-yc-w21-4490869555": {
    "id": "equity",
    "cv": "Equity CV",
@@ -3329,6 +3324,16 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
+  },
+  "https://morganstanley.eightfold.ai/careers?pid=549800817698&domain=morganstanley.com": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
   }
  }
 }
