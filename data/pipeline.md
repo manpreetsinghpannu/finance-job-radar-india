@@ -836,5 +836,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Valuation-Mumbai-MH-400028/1420901233/ | EY | Industrial Trainee - SaT - National - SaT - TCF - Valuation - Mumbai | Mumbai
 
 - [ ] https://careers.nomura.com/Nomura/job/Mumbai-Trader-400076/1452873700/ | Nomura | Trader | Mumbai
+- [ ] https://www.linkedin.com/jobs/view/accountant-5-years-experience-at-aldecor-india-4493703162 | Aldecor India | Accountant- 5 Years experience | Bangalore Urban, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed

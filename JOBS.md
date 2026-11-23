@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 04:43** (UK time) · **588 open roles** at 311 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 05:40** (UK time) · **588 open roles** at 311 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 04:40** · hourly scan · checked 99 boards · **1 new role**
+**Mon 23 Nov, 05:36** · hourly scan · checked 99 boards · **1 new role**
 
-### Other (fits no CV closely, may still be worth a look): 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| — | [Trader](https://careers.nomura.com/Nomura/job/Mumbai-Trader-400076/1452873700/) | Nomura | Mumbai |
+| 2026-11-23 | [Accountant- 5 Years experience](https://www.linkedin.com/jobs/view/accountant-5-years-experience-at-aldecor-india-4493703162) | Aldecor India | Bangalore Urban, Karnataka, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (251 matching)
+**Finance (FP&A) CV** (252 matching)
 
 1. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-perforce-software-4493312771) · Perforce Software · Pune Division, Maharashtra, India · posted 2026-11-22
 2. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
@@ -32,7 +32,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (53 matching)
+**Equity CV** (52 matching)
 
 1. [Equity Research Analyst — Energy Transition Focus](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781) · Kanou Capital LLP · Greater Delhi Area · posted 2026-11-22
 2. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>05:36</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-23 | [Accountant- 5 Years experience](https://www.linkedin.com/jobs/view/accountant-5-years-experience-at-aldecor-india-4493703162) | Aldecor India | Bangalore Urban, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>04:40</b> · hourly scan · <b>1 new</b> → Other 1</summary>
@@ -2233,34 +2244,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>05:33</b> · hourly scan · <b>3 new</b> → Finance 2 · Equity 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466) | Optimas Solutions | Pune City, Maharashtra, India |
-| 2026-11-16 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-safran-4491279721) | Safran | Shamshabad, Telangana, India |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Equity Research Associate - Pharma](https://www.linkedin.com/jobs/view/equity-research-associate-pharma-at-icici-securities-4491290354) | ICICI Securities | Mumbai, Maharashtra, India |
-
-<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (226)](#finance-fpa-cv-226) · [Credit (140)](#credit-cv-140) · [Equity (37)](#equity-cv-37) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
+Everything matched so far, newest first within each CV: [Finance (227)](#finance-fpa-cv-227) · [Credit (140)](#credit-cv-140) · [Equity (36)](#equity-cv-36) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (31)](#consulting-cv-31) · [Real Estate (15)](#real-estate-cv-15) · [Fund (35)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-35) · [Other (20)](#other-fits-no-cv-closely-may-still-be-worth-a-look-20)
 
-### Finance (FP&A) CV: 226
+### Finance (FP&A) CV: 227
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-23 | [Accountant- 5 Years experience](https://www.linkedin.com/jobs/view/accountant-5-years-experience-at-aldecor-india-4493703162) | Aldecor India | Bangalore Urban, Karnataka, India |
 | 2026-11-22 | [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-perforce-software-4493312771) | Perforce Software | Pune Division, Maharashtra, India |
 | 2026-11-22 | [Corporate Finance Analyst - Debt](https://www.linkedin.com/jobs/view/corporate-finance-analyst-debt-at-vista-analytics-llp-4492338980) | Vista Analytics LLP | Mumbai, Maharashtra, India |
 | 2026-11-22 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-wolf-of-dalal-street-4492359138) | WOLF OF DALAL STREET | Mumbai, Maharashtra, India |
@@ -2633,7 +2625,7 @@ Everything matched so far, newest first within each CV: [Finance (226)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 37
+### Equity CV: 36
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2659,7 +2651,6 @@ Everything matched so far, newest first within each CV: [Finance (226)](#finance
 | 2026-11-17 | [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) | Talent Corner HR Services Pvt Ltd | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Equity Research Associate - Cement](https://www.linkedin.com/jobs/view/equity-research-associate-cement-at-emkay-global-financial-services-ltd-4491172477) | Emkay Global Financial Services Ltd | Mumbai, Maharashtra, India |
 | 2026-11-16 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4490272745) | Equity research by Sagar | Bhubaneswar, Odisha, India |
-| 2026-11-16 | [Equity Research Associate - Pharma](https://www.linkedin.com/jobs/view/equity-research-associate-pharma-at-icici-securities-4491290354) | ICICI Securities | Mumbai, Maharashtra, India |
 | 2026-11-16 | [Investment Analyst Fund Analysis](https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516) | PFI Innovation Centre India | Gurugram, Haryana, India |
 | 2026-11-16 | [Research Associate - Chemicals](https://www.linkedin.com/jobs/view/research-associate-chemicals-at-emkay-global-financial-services-ltd-4478275207) | Emkay Global Financial Services Ltd | Mumbai Metropolitan Region |
 | 2026-11-13 | [head broking research analyst](https://www.linkedin.com/jobs/view/head-broking-research-analyst-at-aikyam-capital-private-limited-4488910583) | Aikyam Capital Private Limited | Mumbai, Maharashtra, India |
@@ -2888,10 +2879,11 @@ Everything matched so far, newest first within each CV: [Finance (226)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>93 roles taken off the list because the firm closed the posting</summary>
+<summary>94 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 23 Nov, 05:40 | Equity Research Associate - Pharma | ICICI Securities |
 | Sun 22 Nov, 19:40 | Associate - Capital Markets | Sanctuary |
 | Sun 22 Nov, 19:40 | Accountant | Zetheta Algorithms Private Limited |
 | Sun 22 Nov, 18:45 | Financial Analyst - AR & AP | Cancard Inc. |
