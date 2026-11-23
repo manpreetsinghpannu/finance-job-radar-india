@@ -847,5 +847,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/expert-fund-accountant-at-csc-4493384174 | CSC | Expert Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-22 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/full-time-accountant-at-conserve-india-4493705488 | Conserve India | Full-time Accountant | Gurugram, Haryana, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-controller-at-cloudstaff-4493398728 | Cloudstaff | Financial Controller | Bangalore Urban, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-nes-fircroft-4493622167 | NES Fircroft | Accountant | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/model-development-counterparty-credit-risk-at-callisto-talent-solutions-4492379546 | Callisto Talent Solutions | Model Development- Counterparty Credit Risk | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-indium-capital-advisors-4493729037 | Indium Capital Advisors | Investment Banking Associate | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531 | Perfint Healthcare Pvt Ltd. | Finance Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
