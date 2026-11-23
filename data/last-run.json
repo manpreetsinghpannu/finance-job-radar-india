@@ -1,17 +1,17 @@
 {
-  "finished_at": "2026-11-23T02:41:45.393Z",
+  "finished_at": "2026-11-23T03:43:38.958Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 39022,
-  "filtered_out": 38966,
-  "new_matches": 2,
-  "boards_failed": 26,
+  "postings_seen": 38680,
+  "filtered_out": 38629,
+  "new_matches": 0,
+  "boards_failed": 24,
   "failed": [
     {
-      "company": "MUFG",
+      "company": "Barclays",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -19,7 +19,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "LSEG (Graduates)",
+      "company": "MUFG",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -27,7 +27,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "AIG",
+      "company": "LSEG (Graduates)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -39,11 +39,15 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "PayPal",
+      "company": "Visa",
       "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Accenture",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "PayPal",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -63,15 +67,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Shell",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Houlihan Lokey (Campus)",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Houlihan Lokey (Lateral)",
+      "company": "Diageo",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -79,11 +75,7 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Mizuho",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Northern Trust",
+      "company": "Citi",
       "error": "HTTP 429 Too Many Requests"
     },
     {

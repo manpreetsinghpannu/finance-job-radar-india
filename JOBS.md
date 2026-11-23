@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 02:41** (UK time) · **587 open roles** at 311 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 03:43** (UK time) · **587 open roles** at 311 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 02:38** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 23 Nov, 03:39** · hourly scan · checked 99 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Industrial Trainee - SaT - National - SaT - TCF - Valuation - Mumbai](https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Valuation-Mumbai-MH-400028/1420901233/) | EY | Mumbai |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Officer, Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Fund-Accounting-Analyst_261010919) | Citi | Gurugram Haryana India |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 02:38** (2: Investment 1 · Fund 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -68,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<sub>Nothing new at: 03:39</sub>
 
 <details>
 <summary><b>02:38</b> · hourly scan · <b>2 new</b> → Investment 1 · Fund 1</summary>
@@ -2256,8 +2248,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-16 | [Finance Analyst - IT](https://www.linkedin.com/jobs/view/finance-analyst-it-at-eurofins-4491280486) | Eurofins | Bengaluru, Karnataka, India |
 
 </details>
-
-<sub>Nothing new at: 03:33, 03:05</sub>
 
 ## All open roles by CV
 
