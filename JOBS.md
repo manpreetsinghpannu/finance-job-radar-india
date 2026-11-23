@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 16:38** (UK time) · **620 open roles** at 333 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 16:44** (UK time) · **622 open roles** at 334 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 15:42** · hourly scan · checked 99 boards · **2 new roles**
+**Mon 23 Nov, 16:38** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-23 | [Financial Analyst - Corporate Development](https://www.linkedin.com/jobs/view/financial-analyst-corporate-development-at-highradius-4492624357) | HighRadius | Hyderabad, Telangana, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Equity Research (Banking & Insurance Sector)](https://www.linkedin.com/jobs/view/equity-research-banking-insurance-sector-at-acuity-analytics-4492613641) | Acuity Analytics | Bengaluru, Karnataka, India |
+| 2026-11-23 | [Commercial Analyst India, Global Travel Retail](https://www.linkedin.com/jobs/view/commercial-analyst-india-global-travel-retail-at-bacardi-4493664165) | Bacardi | Gurgaon, Haryana, India |
 
 ## Top picks for each CV
 
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>16:38</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-23 | [Commercial Analyst India, Global Travel Retail](https://www.linkedin.com/jobs/view/commercial-analyst-india-global-travel-retail-at-bacardi-4493664165) | Bacardi | Gurgaon, Haryana, India |
+
+</details>
 
 <details>
 <summary><b>15:42</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
@@ -2280,6 +2285,7 @@ Everything matched so far, newest first within each CV: [Finance (242)](#finance
 | 2026-11-23 | [Financial analyst - Corporate Accounting](https://www.linkedin.com/jobs/view/financial-analyst-corporate-accounting-at-one-bcg-one-business-consulting-group-4493776422) | ONE BCG - ONE Business Consulting Group | Sahibzada Ajit Singh Nagar, Punjab, India |
 | 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-cleantech-industry-resources-cir-4399865536) | Cleantech Industry Resources | Noida, Uttar Pradesh, India |
 | 2026-11-23 | [Financial Analyst - Corporate Development](https://www.linkedin.com/jobs/view/financial-analyst-corporate-development-at-highradius-4492624357) | HighRadius | Hyderabad, Telangana, India |
+| 2026-11-23 | [Commercial Analyst India, Global Travel Retail](https://www.linkedin.com/jobs/view/commercial-analyst-india-global-travel-retail-at-bacardi-4493664165) | Bacardi | Gurgaon, Haryana, India |
 | 2026-11-23 | [Corporate Treasury Strats, Associate, Quantitative Strategists](https://morganstanley.eightfold.ai/careers?pid=549800817698&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-youtube-for-brands-4492378940) | Youtube For Brands | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-muscle-pro-nutrition-pvt-ltd-4492609063) | Muscle Pro Nutrition Pvt Ltd | Mumbai, Maharashtra, India |
@@ -2932,6 +2938,7 @@ Everything matched so far, newest first within each CV: [Finance (242)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Mon 23 Nov, 16:39 | Accountant | Peak Realty India Pvt Ltd |
 | Mon 23 Nov, 15:44 | Investment Banking Analyst | MoW Capital |
 | Mon 23 Nov, 15:23 | Investment Banking Analyst | Cap Connect |
 | Mon 23 Nov, 15:08 | Accountant | Peak Realty India Pvt Ltd |

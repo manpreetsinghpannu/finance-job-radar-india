@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:38:21.468Z",
+ "generated_at": "2026-11-23T16:44:10.669Z",
  "order": [
   "finance",
   "credit",
@@ -3354,6 +3354,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/commercial-analyst-india-global-travel-retail-at-bacardi-4493664165": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

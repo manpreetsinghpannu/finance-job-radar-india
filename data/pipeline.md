@@ -887,5 +887,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725 | Wealthy | Finance Management Trainee | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-corporate-development-at-highradius-4492624357 | HighRadius | Financial Analyst - Corporate Development | Hyderabad, Telangana, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-banking-insurance-sector-at-acuity-analytics-4492613641 | Acuity Analytics | Equity Research (Banking & Insurance Sector) | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-india-global-travel-retail-at-bacardi-4493664165 | Bacardi | Commercial Analyst India, Global Travel Retail | Gurgaon, Haryana, India | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
