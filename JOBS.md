@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 00:22** (UK time) · **585 open roles** at 311 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 00:45** (UK time) · **585 open roles** at 311 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 00:18** · hourly scan · checked 99 boards · **1 new role**
+**Mon 23 Nov, 00:41** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-22 | [Accountant](https://www.linkedin.com/jobs/view/accountant-4493197614) | Rajesh Suresh Jain & Associates, Chartered Accountants | Delhi, India |
+Nothing new this time. The last scan that found something was **Mon 23 Nov, 00:18** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<sub>Nothing new at: 00:41</sub>
 
 <details>
 <summary><b>00:18</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2233,19 +2231,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 03:33, 03:05, 02:33, 01:51, 01:34</sub>
-
-<details>
-<summary><b>00:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-15 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-exl-4446733173) | EXL | Noida, Uttar Pradesh, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
 
 ## All open roles by CV
 
