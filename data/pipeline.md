@@ -885,5 +885,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-cleantech-industry-resources-cir-4399865536 | Cleantech Industry Resources (CIR) | Financial Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-at-cokaco-4492622264 | CoKaCo | Research Analyst | Mumbai, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725 | Wealthy | Finance Management Trainee | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-corporate-development-at-highradius-4492624357 | HighRadius | Financial Analyst - Corporate Development | Hyderabad, Telangana, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-banking-insurance-sector-at-acuity-analytics-4492613641 | Acuity Analytics | Equity Research (Banking & Insurance Sector) | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
