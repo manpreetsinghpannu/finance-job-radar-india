@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 22:44** (UK time) · **626 open roles** at 336 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 23:48** (UK time) · **626 open roles** at 336 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 22:37** · hourly scan · checked 99 boards · **0 new roles**
+**Mon 23 Nov, 23:42** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Mon 23 Nov, 19:39** (2: Finance 1 · Other 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Monday 23 November
 
-<sub>Nothing new at: 22:37, 21:37, 21:19, 20:37</sub>
+<sub>Nothing new at: 23:42, 22:37, 21:37, 21:19, 20:37</sub>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
@@ -2186,30 +2186,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-### Monday 16 November
-
-<details>
-<summary><b>23:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Financial Analyst: Mergers & Acquisitions](https://www.linkedin.com/jobs/view/financial-analyst-mergers-acquisitions-at-cornell-fitness-centers-4491531699) | Cornell Fitness Centers | Ballari, Karnataka, India |
-
-</details>
-
-<details>
-<summary><b>22:47</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Investment Analyst Fund Analysis](https://www.linkedin.com/jobs/view/investment-analyst-fund-analysis-at-pfi-innovation-centre-india-4491516516) | PFI Innovation Centre India | Gurugram, Haryana, India |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (246)](#finance-fpa-cv-246) · [Credit (147)](#credit-cv-147) · [Equity (38)](#equity-cv-38) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (32)](#consulting-cv-32) · [Real Estate (16)](#real-estate-cv-16) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
@@ -2883,7 +2859,7 @@ Everything matched so far, newest first within each CV: [Finance (246)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>99 roles taken off the list because the firm closed the posting</summary>
+<summary>98 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2985,6 +2961,5 @@ Everything matched so far, newest first within each CV: [Finance (246)](#finance
 | Tue 17 Nov, 08:37 | Equity Research Analyst | Neuraleap Group |
 | Tue 17 Nov, 07:35 | Investment Research Analyst | WCC Investment Advisors Pvt. Ltd. |
 | Tue 17 Nov, 06:34 | Private Credit Analyst - Investor Relations | NJ Macson |
-| Mon 16 Nov, 22:50 | Investment Analyst | Blake Atlantic |
 
 </details>
