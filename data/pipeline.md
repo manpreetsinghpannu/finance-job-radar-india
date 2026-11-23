@@ -870,4 +870,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/currency-trader-at-pipraiser-4492388790 | Pipraiser | Currency Trader | India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-ahmedabad-guj-at-trelleborg-sealing-solutions-4429681745 | Trelleborg Sealing Solutions | Accountant , Ahmedabad GUJ | Greater Ahmedabad Area | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Capital-Markets-Operations_R163920-1 | Northern Trust | Associate Consultant, Capital Markets Operations | Bangalore, India | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-startup-stambh-private-limited-4492398432 | Startup Stambh Private Limited | Financial Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-at-oakwiz-capital-llp-4491158023 | Oakwiz Capital LLP | Research Analyst | Delhi, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-accounting-financial-reporting-team-at-houlihan-lokey-4383320762 | Houlihan Lokey | Associate- Accounting & Financial Reporting Team | Gurugram, Haryana, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-corporate-accounting-at-one-bcg-one-business-consulting-group-4493776422 | ONE BCG - ONE Business Consulting Group | Financial analyst - Corporate Accounting | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-kaufman-rossin-4493646181 | Kaufman Rossin | Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed
