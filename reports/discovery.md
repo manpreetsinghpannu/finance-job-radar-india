@@ -1,4 +1,4 @@
-# Discovery report: 2026-11-16 17:01 UTC
+# Discovery report: 2026-11-23 19:15 UTC
 
 Checked 101 companies that the name lookup could not resolve.
 Added to portals.yml: **0**. Still not scannable: **101**.
@@ -116,53 +116,51 @@ Set a job alert on their own site, or follow them on LinkedIn.
 | Microsoft | no hiring system link found | careers.microsoft.com |
 | Tesco Bengaluru | no hiring system link found | tescobengaluru.com |
 
-## Boards that could not be read this week (48)
+## Boards that could not be read this week (46)
 
 The hourly scan keeps trying these, but they return nothing until fixed. Usually the company moved to a new careers site.
 
-- **Invesco**: HTTP 429 Too Many Requests
-- **Invesco (Early Careers)**: HTTP 429 Too Many Requests
-- **Wellington Management**: HTTP 429 Too Many Requests
-- **Vanguard**: HTTP 429 Too Many Requests
 - **BlackRock**: HTTP 429 Too Many Requests
+- **Vanguard**: HTTP 429 Too Many Requests
 - **Franklin Templeton**: HTTP 429 Too Many Requests
+- **Wellington Management**: HTTP 429 Too Many Requests
+- **Invesco (Early Careers)**: HTTP 429 Too Many Requests
+- **Invesco**: HTTP 429 Too Many Requests
 - **MUFG**: HTTP 429 Too Many Requests
-- **Barclays**: HTTP 429 Too Many Requests
 - **Fidelity International**: HTTP 429 Too Many Requests
+- **Barclays**: HTTP 429 Too Many Requests
+- **Blackstone**: HTTP 429 Too Many Requests
+- **PIMCO**: HTTP 429 Too Many Requests
 - **Blackstone (Campus)**: HTTP 429 Too Many Requests
 - **Ares Management**: HTTP 429 Too Many Requests
 - **Bain Capital**: HTTP 429 Too Many Requests
-- **Blackstone**: HTTP 429 Too Many Requests
 - **S&P Global**: HTTP 429 Too Many Requests
 - **Nasdaq**: HTTP 429 Too Many Requests
-- **CME Group**: HTTP 429 Too Many Requests
 - **LSEG**: HTTP 429 Too Many Requests
-- **LSEG (Graduates)**: HTTP 429 Too Many Requests
-- **Mastercard**: HTTP 429 Too Many Requests
+- **Revolut**: HTTP 429 Too Many Requests
+- **CME Group**: HTTP 429 Too Many Requests
 - **AIG**: HTTP 429 Too Many Requests
 - **Marsh McLennan**: HTTP 429 Too Many Requests
 - **Visa**: HTTP 429 Too Many Requests
+- **Mastercard**: HTTP 429 Too Many Requests
 - **PayPal**: HTTP 429 Too Many Requests
 - **Accenture**: HTTP 429 Too Many Requests
-- **GSK**: HTTP 429 Too Many Requests
-- **AstraZeneca (Emerging Talent)**: HTTP 429 Too Many Requests
 - **AstraZeneca**: HTTP 429 Too Many Requests
+- **AstraZeneca (Emerging Talent)**: HTTP 429 Too Many Requests
 - **Unilever (Early Careers)**: HTTP 429 Too Many Requests
 - **Unilever**: HTTP 429 Too Many Requests
-- **Diageo**: HTTP 429 Too Many Requests
-- **Shell**: HTTP 429 Too Many Requests
 - **Houlihan Lokey (Campus)**: HTTP 429 Too Many Requests
+- **Shell**: HTTP 429 Too Many Requests
+- **Diageo**: HTTP 429 Too Many Requests
 - **Rolls-Royce**: HTTP 429 Too Many Requests
 - **Houlihan Lokey (Lateral)**: HTTP 429 Too Many Requests
-- **Citi**: HTTP 429 Too Many Requests
-- **State Street**: HTTP 429 Too Many Requests
 - **Mizuho**: HTTP 429 Too Many Requests
-- **Northern Trust**: HTTP 429 Too Many Requests
+- **State Street**: HTTP 429 Too Many Requests
 - **BP**: HTTP 429 Too Many Requests
 - **Wipro**: bamboohr: /careers/list redirected (302 -> https://www.bamboohr.com) — no such tenant
 - **Societe Generale**: fetch failed
-- **DBS Bank**: HTTP 429 Too Many Requests
 - **Duff & Phelps (Kroll)**: HTTP 404 Not Found
+- **DBS Bank**: HTTP 429 Too Many Requests
 - **Ameriprise Financial**: HTTP 429 Too Many Requests
 - **Genpact**: HTTP 429 Too Many Requests
 - **Brookfield**: HTTP 429 Too Many Requests
