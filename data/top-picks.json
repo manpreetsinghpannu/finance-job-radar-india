@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:44:15.322Z",
+ "generated_at": "2026-11-23T09:04:04.100Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 54,
+   "matching": 53,
    "picks": [
     {
      "title": "Equity Research Analyst — Energy Transition Focus",
@@ -2193,11 +2193,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-veye-research-pvt-ltd-4491490471": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/research-analyst-at-anand-shree-partners-4491827289": {
    "id": "equity",
