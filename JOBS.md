@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Mon 23 Nov, 19:17** (UK time) · **624 open roles** at 334 firms · the radar checks every board about once an hour.
+Updated **Mon 23 Nov, 19:47** (UK time) · **626 open roles** at 336 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Mon 23 Nov, 19:17** · new firms added: roles already open at firms added this day (no alerts sent) · checked 99 boards · **0 new roles**
+**Mon 23 Nov, 19:39** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Mon 23 Nov, 17:39** (6: Finance 4 · Credit 1 · Investment 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-23 | [Associate Financial Analyst, Daily Valuation - India](https://www.linkedin.com/jobs/view/associate-financial-analyst-daily-valuation-india-at-ascensus-4493682881) | Ascensus | Greater Hyderabad Area |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-23 | [US Stock Trader](https://www.linkedin.com/jobs/view/us-stock-trader-at-drug-drop-rx-4492642556) | Drug Drop Rx | India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (272 matching)
+**Finance (FP&A) CV** (273 matching)
 
 1. [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) · VRecruitFirst · Ahmedabad, Gujarat, India · posted 2026-11-23
 2. [Financial Analyst (FP&A)](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-at-signify-4485325843) · Signify · Pune Division, Maharashtra, India · posted 2026-11-21
@@ -33,7 +43,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst — Energy Transition Focus](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781) · Kanou Capital LLP · Greater Delhi Area · posted 2026-11-22
 2. [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) · Talent Corner HR Services Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 
-**Investment (IB / PE) CV** (101 matching)
+**Investment (IB / PE) CV** (102 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Tech M&A Analyst – Investment Banking, Deal Origination](https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108) · SA Global Advisors · Pune District, Maharashtra, India · posted 2026-11-17
@@ -43,7 +53,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) · Accenture services Pvt Ltd · Gurugram, Haryana, India · posted 2026-11-21
 2. [Management Consultant](https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844) · Sion Advisors · Hyderabad, Telangana, India · posted 2026-11-23
 
-**Real Estate CV** (44 matching)
+**Real Estate CV** (45 matching)
 
 1. [Property Accountant, Commercial Real Estate](https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532) · Versatile Club Employer of Record · India · posted 2026-11-23
 2. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Monday 23 November
+
+<details>
+<summary><b>19:39</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-23 | [Associate Financial Analyst, Daily Valuation - India](https://www.linkedin.com/jobs/view/associate-financial-analyst-daily-valuation-india-at-ascensus-4493682881) | Ascensus | Greater Hyderabad Area |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-23 | [US Stock Trader](https://www.linkedin.com/jobs/view/us-stock-trader-at-drug-drop-rx-4492642556) | Drug Drop Rx | India |
+
+</details>
 
 <sub>Nothing new at: 19:17, 18:38</sub>
 
@@ -2232,22 +2259,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>19:35</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-16 | [Financial Risk Analyst](https://www.linkedin.com/jobs/view/financial-risk-analyst-at-swiss-re-4482959322) | Swiss Re | Bengaluru, Karnataka, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (245)](#finance-fpa-cv-245) · [Credit (147)](#credit-cv-147) · [Equity (38)](#equity-cv-38) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (32)](#consulting-cv-32) · [Real Estate (16)](#real-estate-cv-16) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (246)](#finance-fpa-cv-246) · [Credit (147)](#credit-cv-147) · [Equity (38)](#equity-cv-38) · [Investment (85)](#investment-ib--pe-cv-85) · [Consulting (32)](#consulting-cv-32) · [Real Estate (16)](#real-estate-cv-16) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
-### Finance (FP&A) CV: 245
+### Finance (FP&A) CV: 246
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2265,6 +2281,7 @@ Everything matched so far, newest first within each CV: [Finance (245)](#finance
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-cisco-4485986613) | Cisco | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hitachi-energy-4493677554) | Hitachi Energy | Savli, Gujarat, India |
 | 2026-11-23 | [Financial Analyst-Supply Chain](https://www.linkedin.com/jobs/view/financial-analyst-supply-chain-at-hp-4493672919) | HP | Bengaluru, Karnataka, India |
+| 2026-11-23 | [Associate Financial Analyst, Daily Valuation - India](https://www.linkedin.com/jobs/view/associate-financial-analyst-daily-valuation-india-at-ascensus-4493682881) | Ascensus | Greater Hyderabad Area |
 | 2026-11-23 | [FP&A Associate](https://www.linkedin.com/jobs/view/fp-a-associate-at-cushman-wakefield-4493654746) | Cushman & Wakefield | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Commercial Analyst India, Global Travel Retail](https://www.linkedin.com/jobs/view/commercial-analyst-india-global-travel-retail-at-bacardi-4493664165) | Bacardi | Gurgaon, Haryana, India |
 | 2026-11-23 | [Corporate Treasury Strats, Associate, Quantitative Strategists](https://morganstanley.eightfold.ai/careers?pid=549800817698&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
@@ -2883,7 +2900,7 @@ Everything matched so far, newest first within each CV: [Finance (245)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 23
+### Other (fits no CV closely, may still be worth a look): 24
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2891,6 +2908,7 @@ Everything matched so far, newest first within each CV: [Finance (245)](#finance
 | 2026-11-23 | [Currency Trader](https://www.linkedin.com/jobs/view/currency-trader-at-pipraiser-4492388790) | Pipraiser | India |
 | 2026-11-23 | [Quantitative Analyst](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Quantitative-Analyst_R-15490) | Invesco | Hyderabad, Telangana |
 | 2026-11-23 | [Finance Management Trainee](https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725) | Wealthy | Bengaluru, Karnataka, India |
+| 2026-11-23 | [US Stock Trader](https://www.linkedin.com/jobs/view/us-stock-trader-at-drug-drop-rx-4492642556) | Drug Drop Rx | India |
 | 2026-11-21 | [Stock Trader](https://www.linkedin.com/jobs/view/stock-trader-4492883742) | Sunny Kumar Trader | New Delhi, Delhi, India |
 | 2026-11-21 | [Analyst - Pricing Credits - 2271](https://www.linkedin.com/jobs/view/analyst-pricing-credits-2271-at-medline-4418728208) | Medline | Pune Division, Maharashtra, India |
 | 2026-11-20 | [GB/G Portfolio Management Analyst - Indirect Procurement](https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270) | BASF | Hyderabad, Telangana, India |
@@ -2914,7 +2932,7 @@ Everything matched so far, newest first within each CV: [Finance (245)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>101 roles taken off the list because the firm closed the posting</summary>
+<summary>100 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3018,6 +3036,5 @@ Everything matched so far, newest first within each CV: [Finance (245)](#finance
 | Tue 17 Nov, 06:34 | Private Credit Analyst - Investor Relations | NJ Macson |
 | Mon 16 Nov, 22:50 | Investment Analyst | Blake Atlantic |
 | Mon 16 Nov, 20:22 | Financial Planning Analyst_CXO Office | Curefoods |
-| Mon 16 Nov, 19:38 | Valuation /Portfolio Monitoring/Private Equity | The HIRD |
 
 </details>

@@ -896,5 +896,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-associate-at-cushman-wakefield-4493654746 | Cushman & Wakefield | FP&A Associate | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-credit-portfolio-management-risk-management-group-at-dbs-bank-4493670575 | DBS Bank | Associate, Credit Portfolio Management, Risk Management Group | Greater Chennai Area | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/global-capital-market-associate-infra-capital-markets-mumbai-at-morgan-stanley-4478529104 | Morgan Stanley | Global Capital Market - Associate, Infra Capital Markets (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/us-stock-trader-at-drug-drop-rx-4492642556 | Drug Drop Rx | US Stock Trader | India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-financial-analyst-daily-valuation-india-at-ascensus-4493682881 | Ascensus | Associate Financial Analyst, Daily Valuation - India | Greater Hyderabad Area | posted: 2026-11-23 | note: via LinkedIn
 
 ## Processed
