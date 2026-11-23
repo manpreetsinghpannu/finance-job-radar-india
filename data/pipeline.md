@@ -838,4 +838,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.nomura.com/Nomura/job/Mumbai-Trader-400076/1452873700/ | Nomura | Trader | Mumbai
 - [ ] https://www.linkedin.com/jobs/view/accountant-5-years-experience-at-aldecor-india-4493703162 | Aldecor India | Accountant- 5 Years experience | Bangalore Urban, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
 
+- [ ] https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57776 | Tata Capital | Executive Secretary - Private Equity - DF - Fund Management - Fund Management Support - Mumbai - Lower Parel - JM | Mumbai, Maharashtra, India | posted: 2026-11-23
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859 | Mott MacDonald | Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-strategy-at-whizz-hr-4493618092 | Whizz HR | Credit Risk Strategy | Pune District, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/us-credit-originations-sme-at-art-technology-and-software-4492382420 | Art Technology and Software | US Credit Originations SME | India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-pipraiser-4492369882 | Pipraiser | Investment Analyst | India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844 | Sion Advisors | Management Consultant | Hyderabad, Telangana, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/expert-fund-accountant-at-csc-4493384174 | CSC | Expert Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-22 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/full-time-accountant-at-conserve-india-4493705488 | Conserve India | Full-time Accountant | Gurugram, Haryana, India | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-controller-at-cloudstaff-4493398728 | Cloudstaff | Financial Controller | Bangalore Urban, Karnataka, India | posted: 2026-11-23 | note: via LinkedIn
+
 ## Processed

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:40:48.016Z",
+ "generated_at": "2026-11-23T06:42:33.687Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 252,
+   "matching": 256,
    "picks": [
     {
      "title": "Financial Analyst (FP&A)",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 146,
+   "matching": 148,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 52,
+   "matching": 54,
    "picks": [
     {
      "title": "Equity Research Analyst — Energy Transition Focus",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 100,
+   "matching": 101,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 52,
+   "matching": 54,
    "picks": [
     {
      "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
@@ -175,15 +175,14 @@
      "sponsor": null
     },
     {
-     "title": "Consultant - Business Consulting Risk - FS - Market Risk Analyst- FSRM - Bangalore",
-     "company": "EY",
-     "location": "Mumbai",
-     "posted": null,
-     "url": "https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-Market-Risk-Analyst-FSRM-Bangalore-MH-400028/1437461133/",
-     "score": 13,
+     "title": "Management Consultant",
+     "company": "Sion Advisors",
+     "location": "Hyderabad, Telangana, India",
+     "posted": "2026-11-23",
+     "url": "https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844",
+     "score": 14,
      "why": [
-      "Consultant",
-      "Consulting"
+      "Management Consultant"
      ],
      "sponsor": null
     }
@@ -192,7 +191,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 43,
+   "matching": 44,
    "picks": [
     {
      "title": "Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru",
@@ -224,7 +223,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 47,
+   "matching": 49,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -3191,6 +3190,51 @@
    "score": 0
   },
   "https://www.linkedin.com/jobs/view/accountant-5-years-experience-at-aldecor-india-4493703162": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57776": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-strategy-at-whizz-hr-4493618092": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/us-credit-originations-sme-at-art-technology-and-software-4492382420": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-pipraiser-4492369882": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/expert-fund-accountant-at-csc-4493384174": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/full-time-accountant-at-conserve-india-4493705488": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-controller-at-cloudstaff-4493398728": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
