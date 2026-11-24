@@ -924,4 +924,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/trainee-finance-associate-at-himalaya-wellness-company-4494107479 | Himalaya Wellness Company | Trainee - Finance Associate | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-equities-at-imc-trading-4423926245 | IMC Trading | Research Analyst (Equities) | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
 
+- [ ] https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8809 | Ares Management | Analyst, Portfolio Management US Direct Lending | Mumbai, India
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811696 | JPMorgan Chase | Data Management Financial Controller-Analyst | Bengaluru, Karnataka, India | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-ameriprise-financial-services-llc-4494111895 | Ameriprise Financial Services, LLC | Vendor Risk Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/securities-research-associate-at-wells-fargo-4494109801 | Wells Fargo | Securities Research Associate | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-fresher-at-fsssi-global-pvt-ltd-4492698440 | FSSSI GLOBAL PVT. LTD | Investment Banking (Fresher) | Patna, Bihar, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/experienced-financial-analyst-ip-valuation-advisory-services-at-houlihan-lokey-4414668392 | Houlihan Lokey | Experienced Financial Analyst, IP Valuation & Advisory Services | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/uk-m-a-annual-report-accounts-experienced-associate-at-pwc-acceleration-center-india-4492697669 | PwC Acceleration Center India | UK-M&A- Annual Report & Accounts-Experienced Associate | Kolkata, West Bengal, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990 | MNC | Private Equity -Portfolio Monitoring - Valuation reporting | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/spe-asset-mgmt-capital-markets-at-cognizant-4494322866 | Cognizant | SPE-Asset Mgmt Capital Markets | Bangalore Urban, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-specialist-operations-trns-svcs-trade-operations-corporate-banking-technology-operations-at-dbs-bank-4486143930 | DBS Bank | Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking, Technology & Operations | Amta-I, West Bengal, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-analyst-at-zepcruit-4417076958 | Zepcruit | Quantitative Analyst | Haryana, India | posted: 2026-11-24 | note: via LinkedIn
+
 ## Processed

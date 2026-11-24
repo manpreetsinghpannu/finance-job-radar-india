@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:48:10.578Z",
+ "generated_at": "2026-11-24T11:47:57.369Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 284,
+   "matching": 286,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 158,
+   "matching": 161,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 58,
+   "matching": 60,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 102,
+   "matching": 108,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -141,12 +141,12 @@
      "sponsor": null
     },
     {
-     "title": "Assurance - Financial Markets - Valuation (Private Equity & Private Credit) - Associate",
-     "company": "PwC Acceleration Center India",
-     "location": "Kolkata, West Bengal, India",
-     "posted": "2026-11-20",
-     "url": "https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264",
-     "score": 23,
+     "title": "Private Equity -Portfolio Monitoring - Valuation reporting",
+     "company": "MNC",
+     "location": "Bengaluru, Karnataka, India",
+     "posted": "2026-11-24",
+     "url": "https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990",
+     "score": 24,
      "why": [
       "Valuation",
       "Private Equity"
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 55,
+   "matching": 56,
    "picks": [
     {
      "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
@@ -191,7 +191,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 44,
+   "matching": 47,
    "picks": [
     {
      "title": "Property Accountant, Commercial Real Estate",
@@ -224,7 +224,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 51,
+   "matching": 52,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -3464,6 +3464,61 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 23
+  },
+  "https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8809": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 15
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811696": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-ameriprise-financial-services-llc-4494111895": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/securities-research-associate-at-wells-fargo-4494109801": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-fresher-at-fsssi-global-pvt-ltd-4492698440": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/experienced-financial-analyst-ip-valuation-advisory-services-at-houlihan-lokey-4414668392": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/uk-m-a-annual-report-accounts-experienced-associate-at-pwc-acceleration-center-india-4492697669": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 24
+  },
+  "https://www.linkedin.com/jobs/view/spe-asset-mgmt-capital-markets-at-cognizant-4494322866": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/analyst-specialist-operations-trns-svcs-trade-operations-corporate-banking-technology-operations-at-dbs-bank-4486143930": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 6
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-analyst-at-zepcruit-4417076958": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }
