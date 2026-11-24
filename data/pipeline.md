@@ -949,5 +949,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-expert-remote-at-yo-hr-consultancy-4493012478 | YO HR Consultancy | Investment Banking Expert - Remote | India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-back-office-officer-at-vanderlande-4484643055 | Vanderlande | Treasury Back office Officer | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-capital-reporting-liquidity-reporting-fin-reporting-at-tata-consultancy-services-4494116980 | Tata Consultancy Services | Financial Planning and Analysis, Capital Reporting, Liquidity Reporting, Fin-Reporting | Noida, Uttar Pradesh, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-precision-medicine-group-4404445228 | Precision Medicine Group | Financial Analyst | India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/hiring-chartered-accountant-freshers-pune-at-ss-c-technologies-4258239802 | SS&C Technologies | Hiring Chartered Accountant Freshers - PUNE | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
