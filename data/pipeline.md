@@ -951,5 +951,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-capital-reporting-liquidity-reporting-fin-reporting-at-tata-consultancy-services-4494116980 | Tata Consultancy Services | Financial Planning and Analysis, Capital Reporting, Liquidity Reporting, Fin-Reporting | Noida, Uttar Pradesh, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-precision-medicine-group-4404445228 | Precision Medicine Group | Financial Analyst | India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/hiring-chartered-accountant-freshers-pune-at-ss-c-technologies-4258239802 | SS&C Technologies | Hiring Chartered Accountant Freshers - PUNE | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-4493023355 | CITY ROYAL ENTERPRISE PVT.LTD | Finance Analyst | Pune District, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-associate-auto-at-emkay-global-financial-services-ltd-4484655897 | Emkay Global Financial Services Ltd | Research Associate - Auto | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-sulzer-4433442780 | Sulzer | Treasury Specialist | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed

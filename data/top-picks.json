@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:48:00.908Z",
+ "generated_at": "2026-11-24T15:46:57.947Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 293,
+   "matching": 294,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 162,
+   "matching": 161,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 59,
+   "matching": 60,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 108,
+   "matching": 106,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -1835,11 +1835,6 @@
    "cv": "Equity CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-mergers-acquisitions-at-cornell-fitness-centers-4491531699": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275535": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
@@ -2284,11 +2279,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 28
-  },
-  "https://www.linkedin.com/jobs/view/investment-associate-financial-services-debt-at-british-international-investment-4491388692": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 8
   },
   "https://www.linkedin.com/jobs/view/associate-%E2%80%93-fund-accounting-at-bnp-paribas-4492408782": {
    "id": "fund",
@@ -3564,6 +3554,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-4493023355": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-associate-auto-at-emkay-global-financial-services-ltd-4484655897": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/treasury-specialist-at-sulzer-4433442780": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 2
   }
  }
 }
