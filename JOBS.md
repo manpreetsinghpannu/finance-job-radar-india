@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 23:38** (UK time) · **670 open roles** at 361 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 23:55** (UK time) · **670 open roles** at 361 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 23:27** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 24 Nov, 23:47** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 24 Nov, 22:38** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 24 November
 
-<sub>Nothing new at: 23:27</sub>
+<sub>Nothing new at: 23:47</sub>
 
 <details>
 <summary><b>22:38</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2935,7 +2935,7 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Tue 24 Nov, 23:32 | Investment Banking Analyst – Global Fundraising & Private Capital | Jobgether |
+| Tue 24 Nov, 23:52 | Investment Banking Analyst – Global Fundraising & Private Capital | Jobgether |
 | Tue 24 Nov, 22:41 | US Stock Trader | Drug Drop Rx |
 | Tue 24 Nov, 20:43 | Financial Analyst | HP |
 | Tue 24 Nov, 16:45 | Currency Trader | Pipraiser |
