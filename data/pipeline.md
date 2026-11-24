@@ -935,5 +935,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/spe-asset-mgmt-capital-markets-at-cognizant-4494322866 | Cognizant | SPE-Asset Mgmt Capital Markets | Bangalore Urban, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-specialist-operations-trns-svcs-trade-operations-corporate-banking-technology-operations-at-dbs-bank-4486143930 | DBS Bank | Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking, Technology & Operations | Amta-I, West Bengal, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/quantitative-analyst-at-zepcruit-4417076958 | Zepcruit | Quantitative Analyst | Haryana, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-finance-analyst-at-tempsens-instruments-pvt-ltd-4494348139 | Tempsens Instruments Pvt Ltd | Business Finance Analyst | Udaipur, Rajasthan, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-michael-page-4494342006 | Michael Page | Finance Analyst | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cactus-communications-4485778270 | Cactus Communications | Analyst, Financial Planning & Analysis | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/executive-financial-planning-and-analysis-go-jc-4934-2026-at-golden-opportunities-4486030493 | Golden Opportunities | Executive - FInancial Planning and Analysis - GO/JC/4934/2026 | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-2-at-jupiter-4480628073 | Jupiter | Risk Analyst 2 | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-financial-reporting-at-bnp-paribas-4486189789 | BNP Paribas | Analyst - Financial reporting | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-reporting-specialist-at-alter-domus-4494120875 | Alter Domus | Financial Reporting Specialist | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-reinsurance-at-santam-insurance-4493007639 | Santam Insurance | Financial Analyst - Reinsurance | Gujarat, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
