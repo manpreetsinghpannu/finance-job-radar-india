@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:45:47.131Z",
+ "generated_at": "2026-11-24T13:11:55.708Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 292,
+   "matching": 291,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 60,
+   "matching": 59,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 108,
+   "matching": 107,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -224,20 +224,8 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 52,
+   "matching": 51,
    "picks": [
-    {
-     "title": "Officer, Fund Accounting Analyst",
-     "company": "Citi",
-     "location": "Gurugram Haryana India",
-     "posted": "2026-11-23",
-     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Fund-Accounting-Analyst_261010919",
-     "score": 18,
-     "why": [
-      "Fund Accounting"
-     ],
-     "sponsor": null
-    },
     {
      "title": "Fund Accounting or Reporting Analyst",
      "company": "Deutsche Bank",
@@ -248,6 +236,18 @@
      "why": [
       "Fund Accounting",
       "Reporting Analyst"
+     ],
+     "sponsor": null
+    },
+    {
+     "title": "Fund Accountant - Executive",
+     "company": "TMF Group",
+     "location": "Mumbai Metropolitan Region",
+     "posted": "2026-11-17",
+     "url": "https://www.linkedin.com/jobs/view/fund-accountant-executive-at-tmf-group-4490408755",
+     "score": 17,
+     "why": [
+      "Fund Accountant"
      ],
      "sponsor": null
     }
@@ -1359,11 +1359,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-vetic-4489547123": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 4
   },
   "https://www.linkedin.com/jobs/view/analyst-wholesale-credit-risk-quantitative-research-at-jpmorganchase-4482803839": {
    "id": "credit",
@@ -2880,11 +2875,6 @@
    "cv": "Credit CV",
    "score": 7
   },
-  "https://www.linkedin.com/jobs/view/financial-research-associate-at-sdsr-4492310282": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 7
-  },
   "https://www.linkedin.com/jobs/view/am-financial-planning-analysis-at-tata-communications-4467841401": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3090,11 +3080,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Fund-Accounting-Analyst_261010919": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 18
-  },
   "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Valuation-Mumbai-MH-400028/1420901233/": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -3109,11 +3094,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57776": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 19
   },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859": {
    "id": "finance",
@@ -3554,6 +3534,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-accounting-associate-blr-at-alchelyst-4494366694": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/itof-portfolio-analyst-ado-portfolio-governance-%2B-agile-safe-%2B-pmo-reporting-%2B-data-quality-at-cenergy-international-services-4493002782": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
   }
  }
 }

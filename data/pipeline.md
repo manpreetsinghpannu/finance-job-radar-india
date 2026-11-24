@@ -943,5 +943,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/analyst-financial-reporting-at-bnp-paribas-4486189789 | BNP Paribas | Analyst - Financial reporting | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-reporting-specialist-at-alter-domus-4494120875 | Alter Domus | Financial Reporting Specialist | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-reinsurance-at-santam-insurance-4493007639 | Santam Insurance | Financial Analyst - Reinsurance | Gujarat, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-associate-blr-at-alchelyst-4494366694 | Alchelyst | Fund Accounting, Associate (BLR) | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/itof-portfolio-analyst-ado-portfolio-governance-%2B-agile-safe-%2B-pmo-reporting-%2B-data-quality-at-cenergy-international-services-4493002782 | Cenergy International Services | ITOF Portfolio Analyst - ADO Portfolio Governance + Agile/SAFe + PMO Reporting + Data Quality. | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
