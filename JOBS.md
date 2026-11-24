@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 02:57** (UK time) · **626 open roles** at 335 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 03:47** (UK time) · **627 open roles** at 335 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 02:51** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 24 Nov, 03:37** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 24 Nov, 00:38** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-24 | [Finance Specialist - FP&A](https://jobs.bt.com/job/Finance-Specialist-FP-A/64846-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (274 matching)
+**Finance (FP&A) CV** (275 matching)
 
 1. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 2. [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) · VRecruitFirst · Ahmedabad, Gujarat, India · posted 2026-11-23
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<details>
+<summary><b>03:37</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-24 | [Finance Specialist - FP&A](https://jobs.bt.com/job/Finance-Specialist-FP-A/64846-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
+
+</details>
 
 <sub>Nothing new at: 02:51, 01:39</sub>
 
@@ -2137,47 +2152,18 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 05:33, 04:47, 04:34, 03:43</sub>
-
-<details>
-<summary><b>03:33</b> · hourly scan · <b>5 new</b> → Credit 1 · Equity 1 · Investment 2 · Consulting 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Growthally Advisors - Analyst - Debt Syndication](https://www.linkedin.com/jobs/view/growthally-advisors-analyst-debt-syndication-at-growthally-advisors-private-limited-4490972860) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Product Research Analyst -1 to 3 years of experience in investment research, financial advisory - CA with CFA level 2&3( Nariman Point - Mumbai)](https://www.linkedin.com/jobs/view/product-research-analyst-1-to-3-years-of-experience-in-investment-research-financial-advisory-ca-with-cfa-level-2-3-nariman-point-mumbai-at-talent-corner-hr-services-pvt-ltd-4490171635) | Talent Corner HR Services Pvt Ltd | Mumbai, Maharashtra, India |
-
-#### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Growthally Advisors - Investment Banking Analyst](https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
-| 2026-11-17 | [Investment Banking Analyst – Global Fundraising & Private Capital](https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123) | Jobgether | India |
-
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Growthally Advisors - Analyst - M&amp;A Advisory](https://www.linkedin.com/jobs/view/growthally-advisors-analyst-m-amp-a-advisory-at-growthally-advisors-private-limited-4490978552) | GrowthAlly Advisors Private Limited | Bengaluru East, Karnataka, India |
-
-</details>
+<sub>Nothing new at: 05:33, 04:47, 04:34</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (247)](#finance-fpa-cv-247) · [Credit (147)](#credit-cv-147) · [Equity (38)](#equity-cv-38) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (32)](#consulting-cv-32) · [Real Estate (16)](#real-estate-cv-16) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (248)](#finance-fpa-cv-248) · [Credit (147)](#credit-cv-147) · [Equity (38)](#equity-cv-38) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (32)](#consulting-cv-32) · [Real Estate (16)](#real-estate-cv-16) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
-### Finance (FP&A) CV: 247
+### Finance (FP&A) CV: 248
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-24 | [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) | Amazon | Hyderabad, Telangana, India |
+| 2026-11-24 | [Finance Specialist - FP&A](https://jobs.bt.com/job/Finance-Specialist-FP-A/64846-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
 | 2026-11-23 | [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) | VRecruitFirst | Ahmedabad, Gujarat, India |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859) | Mott MacDonald | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531) | Perfint Healthcare Pvt Ltd. | Chennai, Tamil Nadu, India |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T02:57:29.796Z",
+ "generated_at": "2026-11-24T03:47:30.502Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 274,
+   "matching": 275,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -3384,6 +3384,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 28
+  },
+  "https://jobs.bt.com/job/Finance-Specialist-FP-A/64846-en_GB": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

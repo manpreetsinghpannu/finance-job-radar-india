@@ -900,4 +900,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-financial-analyst-daily-valuation-india-at-ascensus-4493682881 | Ascensus | Associate Financial Analyst, Daily Valuation - India | Greater Hyderabad Area | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033 | Amazon | Financial Analyst, GFS Services FP&A | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
 
+- [ ] https://jobs.bt.com/job/Finance-Specialist-FP-A/64846-en_GB | BT Group | Finance Specialist - FP&A | Gurugram IQ, Gurugram, India, | posted: 2026-11-24
+
 ## Processed
