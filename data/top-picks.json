@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:46:21.594Z",
+ "generated_at": "2026-11-24T23:38:03.156Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 109,
+   "matching": 108,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -1852,11 +1852,6 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 10
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
   },
   "https://www.linkedin.com/jobs/view/credit-analyst-credit-underwriting-at-emirates-nbd-4490197101": {
    "id": "credit",

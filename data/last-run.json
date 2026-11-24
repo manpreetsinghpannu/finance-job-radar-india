@@ -1,17 +1,25 @@
 {
-  "finished_at": "2026-11-24T22:46:22.222Z",
+  "finished_at": "2026-11-24T23:38:03.783Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 38337,
-  "filtered_out": 38277,
-  "new_matches": 1,
-  "boards_failed": 36,
+  "postings_seen": 38123,
+  "filtered_out": 38066,
+  "new_matches": 0,
+  "boards_failed": 38,
   "failed": [
     {
-      "company": "MUFG",
+      "company": "Wellington Management",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Franklin Templeton",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Vanguard",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -19,27 +27,19 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
+      "company": "MUFG",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
       "company": "Fidelity International",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Bain Capital",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Nasdaq",
+      "company": "S&P Global",
       "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "CME Group",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "LSEG (Graduates)",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "LSEG",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -51,15 +51,19 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Accenture",
+      "company": "LSEG (Graduates)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Visa",
+      "company": "LSEG",
       "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Mastercard",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Visa",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -79,11 +83,15 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
+      "company": "Unilever (Early Careers)",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
       "company": "Unilever",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Unilever (Early Careers)",
+      "company": "Diageo",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -99,10 +107,6 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Diageo",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
       "company": "Houlihan Lokey (Lateral)",
       "error": "HTTP 429 Too Many Requests"
     },
@@ -111,11 +115,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "State Street",
+      "company": "Mizuho",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Mizuho",
+      "company": "State Street",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -139,12 +143,12 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "DBS Bank",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
       "company": "Duff & Phelps (Kroll)",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "DBS Bank",
+      "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Brookfield",
@@ -153,6 +157,10 @@
     {
       "company": "Walmart Global Tech",
       "error": "HTTP 404 Not Found"
+    },
+    {
+      "company": "Target India",
+      "error": "HTTP 429 Too Many Requests"
     }
   ]
 }

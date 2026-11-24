@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 22:46** (UK time) · **671 open roles** at 362 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 23:38** (UK time) · **670 open roles** at 361 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 22:38** · hourly scan · checked 99 boards · **1 new role**
+**Tue 24 Nov, 23:27** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Financial Consultant - Financial Planning and Analysis,](https://www.linkedin.com/jobs/view/financial-consultant-financial-planning-and-analysis-at-optum-4493039970) | Optum | Gurgaon, Haryana, India |
+Nothing new this time. The last scan that found something was **Tue 24 Nov, 22:38** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -37,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
 2. [Equity Research Analyst (Buy Side)](https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226) · Roan Analytics · India · posted 2026-11-24
 
-**Investment (IB / PE) CV** (109 matching)
+**Investment (IB / PE) CV** (108 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<sub>Nothing new at: 23:27</sub>
 
 <details>
 <summary><b>22:38</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2216,24 +2214,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 01:33, 00:33</sub>
 
-### Tuesday 17 November
-
-<sub>Nothing new at: 23:33</sub>
-
-<details>
-<summary><b>23:10</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-gartner-4491446178) | Gartner | Gurgaon, Haryana, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (268)](#finance-fpa-cv-268) · [Credit (160)](#credit-cv-160) · [Equity (43)](#equity-cv-43) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (268)](#finance-fpa-cv-268) · [Credit (160)](#credit-cv-160) · [Equity (43)](#equity-cv-43) · [Investment (89)](#investment-ib--pe-cv-89) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
 ### Finance (FP&A) CV: 268
 
@@ -2721,7 +2704,7 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 
-### Investment (IB / PE) CV: 90
+### Investment (IB / PE) CV: 89
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2767,7 +2750,6 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 | 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
 | 2026-11-17 | [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) | PRP Professional Edge Associates Pvt Ltd | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Growthally Advisors - Investment Banking Analyst](https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
-| 2026-11-17 | [Investment Banking Analyst – Global Fundraising & Private Capital](https://www.linkedin.com/jobs/view/investment-banking-analyst-%E2%80%93-global-fundraising-private-capital-at-jobgether-4490188123) | Jobgether | India |
 | 2026-11-17 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-rungta-advisors-4490193707) | Rungta Advisors | Pune City, Maharashtra, India |
 | 2026-11-17 | [Global banking - Investment Banking Associate](https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166) | UBS | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077) | Educore | Gurugram, Haryana, India |
@@ -2949,10 +2931,11 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>101 roles taken off the list because the firm closed the posting</summary>
+<summary>102 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 24 Nov, 23:32 | Investment Banking Analyst – Global Fundraising & Private Capital | Jobgether |
 | Tue 24 Nov, 22:41 | US Stock Trader | Drug Drop Rx |
 | Tue 24 Nov, 20:43 | Financial Analyst | HP |
 | Tue 24 Nov, 16:45 | Currency Trader | Pipraiser |
