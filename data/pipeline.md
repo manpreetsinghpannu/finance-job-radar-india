@@ -898,5 +898,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/global-capital-market-associate-infra-capital-markets-mumbai-at-morgan-stanley-4478529104 | Morgan Stanley | Global Capital Market - Associate, Infra Capital Markets (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/us-stock-trader-at-drug-drop-rx-4492642556 | Drug Drop Rx | US Stock Trader | India | posted: 2026-11-23 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-financial-analyst-daily-valuation-india-at-ascensus-4493682881 | Ascensus | Associate Financial Analyst, Daily Valuation - India | Greater Hyderabad Area | posted: 2026-11-23 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033 | Amazon | Financial Analyst, GFS Services FP&A | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
