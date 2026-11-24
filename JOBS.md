@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 02:44** (UK time) · **626 open roles** at 335 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 02:57** (UK time) · **626 open roles** at 335 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 02:38** · hourly scan · checked 99 boards · **0 new roles**
+**Tue 24 Nov, 02:51** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Tue 24 Nov, 00:38** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Tuesday 24 November
 
-<sub>Nothing new at: 02:38, 01:39</sub>
+<sub>Nothing new at: 02:51, 01:39</sub>
 
 <details>
 <summary><b>00:38</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2846,7 +2846,7 @@ Everything matched so far, newest first within each CV: [Finance (247)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Tue 24 Nov, 02:41 | Tech M&A Analyst – Investment Banking, Deal Origination | SA Global Advisors |
+| Tue 24 Nov, 02:54 | Tech M&A Analyst – Investment Banking, Deal Origination | SA Global Advisors |
 | Mon 23 Nov, 17:40 | Treasury Finance - Analyst | Barclays |
 | Mon 23 Nov, 17:40 | Analyst - Product Control | Barclays |
 | Mon 23 Nov, 17:39 | Associate, Credit IR | Ares Management |
