@@ -901,5 +901,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033 | Amazon | Financial Analyst, GFS Services FP&A | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
 
 - [ ] https://jobs.bt.com/job/Finance-Specialist-FP-A/64846-en_GB | BT Group | Finance Specialist - FP&A | Gurugram IQ, Gurugram, India, | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949 | Anand Rathi Share and Stock Brokers Ltd | Equity Research Analyst - BFSI | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/us-credit-research-analyst-at-guidepoint-4494101022 | Guidepoint | US Credit Research Analyst | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-navsan-4494304596 | Navsan | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
