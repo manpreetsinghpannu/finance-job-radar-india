@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:47:09.820Z",
+ "generated_at": "2026-11-24T02:44:06.458Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 102,
+   "matching": 101,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -141,15 +141,15 @@
      "sponsor": null
     },
     {
-     "title": "Tech M&A Analyst – Investment Banking, Deal Origination",
-     "company": "SA Global Advisors",
-     "location": "Pune District, Maharashtra, India",
-     "posted": "2026-11-17",
-     "url": "https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108",
-     "score": 26,
+     "title": "Assurance - Financial Markets - Valuation (Private Equity & Private Credit) - Associate",
+     "company": "PwC Acceleration Center India",
+     "location": "Kolkata, West Bengal, India",
+     "posted": "2026-11-20",
+     "url": "https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264",
+     "score": 23,
      "why": [
-      "Investment Banking",
-      "M&A"
+      "Valuation",
+      "Private Equity"
      ],
      "sponsor": null
     }
@@ -2054,11 +2054,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/tech-m-a-analyst-%E2%80%93-investment-banking-deal-origination-at-sa-global-advisors-4490467108": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 26
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-3-at-oracle-4482212689": {
    "id": "finance",
