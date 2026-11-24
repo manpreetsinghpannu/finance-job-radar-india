@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:51:02.957Z",
+ "generated_at": "2026-11-24T10:48:10.578Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 282,
+   "matching": 284,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 57,
+   "matching": 58,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -3449,6 +3449,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-control-accountant-at-fnz-4484646120": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/trainee-finance-associate-at-himalaya-wellness-company-4494107479": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-equities-at-imc-trading-4423926245": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 23
   }
  }
 }

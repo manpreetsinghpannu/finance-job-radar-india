@@ -920,5 +920,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/associate-analyst-equity-research-sell-side-at-roots-recruitment-services-4492686594 | Roots Recruitment Services | Associate Analyst Equity Research (Sell Side) | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-koel-fluid-dynamics-4494315793 | KOEL Fluid Dynamics | Financial Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-livspace-4494331184 | Livspace | Treasury Analyst | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-control-accountant-at-fnz-4484646120 | FNZ | Financial Control Accountant | Gurugram, Haryana, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trainee-finance-associate-at-himalaya-wellness-company-4494107479 | Himalaya Wellness Company | Trainee - Finance Associate | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-equities-at-imc-trading-4423926245 | IMC Trading | Research Analyst (Equities) | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed

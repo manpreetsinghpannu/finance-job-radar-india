@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 09:51** (UK time) · **639 open roles** at 343 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 10:48** (UK time) · **642 open roles** at 345 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,33 +10,26 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 09:41** · hourly scan · checked 99 boards · **5 new roles**
+**Tue 24 Nov, 10:39** · hourly scan · checked 99 boards · **3 new roles**
 
 ### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-24 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-koel-fluid-dynamics-4494315793) | KOEL Fluid Dynamics | Ahmedabad, Gujarat, India |
-| 2026-11-24 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-livspace-4494331184) | Livspace | Bengaluru, Karnataka, India |
-
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Vendor Risk Analyst](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Vendor-Risk-Analyst_R26_4508) | Ameriprise Financial | Noida, Uttar Pradesh, India |
-| 2026-11-24 | [US Credit SME](https://www.linkedin.com/jobs/view/us-credit-sme-at-art-technology-and-software-4492692346) | Art Technology and Software | India |
+| 2026-11-24 | [Trainee - Finance Associate](https://www.linkedin.com/jobs/view/trainee-finance-associate-at-himalaya-wellness-company-4494107479) | Himalaya Wellness Company | Bengaluru, Karnataka, India |
+| 2026-11-24 | [Financial Control Accountant](https://www.linkedin.com/jobs/view/financial-control-accountant-at-fnz-4484646120) | FNZ | Gurugram, Haryana, India |
 
 ### Equity CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-24 | [Associate Analyst Equity Research (Sell Side)](https://www.linkedin.com/jobs/view/associate-analyst-equity-research-sell-side-at-roots-recruitment-services-4492686594) | Roots Recruitment Services | Mumbai, Maharashtra, India |
+| 2026-11-24 | [Research Analyst (Equities)](https://www.linkedin.com/jobs/view/research-analyst-equities-at-imc-trading-4423926245) | IMC Trading | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (282 matching)
+**Finance (FP&A) CV** (284 matching)
 
 1. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 2. [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) · VRecruitFirst · Ahmedabad, Gujarat, India · posted 2026-11-23
@@ -46,7 +39,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (57 matching)
+**Equity CV** (58 matching)
 
 1. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
 2. [Equity Research Analyst — Energy Transition Focus](https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781) · Kanou Capital LLP · Greater Delhi Area · posted 2026-11-22
@@ -76,6 +69,24 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<details>
+<summary><b>10:39</b> · hourly scan · <b>3 new</b> → Finance 2 · Equity 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-24 | [Trainee - Finance Associate](https://www.linkedin.com/jobs/view/trainee-finance-associate-at-himalaya-wellness-company-4494107479) | Himalaya Wellness Company | Bengaluru, Karnataka, India |
+| 2026-11-24 | [Financial Control Accountant](https://www.linkedin.com/jobs/view/financial-control-accountant-at-fnz-4484646120) | FNZ | Gurugram, Haryana, India |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-24 | [Research Analyst (Equities)](https://www.linkedin.com/jobs/view/research-analyst-equities-at-imc-trading-4423926245) | IMC Trading | Mumbai Metropolitan Region |
+
+</details>
 
 <details>
 <summary><b>09:41</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 2 · Equity 1</summary>
@@ -2153,26 +2164,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:33</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
-
-#### Finance (FP&A) CV: 3
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-duruper-4488229439) | Duruper | Hyderabad, Telangana, India |
-| 2026-11-17 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-mitsubishi-chemical-group-apac-4490419414) | Mitsubishi Chemical Group APAC | Delhi, India |
-| 2026-11-17 | [Associate of R&D Strategic Finance (FP&A)](https://www.linkedin.com/jobs/view/associate-of-r-d-strategic-finance-fp-a-at-toast-4475566606) | Toast | Chennai, Tamil Nadu, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (255)](#finance-fpa-cv-255) · [Credit (152)](#credit-cv-152) · [Equity (39)](#equity-cv-39) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (257)](#finance-fpa-cv-257) · [Credit (152)](#credit-cv-152) · [Equity (40)](#equity-cv-40) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
-### Finance (FP&A) CV: 255
+### Finance (FP&A) CV: 257
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2181,12 +2177,14 @@ Everything matched so far, newest first within each CV: [Finance (255)](#finance
 | 2026-11-24 | [Chartered Financial Analyst](https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-vastu-vihar-technoculture-building-centre-pvt-ltd-4494311228) | Vastu Vihar | Bodh Gaya, Bihar, India |
 | 2026-11-24 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-koel-fluid-dynamics-4494315793) | KOEL Fluid Dynamics | Ahmedabad, Gujarat, India |
 | 2026-11-24 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-livspace-4494331184) | Livspace | Bengaluru, Karnataka, India |
+| 2026-11-24 | [Trainee - Finance Associate](https://www.linkedin.com/jobs/view/trainee-finance-associate-at-himalaya-wellness-company-4494107479) | Himalaya Wellness Company | Bengaluru, Karnataka, India |
 | 2026-11-24 | [Associate - Auto Treasury Finance](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210796416) | JPMorgan Chase | Bengaluru, Karnataka, India |
 | 2026-11-24 | [Associate – GMO Back Office Treasury](https://www.linkedin.com/jobs/view/associate-%E2%80%93-gmo-back-office-treasury-at-natixis-services-in-india-4494324028) | Natixis Services in India | Bengaluru, Karnataka, India |
 | 2026-11-24 | [Finance Specialist - FP&A](https://jobs.bt.com/job/Finance-Specialist-FP-A/64846-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
 | 2026-11-24 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-saras-analytics-4493992720) | Saras Analytics | Hyderabad, Telangana, India |
 | 2026-11-24 | [Business Process Consulting_Treasury (Integrity)](https://www.linkedin.com/jobs/view/business-process-consulting-treasury-integrity-at-zensar-technologies-4494313580) | Zensar Technologies | Pune District, Maharashtra, India |
 | 2026-11-24 | [Accountant/Bookkeeper](https://www.linkedin.com/jobs/view/accountant-bookkeeper-at-team-everest-ngo-4494321310) | Team Everest NGO | Greater Chennai Area |
+| 2026-11-24 | [Financial Control Accountant](https://www.linkedin.com/jobs/view/financial-control-accountant-at-fnz-4484646120) | FNZ | Gurugram, Haryana, India |
 | 2026-11-23 | [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) | VRecruitFirst | Ahmedabad, Gujarat, India |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859) | Mott MacDonald | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531) | Perfint Healthcare Pvt Ltd. | Chennai, Tamil Nadu, India |
@@ -2589,11 +2587,12 @@ Everything matched so far, newest first within each CV: [Finance (255)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 39
+### Equity CV: 40
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-24 | [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) | Anand Rathi Share and Stock Brokers Ltd | Mumbai, Maharashtra, India |
+| 2026-11-24 | [Research Analyst (Equities)](https://www.linkedin.com/jobs/view/research-analyst-equities-at-imc-trading-4423926245) | IMC Trading | Mumbai Metropolitan Region |
 | 2026-11-24 | [Associate Analyst Equity Research (Sell Side)](https://www.linkedin.com/jobs/view/associate-analyst-equity-research-sell-side-at-roots-recruitment-services-4492686594) | Roots Recruitment Services | Mumbai, Maharashtra, India |
 | 2026-11-23 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-cokaco-4492622264) | CoKaCo | Mumbai, Maharashtra, India |
 | 2026-11-23 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-oakwiz-capital-llp-4491158023) | Oakwiz Capital LLP | Delhi, India |
@@ -2854,7 +2853,7 @@ Everything matched so far, newest first within each CV: [Finance (255)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>98 roles taken off the list because the firm closed the posting</summary>
+<summary>97 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2955,6 +2954,5 @@ Everything matched so far, newest first within each CV: [Finance (255)](#finance
 | Tue 17 Nov, 13:09 | Treasury Operations | Alpha Alternatives |
 | Tue 17 Nov, 12:35 | Financial Analyst | Arcana |
 | Tue 17 Nov, 11:34 | Research Analyst | HRM Counsel |
-| Tue 17 Nov, 10:36 | Research Analyst | Madhur Agrawal |
 
 </details>
