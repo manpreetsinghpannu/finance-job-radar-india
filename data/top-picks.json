@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:47:39.883Z",
+ "generated_at": "2026-11-24T19:44:43.450Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 61,
+   "matching": 63,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -108,11 +108,11 @@
      "sponsor": null
     },
     {
-     "title": "Equity Research Analyst — Energy Transition Focus",
-     "company": "Kanou Capital LLP",
-     "location": "Greater Delhi Area",
-     "posted": "2026-11-22",
-     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781",
+     "title": "Equity Research Analyst (Buy Side)",
+     "company": "Roan Analytics",
+     "location": "India",
+     "posted": "2026-11-24",
+     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226",
      "score": 28,
      "why": [
       "Equity Research",
@@ -158,8 +158,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
+    {
+     "title": "Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)",
+     "company": "Visa",
+     "location": "IN - Bengaluru, India",
+     "posted": "2026-11-24",
+     "url": "https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W",
+     "score": 18,
+     "why": [
+      "Consulting Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Management Consultant",
      "company": "Sion Advisors",
@@ -169,20 +181,6 @@
      "score": 14,
      "why": [
       "Management Consultant"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
-     "company": "Accenture services Pvt Ltd",
-     "location": "Gurugram, Haryana, India",
-     "posted": "2026-11-21",
-     "url": "https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029",
-     "score": 14,
-     "why": [
-      "Consultant",
-      "Strategy",
-      "Transformation"
      ],
      "sponsor": null
     }
@@ -224,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 51,
+   "matching": 52,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -3599,6 +3597,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 19
+  },
+  "https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
   }
  }
 }

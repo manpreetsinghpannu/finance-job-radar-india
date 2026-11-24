@@ -966,4 +966,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-field-intelligence-at-navi-4494357574 | Navi | Credit Field Intelligence | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/executive-sat-national-sat-tcf-valuation-mumbai-at-ey-4484622865 | EY | Executive - SaT - National - SaT - TCF - Valuation - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W | Visa | Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate) | IN - Bengaluru, India | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226 | Roan Analytics | Equity Research Analyst (Buy Side) | India | posted: 2026-11-24 | note: via LinkedIn
+
 ## Processed
