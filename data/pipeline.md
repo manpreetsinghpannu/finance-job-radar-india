@@ -958,5 +958,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/due-diligence-associate-m-a-fdd-valuation-uk-remote-at-magma-consultancy-4493023407 | Magma Consultancy | Due Diligence Associate | M&A, FDD & Valuation | UK Remote | India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-index-quant-research-specialist-at-msci-inc-4476021681 | MSCI Inc. | Equity Index Quant Research Specialist | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/managed-services-treasury-finance-accounting-associate-2-at-pwc-acceleration-center-india-4484383254 | PwC Acceleration Center India | Managed Services - Treasury Finance & Accounting- Associate 2 | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-forecasting-budgeting-at-greif-4469925676 | Greif | FP&A Analyst – Forecasting & Budgeting | Greater Chennai Area | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-specialist-at-zillow-4494164789 | Zillow | Credit Specialist | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-private-equity-at-michael-page-4494385679 | Michael Page | Associate - Private Equity | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
