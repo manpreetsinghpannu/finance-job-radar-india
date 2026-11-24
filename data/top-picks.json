@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:11:55.708Z",
+ "generated_at": "2026-11-24T13:47:31.277Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 291,
+   "matching": 292,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 107,
+   "matching": 108,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -2920,11 +2920,6 @@
    "cv": "Credit CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/chartered-accountant-inter-ca-4492888561": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
-  },
   "https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -3544,6 +3539,26 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-international-valuations-at-lotechpro-4493026030": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-expert-remote-at-yo-hr-consultancy-4493012478": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/treasury-back-office-officer-at-vanderlande-4484643055": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-capital-reporting-liquidity-reporting-fin-reporting-at-tata-consultancy-services-4494116980": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

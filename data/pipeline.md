@@ -945,5 +945,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-reinsurance-at-santam-insurance-4493007639 | Santam Insurance | Financial Analyst - Reinsurance | Gujarat, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-associate-blr-at-alchelyst-4494366694 | Alchelyst | Fund Accounting, Associate (BLR) | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/itof-portfolio-analyst-ado-portfolio-governance-%2B-agile-safe-%2B-pmo-reporting-%2B-data-quality-at-cenergy-international-services-4493002782 | Cenergy International Services | ITOF Portfolio Analyst - ADO Portfolio Governance + Agile/SAFe + PMO Reporting + Data Quality. | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-international-valuations-at-lotechpro-4493026030 | LoTechPro | Analyst – International Valuations | Pune City, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-expert-remote-at-yo-hr-consultancy-4493012478 | YO HR Consultancy | Investment Banking Expert - Remote | India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-back-office-officer-at-vanderlande-4484643055 | Vanderlande | Treasury Back office Officer | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-capital-reporting-liquidity-reporting-fin-reporting-at-tata-consultancy-services-4494116980 | Tata Consultancy Services | Financial Planning and Analysis, Capital Reporting, Liquidity Reporting, Fin-Reporting | Noida, Uttar Pradesh, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
