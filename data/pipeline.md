@@ -960,6 +960,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/managed-services-treasury-finance-accounting-associate-2-at-pwc-acceleration-center-india-4484383254 | PwC Acceleration Center India | Managed Services - Treasury Finance & Accounting- Associate 2 | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-forecasting-budgeting-at-greif-4469925676 | Greif | FP&A Analyst – Forecasting & Budgeting | Greater Chennai Area | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-specialist-at-zillow-4494164789 | Zillow | Credit Specialist | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/gaoc-accountant-at-qualcomm-4494397208 | Qualcomm | GAOC Accountant | Greater Hyderabad Area | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-pricing-credit-at-medline-4476030004 | Medline | Analyst Pricing Credit | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-private-equity-at-michael-page-4494385679 | Michael Page | Associate - Private Equity | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed

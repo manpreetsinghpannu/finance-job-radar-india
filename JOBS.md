@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 17:45** (UK time) · **665 open roles** at 359 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 18:01** (UK time) · **667 open roles** at 359 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,18 +10,20 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 17:38** · hourly scan · checked 99 boards · **3 new roles**
+**Tue 24 Nov, 17:53** · hourly scan · checked 99 boards · **5 new roles**
 
-### Finance (FP&A) CV: 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-24 | [FP&A Analyst – Forecasting & Budgeting](https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-forecasting-budgeting-at-greif-4469925676) | Greif | Greater Chennai Area |
+| 2026-11-24 | [GAOC Accountant](https://www.linkedin.com/jobs/view/gaoc-accountant-at-qualcomm-4494397208) | Qualcomm | Greater Hyderabad Area |
 
-### Credit CV: 1
+### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-24 | [Analyst Pricing Credit](https://www.linkedin.com/jobs/view/analyst-pricing-credit-at-medline-4476030004) | Medline | Pune Division, Maharashtra, India |
 | 2026-11-24 | [Credit Specialist](https://www.linkedin.com/jobs/view/credit-specialist-at-zillow-4494164789) | Zillow | Bengaluru, Karnataka, India |
 
 ### Investment (IB / PE) CV: 1
@@ -34,12 +36,12 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (294 matching)
+**Finance (FP&A) CV** (295 matching)
 
 1. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 2. [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) · VRecruitFirst · Ahmedabad, Gujarat, India · posted 2026-11-23
 
-**Credit CV** (163 matching)
+**Credit CV** (164 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -76,18 +78,20 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Tuesday 24 November
 
 <details>
-<summary><b>17:38</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Investment 1</summary>
+<summary><b>17:53</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 2 · Investment 1</summary>
 
-#### Finance (FP&A) CV: 1
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-24 | [FP&A Analyst – Forecasting & Budgeting](https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-forecasting-budgeting-at-greif-4469925676) | Greif | Greater Chennai Area |
+| 2026-11-24 | [GAOC Accountant](https://www.linkedin.com/jobs/view/gaoc-accountant-at-qualcomm-4494397208) | Qualcomm | Greater Hyderabad Area |
 
-#### Credit CV: 1
+#### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-24 | [Analyst Pricing Credit](https://www.linkedin.com/jobs/view/analyst-pricing-credit-at-medline-4476030004) | Medline | Pune Division, Maharashtra, India |
 | 2026-11-24 | [Credit Specialist](https://www.linkedin.com/jobs/view/credit-specialist-at-zillow-4494164789) | Zillow | Bengaluru, Karnataka, India |
 
 #### Investment (IB / PE) CV: 1
@@ -2217,9 +2221,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (267)](#finance-fpa-cv-267) · [Credit (157)](#credit-cv-157) · [Equity (42)](#equity-cv-42) · [Investment (89)](#investment-ib--pe-cv-89) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (25)](#other-fits-no-cv-closely-may-still-be-worth-a-look-25)
+Everything matched so far, newest first within each CV: [Finance (268)](#finance-fpa-cv-268) · [Credit (158)](#credit-cv-158) · [Equity (42)](#equity-cv-42) · [Investment (89)](#investment-ib--pe-cv-89) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (25)](#other-fits-no-cv-closely-may-still-be-worth-a-look-25)
 
-### Finance (FP&A) CV: 267
+### Finance (FP&A) CV: 268
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2251,6 +2255,7 @@ Everything matched so far, newest first within each CV: [Finance (267)](#finance
 | 2026-11-24 | [Financial Control Accountant](https://www.linkedin.com/jobs/view/financial-control-accountant-at-fnz-4484646120) | FNZ | Gurugram, Haryana, India |
 | 2026-11-24 | [Treasury Back office Officer](https://www.linkedin.com/jobs/view/treasury-back-office-officer-at-vanderlande-4484643055) | Vanderlande | Pune Division, Maharashtra, India |
 | 2026-11-24 | [Hiring Chartered Accountant Freshers - PUNE](https://www.linkedin.com/jobs/view/hiring-chartered-accountant-freshers-pune-at-ss-c-technologies-4258239802) | SS&C Technologies | Pune Division, Maharashtra, India |
+| 2026-11-24 | [GAOC Accountant](https://www.linkedin.com/jobs/view/gaoc-accountant-at-qualcomm-4494397208) | Qualcomm | Greater Hyderabad Area |
 | 2026-11-24 | [Financial Reporting Specialist](https://www.linkedin.com/jobs/view/financial-reporting-specialist-at-alter-domus-4494120875) | Alter Domus | Hyderabad, Telangana, India |
 | 2026-11-24 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-sulzer-4433442780) | Sulzer | Pune Division, Maharashtra, India |
 | 2026-11-23 | [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) | VRecruitFirst | Ahmedabad, Gujarat, India |
@@ -2491,7 +2496,7 @@ Everything matched so far, newest first within each CV: [Finance (267)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 157
+### Credit CV: 158
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2502,6 +2507,7 @@ Everything matched so far, newest first within each CV: [Finance (267)](#finance
 | 2026-11-24 | [Vendor Risk Analyst](https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-ameriprise-financial-services-llc-4494111895) | Ameriprise Financial Services, LLC | Noida, Uttar Pradesh, India |
 | 2026-11-24 | [Risk Analyst 2](https://www.linkedin.com/jobs/view/risk-analyst-2-at-jupiter-4480628073) | Jupiter | Bengaluru, Karnataka, India |
 | 2026-11-24 | [ERM Risk Analyst](https://www.linkedin.com/jobs/view/erm-risk-analyst-at-deel-4467633504) | Deel | India |
+| 2026-11-24 | [Analyst Pricing Credit](https://www.linkedin.com/jobs/view/analyst-pricing-credit-at-medline-4476030004) | Medline | Pune Division, Maharashtra, India |
 | 2026-11-24 | [Global Banking Client and Deal Support - Credit Product Delivery – Transaction Execution Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780411) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-24 | [US Credit SME](https://www.linkedin.com/jobs/view/us-credit-sme-at-art-technology-and-software-4492692346) | Art Technology and Software | India |
 | 2026-11-24 | [Analyst, Specialist, Operations, Trns Svcs-Trade Operations, Corporate Banking, Technology & Operations](https://www.linkedin.com/jobs/view/analyst-specialist-operations-trns-svcs-trade-operations-corporate-banking-technology-operations-at-dbs-bank-4486143930) | DBS Bank | Amta-I, West Bengal, India |
