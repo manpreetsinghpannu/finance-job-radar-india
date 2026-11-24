@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 19:44** (UK time) · **671 open roles** at 362 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 20:46** (UK time) · **671 open roles** at 362 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,30 +10,24 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 19:39** · hourly scan · checked 99 boards · **2 new roles**
+**Tue 24 Nov, 20:38** · hourly scan · checked 99 boards · **1 new role**
 
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Equity Research Analyst (Buy Side)](https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226) | Roan Analytics | India |
-
-### Consulting CV: 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-24 | [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) | Visa | IN - Bengaluru, India |
+| 2026-11-23 | [Officer, Specialist, Loan Operations, Corporate Banking, Technology and Operations](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Mumbai/Officer--Specialist--Loan-Operations--Corporate-Banking--Technology-and-Operations_WD90397) | DBS Bank | Mumbai |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (295 matching)
+**Finance (FP&A) CV** (294 matching)
 
 1. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 2. [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) · VRecruitFirst · Ahmedabad, Gujarat, India · posted 2026-11-23
 
-**Credit CV** (165 matching)
+**Credit CV** (166 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -43,7 +37,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
 2. [Equity Research Analyst (Buy Side)](https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226) · Roan Analytics · India · posted 2026-11-24
 
-**Investment (IB / PE) CV** (108 matching)
+**Investment (IB / PE) CV** (109 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<details>
+<summary><b>20:38</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-23 | [Officer, Specialist, Loan Operations, Corporate Banking, Technology and Operations](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Mumbai/Officer--Specialist--Loan-Operations--Corporate-Banking--Technology-and-Operations_WD90397) | DBS Bank | Mumbai |
+
+</details>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>2 new</b> → Equity 1 · Consulting 1</summary>
@@ -2228,13 +2233,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 21:44, 21:33, 20:33</sub>
+<sub>Nothing new at: 21:44, 21:33</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (268)](#finance-fpa-cv-268) · [Credit (159)](#credit-cv-159) · [Equity (43)](#equity-cv-43) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (25)](#other-fits-no-cv-closely-may-still-be-worth-a-look-25)
+Everything matched so far, newest first within each CV: [Finance (267)](#finance-fpa-cv-267) · [Credit (160)](#credit-cv-160) · [Equity (43)](#equity-cv-43) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (25)](#other-fits-no-cv-closely-may-still-be-worth-a-look-25)
 
-### Finance (FP&A) CV: 268
+### Finance (FP&A) CV: 267
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2495,7 +2500,6 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
 | 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
 | 2026-11-07 | [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) | ISG | Bengaluru, Karnataka, India |
-| 2026-11-07 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-hp-4488489736) | HP | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-precision-for-medicine-4470014106) | Precision For Medicine | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Finance Analyst-Contra Revenue](https://www.linkedin.com/jobs/view/finance-analyst-contra-revenue-at-hp-4488499191) | HP | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Financial Analyst II, FOAA Leo](https://www.linkedin.com/jobs/view/financial-analyst-ii-foaa-leo-at-amazon-4471886962) | Amazon | Pune/Pimpri-Chinchwad Area |
@@ -2507,7 +2511,7 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 159
+### Credit CV: 160
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2532,6 +2536,7 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 | 2026-11-23 | [US Credit Originations SME](https://www.linkedin.com/jobs/view/us-credit-originations-sme-at-art-technology-and-software-4492382420) | Art Technology and Software | India |
 | 2026-11-23 | [State Head - Retail Credit - Credit - Housing - EM - Indore - NRK Tech Park - MM](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57804) | Tata Capital | Indore, Madhya Pradesh, India |
 | 2026-11-23 | [Private Credit Investment Specialist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811292) | JPMorgan Chase | Mumbai, Maharashtra, India |
+| 2026-11-23 | [Officer, Specialist, Loan Operations, Corporate Banking, Technology and Operations](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Mumbai/Officer--Specialist--Loan-Operations--Corporate-Banking--Technology-and-Operations_WD90397) | DBS Bank | Mumbai |
 | 2026-11-22 | [Wholesale Credit Risk EMEA Associate - Technology, Media & Telecoms](https://www.linkedin.com/jobs/view/wholesale-credit-risk-emea-associate-technology-media-telecoms-at-jpmorganchase-4449914663) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-22 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-deloitte-4492331937) | Deloitte | Greater Bengaluru Area |
 | 2026-11-22 | [Operational Risk Analyst](https://www.linkedin.com/jobs/view/operational-risk-analyst-at-idfc-first-bank-4450911046) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
@@ -2948,10 +2953,11 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>99 roles taken off the list because the firm closed the posting</summary>
+<summary>100 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Tue 24 Nov, 20:43 | Financial Analyst | HP |
 | Tue 24 Nov, 16:45 | Currency Trader | Pipraiser |
 | Tue 24 Nov, 16:43 | Financial Controller | Muscle Pro Nutrition Pvt Ltd |
 | Tue 24 Nov, 16:43 | Financial analyst - Corporate Accounting | ONE BCG - ONE Business Consulting Group |

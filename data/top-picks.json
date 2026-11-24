@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:44:43.450Z",
+ "generated_at": "2026-11-24T20:46:11.679Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 295,
+   "matching": 294,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 165,
+   "matching": 166,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 108,
+   "matching": 109,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -346,11 +346,6 @@
   "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424": {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-hp-4488489736": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
    "score": 14
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-precision-for-medicine-4470014106": {
@@ -3607,6 +3602,11 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 28
+  },
+  "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Mumbai/Officer--Specialist--Loan-Operations--Corporate-Banking--Technology-and-Operations_WD90397": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 3
   }
  }
 }

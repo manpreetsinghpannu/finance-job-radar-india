@@ -969,4 +969,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W | Visa | Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate) | IN - Bengaluru, India | posted: 2026-11-24
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226 | Roan Analytics | Equity Research Analyst (Buy Side) | India | posted: 2026-11-24 | note: via LinkedIn
 
+- [ ] https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Mumbai/Officer--Specialist--Loan-Operations--Corporate-Banking--Technology-and-Operations_WD90397 | DBS Bank | Officer, Specialist, Loan Operations, Corporate Banking, Technology and Operations | Mumbai | posted: 2026-11-23
+
 ## Processed
