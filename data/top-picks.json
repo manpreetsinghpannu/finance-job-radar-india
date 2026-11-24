@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:01:45.760Z",
+ "generated_at": "2026-11-24T18:47:39.883Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 164,
+   "matching": 165,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 107,
+   "matching": 108,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -191,7 +191,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 47,
+   "matching": 48,
    "picks": [
     {
      "title": "Property Accountant, Commercial Real Estate",
@@ -3589,6 +3589,16 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/credit-field-intelligence-at-navi-4494357574": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/executive-sat-national-sat-tcf-valuation-mumbai-at-ey-4484622865": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }

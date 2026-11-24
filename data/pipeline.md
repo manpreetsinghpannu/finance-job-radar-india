@@ -963,5 +963,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/gaoc-accountant-at-qualcomm-4494397208 | Qualcomm | GAOC Accountant | Greater Hyderabad Area | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-pricing-credit-at-medline-4476030004 | Medline | Analyst Pricing Credit | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-private-equity-at-michael-page-4494385679 | Michael Page | Associate - Private Equity | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-field-intelligence-at-navi-4494357574 | Navi | Credit Field Intelligence | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/executive-sat-national-sat-tcf-valuation-mumbai-at-ey-4484622865 | EY | Executive - SaT - National - SaT - TCF - Valuation - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
