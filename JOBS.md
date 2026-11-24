@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 05:46** (UK time) · **629 open roles** at 336 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 06:08** (UK time) · **629 open roles** at 336 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 05:38** · hourly scan · checked 99 boards · **3 new roles**
+**Tue 24 Nov, 06:01** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-navsan-4494304596) | Navsan | Hyderabad, Telangana, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [US Credit Research Analyst](https://www.linkedin.com/jobs/view/us-credit-research-analyst-at-guidepoint-4494101022) | Guidepoint | Mumbai Metropolitan Region |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) | Anand Rathi Share and Stock Brokers Ltd | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Tue 24 Nov, 05:38** (3: Finance 1 · Credit 1 · Equity 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -74,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<sub>Nothing new at: 06:01</sub>
 
 <details>
 <summary><b>05:38</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Equity 1</summary>
