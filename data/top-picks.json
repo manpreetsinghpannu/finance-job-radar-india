@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:48:14.685Z",
+ "generated_at": "2026-11-24T09:51:02.957Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 281,
+   "matching": 282,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 156,
+   "matching": 158,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -874,11 +874,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-heyev-4488647658": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/associate-credit-analysis-%2B-hedge-funds-4489691679": {
    "id": "credit",
@@ -3429,6 +3424,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Vendor-Risk-Analyst_R26_4508": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/us-credit-sme-at-art-technology-and-software-4492692346": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/associate-analyst-equity-research-sell-side-at-roots-recruitment-services-4492686594": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-koel-fluid-dynamics-4494315793": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/treasury-analyst-at-livspace-4494331184": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 12
   }
  }
 }

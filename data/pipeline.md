@@ -915,4 +915,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/accountant-at-qualysec-beyond-cybersecurity-4492673704 | QualySec | Beyond Cybersecurity | Accountant | Bhubaneswar, Odisha, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/accountant-bookkeeper-at-team-everest-ngo-4494321310 | Team Everest NGO | Accountant/Bookkeeper | Greater Chennai Area | posted: 2026-11-24 | note: via LinkedIn
 
+- [ ] https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Vendor-Risk-Analyst_R26_4508 | Ameriprise Financial | Vendor Risk Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/us-credit-sme-at-art-technology-and-software-4492692346 | Art Technology and Software | US Credit SME | India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-analyst-equity-research-sell-side-at-roots-recruitment-services-4492686594 | Roots Recruitment Services | Associate Analyst Equity Research (Sell Side) | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-koel-fluid-dynamics-4494315793 | KOEL Fluid Dynamics | Financial Analyst | Ahmedabad, Gujarat, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-livspace-4494331184 | Livspace | Treasury Analyst | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+
 ## Processed
