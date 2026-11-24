@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:44:51.912Z",
+ "generated_at": "2026-11-24T07:46:56.400Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 277,
+   "matching": 281,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 155,
+   "matching": 156,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 101,
+   "matching": 102,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 54,
+   "matching": 55,
    "picks": [
     {
      "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
@@ -3185,11 +3185,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-cognition-solutions-4493627309": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://jobs.bt.com/job/OR-Finance-Analyst/64042-en_GB": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3404,6 +3399,36 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780411": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210796416": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-saras-analytics-4493992720": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/associate-%E2%80%93-gmo-back-office-treasury-at-natixis-services-in-india-4494324028": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/business-process-consulting-treasury-integrity-at-zensar-technologies-4494313580": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/accountant-bookkeeper-at-team-everest-ngo-4494321310": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

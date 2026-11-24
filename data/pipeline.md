@@ -907,4 +907,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-vastu-vihar-technoculture-building-centre-pvt-ltd-4494311228 | Vastu Vihar (Technoculture Building Centre Pvt Ltd) | Chartered Financial Analyst | Bodh Gaya, Bihar, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fraud-risk-analyst-sql-python-3-to-7-years-at-resourcetree-global-services-pvt-ltd-4494315287 | ResourceTree Global Services Pvt Ltd | Fraud Risk Analyst -SQL & Python - 3 to 7 years | Gurugram, Haryana, India | posted: 2026-11-24 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780411 | JPMorgan Chase | Global Banking Client and Deal Support - Credit Product Delivery – Transaction Execution Associate | Mumbai, Maharashtra, India | posted: 2026-11-24
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210796416 | JPMorgan Chase | Associate - Auto Treasury Finance | Bengaluru, Karnataka, India | posted: 2026-11-24
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-saras-analytics-4493992720 | Saras Analytics | Financial Planning and Analysis Specialist | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-%E2%80%93-gmo-back-office-treasury-at-natixis-services-in-india-4494324028 | Natixis Services in India | Associate – GMO Back Office Treasury | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-process-consulting-treasury-integrity-at-zensar-technologies-4494313580 | Zensar Technologies | Business Process Consulting_Treasury (Integrity) | Pune District, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-at-qualysec-beyond-cybersecurity-4492673704 | QualySec | Beyond Cybersecurity | Accountant | Bhubaneswar, Odisha, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/accountant-bookkeeper-at-team-everest-ngo-4494321310 | Team Everest NGO | Accountant/Bookkeeper | Greater Chennai Area | posted: 2026-11-24 | note: via LinkedIn
+
 ## Processed
