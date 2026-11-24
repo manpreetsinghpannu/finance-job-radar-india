@@ -954,5 +954,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-4493023355 | CITY ROYAL ENTERPRISE PVT.LTD | Finance Analyst | Pune District, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-associate-auto-at-emkay-global-financial-services-ltd-4484655897 | Emkay Global Financial Services Ltd | Research Associate - Auto | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-specialist-at-sulzer-4433442780 | Sulzer | Treasury Specialist | Pune Division, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/erm-risk-analyst-at-deel-4467633504 | Deel | ERM Risk Analyst | India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/due-diligence-associate-m-a-fdd-valuation-uk-remote-at-magma-consultancy-4493023407 | Magma Consultancy | Due Diligence Associate | M&A, FDD & Valuation | UK Remote | India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-index-quant-research-specialist-at-msci-inc-4476021681 | MSCI Inc. | Equity Index Quant Research Specialist | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/managed-services-treasury-finance-accounting-associate-2-at-pwc-acceleration-center-india-4484383254 | PwC Acceleration Center India | Managed Services - Treasury Finance & Accounting- Associate 2 | Bengaluru, Karnataka, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed

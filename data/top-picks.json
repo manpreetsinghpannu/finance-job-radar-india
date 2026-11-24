@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:46:57.947Z",
+ "generated_at": "2026-11-24T16:46:53.775Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 294,
+   "matching": 293,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 161,
+   "matching": 162,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -1048,11 +1048,6 @@
   "https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Uniops-Bangalore-Centre/FP-A-SME--Finance-Transformation---Digital-Products-_R-1190509-1": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/research-analyst-at-news-capital-market-4488270779": {
-   "id": "equity",
-   "cv": "Equity CV",
    "score": 14
   },
   "https://www.linkedin.com/jobs/view/transfer-pricing-analyst-at-numerator-4474335069": {
@@ -3175,20 +3170,10 @@
    "cv": "Credit CV",
    "score": 7
   },
-  "https://www.linkedin.com/jobs/view/financial-controller-at-muscle-pro-nutrition-pvt-ltd-4492609063": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 9
-  },
   "https://www.linkedin.com/jobs/view/credit-analyst-4492366996": {
    "id": "credit",
    "cv": "Credit CV",
    "score": 19
-  },
-  "https://www.linkedin.com/jobs/view/currency-trader-at-pipraiser-4492388790": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.linkedin.com/jobs/view/accountant-ahmedabad-guj-at-trelleborg-sealing-solutions-4429681745": {
    "id": "finance",
@@ -3214,11 +3199,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 9
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-corporate-accounting-at-one-bcg-one-business-consulting-group-4493776422": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-kaufman-rossin-4493646181": {
    "id": "fund",
@@ -3569,6 +3549,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/erm-risk-analyst-at-deel-4467633504": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/equity-index-quant-research-specialist-at-msci-inc-4476021681": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/managed-services-treasury-finance-accounting-associate-2-at-pwc-acceleration-center-india-4484383254": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
