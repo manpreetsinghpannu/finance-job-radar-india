@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:08:20.356Z",
+ "generated_at": "2026-11-24T06:44:51.912Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 276,
+   "matching": 277,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 154,
+   "matching": 155,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 57,
+   "matching": 56,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -334,11 +334,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 12
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210805463": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 15
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553": {
    "id": "credit",
@@ -3399,6 +3394,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-vastu-vihar-technoculture-building-centre-pvt-ltd-4494311228": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fraud-risk-analyst-sql-python-3-to-7-years-at-resourcetree-global-services-pvt-ltd-4494315287": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
   }
  }
 }

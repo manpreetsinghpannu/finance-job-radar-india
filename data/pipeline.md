@@ -904,5 +904,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949 | Anand Rathi Share and Stock Brokers Ltd | Equity Research Analyst - BFSI | Mumbai, Maharashtra, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/us-credit-research-analyst-at-guidepoint-4494101022 | Guidepoint | US Credit Research Analyst | Mumbai Metropolitan Region | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-navsan-4494304596 | Navsan | Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-vastu-vihar-technoculture-building-centre-pvt-ltd-4494311228 | Vastu Vihar (Technoculture Building Centre Pvt Ltd) | Chartered Financial Analyst | Bodh Gaya, Bihar, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fraud-risk-analyst-sql-python-3-to-7-years-at-resourcetree-global-services-pvt-ltd-4494315287 | ResourceTree Global Services Pvt Ltd | Fraud Risk Analyst -SQL & Python - 3 to 7 years | Gurugram, Haryana, India | posted: 2026-11-24 | note: via LinkedIn
 
 ## Processed
