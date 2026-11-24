@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 07:46** (UK time) · **635 open roles** at 341 firms · the radar checks every board about once an hour.
+Updated **Tue 24 Nov, 08:48** (UK time) · **635 open roles** at 341 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,23 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 07:40** · hourly scan · checked 99 boards · **6 new roles**
+**Tue 24 Nov, 08:39** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 5
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Associate - Auto Treasury Finance](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210796416) | JPMorgan Chase | Bengaluru, Karnataka, India |
-| 2026-11-24 | [Associate – GMO Back Office Treasury](https://www.linkedin.com/jobs/view/associate-%E2%80%93-gmo-back-office-treasury-at-natixis-services-in-india-4494324028) | Natixis Services in India | Bengaluru, Karnataka, India |
-| 2026-11-24 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-saras-analytics-4493992720) | Saras Analytics | Hyderabad, Telangana, India |
-| 2026-11-24 | [Business Process Consulting_Treasury (Integrity)](https://www.linkedin.com/jobs/view/business-process-consulting-treasury-integrity-at-zensar-technologies-4494313580) | Zensar Technologies | Pune District, Maharashtra, India |
-| 2026-11-24 | [Accountant/Bookkeeper](https://www.linkedin.com/jobs/view/accountant-bookkeeper-at-team-everest-ngo-4494321310) | Team Everest NGO | Greater Chennai Area |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Global Banking Client and Deal Support - Credit Product Delivery – Transaction Execution Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780411) | JPMorgan Chase | Mumbai, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Tue 24 Nov, 07:40** (6: Finance 5 · Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -72,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Tuesday 24 November
+
+<sub>Nothing new at: 08:39</sub>
 
 <details>
 <summary><b>07:40</b> · hourly scan · <b>6 new</b> → Finance 5 · Credit 1</summary>
@@ -2160,30 +2148,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>08:33</b> · hourly scan · <b>4 new</b> → Credit 2 · Investment 1 · Consulting 1</summary>
-
-#### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Quality Executive - Retail MFB - Credit - Bhilwara - Shahpura - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57346) | Tata Capital | Shahpura Bhilwara District, Rajasthan, India |
-| 2026-11-17 | [Quality Executive - Retail MFB - Credit - Jhalawar - Manak Complex - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57348) | Tata Capital | Jhalawar, Rajasthan, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) | PRP Professional Edge Associates Pvt Ltd | Mumbai, Maharashtra, India |
-
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Associate Consultant-Finance Transformation - Gurgaon](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005) | KPMG India | Gurgaon, Haryana, India |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (254)](#finance-fpa-cv-254) · [Credit (150)](#credit-cv-150) · [Equity (38)](#equity-cv-38) · [Investment (84)](#investment-ib--pe-cv-84) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
@@ -2866,7 +2830,7 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>100 roles taken off the list because the firm closed the posting</summary>
+<summary>99 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2969,6 +2933,5 @@ Everything matched so far, newest first within each CV: [Finance (254)](#finance
 | Tue 17 Nov, 10:36 | Research Analyst | Madhur Agrawal |
 | Tue 17 Nov, 09:35 | Financial Analyst | Integrity Investment Advisors |
 | Tue 17 Nov, 09:35 | Private Equity Analyst | aarthiq |
-| Tue 17 Nov, 08:37 | Equity Research Analyst | Neuraleap Group |
 
 </details>
