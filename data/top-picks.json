@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:47:42.615Z",
+ "generated_at": "2026-11-25T09:47:49.689Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 107,
+   "matching": 108,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -917,11 +917,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 8
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806299": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 11
   },
   "https://careers.idfcfirst.bank.in/global/en/job/P-231313/Credit-Analyst-FIG": {
    "id": "credit",
@@ -3647,6 +3642,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/associate-auto-treasury-finance-at-jpmorganchase-4476989056": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-at-route78%C2%B0-4493095758": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 10
   }
  }
 }

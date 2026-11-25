@@ -986,5 +986,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-at-katalaiser-4494794207 | KatalAiser | Treasury | Chennai, Tamil Nadu, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369 | Aviva India | Equity Research Analyst (Industrial Goods) | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-dexterz-technology-4494782892 | Dexterz Technology | Financial Analyst | India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-auto-treasury-finance-at-jpmorganchase-4476989056 | JPMorganChase | Associate - Auto Treasury Finance | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-route78%C2%B0-4493095758 | Route78° | Investment Associate | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
