@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:47:01.884Z",
+ "generated_at": "2026-11-25T07:48:36.910Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 298,
+   "matching": 300,
    "picks": [
     {
      "title": "FP&A Analyst – Commercial Finance",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 167,
+   "matching": 168,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -3624,6 +3624,21 @@
    "score": 7
   },
   "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/Analyst---Credit---Account-Management--Oceania-_10080705-WD": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-applylegal-com-4493082987": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/treasury-at-katalaiser-4494794207": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8

@@ -981,4 +981,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620 | JPMorganChase | Private Credit Investment Specialist | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845 | Consolidated Analytics | Financial Planning and Analysis Specialist | Greater Chennai Area | posted: 2026-11-25 | note: via LinkedIn
 
+- [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/Analyst---Credit---Account-Management--Oceania-_10080705-WD | MUFG | Analyst - Credit & Account Management (Oceania) | MUFG Global Service Private Ltd. - Mumbai (NKP) | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-applylegal-com-4493082987 | Applylegal.com | Financial Analyst | Raipur, Chhattisgarh, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-at-katalaiser-4494794207 | KatalAiser | Treasury | Chennai, Tamil Nadu, India | posted: 2026-11-25 | note: via LinkedIn
+
 ## Processed
