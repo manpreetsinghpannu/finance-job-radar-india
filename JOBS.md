@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 14:45** (UK time) · **692 open roles** at 375 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 15:43** (UK time) · **692 open roles** at 374 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,24 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 14:38** · hourly scan · checked 99 boards · **1 new role**
+**Wed 25 Nov, 15:38** · hourly scan · checked 99 boards · **2 new roles**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-25 | [Credit Underwriter](https://www.linkedin.com/jobs/view/credit-underwriter-at-rippling-4487072560) | Rippling | Bengaluru, Karnataka, India |
+| 2026-11-25 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-dassault-syst%C3%A8mes-4487033349) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
+| 2026-11-25 | [M&E cum Accountant](https://www.linkedin.com/jobs/view/m-e-cum-accountant-at-yrg-4494656038) | YRG | Ramagundam, Telangana, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (305 matching)
+**Finance (FP&A) CV** (306 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (170 matching)
+**Credit CV** (169 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -62,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<details>
+<summary><b>15:38</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-dassault-syst%C3%A8mes-4487033349) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
+| 2026-11-25 | [M&E cum Accountant](https://www.linkedin.com/jobs/view/m-e-cum-accountant-at-yrg-4494656038) | YRG | Ramagundam, Telangana, India |
+
+</details>
 
 <details>
 <summary><b>14:38</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -913,7 +926,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 <sub>Nothing new at: 09:00, 08:40</sub>
 
 <details>
-<summary><b>07:38</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Investment 1</summary>
+<summary><b>07:38</b> · hourly scan · <b>3 new</b> → Finance 2 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -922,17 +935,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531) | Perfint Healthcare Pvt Ltd. | Chennai, Tamil Nadu, India |
 | 2026-11-23 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-nes-fircroft-4493622167) | NES Fircroft | Bengaluru, Karnataka, India |
 
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Model Development- Counterparty Credit Risk](https://www.linkedin.com/jobs/view/model-development-counterparty-credit-risk-at-callisto-talent-solutions-4492379546) | Callisto Talent Solutions | Bengaluru, Karnataka, India |
-
 #### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-23 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-indium-capital-advisors-4493729037) | Indium Capital Advisors | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2230,22 +2239,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>15:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Analyst Treasury](https://www.linkedin.com/jobs/view/analyst-treasury-at-apollo-global-management-inc-4483882084) | Apollo Global Management, Inc. | Mumbai Metropolitan Region |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (278)](#finance-fpa-cv-278) · [Credit (164)](#credit-cv-164) · [Equity (49)](#equity-cv-49) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (279)](#finance-fpa-cv-279) · [Credit (163)](#credit-cv-163) · [Equity (49)](#equity-cv-49) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (40)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-40) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
-### Finance (FP&A) CV: 278
+### Finance (FP&A) CV: 279
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2258,10 +2256,12 @@ Everything matched so far, newest first within each CV: [Finance (278)](#finance
 | 2026-11-25 | [FP&A Junior Analyst](https://www.linkedin.com/jobs/view/fp-a-junior-analyst-at-hempel-a-s-4485065055) | Hempel A/S | Pune City, Maharashtra, India |
 | 2026-11-25 | [Financial Analyst - US](https://www.linkedin.com/jobs/view/financial-analyst-us-at-winter-4494921057) | Winter | Chennai, Tamil Nadu, India |
 | 2026-11-25 | [Financial Analyst, Business Finance](https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-phonepe-4493426328) | PhonePe | Bengaluru, Karnataka, India |
+| 2026-11-25 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-dassault-syst%C3%A8mes-4487033349) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
 | 2026-11-25 | [Associate - Auto Treasury Finance](https://www.linkedin.com/jobs/view/associate-auto-treasury-finance-at-jpmorganchase-4476989056) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-25 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845) | Consolidated Analytics | Greater Chennai Area |
 | 2026-11-25 | [Treasury](https://www.linkedin.com/jobs/view/treasury-at-katalaiser-4494794207) | KatalAiser | Chennai, Tamil Nadu, India |
 | 2026-11-25 | [Transformation Specialist - FP&A Background](https://www.linkedin.com/jobs/view/transformation-specialist-fp-a-background-at-sensata-technologies-4494620278) | Sensata Technologies | Pune Division, Maharashtra, India |
+| 2026-11-25 | [M&E cum Accountant](https://www.linkedin.com/jobs/view/m-e-cum-accountant-at-yrg-4494656038) | YRG | Ramagundam, Telangana, India |
 | 2026-11-24 | [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) | Amazon | Hyderabad, Telangana, India |
 | 2026-11-24 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-michael-page-4494342006) | Michael Page | Mumbai Metropolitan Region |
 | 2026-11-24 | [Analyst, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cactus-communications-4485778270) | Cactus Communications | Mumbai, Maharashtra, India |
@@ -2396,7 +2396,6 @@ Everything matched so far, newest first within each CV: [Finance (278)](#finance
 | 2026-11-18 | [Experienced Professional, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/experienced-professional-financial-planning-and-analysis-at-wsp-in-india-4490869883) | WSP in India | Noida, Uttar Pradesh, India |
 | — | [FAAS MS Financial Reporting_Senior](https://careers.ey.com/ey/job/Noida-FAAS-MS-Financial-Reporting_Senior-UP-201301/1444324433/) | EY | Noida |
 | 2026-11-18 | [Associate, Specialist, Treasury Operations, Gen Ops-GFM](https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Gandhi-Nagar---GIFT-City/Associate--Specialist--Treasury-Operations--Gen-Ops-GFM_WD89818) | DBS Bank | Gandhi Nagar - GIFT City |
-| 2026-11-18 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-belhem-india-pvt-ltd-4490832802) | Belhem India Pvt Ltd | Mumbai Metropolitan Region |
 | 2026-11-17 | [FP&A Financial Analyst - CP&O](https://www.linkedin.com/jobs/view/fp-a-financial-analyst-cp-o-at-hitachi-energy-4467496909) | Hitachi Energy | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-acg-world-4490459320) | ACG World | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-alantix-technologies-4490191802) | Alantix Technologies | Hyderabad, Telangana, India |
@@ -2528,7 +2527,7 @@ Everything matched so far, newest first within each CV: [Finance (278)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 164
+### Credit CV: 163
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2554,7 +2553,6 @@ Everything matched so far, newest first within each CV: [Finance (278)](#finance
 | 2026-11-24 | [Credit Specialist](https://www.linkedin.com/jobs/view/credit-specialist-at-zillow-4494164789) | Zillow | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-ayvens-4492379993) | Ayvens | Mumbai, Maharashtra, India |
 | 2026-11-23 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-4492366996) | Sarva Finserv | Mumbai Metropolitan Region |
-| 2026-11-23 | [Model Development- Counterparty Credit Risk](https://www.linkedin.com/jobs/view/model-development-counterparty-credit-risk-at-callisto-talent-solutions-4492379546) | Callisto Talent Solutions | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Associate, Credit Portfolio Management, Risk Management Group](https://www.linkedin.com/jobs/view/associate-credit-portfolio-management-risk-management-group-at-dbs-bank-4493670575) | DBS Bank | Greater Chennai Area |
 | 2026-11-23 | [Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1046371](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/276574) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-23 | [US Credit Originations SME](https://www.linkedin.com/jobs/view/us-credit-originations-sme-at-art-technology-and-software-4492382420) | Art Technology and Software | India |
@@ -2980,10 +2978,12 @@ Everything matched so far, newest first within each CV: [Finance (278)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>112 roles taken off the list because the firm closed the posting</summary>
+<summary>114 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 25 Nov, 15:43 | Treasury Specialist | Belhem India Pvt Ltd |
+| Wed 25 Nov, 15:40 | Model Development- Counterparty Credit Risk | Callisto Talent Solutions |
 | Wed 25 Nov, 14:42 | FP&A Analyst – Commercial Finance | Uskim Enterprise |
 | Wed 25 Nov, 14:40 | Risk Analyst | Dodo Payments |
 | Wed 25 Nov, 14:39 | Investment Banking Analyst- Healthcare and Lifesciences | Ambit Private Limited |

@@ -1013,5 +1013,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/m-a-consulting-associate-real-estate-mumbai-at-kpmg-india-4494636670 | KPMG India | M&A Consulting | Associate | Real Estate | Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-4494917402 | Kenvi Capital | Equity Research Analyst | Indore, Madhya Pradesh, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-underwriter-at-rippling-4487072560 | Rippling | Credit Underwriter | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-dassault-syst%C3%A8mes-4487033349 | Dassault Systèmes | Treasury Analyst | Pune/Pimpri-Chinchwad Area | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-e-cum-accountant-at-yrg-4494656038 | YRG | M&E cum Accountant | Ramagundam, Telangana, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
