@@ -1012,5 +1012,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-phonepe-4493426328 | PhonePe | Financial Analyst, Business Finance | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/m-a-consulting-associate-real-estate-mumbai-at-kpmg-india-4494636670 | KPMG India | M&A Consulting | Associate | Real Estate | Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-4494917402 | Kenvi Capital | Equity Research Analyst | Indore, Madhya Pradesh, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-underwriter-at-rippling-4487072560 | Rippling | Credit Underwriter | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
