@@ -979,5 +979,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-at-lumikai-fund-4478409639 | Lumikai Fund | Investment Associate | Gurgaon, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-associate-chemical-sector-only-ca-freshers-at-asian-markets-securities-4493079905 | Asian Markets Securities | Equity Research Associate - Chemical Sector (Only CA Freshers) | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620 | JPMorganChase | Private Credit Investment Specialist | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845 | Consolidated Analytics | Financial Planning and Analysis Specialist | Greater Chennai Area | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed

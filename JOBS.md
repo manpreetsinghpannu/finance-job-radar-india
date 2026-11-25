@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 06:11** (UK time) · **674 open roles** at 365 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 06:47** (UK time) · **675 open roles** at 366 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,38 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 06:02** · hourly scan · checked 99 boards · **5 new roles**
+**Wed 25 Nov, 06:40** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-25 | [FP&A Analyst – Commercial Finance](https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674) | Uskim Enterprise | Mumbai, Maharashtra, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [Private Credit Investment Specialist](https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620) | JPMorganChase | Mumbai, Maharashtra, India |
-
-### Equity CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [Equity Research Associate](https://www.linkedin.com/jobs/view/equity-research-associate-at-axis-capital-ltd-4494475567) | Axis Capital Ltd. | Mumbai, Maharashtra, India |
-| 2026-11-25 | [Equity Research Associate - Chemical Sector (Only CA Freshers)](https://www.linkedin.com/jobs/view/equity-research-associate-chemical-sector-only-ca-freshers-at-asian-markets-securities-4493079905) | Asian Markets Securities | Mumbai, Maharashtra, India |
-
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-lumikai-fund-4478409639) | Lumikai Fund | Gurgaon, Haryana, India |
+| 2026-11-25 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845) | Consolidated Analytics | Greater Chennai Area |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (297 matching)
+**Finance (FP&A) CV** (298 matching)
 
 1. [FP&A Analyst – Commercial Finance](https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674) · Uskim Enterprise · Mumbai, Maharashtra, India · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -81,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<details>
+<summary><b>06:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845) | Consolidated Analytics | Greater Chennai Area |
+
+</details>
 
 <details>
 <summary><b>06:02</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 1 · Equity 2 · Investment 1</summary>
@@ -2243,34 +2235,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>06:33</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 2</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [CA Fresher (FP&A)](https://www.linkedin.com/jobs/view/ca-fresher-fp-a-at-meolaa-4491487911) | Meolaa | Bengaluru, Karnataka, India |
-
-#### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-17 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-kpmg-india-4491571238) | KPMG India | Bengaluru, Karnataka, India |
-| 2026-11-18 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-finayo-4491805403) | FINAYO | Noida, Uttar Pradesh, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (270)](#finance-fpa-cv-270) · [Credit (161)](#credit-cv-161) · [Equity (45)](#equity-cv-45) · [Investment (88)](#investment-ib--pe-cv-88) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (271)](#finance-fpa-cv-271) · [Credit (161)](#credit-cv-161) · [Equity (45)](#equity-cv-45) · [Investment (88)](#investment-ib--pe-cv-88) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
-### Finance (FP&A) CV: 270
+### Finance (FP&A) CV: 271
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-25 | [FP&A Analyst – Commercial Finance](https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674) | Uskim Enterprise | Mumbai, Maharashtra, India |
 | 2026-11-25 | [CA - Management Trainee FP&A](https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538) | Nuvama Group | Mumbai, Maharashtra, India |
+| 2026-11-25 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845) | Consolidated Analytics | Greater Chennai Area |
 | 2026-11-24 | [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) | Amazon | Hyderabad, Telangana, India |
 | 2026-11-24 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-michael-page-4494342006) | Michael Page | Mumbai Metropolitan Region |
 | 2026-11-24 | [Analyst, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cactus-communications-4485778270) | Cactus Communications | Mumbai, Maharashtra, India |

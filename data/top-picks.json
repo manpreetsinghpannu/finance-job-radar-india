@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:11:35.130Z",
+ "generated_at": "2026-11-25T06:47:01.884Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 297,
+   "matching": 298,
    "picks": [
     {
      "title": "FP&A Analyst – Commercial Finance",
@@ -3622,6 +3622,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 7
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
