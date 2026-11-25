@@ -988,5 +988,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-dexterz-technology-4494782892 | Dexterz Technology | Financial Analyst | India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-auto-treasury-finance-at-jpmorganchase-4476989056 | JPMorganChase | Associate - Auto Treasury Finance | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-associate-at-route78%C2%B0-4493095758 | Route78° | Investment Associate | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-milestone-technologies-inc-4493405424 | Milestone Technologies, Inc. | FP&A Analyst | Greater Hyderabad Area | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/security-risk-analyst-at-mccormick-company-4393834451 | McCormick & Company | Security Risk Analyst | Gurugram, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/valuation-controller-associate-at-jpmorganchase-4486844639 | JPMorganChase | Valuation Controller-Associate | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-settlement-operations-at-sks-enterpprises-human-resource-planning-and-management-4494497664 | SKS Enterpprises - Human Resource Planning and Management | Fund Accounting Settlement Operations | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
