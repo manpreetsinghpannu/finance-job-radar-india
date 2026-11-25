@@ -1028,5 +1028,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/team-member-treasury-at-adani-enterprises-limited-4434465587 | Adani Enterprises Limited | Team Member-Treasury | Ahmedabad, Gujarat, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-anr-business-consulting-4494958015 | ANR Business Consulting | Equity Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014 | Second Street Partners | Fund Accountant | Pune Division, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-resultscx-4479090618 | ResultsCX | Treasury Analyst | India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
