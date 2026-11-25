@@ -973,5 +973,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-consultant-financial-planning-and-analysis-at-optum-4493039970 | Optum | Financial Consultant - Financial Planning and Analysis, | Gurgaon, Haryana, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/officer-financial-reporting-at-alter-domus-4494451054 | Alter Domus | Officer - Financial Reporting | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538 | Nuvama Group | CA - Management Trainee FP&A | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-equity-associate-at-kotak-alternate-asset-managers-limited-4494769456 | Kotak Alternate Asset Managers Limited | Private Equity Associate | Mumbai Metropolitan Region | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed

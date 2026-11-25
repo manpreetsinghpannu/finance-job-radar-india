@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:46:41.850Z",
+ "generated_at": "2026-11-25T03:48:03.246Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 63,
+   "matching": 64,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 107,
+   "matching": 108,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -3602,6 +3602,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/private-equity-associate-at-kotak-alternate-asset-managers-limited-4494769456": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 16
   }
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 02:46** (UK time) · **670 open roles** at 360 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 03:48** (UK time) · **671 open roles** at 361 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 02:40** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 25 Nov, 03:41** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Wed 25 Nov, 01:41** (1: Finance 1); open it in the scan log below.
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Private Equity Associate](https://www.linkedin.com/jobs/view/private-equity-associate-at-kotak-alternate-asset-managers-limited-4494769456) | Kotak Alternate Asset Managers Limited | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
@@ -28,12 +32,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (63 matching)
+**Equity CV** (64 matching)
 
 1. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
 2. [Equity Research Analyst (Buy Side)](https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226) · Roan Analytics · India · posted 2026-11-24
 
-**Investment (IB / PE) CV** (107 matching)
+**Investment (IB / PE) CV** (108 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<details>
+<summary><b>03:41</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Private Equity Associate](https://www.linkedin.com/jobs/view/private-equity-associate-at-kotak-alternate-asset-managers-limited-4494769456) | Kotak Alternate Asset Managers Limited | Mumbai Metropolitan Region |
+
+</details>
 
 <sub>Nothing new at: 02:40, 02:21</sub>
 
@@ -2220,11 +2235,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 03:40</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (269)](#finance-fpa-cv-269) · [Credit (160)](#credit-cv-160) · [Equity (43)](#equity-cv-43) · [Investment (88)](#investment-ib--pe-cv-88) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (269)](#finance-fpa-cv-269) · [Credit (160)](#credit-cv-160) · [Equity (43)](#equity-cv-43) · [Investment (89)](#investment-ib--pe-cv-89) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
 ### Finance (FP&A) CV: 269
 
@@ -2713,10 +2726,11 @@ Everything matched so far, newest first within each CV: [Finance (269)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 
-### Investment (IB / PE) CV: 88
+### Investment (IB / PE) CV: 89
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-25 | [Private Equity Associate](https://www.linkedin.com/jobs/view/private-equity-associate-at-kotak-alternate-asset-managers-limited-4494769456) | Kotak Alternate Asset Managers Limited | Mumbai Metropolitan Region |
 | 2026-11-24 | [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) | MNC | Bengaluru, Karnataka, India |
 | 2026-11-24 | [Executive - SaT - National - SaT - TCF - Valuation - Mumbai](https://www.linkedin.com/jobs/view/executive-sat-national-sat-tcf-valuation-mumbai-at-ey-4484622865) | EY | Mumbai, Maharashtra, India |
 | 2026-11-24 | [Associate - Private Equity](https://www.linkedin.com/jobs/view/associate-private-equity-at-michael-page-4494385679) | Michael Page | Mumbai Metropolitan Region |
