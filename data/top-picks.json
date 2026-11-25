@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T03:48:03.246Z",
+ "generated_at": "2026-11-25T04:48:44.664Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 108,
+   "matching": 107,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 57,
+   "matching": 56,
    "picks": [
     {
      "title": "Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)",
@@ -2624,11 +2624,6 @@
    "score": 14
   },
   "https://www.linkedin.com/jobs/view/investment-banking-associate-analyst-at-growthally-advisors-private-limited-4492571810": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/m-a-transaction-advisory-at-growthally-advisors-private-limited-4492578325": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 17

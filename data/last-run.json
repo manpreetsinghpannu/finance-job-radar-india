@@ -1,17 +1,17 @@
 {
-  "finished_at": "2026-11-25T03:48:04.019Z",
+  "finished_at": "2026-11-25T04:48:45.234Z",
   "alerts_configured": {
     "ntfy": true,
     "slack": false
   },
   "boards_scanned": 99,
-  "postings_seen": 36606,
-  "filtered_out": 36552,
-  "new_matches": 1,
-  "boards_failed": 42,
+  "postings_seen": 37420,
+  "filtered_out": 37365,
+  "new_matches": 0,
+  "boards_failed": 43,
   "failed": [
     {
-      "company": "Wellington Management",
+      "company": "Franklin Templeton",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -23,19 +23,15 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Franklin Templeton",
+      "company": "Invesco (Early Careers)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "PIMCO",
+      "company": "Invesco",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Barclays",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "Fidelity International",
+      "company": "Wellington Management",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -43,7 +39,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Blackstone",
+      "company": "Barclays",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "PIMCO",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -51,11 +51,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Ares Management",
+      "company": "Bain Capital",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Bain Capital",
+      "company": "Ares Management",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -71,19 +71,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "AIG",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
       "company": "Mastercard",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Visa",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
-      "company": "PayPal",
+      "company": "AIG",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -91,7 +83,15 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
+      "company": "Visa",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
       "company": "Accenture",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "PayPal",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -99,11 +99,19 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Houlihan Lokey (Campus)",
+      "company": "AstraZeneca",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Houlihan Lokey (Lateral)",
+      "company": "AstraZeneca (Emerging Talent)",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Unilever (Early Careers)",
+      "error": "HTTP 429 Too Many Requests"
+    },
+    {
+      "company": "Unilever",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -115,11 +123,11 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Unilever (Early Careers)",
+      "company": "Rolls-Royce",
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "Rolls-Royce",
+      "company": "Houlihan Lokey (Lateral)",
       "error": "HTTP 429 Too Many Requests"
     },
     {
@@ -151,10 +159,6 @@
       "error": "fetch failed"
     },
     {
-      "company": "Ameriprise Financial",
-      "error": "HTTP 429 Too Many Requests"
-    },
-    {
       "company": "DBS Bank",
       "error": "HTTP 429 Too Many Requests"
     },
@@ -167,8 +171,8 @@
       "error": "HTTP 429 Too Many Requests"
     },
     {
-      "company": "EY",
-      "error": "This operation was aborted"
+      "company": "Brookfield",
+      "error": "HTTP 429 Too Many Requests"
     },
     {
       "company": "Walmart Global Tech",
