@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:43:52.358Z",
+ "generated_at": "2026-11-25T16:43:30.580Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 306,
+   "matching": 309,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 169,
+   "matching": 168,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 111,
+   "matching": 110,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 58,
+   "matching": 59,
    "picks": [
     {
      "title": "Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)",
@@ -2918,11 +2918,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 7
   },
-  "https://www.linkedin.com/jobs/view/corporate-finance-analyst-debt-at-vista-analytics-llp-4492338980": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/equity-research-analyst-%E2%80%94-energy-transition-focus-at-kanou-capital-llp-4493183781": {
    "id": "equity",
    "cv": "Equity CV",
@@ -3712,6 +3707,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 26
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-mid-level-manufacturing-expereince-must-4494791990": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/mid-office-treasury-risk-7-to-12-yrs-upto-40-l-immediate-joiner-at-employee-forums-4493434479": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/consultant-fp-a-supply-chain-corporate-apac-at-the-coca-cola-company-4494931427": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
   }
  }
 }

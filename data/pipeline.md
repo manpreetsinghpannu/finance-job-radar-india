@@ -1015,5 +1015,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-underwriter-at-rippling-4487072560 | Rippling | Credit Underwriter | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-dassault-syst%C3%A8mes-4487033349 | Dassault Systèmes | Treasury Analyst | Pune/Pimpri-Chinchwad Area | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/m-e-cum-accountant-at-yrg-4494656038 | YRG | M&E cum Accountant | Ramagundam, Telangana, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197 | Galaxy | Associate, Financial Planning and Analysis (FP&A) - Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-mid-level-manufacturing-expereince-must-4494791990 | Client of TALENTSGET | FP&A -Mid level - MANUFACTURING EXPEREINCE MUST | Palwal, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/mid-office-treasury-risk-7-to-12-yrs-upto-40-l-immediate-joiner-at-employee-forums-4493434479 | Employee Forums | Mid Office Treasury Risk - 7 to 12 Yrs - upto 40 L - Immediate Joiner | Mumbai Metropolitan Region | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/consultant-fp-a-supply-chain-corporate-apac-at-the-coca-cola-company-4494931427 | The Coca-Cola Company | Consultant, FP&A Supply Chain Corporate APAC | Gurugram, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
