@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 20:44** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 21:46** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 20:39** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 25 Nov, 21:38** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Wed 25 Nov, 19:39** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 25 November
 
-<sub>Nothing new at: 20:39</sub>
+<sub>Nothing new at: 21:38, 20:39</sub>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2213,7 +2213,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 18 November
 
-<sub>Nothing new at: 23:33, 22:33, 22:21, 21:33, 21:21</sub>
+<sub>Nothing new at: 23:33, 22:33, 22:21</sub>
 
 ## All open roles by CV
 
@@ -2958,7 +2958,7 @@ Everything matched so far, newest first within each CV: [Finance (280)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>123 roles taken off the list because the firm closed the posting</summary>
+<summary>122 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3084,6 +3084,5 @@ Everything matched so far, newest first within each CV: [Finance (280)](#finance
 | Thu 19 Nov, 07:35 | Market Risk Associate – CIO | JPMorgan Chase |
 | Thu 19 Nov, 07:34 | Associate - Asset Management - Commercial real estate - US Mortgage | Three Across |
 | Thu 19 Nov, 03:14 | Capital Markets Services Specialist | Accenture |
-| Wed 18 Nov, 21:25 | Associate, Reporting & Portfolio Analytics (Open-End Funds) | blueStone Solutions Group |
 
 </details>
