@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 22:55** (UK time) · **695 open roles** at 376 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 23:46** (UK time) · **695 open roles** at 376 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 22:47** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 25 Nov, 23:37** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Wed 25 Nov, 19:39** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 25 November
 
-<sub>Nothing new at: 22:47, 21:38, 20:39</sub>
+<sub>Nothing new at: 23:37, 22:47, 21:38, 20:39</sub>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2204,10 +2204,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682) | Hewlett Packard Enterprise | Bengaluru, Karnataka, India |
 
 </details>
-
-### Wednesday 18 November
-
-<sub>Nothing new at: 23:33</sub>
 
 ## All open roles by CV
 
