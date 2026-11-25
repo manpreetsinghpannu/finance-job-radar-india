@@ -972,5 +972,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Mumbai/Officer--Specialist--Loan-Operations--Corporate-Banking--Technology-and-Operations_WD90397 | DBS Bank | Officer, Specialist, Loan Operations, Corporate Banking, Technology and Operations | Mumbai | posted: 2026-11-23
 - [ ] https://www.linkedin.com/jobs/view/financial-consultant-financial-planning-and-analysis-at-optum-4493039970 | Optum | Financial Consultant - Financial Planning and Analysis, | Gurgaon, Haryana, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/officer-financial-reporting-at-alter-domus-4494451054 | Alter Domus | Officer - Financial Reporting | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538 | Nuvama Group | CA - Management Trainee FP&A | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed

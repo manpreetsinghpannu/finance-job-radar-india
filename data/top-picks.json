@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T00:47:07.150Z",
+ "generated_at": "2026-11-25T01:50:39.771Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 296,
+   "matching": 297,
    "picks": [
     {
      "title": "Financial Analyst, GFS Services FP&A",
@@ -3607,6 +3607,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
   }
  }
 }
