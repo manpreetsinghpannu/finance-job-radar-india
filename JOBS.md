@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 21:46** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 22:39** (UK time) · **695 open roles** at 376 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 21:38** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 25 Nov, 22:30** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Wed 25 Nov, 19:39** (1: Finance 1); open it in the scan log below.
 
@@ -38,10 +38,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
 
-**Consulting CV** (59 matching)
+**Consulting CV** (58 matching)
 
 1. [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) · Visa · IN - Bengaluru, India · posted 2026-11-24
-2. [Management Consultant](https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844) · Sion Advisors · Hyderabad, Telangana, India · posted 2026-11-23
+2. [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) · Accenture services Pvt Ltd · Gurugram, Haryana, India · posted 2026-11-21
 
 **Real Estate CV** (51 matching)
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 25 November
 
-<sub>Nothing new at: 21:38, 20:39</sub>
+<sub>Nothing new at: 22:30, 21:38, 20:39</sub>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1005,7 +1005,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>06:38</b> · hourly scan · <b>6 new</b> → Finance 3 · Credit 1 · Consulting 1 · Fund 1</summary>
+<summary><b>06:38</b> · hourly scan · <b>5 new</b> → Finance 3 · Credit 1 · Fund 1</summary>
 
 #### Finance (FP&A) CV: 3
 
@@ -1021,19 +1021,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-23 | [US Credit Originations SME](https://www.linkedin.com/jobs/view/us-credit-originations-sme-at-art-technology-and-software-4492382420) | Art Technology and Software | India |
 
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-23 | [Management Consultant](https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844) | Sion Advisors | Hyderabad, Telangana, India |
-
 #### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-22 | [Expert Fund Accountant](https://www.linkedin.com/jobs/view/expert-fund-accountant-at-csc-4493384174) | CSC | Bengaluru, Karnataka, India |
 
-<sub>3 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>4 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2213,11 +2207,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 18 November
 
-<sub>Nothing new at: 23:33, 22:33, 22:21</sub>
+<sub>Nothing new at: 23:33</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (280)](#finance-fpa-cv-280) · [Credit (164)](#credit-cv-164) · [Equity (50)](#equity-cv-50) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (280)](#finance-fpa-cv-280) · [Credit (164)](#credit-cv-164) · [Equity (50)](#equity-cv-50) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
 ### Finance (FP&A) CV: 280
 
@@ -2823,12 +2817,11 @@ Everything matched so far, newest first within each CV: [Finance (280)](#finance
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 33
+### Consulting CV: 32
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-24 | [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) | Visa | IN - Bengaluru, India |
-| 2026-11-23 | [Management Consultant](https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844) | Sion Advisors | Hyderabad, Telangana, India |
 | — | [Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/) | Deloitte India | Bengaluru |
 | 2026-11-21 | [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) | Accenture services Pvt Ltd | Gurugram, Haryana, India |
 | — | [Consultant / Financial Services / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Financial-Services-Bengaluru-Finance-Transformation-Finance-Strategy/60055544/) | Deloitte India | Bengaluru |
@@ -2958,10 +2951,11 @@ Everything matched so far, newest first within each CV: [Finance (280)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>122 roles taken off the list because the firm closed the posting</summary>
+<summary>123 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 25 Nov, 22:32 | Management Consultant | Sion Advisors |
 | Wed 25 Nov, 20:43 | Financial Analyst | Precision For Medicine |
 | Wed 25 Nov, 20:42 | M&A- Integration and Separation | KPMG India |
 | Wed 25 Nov, 19:42 | Financial Planning Analyst | Selections HR Services Private Limited |
