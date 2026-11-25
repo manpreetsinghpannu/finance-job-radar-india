@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:42:24.426Z",
+ "generated_at": "2026-11-25T17:54:53.597Z",
  "order": [
   "finance",
   "credit",
@@ -3718,6 +3718,11 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-milestone-technologies-inc-4493440155": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
   "https://www.linkedin.com/jobs/view/credit-risk-professional-ii-at-fiserv-4494937441": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3732,11 +3737,6 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-milestone-technologies-inc-4493440155": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   }
  }
 }

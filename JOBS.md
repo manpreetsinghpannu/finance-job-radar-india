@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 17:42** (UK time) · **697 open roles** at 377 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 17:54** (UK time) · **697 open roles** at 377 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 17:38** · hourly scan · checked 99 boards · **5 new roles**
+**Wed 25 Nov, 17:49** · hourly scan · checked 99 boards · **5 new roles**
 
 ### Finance (FP&A) CV: 2
 
@@ -78,7 +78,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 25 November
 
 <details>
-<summary><b>17:38</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 1 · Investment 2</summary>
+<summary><b>17:49</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 1 · Investment 2</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -2980,9 +2980,9 @@ Everything matched so far, newest first within each CV: [Finance (282)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 25 Nov, 17:40 | Associate - Private Equity | Michael Page |
-| Wed 25 Nov, 17:40 | Financial Analyst | Dexterz Technology |
-| Wed 25 Nov, 17:40 | Supply Chain Financial Analyst | GamblingCareers.com |
+| Wed 25 Nov, 17:51 | Associate - Private Equity | Michael Page |
+| Wed 25 Nov, 17:50 | Financial Analyst | Dexterz Technology |
+| Wed 25 Nov, 17:50 | Supply Chain Financial Analyst | GamblingCareers.com |
 | Wed 25 Nov, 16:41 | Corporate Finance Analyst - Debt | Vista Analytics LLP |
 | Wed 25 Nov, 15:43 | Treasury Specialist | Belhem India Pvt Ltd |
 | Wed 25 Nov, 15:40 | Model Development- Counterparty Credit Risk | Callisto Talent Solutions |
