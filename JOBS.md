@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Tue 24 Nov, 23:55** (UK time) · **670 open roles** at 361 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 00:47** (UK time) · **671 open roles** at 361 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,15 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Tue 24 Nov, 23:47** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 25 Nov, 00:40** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Tue 24 Nov, 22:38** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-24 | [Officer - Financial Reporting](https://www.linkedin.com/jobs/view/officer-financial-reporting-at-alter-domus-4494451054) | Alter Domus | Hyderabad, Telangana, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (295 matching)
+**Finance (FP&A) CV** (296 matching)
 
 1. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 2. [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) · VRecruitFirst · Ahmedabad, Gujarat, India · posted 2026-11-23
@@ -56,6 +60,19 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Wednesday 25 November
+
+<details>
+<summary><b>00:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-24 | [Officer - Financial Reporting](https://www.linkedin.com/jobs/view/officer-financial-reporting-at-alter-domus-4494451054) | Alter Domus | Hyderabad, Telangana, India |
+
+</details>
 
 ### Tuesday 24 November
 
@@ -2212,13 +2229,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 01:33, 00:33</sub>
+<sub>Nothing new at: 01:33</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (268)](#finance-fpa-cv-268) · [Credit (160)](#credit-cv-160) · [Equity (43)](#equity-cv-43) · [Investment (89)](#investment-ib--pe-cv-89) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (269)](#finance-fpa-cv-269) · [Credit (160)](#credit-cv-160) · [Equity (43)](#equity-cv-43) · [Investment (89)](#investment-ib--pe-cv-89) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (38)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-38) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
-### Finance (FP&A) CV: 268
+### Finance (FP&A) CV: 269
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2252,6 +2269,7 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 | 2026-11-24 | [Treasury Back office Officer](https://www.linkedin.com/jobs/view/treasury-back-office-officer-at-vanderlande-4484643055) | Vanderlande | Pune Division, Maharashtra, India |
 | 2026-11-24 | [Hiring Chartered Accountant Freshers - PUNE](https://www.linkedin.com/jobs/view/hiring-chartered-accountant-freshers-pune-at-ss-c-technologies-4258239802) | SS&C Technologies | Pune Division, Maharashtra, India |
 | 2026-11-24 | [GAOC Accountant](https://www.linkedin.com/jobs/view/gaoc-accountant-at-qualcomm-4494397208) | Qualcomm | Greater Hyderabad Area |
+| 2026-11-24 | [Officer - Financial Reporting](https://www.linkedin.com/jobs/view/officer-financial-reporting-at-alter-domus-4494451054) | Alter Domus | Hyderabad, Telangana, India |
 | 2026-11-24 | [Financial Reporting Specialist](https://www.linkedin.com/jobs/view/financial-reporting-specialist-at-alter-domus-4494120875) | Alter Domus | Hyderabad, Telangana, India |
 | 2026-11-24 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-sulzer-4433442780) | Sulzer | Pune Division, Maharashtra, India |
 | 2026-11-23 | [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) | VRecruitFirst | Ahmedabad, Gujarat, India |
@@ -2931,7 +2949,7 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>102 roles taken off the list because the firm closed the posting</summary>
+<summary>101 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3036,6 +3054,5 @@ Everything matched so far, newest first within each CV: [Finance (268)](#finance
 | Wed 18 Nov, 14:41 | Fund Accounting | The HIRD |
 | Wed 18 Nov, 12:35 | Investment Banking Analyst – Global Fundraising & Private Capital | Qubit Capital |
 | Wed 18 Nov, 05:36 | Controller Financial Planning and Accounting | NIIT Foundation |
-| Wed 18 Nov, 00:34 | Specialist - F&A - FP&A 4B | Genpact |
 
 </details>
