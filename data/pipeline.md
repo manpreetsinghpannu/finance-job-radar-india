@@ -984,5 +984,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/Analyst---Credit---Account-Management--Oceania-_10080705-WD | MUFG | Analyst - Credit & Account Management (Oceania) | MUFG Global Service Private Ltd. - Mumbai (NKP) | posted: 2026-11-25
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-applylegal-com-4493082987 | Applylegal.com | Financial Analyst | Raipur, Chhattisgarh, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-at-katalaiser-4494794207 | KatalAiser | Treasury | Chennai, Tamil Nadu, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369 | Aviva India | Equity Research Analyst (Industrial Goods) | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-dexterz-technology-4494782892 | Dexterz Technology | Financial Analyst | India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
