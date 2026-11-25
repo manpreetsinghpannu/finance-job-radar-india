@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 22:39** (UK time) · **695 open roles** at 376 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 22:55** (UK time) · **695 open roles** at 376 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 22:30** · hourly scan · checked 99 boards · **0 new roles**
+**Wed 25 Nov, 22:47** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Wed 25 Nov, 19:39** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 25 November
 
-<sub>Nothing new at: 22:30, 21:38, 20:39</sub>
+<sub>Nothing new at: 22:47, 21:38, 20:39</sub>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2955,7 +2955,7 @@ Everything matched so far, newest first within each CV: [Finance (280)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 25 Nov, 22:32 | Management Consultant | Sion Advisors |
+| Wed 25 Nov, 22:50 | Management Consultant | Sion Advisors |
 | Wed 25 Nov, 20:43 | Financial Analyst | Precision For Medicine |
 | Wed 25 Nov, 20:42 | M&A- Integration and Separation | KPMG India |
 | Wed 25 Nov, 19:42 | Financial Planning Analyst | Selections HR Services Private Limited |
