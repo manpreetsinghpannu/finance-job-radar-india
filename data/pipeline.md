@@ -1006,4 +1006,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/due-diligence-associate-m-a-fdd-valuation-uk-hours-at-magma-consultancy-4493023407 | Magma Consultancy | Due Diligence Associate | M&A, FDD & Valuation | UK Hours | India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-us-at-winter-4494921057 | Winter | Financial Analyst - US | Chennai, Tamil Nadu, India | posted: 2026-11-25 | note: via LinkedIn
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Wholesale-Credit-Risk-Support-Intermediate-Analyst_261009393 | Citi | Wholesale Credit Risk Support Intermediate Analyst | Pune Maharashtra India | posted: 2026-11-25
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Specialist_261001126 | Citi | Fund Accounting Specialist | Pune Maharashtra India | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783 | Fictiv | Financial Analyst - FP&A-US shift | Greater Bengaluru Area | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-phonepe-4493426328 | PhonePe | Financial Analyst, Business Finance | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/m-a-consulting-associate-real-estate-mumbai-at-kpmg-india-4494636670 | KPMG India | M&A Consulting | Associate | Real Estate | Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-4494917402 | Kenvi Capital | Equity Research Analyst | Indore, Madhya Pradesh, India | posted: 2026-11-25 | note: via LinkedIn
+
 ## Processed

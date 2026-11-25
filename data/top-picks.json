@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:59:27.444Z",
+ "generated_at": "2026-11-25T13:48:59.400Z",
  "order": [
   "finance",
   "credit",
@@ -40,11 +40,11 @@
      "sponsor": null
     },
     {
-     "title": "Financial Analyst, GFS Services FP&A",
-     "company": "Amazon",
-     "location": "Hyderabad, Telangana, India",
-     "posted": "2026-11-24",
-     "url": "https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033",
+     "title": "Financial Analyst - FP&A-US shift",
+     "company": "Fictiv",
+     "location": "Greater Bengaluru Area",
+     "posted": "2026-11-25",
+     "url": "https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783",
      "score": 28,
      "why": [
       "FP&A",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 69,
+   "matching": 70,
    "picks": [
     {
      "title": "Equity Research Analyst (Industrial Goods)",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 54,
+   "matching": 55,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -1457,11 +1457,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-flexifunds-4489862502": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/bpo-pe-and-fund-accounting-analyst-at-ntt-data-north-america-4465675648": {
    "id": "fund",
@@ -3028,11 +3023,6 @@
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
   },
-  "https://www.linkedin.com/jobs/view/accountant-5-years-experience-at-aldecor-india-4493703162": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3463,11 +3453,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-precision-medicine-group-4404445228": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/hiring-chartered-accountant-freshers-pune-at-ss-c-technologies-4258239802": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3712,6 +3697,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Wholesale-Credit-Risk-Support-Intermediate-Analyst_261009393": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 28
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Specialist_261001126": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-business-finance-at-phonepe-4493426328": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-4494917402": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
   }
  }
 }
