@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 05:51** (UK time) · **674 open roles** at 365 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 06:11** (UK time) · **674 open roles** at 365 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 05:41** · hourly scan · checked 99 boards · **5 new roles**
+**Wed 25 Nov, 06:02** · hourly scan · checked 99 boards · **5 new roles**
 
 ### Finance (FP&A) CV: 1
 
@@ -83,7 +83,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 25 November
 
 <details>
-<summary><b>05:41</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 1 · Equity 2 · Investment 1</summary>
+<summary><b>06:02</b> · hourly scan · <b>5 new</b> → Finance 1 · Credit 1 · Equity 2 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -2986,7 +2986,7 @@ Everything matched so far, newest first within each CV: [Finance (270)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Wed 25 Nov, 05:49 | Investment Banking Associate/Analyst | GrowthAlly Advisors Private Limited |
+| Wed 25 Nov, 06:09 | Investment Banking Associate/Analyst | GrowthAlly Advisors Private Limited |
 | Wed 25 Nov, 04:46 | M&A / Transaction Advisory | GrowthAlly Advisors Private Limited |
 | Wed 25 Nov, 02:41 | Investment Banking (Fresher) | FSSSI GLOBAL PVT. LTD |
 | Wed 25 Nov, 02:40 | FP&A SME (Finance Transformation & Digital Products) | Unilever |
