@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:54:53.597Z",
+ "generated_at": "2026-11-25T18:45:26.944Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 309,
+   "matching": 310,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 69,
+   "matching": 70,
    "picks": [
     {
      "title": "Equity Research Analyst (Industrial Goods)",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 55,
+   "matching": 56,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -3363,11 +3363,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/finance-analyst-at-michael-page-4494342006": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 19
-  },
   "https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cactus-communications-4485778270": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3713,11 +3708,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/finance-analyst-at-anr-business-consulting-4494929762": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-milestone-technologies-inc-4493440155": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3737,6 +3727,26 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-emerson-4494678412": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/team-member-treasury-at-adani-enterprises-limited-4434465587": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-anr-business-consulting-4494958015": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }

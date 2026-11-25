@@ -1024,5 +1024,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-professional-ii-at-fiserv-4494937441 | Fiserv | Credit Risk - Professional II | Thane, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-division-analyst-investment-banking-mumbai-at-morgan-stanley-4479241355 | Morgan Stanley | Investment Banking Division - Analyst, Investment Banking (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/specialist-m-a-and-strategic-finance-at-darwinbox-4486889409 | Darwinbox | Specialist - M&A and Strategic Finance | Hyderabad, Telangana, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-emerson-4494678412 | Emerson | Financial Analyst | Pune Division, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/team-member-treasury-at-adani-enterprises-limited-4434465587 | Adani Enterprises Limited | Team Member-Treasury | Ahmedabad, Gujarat, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-anr-business-consulting-4494958015 | ANR Business Consulting | Equity Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014 | Second Street Partners | Fund Accountant | Pune Division, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
