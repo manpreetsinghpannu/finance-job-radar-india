@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 12:47** (UK time) · **692 open roles** at 377 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 12:59** (UK time) · **692 open roles** at 377 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 12:40** · hourly scan · checked 99 boards · **6 new roles**
+**Wed 25 Nov, 12:53** · hourly scan · checked 99 boards · **6 new roles**
 
 ### Finance (FP&A) CV: 2
 
@@ -84,7 +84,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Wednesday 25 November
 
 <details>
-<summary><b>12:40</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 1 · Equity 2 · Investment 1</summary>
+<summary><b>12:53</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 1 · Equity 2 · Investment 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -2271,17 +2271,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 13:33</sub>
-
-<details>
-<summary><b>12:58</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Process Executive - Credit Risk](https://www.linkedin.com/jobs/view/process-executive-credit-risk-at-bunge-4411307645) | Bunge | Sahibzada Ajit Singh Nagar, Punjab, India |
-
-</details>
 
 ## All open roles by CV
 
