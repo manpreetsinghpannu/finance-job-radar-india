@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 19:47** (UK time) · **698 open roles** at 378 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 20:44** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 19:39** · hourly scan · checked 99 boards · **1 new role**
+**Wed 25 Nov, 20:39** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-resultscx-4479090618) | ResultsCX | India |
+Nothing new this time. The last scan that found something was **Wed 25 Nov, 19:39** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (309 matching)
+**Finance (FP&A) CV** (308 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -37,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
 2. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
 
-**Investment (IB / PE) CV** (111 matching)
+**Investment (IB / PE) CV** (110 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<sub>Nothing new at: 20:39</sub>
 
 <details>
 <summary><b>19:39</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2215,13 +2213,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Wednesday 18 November
 
-<sub>Nothing new at: 23:33, 22:33, 22:21, 21:33, 21:21, 20:33</sub>
+<sub>Nothing new at: 23:33, 22:33, 22:21, 21:33, 21:21</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (281)](#finance-fpa-cv-281) · [Credit (164)](#credit-cv-164) · [Equity (50)](#equity-cv-50) · [Investment (91)](#investment-ib--pe-cv-91) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (280)](#finance-fpa-cv-280) · [Credit (164)](#credit-cv-164) · [Equity (50)](#equity-cv-50) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
-### Finance (FP&A) CV: 281
+### Finance (FP&A) CV: 280
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2496,7 +2494,6 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 | 2026-11-08 | [Treasury Officer](https://www.linkedin.com/jobs/view/treasury-officer-4486687879) | Govt of west bengal | Kolkata, West Bengal, India |
 | 2026-11-08 | [Specialist - FP&A](https://www.linkedin.com/jobs/view/specialist-fp-a-at-lennox-india-technology-centre-4453906669) | Lennox India Technology Centre | Chennai, Tamil Nadu, India |
 | 2026-11-07 | [Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-at-isg-information-services-group-4488742063) | ISG | Bengaluru, Karnataka, India |
-| 2026-11-07 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-precision-for-medicine-4470014106) | Precision For Medicine | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Finance Analyst-Contra Revenue](https://www.linkedin.com/jobs/view/finance-analyst-contra-revenue-at-hp-4488499191) | HP | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Financial Analyst II, FOAA Leo](https://www.linkedin.com/jobs/view/financial-analyst-ii-foaa-leo-at-amazon-4471886962) | Amazon | Pune/Pimpri-Chinchwad Area |
 | — | [Associate - Operations - Operations - CBS - FIN - FP&A Account Support - Bangalore](https://careers.ey.com/ey/job/Bengaluru-Associate-Operations-Operations-CBS-FIN-FP&A-Account-Support-Bangalore-KA-560001/1455368433/) | EY | Bengaluru |
@@ -2731,7 +2728,7 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 
-### Investment (IB / PE) CV: 91
+### Investment (IB / PE) CV: 90
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2796,7 +2793,6 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 | 2026-11-13 | [Capital Markets Operations Specialist](https://www.linkedin.com/jobs/view/capital-markets-operations-specialist-at-accenture-in-india-4490748429) | Accenture in India | Bengaluru, Karnataka, India |
 | — | [Associate - SaT - TMT - SaT - TCF - M&A Advisory - Mumbai](https://careers.ey.com/ey/job/Mumbai-Associate-SaT-TMT-SaT-TCF-M&A-Advisory-Mumbai-MH-400028/1456692633/) | EY | Mumbai |
 | 2026-11-12 | [Valuation Controller - Anayst](https://www.linkedin.com/jobs/view/valuation-controller-anayst-at-jpmorganchase-4482170388) | JPMorganChase | Mumbai, Maharashtra, India |
-| 2026-11-12 | [M&A- Integration and Separation](https://www.linkedin.com/jobs/view/m-a-integration-and-separation-mumbai-chennai-bangalore-at-kpmg-india-4490334145) | KPMG India | Mumbai |
 | 2026-11-12 | [IN_Associate_FDD_Transaction Services_Advisory_Bangalore](https://www.linkedin.com/jobs/view/in-associate-fdd-transaction-services-advisory-bangalore-at-pwc-india-4490342228) | PwC India | Bengaluru, Karnataka, India |
 | 2026-11-12 | [BD and M&A (Roads)](https://www.linkedin.com/jobs/view/bd-and-m-a-roads-at-adani-group-4463044452) | Adani Group | Ahmedabad, Gujarat, India |
 | 2026-11-12 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01674472-1) | Accenture | Bengaluru |
@@ -2962,10 +2958,12 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>121 roles taken off the list because the firm closed the posting</summary>
+<summary>123 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 25 Nov, 20:43 | Financial Analyst | Precision For Medicine |
+| Wed 25 Nov, 20:42 | M&A- Integration and Separation | KPMG India |
 | Wed 25 Nov, 19:42 | Financial Planning Analyst | Selections HR Services Private Limited |
 | Wed 25 Nov, 19:42 | Analyst - Portfolio and Treasury Services | WorldQuant |
 | Wed 25 Nov, 18:42 | Finance Analyst | ANR Business Consulting |
