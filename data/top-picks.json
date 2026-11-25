@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T16:43:30.580Z",
+ "generated_at": "2026-11-25T17:42:24.426Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 168,
+   "matching": 169,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 70,
+   "matching": 69,
    "picks": [
     {
      "title": "Equity Research Analyst (Industrial Goods)",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 110,
+   "matching": 111,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -1517,11 +1517,6 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
-  },
-  "https://www.linkedin.com/jobs/view/supply-chain-financial-analyst-at-gamblingcareers-com-4491203656": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-zacks-research-pvt-ltd-4489372482": {
    "id": "finance",
@@ -3483,11 +3478,6 @@
    "cv": "Credit CV",
    "score": 12
   },
-  "https://www.linkedin.com/jobs/view/associate-private-equity-at-michael-page-4494385679": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 16
-  },
   "https://www.linkedin.com/jobs/view/credit-field-intelligence-at-navi-4494357574": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3577,11 +3567,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 29
-  },
-  "https://www.linkedin.com/jobs/view/financial-analyst-at-dexterz-technology-4494782892": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
   },
   "https://www.linkedin.com/jobs/view/associate-auto-treasury-finance-at-jpmorganchase-4476989056": {
    "id": "finance",
@@ -3727,6 +3712,31 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-anr-business-consulting-4494929762": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-professional-ii-at-fiserv-4494937441": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-division-analyst-investment-banking-mumbai-at-morgan-stanley-4479241355": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/specialist-m-a-and-strategic-finance-at-darwinbox-4486889409": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-milestone-technologies-inc-4493440155": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

@@ -1019,5 +1019,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-mid-level-manufacturing-expereince-must-4494791990 | Client of TALENTSGET | FP&A -Mid level - MANUFACTURING EXPEREINCE MUST | Palwal, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/mid-office-treasury-risk-7-to-12-yrs-upto-40-l-immediate-joiner-at-employee-forums-4493434479 | Employee Forums | Mid Office Treasury Risk - 7 to 12 Yrs - upto 40 L - Immediate Joiner | Mumbai Metropolitan Region | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/consultant-fp-a-supply-chain-corporate-apac-at-the-coca-cola-company-4494931427 | The Coca-Cola Company | Consultant, FP&A Supply Chain Corporate APAC | Gurugram, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-anr-business-consulting-4494929762 | ANR Business Consulting | Finance Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-professional-ii-at-fiserv-4494937441 | Fiserv | Credit Risk - Professional II | Thane, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-division-analyst-investment-banking-mumbai-at-morgan-stanley-4479241355 | Morgan Stanley | Investment Banking Division - Analyst, Investment Banking (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/specialist-m-a-and-strategic-finance-at-darwinbox-4486889409 | Darwinbox | Specialist - M&A and Strategic Finance | Hyderabad, Telangana, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-milestone-technologies-inc-4493440155 | Milestone Technologies, Inc. | Financial Analyst | Greater Hyderabad Area | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
