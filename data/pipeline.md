@@ -992,5 +992,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/security-risk-analyst-at-mccormick-company-4393834451 | McCormick & Company | Security Risk Analyst | Gurugram, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/valuation-controller-associate-at-jpmorganchase-4486844639 | JPMorganChase | Valuation Controller-Associate | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fund-accounting-settlement-operations-at-sks-enterpprises-human-resource-planning-and-management-4494497664 | SKS Enterpprises - Human Resource Planning and Management | Fund Accounting Settlement Operations | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-junior-analyst-at-hempel-a-s-4485065055 | Hempel A/S | FP&A Junior Analyst | Pune City, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-underwriter-at-fiserv-4494913103 | Fiserv | Credit Risk Underwriter | Thane, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-portfolio-valuation-and-fund-advisory-%E2%80%93-structured-products-at-houlihan-lokey-4414665506 | Houlihan Lokey | Financial Analyst, Portfolio Valuation and Fund Advisory – Structured Products | Mumbai Metropolitan Region | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/debt-capital-markets-specialist-at-lkp-securities-limited-4493407499 | LKP Securities Limited | Debt Capital Markets Specialist | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-analyst-at-westraty-ventures-4494799667 | Westraty Ventures | Investment Analyst | Pune Division, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed

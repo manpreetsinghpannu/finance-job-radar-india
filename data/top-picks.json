@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:51:05.600Z",
+ "generated_at": "2026-11-25T11:48:25.063Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 302,
+   "matching": 304,
    "picks": [
     {
      "title": "FP&A Analyst – Commercial Finance",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 168,
+   "matching": 169,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 109,
+   "matching": 111,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)",
@@ -189,7 +189,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 49,
+   "matching": 51,
    "picks": [
     {
      "title": "Property Accountant, Commercial Real Estate",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 53,
+   "matching": 54,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -3283,11 +3283,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/fraud-risk-analyst-sql-python-3-to-7-years-at-resourcetree-global-services-pvt-ltd-4494315287": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 12
-  },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210780411": {
    "id": "credit",
    "cv": "Credit CV",
@@ -3447,11 +3442,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 15
-  },
-  "https://www.linkedin.com/jobs/view/itof-portfolio-analyst-ado-portfolio-governance-%2B-agile-safe-%2B-pmo-reporting-%2B-data-quality-at-cenergy-international-services-4493002782": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 12
   },
   "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-international-valuations-at-lotechpro-4493026030": {
    "id": "other",
@@ -3667,6 +3657,31 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-junior-analyst-at-hempel-a-s-4485065055": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-underwriter-at-fiserv-4494913103": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-portfolio-valuation-and-fund-advisory-%E2%80%93-structured-products-at-houlihan-lokey-4414665506": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/debt-capital-markets-specialist-at-lkp-securities-limited-4493407499": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/investment-analyst-at-westraty-ventures-4494799667": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 12
   }
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 10:51** (UK time) · **683 open roles** at 372 firms · the radar checks every board about once an hour.
+Updated **Wed 25 Nov, 11:48** (UK time) · **686 open roles** at 373 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,42 +10,38 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 10:41** · hourly scan · checked 99 boards · **4 new roles**
+**Wed 25 Nov, 11:39** · hourly scan · checked 99 boards · **5 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-milestone-technologies-inc-4493405424) | Milestone Technologies, Inc. | Greater Hyderabad Area |
-
-### Credit CV: 1
+### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-25 | [Security Risk Analyst](https://www.linkedin.com/jobs/view/security-risk-analyst-at-mccormick-company-4393834451) | McCormick & Company | Gurugram, Haryana, India |
+| 2026-11-25 | [Financial Analyst, Portfolio Valuation and Fund Advisory – Structured Products](https://www.linkedin.com/jobs/view/financial-analyst-portfolio-valuation-and-fund-advisory-%E2%80%93-structured-products-at-houlihan-lokey-4414665506) | Houlihan Lokey | Mumbai Metropolitan Region |
+| 2026-11-25 | [FP&A Junior Analyst](https://www.linkedin.com/jobs/view/fp-a-junior-analyst-at-hempel-a-s-4485065055) | Hempel A/S | Pune City, Maharashtra, India |
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [Valuation Controller-Associate](https://www.linkedin.com/jobs/view/valuation-controller-associate-at-jpmorganchase-4486844639) | JPMorganChase | Bengaluru, Karnataka, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
+### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-25 | [Fund Accounting Settlement Operations](https://www.linkedin.com/jobs/view/fund-accounting-settlement-operations-at-sks-enterpprises-human-resource-planning-and-management-4494497664) | SKS Enterpprises - Human Resource Planning and Management | Mumbai, Maharashtra, India |
+| 2026-11-25 | [Credit Risk Underwriter](https://www.linkedin.com/jobs/view/credit-risk-underwriter-at-fiserv-4494913103) | Fiserv | Thane, Maharashtra, India |
+| 2026-11-25 | [Debt Capital Markets Specialist](https://www.linkedin.com/jobs/view/debt-capital-markets-specialist-at-lkp-securities-limited-4493407499) | LKP Securities Limited | Mumbai, Maharashtra, India |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-westraty-ventures-4494799667) | Westraty Ventures | Pune Division, Maharashtra, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (302 matching)
+**Finance (FP&A) CV** (304 matching)
 
 1. [FP&A Analyst – Commercial Finance](https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674) · Uskim Enterprise · Mumbai, Maharashtra, India · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (168 matching)
+**Credit CV** (169 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -55,22 +51,22 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
 2. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
 
-**Investment (IB / PE) CV** (109 matching)
+**Investment (IB / PE) CV** (111 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
 
-**Consulting CV** (56 matching)
+**Consulting CV** (57 matching)
 
 1. [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) · Visa · IN - Bengaluru, India · posted 2026-11-24
 2. [Management Consultant](https://www.linkedin.com/jobs/view/management-consultant-at-sion-advisors-4492370844) · Sion Advisors · Hyderabad, Telangana, India · posted 2026-11-23
 
-**Real Estate CV** (49 matching)
+**Real Estate CV** (51 matching)
 
 1. [Property Accountant, Commercial Real Estate](https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532) · Versatile Club Employer of Record · India · posted 2026-11-23
 2. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Fund CV (written for India; tweak the header for UK roles)** (53 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (54 matching)
 
 1. [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) · Deutsche Bank · Jaipur, Rajasthan, India · posted 2026-11-16
 2. [Fund Accountant - Executive](https://www.linkedin.com/jobs/view/fund-accountant-executive-at-tmf-group-4490408755) · TMF Group · Mumbai Metropolitan Region · posted 2026-11-17
@@ -80,6 +76,31 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Wednesday 25 November
+
+<details>
+<summary><b>11:39</b> · hourly scan · <b>5 new</b> → Finance 2 · Credit 2 · Equity 1</summary>
+
+#### Finance (FP&A) CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Financial Analyst, Portfolio Valuation and Fund Advisory – Structured Products](https://www.linkedin.com/jobs/view/financial-analyst-portfolio-valuation-and-fund-advisory-%E2%80%93-structured-products-at-houlihan-lokey-4414665506) | Houlihan Lokey | Mumbai Metropolitan Region |
+| 2026-11-25 | [FP&A Junior Analyst](https://www.linkedin.com/jobs/view/fp-a-junior-analyst-at-hempel-a-s-4485065055) | Hempel A/S | Pune City, Maharashtra, India |
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Credit Risk Underwriter](https://www.linkedin.com/jobs/view/credit-risk-underwriter-at-fiserv-4494913103) | Fiserv | Thane, Maharashtra, India |
+| 2026-11-25 | [Debt Capital Markets Specialist](https://www.linkedin.com/jobs/view/debt-capital-markets-specialist-at-lkp-securities-limited-4493407499) | LKP Securities Limited | Mumbai, Maharashtra, India |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-westraty-ventures-4494799667) | Westraty Ventures | Pune Division, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>10:41</b> · hourly scan · <b>4 new</b> → Finance 1 · Credit 1 · Investment 1 · Fund 1</summary>
@@ -407,19 +428,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>13:04</b> · hourly scan · <b>2 new</b> → Equity 1 · Fund 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [ITOF Portfolio Analyst - ADO Portfolio Governance + Agile/SAFe + PMO Reporting + Data Quality.](https://www.linkedin.com/jobs/view/itof-portfolio-analyst-ado-portfolio-governance-%2B-agile-safe-%2B-pmo-reporting-%2B-data-quality-at-cenergy-international-services-4493002782) | Cenergy International Services | Bengaluru, Karnataka, India |
+<summary><b>13:04</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
 
 #### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-24 | [Fund Accounting, Associate (BLR)](https://www.linkedin.com/jobs/view/fund-accounting-associate-blr-at-alchelyst-4494366694) | Alchelyst | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -551,7 +568,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>06:38</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+<summary><b>06:38</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -559,11 +576,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-24 | [Chartered Financial Analyst](https://www.linkedin.com/jobs/view/chartered-financial-analyst-at-vastu-vihar-technoculture-building-centre-pvt-ltd-4494311228) | Vastu Vihar | Bodh Gaya, Bihar, India |
 
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-24 | [Fraud Risk Analyst -SQL & Python - 3 to 7 years](https://www.linkedin.com/jobs/view/fraud-risk-analyst-sql-python-3-to-7-years-at-resourcetree-global-services-pvt-ltd-4494315287) | ResourceTree Global Services Pvt Ltd | Gurugram, Haryana, India |
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2256,21 +2269,21 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 11:33</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (275)](#finance-fpa-cv-275) · [Credit (162)](#credit-cv-162) · [Equity (46)](#equity-cv-46) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (277)](#finance-fpa-cv-277) · [Credit (163)](#credit-cv-163) · [Equity (46)](#equity-cv-46) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (39)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-39) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
-### Finance (FP&A) CV: 275
+### Finance (FP&A) CV: 277
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-25 | [FP&A Analyst – Commercial Finance](https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674) | Uskim Enterprise | Mumbai, Maharashtra, India |
 | 2026-11-25 | [CA - Management Trainee FP&A](https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538) | Nuvama Group | Mumbai, Maharashtra, India |
+| 2026-11-25 | [Financial Analyst, Portfolio Valuation and Fund Advisory – Structured Products](https://www.linkedin.com/jobs/view/financial-analyst-portfolio-valuation-and-fund-advisory-%E2%80%93-structured-products-at-houlihan-lokey-4414665506) | Houlihan Lokey | Mumbai Metropolitan Region |
 | 2026-11-25 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-applylegal-com-4493082987) | Applylegal.com | Raipur, Chhattisgarh, India |
 | 2026-11-25 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-dexterz-technology-4494782892) | Dexterz Technology | India |
 | 2026-11-25 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-milestone-technologies-inc-4493405424) | Milestone Technologies, Inc. | Greater Hyderabad Area |
+| 2026-11-25 | [FP&A Junior Analyst](https://www.linkedin.com/jobs/view/fp-a-junior-analyst-at-hempel-a-s-4485065055) | Hempel A/S | Pune City, Maharashtra, India |
 | 2026-11-25 | [Associate - Auto Treasury Finance](https://www.linkedin.com/jobs/view/associate-auto-treasury-finance-at-jpmorganchase-4476989056) | JPMorganChase | Bengaluru, Karnataka, India |
 | 2026-11-25 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845) | Consolidated Analytics | Greater Chennai Area |
 | 2026-11-25 | [Treasury](https://www.linkedin.com/jobs/view/treasury-at-katalaiser-4494794207) | KatalAiser | Chennai, Tamil Nadu, India |
@@ -2542,16 +2555,17 @@ Everything matched so far, newest first within each CV: [Finance (275)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 162
+### Credit CV: 163
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-25 | [Credit Risk Underwriter](https://www.linkedin.com/jobs/view/credit-risk-underwriter-at-fiserv-4494913103) | Fiserv | Thane, Maharashtra, India |
 | 2026-11-25 | [Analyst - Credit & Account Management (Oceania)](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/Analyst---Credit---Account-Management--Oceania-_10080705-WD) | MUFG | MUFG Global Service Private Ltd. - Mumbai (NKP) |
 | 2026-11-25 | [Security Risk Analyst](https://www.linkedin.com/jobs/view/security-risk-analyst-at-mccormick-company-4393834451) | McCormick & Company | Gurugram, Haryana, India |
 | 2026-11-25 | [Private Credit Investment Specialist](https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-25 | [Debt Capital Markets Specialist](https://www.linkedin.com/jobs/view/debt-capital-markets-specialist-at-lkp-securities-limited-4493407499) | LKP Securities Limited | Mumbai, Maharashtra, India |
 | 2026-11-24 | [US Credit Research Analyst](https://www.linkedin.com/jobs/view/us-credit-research-analyst-at-guidepoint-4494101022) | Guidepoint | Mumbai Metropolitan Region |
 | — | [Analyst, Portfolio Management US Direct Lending](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8809) | Ares Management | Mumbai, India |
-| 2026-11-24 | [Fraud Risk Analyst -SQL & Python - 3 to 7 years](https://www.linkedin.com/jobs/view/fraud-risk-analyst-sql-python-3-to-7-years-at-resourcetree-global-services-pvt-ltd-4494315287) | ResourceTree Global Services Pvt Ltd | Gurugram, Haryana, India |
 | 2026-11-24 | [Vendor Risk Analyst](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Vendor-Risk-Analyst_R26_4508) | Ameriprise Financial | Noida, Uttar Pradesh, India |
 | 2026-11-24 | [Vendor Risk Analyst](https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-ameriprise-financial-services-llc-4494111895) | Ameriprise Financial Services, LLC | Noida, Uttar Pradesh, India |
 | 2026-11-24 | [Risk Analyst 2](https://www.linkedin.com/jobs/view/risk-analyst-2-at-jupiter-4480628073) | Jupiter | Bengaluru, Karnataka, India |
@@ -2716,11 +2730,11 @@ Everything matched so far, newest first within each CV: [Finance (275)](#finance
 | 2026-11-25 | [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) | Aviva India | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Equity Research Associate](https://www.linkedin.com/jobs/view/equity-research-associate-at-axis-capital-ltd-4494475567) | Axis Capital Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Equity Research Associate - Chemical Sector (Only CA Freshers)](https://www.linkedin.com/jobs/view/equity-research-associate-chemical-sector-only-ca-freshers-at-asian-markets-securities-4493079905) | Asian Markets Securities | Mumbai, Maharashtra, India |
+| 2026-11-25 | [Investment Analyst](https://www.linkedin.com/jobs/view/investment-analyst-at-westraty-ventures-4494799667) | Westraty Ventures | Pune Division, Maharashtra, India |
 | 2026-11-24 | [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) | Anand Rathi Share and Stock Brokers Ltd | Mumbai, Maharashtra, India |
 | 2026-11-24 | [Equity Research Analyst (Buy Side)](https://www.linkedin.com/jobs/view/equity-research-analyst-buy-side-at-roan-analytics-4494730226) | Roan Analytics | India |
 | 2026-11-24 | [Research Analyst (Equities)](https://www.linkedin.com/jobs/view/research-analyst-equities-at-imc-trading-4423926245) | IMC Trading | Mumbai Metropolitan Region |
 | 2026-11-24 | [Associate Analyst Equity Research (Sell Side)](https://www.linkedin.com/jobs/view/associate-analyst-equity-research-sell-side-at-roots-recruitment-services-4492686594) | Roots Recruitment Services | Mumbai, Maharashtra, India |
-| 2026-11-24 | [ITOF Portfolio Analyst - ADO Portfolio Governance + Agile/SAFe + PMO Reporting + Data Quality.](https://www.linkedin.com/jobs/view/itof-portfolio-analyst-ado-portfolio-governance-%2B-agile-safe-%2B-pmo-reporting-%2B-data-quality-at-cenergy-international-services-4493002782) | Cenergy International Services | Bengaluru, Karnataka, India |
 | 2026-11-24 | [Research Associate - Auto](https://www.linkedin.com/jobs/view/research-associate-auto-at-emkay-global-financial-services-ltd-4484655897) | Emkay Global Financial Services Ltd | Mumbai Metropolitan Region |
 | 2026-11-24 | [Securities Research Associate](https://www.linkedin.com/jobs/view/securities-research-associate-at-wells-fargo-4494109801) | Wells Fargo | Bengaluru, Karnataka, India |
 | 2026-11-24 | [Equity Index Quant Research Specialist](https://www.linkedin.com/jobs/view/equity-index-quant-research-specialist-at-msci-inc-4476021681) | MSCI Inc. | Mumbai Metropolitan Region |
@@ -2988,10 +3002,12 @@ Everything matched so far, newest first within each CV: [Finance (275)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>107 roles taken off the list because the firm closed the posting</summary>
+<summary>109 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Wed 25 Nov, 11:43 | Fraud Risk Analyst -SQL & Python - 3 to 7 years | ResourceTree Global Services Pvt Ltd |
+| Wed 25 Nov, 11:42 | ITOF Portfolio Analyst - ADO Portfolio Governance + Agile/SAFe + PMO Reporting + Data Quality. | Cenergy International Services |
 | Wed 25 Nov, 10:43 | Quantitative Analyst | Zepcruit |
 | Wed 25 Nov, 09:40 | Associate - Financial Planning and Analysis | JPMorgan Chase |
 | Wed 25 Nov, 08:40 | Credit Associate - CA | Corenza |
