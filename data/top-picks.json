@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:48:44.664Z",
+ "generated_at": "2026-11-25T05:51:50.734Z",
  "order": [
   "finance",
   "credit",
@@ -24,8 +24,21 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 296,
+   "matching": 297,
    "picks": [
+    {
+     "title": "FP&A Analyst – Commercial Finance",
+     "company": "Uskim Enterprise",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-25",
+     "url": "https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674",
+     "score": 29,
+     "why": [
+      "FP&A",
+      "Commercial Finance"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Financial Analyst, GFS Services FP&A",
      "company": "Amazon",
@@ -38,26 +51,13 @@
       "Financial Analyst"
      ],
      "sponsor": null
-    },
-    {
-     "title": "Financial Planning & Analysis (FP&A) Analyst",
-     "company": "VRecruitFirst",
-     "location": "Ahmedabad, Gujarat, India",
-     "posted": "2026-11-23",
-     "url": "https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550",
-     "score": 28,
-     "why": [
-      "FP&A",
-      "Financial Planning"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 166,
+   "matching": 167,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 64,
+   "matching": 66,
    "picks": [
     {
      "title": "Equity Research Analyst - BFSI",
@@ -2623,11 +2623,6 @@
    "cv": "Credit CV",
    "score": 14
   },
-  "https://www.linkedin.com/jobs/view/investment-banking-associate-analyst-at-growthally-advisors-private-limited-4492571810": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 17
-  },
   "https://www.linkedin.com/jobs/view/consultant-integration-and-separation-m-a-at-kpmg-india-4405312803": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -3602,6 +3597,31 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-associate-at-axis-capital-ltd-4494475567": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/investment-associate-at-lumikai-fund-4478409639": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-associate-chemical-sector-only-ca-freshers-at-asian-markets-securities-4493079905": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 20
+  },
+  "https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 7
   }
  }
 }

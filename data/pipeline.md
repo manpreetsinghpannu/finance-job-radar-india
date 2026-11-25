@@ -974,5 +974,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/officer-financial-reporting-at-alter-domus-4494451054 | Alter Domus | Officer - Financial Reporting | Hyderabad, Telangana, India | posted: 2026-11-24 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538 | Nuvama Group | CA - Management Trainee FP&A | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/private-equity-associate-at-kotak-alternate-asset-managers-limited-4494769456 | Kotak Alternate Asset Managers Limited | Private Equity Associate | Mumbai Metropolitan Region | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-%E2%80%93-commercial-finance-4492686674 | Uskim Enterprise | FP&A Analyst – Commercial Finance | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-at-axis-capital-ltd-4494475567 | Axis Capital Ltd. | Equity Research Associate | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-associate-at-lumikai-fund-4478409639 | Lumikai Fund | Investment Associate | Gurgaon, Haryana, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/equity-research-associate-chemical-sector-only-ca-freshers-at-asian-markets-securities-4493079905 | Asian Markets Securities | Equity Research Associate - Chemical Sector (Only CA Freshers) | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620 | JPMorganChase | Private Credit Investment Specialist | Mumbai, Maharashtra, India | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
