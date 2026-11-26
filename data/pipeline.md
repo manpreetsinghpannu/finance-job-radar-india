@@ -1047,5 +1047,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-mumbai-4493805107 | Manufacturing | Corporate Credit Analyst Trade Finance Underwriting (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811553 | JPMorgan Chase | Valuation Controller-Associate | Bengaluru, Karnataka, India | posted: 2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697 | JPMorganChase | Equity Research Analyst - Global Research Center, Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
