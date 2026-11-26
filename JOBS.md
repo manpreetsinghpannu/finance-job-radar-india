@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 01:46** (UK time) · **697 open roles** at 378 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 02:47** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 01:40** · hourly scan · checked 99 boards · **1 new role**
+**Thu 26 Nov, 02:40** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-26 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-asia-pacific-inc-4493458973) | Asia Pacific Inc. | Hyderabad, Telangana, India |
+Nothing new this time. The last scan that found something was **Thu 26 Nov, 01:40** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -32,7 +28,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (70 matching)
+**Equity CV** (69 matching)
 
 1. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
 2. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<sub>Nothing new at: 02:40</sub>
 
 <details>
 <summary><b>01:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -103,7 +101,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>18:38</b> · hourly scan · <b>4 new</b> → Finance 2 · Equity 1 · Fund 1</summary>
+<summary><b>18:38</b> · hourly scan · <b>3 new</b> → Finance 2 · Fund 1</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -112,17 +110,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-25 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-emerson-4494678412) | Emerson | Pune Division, Maharashtra, India |
 | 2026-11-25 | [Team Member-Treasury](https://www.linkedin.com/jobs/view/team-member-treasury-at-adani-enterprises-limited-4434465587) | Adani Enterprises Limited | Ahmedabad, Gujarat, India |
 
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-anr-business-consulting-4494958015) | ANR Business Consulting | Noida, Uttar Pradesh, India |
-
 #### Fund CV (written for India; tweak the header for UK roles): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-25 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014) | Second Street Partners | Pune Division, Maharashtra, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2222,11 +2216,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:33, 03:52, 03:33, 03:11, 02:33</sub>
+<sub>Nothing new at: 04:33, 03:52, 03:33, 03:11</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (281)](#finance-fpa-cv-281) · [Credit (165)](#credit-cv-165) · [Equity (50)](#equity-cv-50) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (281)](#finance-fpa-cv-281) · [Credit (165)](#credit-cv-165) · [Equity (49)](#equity-cv-49) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
 ### Finance (FP&A) CV: 281
 
@@ -2684,13 +2678,12 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 50
+### Equity CV: 49
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-25 | [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) | Aviva India | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4494917402) | Kenvi Capital | Indore, Madhya Pradesh, India |
-| 2026-11-25 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-anr-business-consulting-4494958015) | ANR Business Consulting | Noida, Uttar Pradesh, India |
 | 2026-11-25 | [Equity Research Associate](https://www.linkedin.com/jobs/view/equity-research-associate-at-axis-capital-ltd-4494475567) | Axis Capital Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Equity Research Associate - Chemical Sector (Only CA Freshers)](https://www.linkedin.com/jobs/view/equity-research-associate-chemical-sector-only-ca-freshers-at-asian-markets-securities-4493079905) | Asian Markets Securities | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Research Analyst - Mining Sector](https://www.linkedin.com/jobs/view/research-analyst-mining-sector-at-ubs-4486361833) | UBS | Hyderabad, Telangana, India |
@@ -2968,10 +2961,11 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>123 roles taken off the list because the firm closed the posting</summary>
+<summary>124 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 02:43 | Equity Research Analyst | ANR Business Consulting |
 | Wed 25 Nov, 22:50 | Management Consultant | Sion Advisors |
 | Wed 25 Nov, 20:43 | Financial Analyst | Precision For Medicine |
 | Wed 25 Nov, 20:42 | M&A- Integration and Separation | KPMG India |

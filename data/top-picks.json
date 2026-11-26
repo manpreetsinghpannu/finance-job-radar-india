@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T01:46:10.443Z",
+ "generated_at": "2026-11-26T02:47:43.845Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 70,
+   "matching": 69,
    "picks": [
     {
      "title": "Equity Research Analyst (Industrial Goods)",
@@ -3714,11 +3714,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
-  },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-anr-business-consulting-4494958015": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 28
   },
   "https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014": {
    "id": "fund",
