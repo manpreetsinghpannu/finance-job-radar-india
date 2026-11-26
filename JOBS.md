@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 04:46** (UK time) · **698 open roles** at 378 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 05:09** (UK time) · **699 open roles** at 379 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,19 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 04:39** · hourly scan · checked 99 boards · **2 new roles**
+**Thu 26 Nov, 05:00** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
-
-### Credit CV: 1
+### Investment (IB / PE) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-25 | [ARM – Debt Syndication](https://www.linkedin.com/jobs/view/arm-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4494783079) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
+| 2026-11-26 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-pesh-group-4493484617) | Pesh Group | Pune Division, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -43,7 +37,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
 2. [Equity Research Analyst - BFSI](https://www.linkedin.com/jobs/view/equity-research-analyst-bfsi-at-anand-rathi-share-and-stock-brokers-ltd-4492664949) · Anand Rathi Share and Stock Brokers Ltd · Mumbai, Maharashtra, India · posted 2026-11-24
 
-**Investment (IB / PE) CV** (110 matching)
+**Investment (IB / PE) CV** (111 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>05:00</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-pesh-group-4493484617) | Pesh Group | Pune Division, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>04:39</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
@@ -2245,7 +2250,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (282)](#finance-fpa-cv-282) · [Credit (166)](#credit-cv-166) · [Equity (49)](#equity-cv-49) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (282)](#finance-fpa-cv-282) · [Credit (166)](#credit-cv-166) · [Equity (49)](#equity-cv-49) · [Investment (91)](#investment-ib--pe-cv-91) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
 ### Finance (FP&A) CV: 282
 
@@ -2759,10 +2764,11 @@ Everything matched so far, newest first within each CV: [Finance (282)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 
-### Investment (IB / PE) CV: 90
+### Investment (IB / PE) CV: 91
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-26 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-pesh-group-4493484617) | Pesh Group | Pune Division, Maharashtra, India |
 | 2026-11-25 | [Investment Banking Division - Analyst, Investment Banking (Mumbai)](https://www.linkedin.com/jobs/view/investment-banking-division-analyst-investment-banking-mumbai-at-morgan-stanley-4479241355) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Private Equity Associate](https://www.linkedin.com/jobs/view/private-equity-associate-at-kotak-alternate-asset-managers-limited-4494769456) | Kotak Alternate Asset Managers Limited | Mumbai Metropolitan Region |
 | 2026-11-25 | [Valuation Controller-Associate](https://www.linkedin.com/jobs/view/valuation-controller-associate-at-jpmorganchase-4486844639) | JPMorganChase | Bengaluru, Karnataka, India |

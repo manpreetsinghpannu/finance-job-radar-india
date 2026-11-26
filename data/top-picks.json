@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T04:46:38.775Z",
+ "generated_at": "2026-11-26T05:09:28.754Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 110,
+   "matching": 111,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -3744,6 +3744,11 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-at-pesh-group-4493484617": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
   }
  }
 }
