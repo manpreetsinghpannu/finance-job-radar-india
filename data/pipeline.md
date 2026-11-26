@@ -1093,5 +1093,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-palo-alto-networks-4493842248 | Palo Alto Networks | Treasury Analyst | Bengaluru East, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-payment-application-support-swift-trax-quantum%C2%A0%E2%80%93-2-4-yrs-%E2%80%93-24-5-rotational-shift-%E2%80%93-pune-at-fis-4470989059 | FIS | Treasury/ Payment Application Support - Swift/TRAX/Quantum – 2-4 Yrs – 24/5 Rotational Shift – Pune | Pune/Pimpri-Chinchwad Area | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-payment-application-support-swift-trax-quantum%C2%A0%E2%80%93-4-8-yrs-%E2%80%93-24-5-rotational-shift-%E2%80%93-pune-at-fis-4470970866 | FIS | Treasury/ Payment Application Support - Swift/TRAX/Quantum – 4-8 Yrs – 24/5 Rotational Shift – Pune | Pune/Pimpri-Chinchwad Area | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-restructuring-india-at-kroll-4459572680 | Kroll | Analyst, Restructuring India | New Delhi, Delhi, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
