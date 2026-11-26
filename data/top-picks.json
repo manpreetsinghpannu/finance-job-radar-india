@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T10:46:19.714Z",
+ "generated_at": "2026-11-26T11:46:25.616Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 317,
+   "matching": 319,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 175,
+   "matching": 176,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -224,8 +224,20 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 57,
+   "matching": 59,
    "picks": [
+    {
+     "title": "Analyst – Fund Accounting",
+     "company": "BNP Paribas",
+     "location": "Mumbai, Maharashtra, India",
+     "posted": "2026-11-26",
+     "url": "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007",
+     "score": 19,
+     "why": [
+      "Fund Accounting"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Fund Accounting or Reporting Analyst",
      "company": "Deutsche Bank",
@@ -236,18 +248,6 @@
      "why": [
       "Fund Accounting",
       "Reporting Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore",
-     "company": "JPMorganChase",
-     "location": "Bengaluru, Karnataka, India",
-     "posted": "2026-11-20",
-     "url": "https://www.linkedin.com/jobs/view/alternative-fund-services-private-fund-services-fund-accounting-analyst-associate-bangalore-at-jpmorganchase-4459609079",
-     "score": 16,
-     "why": [
-      "Fund Accounting"
      ],
      "sponsor": null
     }
@@ -3814,6 +3814,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/market-risk-analyst-at-anz-4495296085": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 16
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-ca-fresher-chennai-at-csc-4493812488": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/officer-3-financial-reporting-at-iq-eq-4495272843": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }

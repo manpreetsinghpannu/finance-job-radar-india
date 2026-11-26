@@ -1055,5 +1055,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4A_JR10036987-3 | Genpact | Specialist - F&A - Treasury 4A | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon | posted: 2026-11-26
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-vittly-consultants-4495022014 | Vittly Consultants | Financial Planning Analyst | New Delhi, Delhi, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036 | Solenis | FP&A Analyst | Hyderabad, Telangana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/market-risk-analyst-at-anz-4495296085 | ANZ | Market Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-ca-fresher-chennai-at-csc-4493812488 | CSC | Fund Accountant - CA Fresher Chennai | Chennai, Tamil Nadu, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007 | BNP Paribas | Analyst – Fund Accounting | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/officer-3-financial-reporting-at-iq-eq-4495272843 | IQ-EQ | Officer 3, Financial Reporting | Hyderabad, Telangana, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
