@@ -1046,4 +1046,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-african-markets-at-intellectual-capital-hr-consulting-pvt-ltd-4493489772 | Intellectual Capital HR Consulting Pvt. Ltd. | Credit Analyst African Markets | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-mumbai-4493805107 | Manufacturing | Corporate Credit Analyst Trade Finance Underwriting (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811553 | JPMorgan Chase | Valuation Controller-Associate | Bengaluru, Karnataka, India | posted: 2026-11-26
+
 ## Processed
