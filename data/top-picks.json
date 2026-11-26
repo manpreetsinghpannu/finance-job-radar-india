@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:45:19.797Z",
+ "generated_at": "2026-11-26T14:46:29.829Z",
  "order": [
   "finance",
   "credit",
@@ -1565,11 +1565,6 @@
    "score": 4
   },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 8
@@ -3878,6 +3873,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-and-analyst-at-johnson-matthey-4483451025": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/ao-quantitative-researcher-at-alliancebernstein-4479543214": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 13:45** (UK time) · **725 open roles** at 391 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 14:46** (UK time) · **726 open roles** at 392 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 13:39** · hourly scan · checked 99 boards · **1 new role**
+**Thu 26 Nov, 14:38** · hourly scan · checked 99 boards · **2 new roles**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-26 | [Annual Reviews - FIG (Credit Analysis)](https://www.linkedin.com/jobs/view/annual-reviews-fig-credit-analysis-at-evalueserve-4493811819) | Evalueserve | Gurugram, Haryana, India |
+| 2026-11-26 | [Financial Planning and Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analyst-at-johnson-matthey-4483451025) | Johnson Matthey | Bawal, Haryana, India |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [AO/Quantitative Researcher](https://www.linkedin.com/jobs/view/ao-quantitative-researcher-at-alliancebernstein-4479543214) | AllianceBernstein | Pune Division, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>14:38</b> · hourly scan · <b>2 new</b> → Finance 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Financial Planning and Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analyst-at-johnson-matthey-4483451025) | Johnson Matthey | Bawal, Haryana, India |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [AO/Quantitative Researcher](https://www.linkedin.com/jobs/view/ao-quantitative-researcher-at-alliancebernstein-4479543214) | AllianceBernstein | Pune Division, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>13:39</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2227,40 +2250,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>14:34</b> · hourly scan · <b>3 new</b> → Finance 2 · Fund 1</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-siemens-digital-industries-software-4456894817) | Siemens Digital Industries Software | Pune Division, Maharashtra, India |
-| 2026-11-19 | [Corporate Treasury Operations-CT Settlements-Analyst-Bengaluru](https://www.linkedin.com/jobs/view/corporate-treasury-operations-ct-settlements-analyst-bengaluru-at-goldman-sachs-4492155195) | Goldman Sachs | Bengaluru, Karnataka, India |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Associate- Fund Accounting](https://www.linkedin.com/jobs/view/associate-fund-accounting-at-acuity-analytics-4484913475) | Acuity Analytics | Gurugram, Haryana, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
-<details>
-<summary><b>13:53</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Executive / Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Executive-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/61681944/) | Deloitte India | Bengaluru |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (294)](#finance-fpa-cv-294) · [Credit (171)](#credit-cv-171) · [Equity (52)](#equity-cv-52) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (25)](#other-fits-no-cv-closely-may-still-be-worth-a-look-25)
+Everything matched so far, newest first within each CV: [Finance (294)](#finance-fpa-cv-294) · [Credit (171)](#credit-cv-171) · [Equity (52)](#equity-cv-52) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
 ### Finance (FP&A) CV: 294
 
@@ -2276,6 +2268,7 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | 2026-11-26 | [Analyst II FP&A](https://www.linkedin.com/jobs/view/analyst-ii-fp-a-at-revantage-a-blackstone-portfolio-company-4470931225) | Revantage, A Blackstone Portfolio Company | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Finance Analyst, Processor](https://www.linkedin.com/jobs/view/finance-analyst-processor-at-qualcomm-4439863576) | Qualcomm | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Financial analyst - Fund Administration](https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732) | ONE BCG - ONE Business Consulting Group | Sahibzada Ajit Singh Nagar, Punjab, India |
+| 2026-11-26 | [Financial Planning and Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analyst-at-johnson-matthey-4483451025) | Johnson Matthey | Bawal, Haryana, India |
 | 2026-11-26 | [Consultant - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/consultant-financial-planning-analysis-at-flexing-it%C2%AE-4495287779) | Flexing It® | Mumbai Metropolitan Region |
 | 2026-11-26 | [Analyst - Treasury (Temp)](https://job-boards.greenhouse.io/wpp/jobs/8958247002) | WPP | Vikhroli, Mumbai |
 | 2026-11-26 | [Intermediate SMSF Accountant – Pune, India](https://www.linkedin.com/jobs/view/intermediate-smsf-accountant-%E2%80%93-pune-india-at-stake-4495268276) | Stake | Pune District, Maharashtra, India |
@@ -2461,7 +2454,6 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | 2026-11-16 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-icon-plc-4490117675) | ICON plc | Chennai, Tamil Nadu, India |
 | 2026-11-16 | [Project Financial Analyst 1](https://www.linkedin.com/jobs/view/project-financial-analyst-1-at-fortrea-4490109980) | Fortrea | Bengaluru, Karnataka, India |
 | 2026-11-16 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-optimas-solutions-4491290466) | Optimas Solutions | Pune City, Maharashtra, India |
-| 2026-11-16 | [Analyst - Treasury PC](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---Treasury-PC_JR-0000121825) | Barclays | Chennai, DLF IT Park |
 | 2026-11-16 | [Associate- Treasury Analyst](https://www.linkedin.com/jobs/view/associate-treasury-analyst-at-baker-tilly-us-4454652895) | Baker Tilly US | Bengaluru East, Karnataka, India |
 | — | [Executive / Accounts Payable / Bengaluru Eco space / Finance Transformation / Finance Operate](https://southasiacareers.deloitte.com/job/Bengaluru-Eco-space-Executive-Accounts-Payable-Bengaluru-Eco-space-Finance-Transformation-Finance-Operate/61573744/) | Deloitte India | Bengaluru Eco Space |
 | 2026-11-16 | [Junior Treasury & AP Analyst](https://www.linkedin.com/jobs/view/junior-treasury-ap-analyst-at-contego-global-talent-solutions-4475540603) | Contego - Global Talent Solutions | Noida, Uttar Pradesh, India |
@@ -2997,13 +2989,14 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 25
+### Other (fits no CV closely, may still be worth a look): 26
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-26 | [TCIO Product Controller Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811561) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811901) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Associate - Quantitative and Qualitative analyst](https://www.linkedin.com/jobs/view/associate-quantitative-and-qualitative-analyst-at-oaktree-4495009517) | Oaktree | Hyderabad, Telangana, India |
+| 2026-11-26 | [AO/Quantitative Researcher](https://www.linkedin.com/jobs/view/ao-quantitative-researcher-at-alliancebernstein-4479543214) | AllianceBernstein | Pune Division, Maharashtra, India |
 | 2026-11-24 | [Analyst – International Valuations](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-international-valuations-at-lotechpro-4493026030) | LoTechPro | Pune City, Maharashtra, India |
 | — | [Trader](https://careers.nomura.com/Nomura/job/Mumbai-Trader-400076/1452873700/) | Nomura | Mumbai |
 | 2026-11-23 | [Quantitative Analyst](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Quantitative-Analyst_R-15490) | Invesco | Hyderabad, Telangana |
@@ -3034,6 +3027,7 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 14:40 | Analyst - Treasury PC | Barclays |
 | Thu 26 Nov, 10:10 | Chartered Accountant (FP&A) | CAVITAK |
 | Thu 26 Nov, 09:42 | Chartered Financial Analyst | Vastu Vihar |
 | Thu 26 Nov, 09:41 | Product Controller - Associate | JPMorgan Chase |
@@ -3153,6 +3147,5 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | Thu 19 Nov, 21:27 | Analyst - Product Control | Barclays |
 | Thu 19 Nov, 19:37 | Financial Analyst | Decipher Financials |
 | Thu 19 Nov, 18:34 | Financial Analyst | JobSPhere |
-| Thu 19 Nov, 13:54 | Debt Syndication Associate | Misha Capital |
 
 </details>
