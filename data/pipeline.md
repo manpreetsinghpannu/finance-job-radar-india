@@ -1035,4 +1035,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/arm-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4494783079 | GrowthAlly Advisors Private Limited | ARM – Debt Syndication | Mumbai Metropolitan Region | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-at-pesh-group-4493484617 | Pesh Group | Investment Banking Analyst | Pune Division, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/8958247002 | WPP | Analyst - Treasury (Temp) | Vikhroli, Mumbai | posted: 2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900 | Corenza | Financial Analyst (Procurement Finance) | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-spera-management-group-4494998330 | Spera Management Group | Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/intermediate-smsf-accountant-%E2%80%93-pune-india-at-stake-4495268276 | Stake | Intermediate SMSF Accountant – Pune, India | Pune District, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
+
 ## Processed

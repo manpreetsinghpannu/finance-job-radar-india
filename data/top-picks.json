@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T05:45:16.003Z",
+ "generated_at": "2026-11-26T06:46:47.825Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 310,
+   "matching": 314,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -224,7 +224,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 56,
+   "matching": 57,
    "picks": [
     {
      "title": "Fund Accounting or Reporting Analyst",
@@ -3749,6 +3749,26 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 18
+  },
+  "https://job-boards.greenhouse.io/wpp/jobs/8958247002": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/fund-accountant-at-spera-management-group-4494998330": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/intermediate-smsf-accountant-%E2%80%93-pune-india-at-stake-4495268276": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
   }
  }
 }
