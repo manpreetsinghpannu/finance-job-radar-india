@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 05:09** (UK time) · **699 open roles** at 379 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 05:45** (UK time) · **699 open roles** at 379 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 05:00** · hourly scan · checked 99 boards · **1 new role**
+**Thu 26 Nov, 05:37** · hourly scan · checked 99 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-26 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-pesh-group-4493484617) | Pesh Group | Pune Division, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Thu 26 Nov, 05:00** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<sub>Nothing new at: 05:37</sub>
 
 <details>
 <summary><b>05:00</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -2228,25 +2226,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <sub>Nothing new at: 06:33</sub>
-
-<details>
-<summary><b>05:33</b> · hourly scan · <b>2 new</b> → Finance 1 · Equity 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-at-ralph-lauren-4491358883) | Ralph Lauren | Bengaluru, Karnataka, India |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Stock Market Research Analyst](https://www.linkedin.com/jobs/view/stock-market-research-analyst-at-stockprompt-ai-4492109894) | stockprompt.ai | Chennai, Tamil Nadu, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
 
 ## All open roles by CV
 
