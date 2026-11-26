@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 02:47** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 03:45** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 02:40** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 26 Nov, 03:37** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Thu 26 Nov, 01:40** (1: Finance 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Thursday 26 November
 
-<sub>Nothing new at: 02:40</sub>
+<sub>Nothing new at: 03:37, 02:40</sub>
 
 <details>
 <summary><b>01:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2216,7 +2216,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:33, 03:52, 03:33, 03:11</sub>
+<sub>Nothing new at: 04:33, 03:52</sub>
 
 ## All open roles by CV
 
@@ -2961,7 +2961,7 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>124 roles taken off the list because the firm closed the posting</summary>
+<summary>123 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3088,6 +3088,5 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 | Thu 19 Nov, 08:33 | Research Associate - C11 - MUMBAI | Citi |
 | Thu 19 Nov, 07:35 | Market Risk Associate – CIO | JPMorgan Chase |
 | Thu 19 Nov, 07:34 | Associate - Asset Management - Commercial real estate - US Mortgage | Three Across |
-| Thu 19 Nov, 03:14 | Capital Markets Services Specialist | Accenture |
 
 </details>
