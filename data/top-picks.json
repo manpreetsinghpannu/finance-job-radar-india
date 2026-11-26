@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:51:00.749Z",
+ "generated_at": "2026-11-26T17:46:06.849Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 326,
+   "matching": 328,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 181,
+   "matching": 182,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 72,
+   "matching": 71,
    "picks": [
     {
      "title": "Equity Research Analyst - Global Research Center, Mumbai",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 114,
+   "matching": 113,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -2354,11 +2354,6 @@
    "cv": "Credit CV",
    "score": 10
   },
-  "https://www.linkedin.com/jobs/view/quant-associate-institutional-equities-at-avendus-4492401725": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 8
-  },
   "https://www.linkedin.com/jobs/view/capital-markets-services-specialist-at-accenture-in-india-4492721967": {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
@@ -3589,11 +3584,6 @@
    "cv": "Equity CV",
    "score": 15
   },
-  "https://www.linkedin.com/jobs/view/investment-associate-at-asiana-alternative-investment-fund-4494911474": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 10
-  },
   "https://www.linkedin.com/jobs/view/financial-analyst-us-at-winter-4494921057": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3918,6 +3908,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 10
+  },
+  "https://mlp.eightfold.ai/careers/job/755959996243": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/bcg-x-finance-analyst-at-boston-consulting-group-bcg-4478464842": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/team-member-counterparty-risk-at-yes-bank-4479701716": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
   }
  }
 }

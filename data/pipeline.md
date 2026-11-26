@@ -1081,4 +1081,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-texas-instruments-india-4495039348 | Texas Instruments India | Financial Planning Analyst | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-financial-reporting-at-bnp-paribas-4495501931 | BNP Paribas | Associate - Financial Reporting | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://mlp.eightfold.ai/careers/job/755959996243 | Millennium | Treasury Operations | Bangalore, Karnataka, India | posted: 2026-11-25
+- [ ] https://www.linkedin.com/jobs/view/bcg-x-finance-analyst-at-boston-consulting-group-bcg-4478464842 | Boston Consulting Group (BCG) | BCG X Finance Analyst | Gurgaon, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/team-member-counterparty-risk-at-yes-bank-4479701716 | YES BANK | Team Member Counterparty Risk | Mumbai Metropolitan Region | posted: 2026-11-26 | note: via LinkedIn
+
 ## Processed
