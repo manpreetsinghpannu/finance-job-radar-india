@@ -1074,5 +1074,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://morganstanley.eightfold.ai/careers?pid=549797897196&domain=morganstanley.com | Morgan Stanley | Investment Banking Division - Associate, Investment Banking (Mumbai) | Mumbai, Maharashtra, India
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-529-back-office-india-at-ascensus-4487703727 | Ascensus | Financial Analyst, 529 Back Office - India | Greater Hyderabad Area | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-magna-international-4479521033 | Magna International | Finance Analyst | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-4493836289 | DBG ventures | Credit Analyst | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/risk-analyst-ii-account-integrity-at-amazon-4479070303 | Amazon | Risk Analyst II, Account Integrity | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/asset-wealth-management-private-credit-investing-associate-mumbai-at-goldman-sachs-4367214529 | Goldman Sachs | Asset & Wealth Management, Private Credit Investing, Associate, Mumbai | Mumbai Metropolitan Region | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-texas-instruments-india-4495039348 | Texas Instruments India | Financial Planning Analyst | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-financial-reporting-at-bnp-paribas-4495501931 | BNP Paribas | Associate - Financial Reporting | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
