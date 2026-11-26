@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 03:45** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 04:46** (UK time) · **698 open roles** at 378 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,30 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 03:37** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 26 Nov, 04:39** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Thu 26 Nov, 01:40** (1: Finance 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [ARM – Debt Syndication](https://www.linkedin.com/jobs/view/arm-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4494783079) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (309 matching)
+**Finance (FP&A) CV** (310 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (170 matching)
+**Credit CV** (171 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>04:39</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [ARM – Debt Syndication](https://www.linkedin.com/jobs/view/arm-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4494783079) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
+
+</details>
 
 <sub>Nothing new at: 03:37, 02:40</sub>
 
@@ -2216,17 +2243,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 04:33, 03:52</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (281)](#finance-fpa-cv-281) · [Credit (165)](#credit-cv-165) · [Equity (49)](#equity-cv-49) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (282)](#finance-fpa-cv-282) · [Credit (166)](#credit-cv-166) · [Equity (49)](#equity-cv-49) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
-### Finance (FP&A) CV: 281
+### Finance (FP&A) CV: 282
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-26 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-asia-pacific-inc-4493458973) | Asia Pacific Inc. | Hyderabad, Telangana, India |
+| 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
 | 2026-11-25 | [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) | Fictiv | Greater Bengaluru Area |
 | 2026-11-25 | [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) | Galaxy | Mumbai, Maharashtra, India |
 | 2026-11-25 | [CA - Management Trainee FP&A](https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538) | Nuvama Group | Mumbai, Maharashtra, India |
@@ -2508,7 +2534,7 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 165
+### Credit CV: 166
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2518,6 +2544,7 @@ Everything matched so far, newest first within each CV: [Finance (281)](#finance
 | 2026-11-25 | [Analyst - Credit & Account Management (Oceania)](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/Analyst---Credit---Account-Management--Oceania-_10080705-WD) | MUFG | MUFG Global Service Private Ltd. - Mumbai (NKP) |
 | 2026-11-25 | [Security Risk Analyst](https://www.linkedin.com/jobs/view/security-risk-analyst-at-mccormick-company-4393834451) | McCormick & Company | Gurugram, Haryana, India |
 | 2026-11-25 | [Risk Analyst, CAT Modeling - UW Services Ops](https://www.linkedin.com/jobs/view/risk-analyst-cat-modeling-uw-services-ops-at-axa-xl-4494617440) | AXA XL | Gurugram, Haryana, India |
+| 2026-11-25 | [ARM – Debt Syndication](https://www.linkedin.com/jobs/view/arm-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4494783079) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-25 | [Credit Underwriter](https://www.linkedin.com/jobs/view/credit-underwriter-at-rippling-4487072560) | Rippling | Bengaluru, Karnataka, India |
 | 2026-11-25 | [Private Credit Investment Specialist](https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Debt Capital Markets Specialist](https://www.linkedin.com/jobs/view/debt-capital-markets-specialist-at-lkp-securities-limited-4493407499) | LKP Securities Limited | Mumbai, Maharashtra, India |

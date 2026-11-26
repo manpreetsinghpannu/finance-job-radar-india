@@ -1031,5 +1031,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-resultscx-4479090618 | ResultsCX | Treasury Analyst | India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/consultant-expert-credit-monitoring-at-societe-generale-global-solution-centre-4495227006 | Societe Generale Global Solution Centre | Consultant Expert - Credit Monitoring | Bengaluru, Karnataka, India | posted: 2026-11-25 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/junior-financial-analyst-at-asia-pacific-inc-4493458973 | Asia Pacific Inc. | Junior Financial Analyst | Hyderabad, Telangana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201 | Accelon Consulting | FP&A Analyst | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/arm-%E2%80%93-debt-syndication-at-growthally-advisors-private-limited-4494783079 | GrowthAlly Advisors Private Limited | ARM – Debt Syndication | Mumbai Metropolitan Region | posted: 2026-11-25 | note: via LinkedIn
 
 ## Processed
