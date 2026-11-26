@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 19:59** (UK time) · **743 open roles** at 398 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 20:40** (UK time) · **743 open roles** at 398 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 19:53** · hourly scan · checked 99 boards · **1 new role**
+**Thu 26 Nov, 20:36** · hourly scan · checked 99 boards · **0 new roles**
 
-### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-26 | [Research Associate – The Tony James Centre for Private Equity and Venture Capital](https://www.linkedin.com/jobs/view/research-associate-%E2%80%93-the-tony-james-centre-for-private-equity-and-venture-capital-at-indian-institute-of-management-bangalore-4495013228) | Indian Institute of Management Bangalore | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Thu 26 Nov, 19:53** (1: Investment 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<sub>Nothing new at: 20:36</sub>
 
 <details>
 <summary><b>19:53</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -2276,8 +2274,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-19 | [Associate - Fund Accounting](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Associate---Fund-Accounting_R266780) | BlackRock | Bengaluru, India |
 
 </details>
-
-<sub>Nothing new at: 20:33</sub>
 
 ## All open roles by CV
 
