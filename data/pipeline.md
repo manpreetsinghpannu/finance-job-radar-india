@@ -1072,4 +1072,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/ao-quantitative-researcher-at-alliancebernstein-4479543214 | AllianceBernstein | AO/Quantitative Researcher | Pune Division, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/traded-risk-analyst-at-techwise-digital-4495022753 | TechWise Digital | Traded Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://morganstanley.eightfold.ai/careers?pid=549797897196&domain=morganstanley.com | Morgan Stanley | Investment Banking Division - Associate, Investment Banking (Mumbai) | Mumbai, Maharashtra, India
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-529-back-office-india-at-ascensus-4487703727 | Ascensus | Financial Analyst, 529 Back Office - India | Greater Hyderabad Area | posted: 2026-11-26 | note: via LinkedIn
+
 ## Processed

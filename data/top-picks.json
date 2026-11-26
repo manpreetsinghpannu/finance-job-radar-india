@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:12:32.991Z",
+ "generated_at": "2026-11-26T15:49:03.971Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 113,
+   "matching": 114,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -3094,11 +3094,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 26
-  },
   "https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Quantitative-Analyst_R-15490": {
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
@@ -3883,6 +3878,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://morganstanley.eightfold.ai/careers?pid=549797897196&domain=morganstanley.com": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-529-back-office-india-at-ascensus-4487703727": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

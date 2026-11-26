@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 15:12** (UK time) · **726 open roles** at 392 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 15:49** (UK time) · **727 open roles** at 391 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 15:06** · hourly scan · checked 99 boards · **1 new role**
+**Thu 26 Nov, 15:40** · hourly scan · checked 99 boards · **2 new roles**
 
-### Credit CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-26 | [Traded Risk Analyst](https://www.linkedin.com/jobs/view/traded-risk-analyst-at-techwise-digital-4495022753) | TechWise Digital | Bengaluru, Karnataka, India |
+| 2026-11-26 | [Financial Analyst, 529 Back Office - India](https://www.linkedin.com/jobs/view/financial-analyst-529-back-office-india-at-ascensus-4487703727) | Ascensus | Greater Hyderabad Area |
+
+### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Investment Banking Division - Associate, Investment Banking (Mumbai)](https://morganstanley.eightfold.ai/careers?pid=549797897196&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -37,7 +43,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
 
-**Investment (IB / PE) CV** (113 matching)
+**Investment (IB / PE) CV** (114 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>15:40</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Financial Analyst, 529 Back Office - India](https://www.linkedin.com/jobs/view/financial-analyst-529-back-office-india-at-ascensus-4487703727) | Ascensus | Greater Hyderabad Area |
+
+#### Investment (IB / PE) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Investment Banking Division - Associate, Investment Banking (Mumbai)](https://morganstanley.eightfold.ai/careers?pid=549797897196&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>15:06</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -1099,14 +1122,15 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>13:40</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
+<summary><b>13:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-23 | [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) | VRecruitFirst | Ahmedabad, Gujarat, India |
 | 2026-11-23 | [Corporate Treasury Strats, Associate, Quantitative Strategists](https://morganstanley.eightfold.ai/careers?pid=549800817698&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2240,20 +2264,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>15:33</b> · hourly scan · <b>1 new</b> → Real Estate 1</summary>
-
-#### Real Estate CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Asset Management - Client Services Platform Analytics](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210809946) | JPMorgan Chase | Mumbai, Maharashtra, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (294)](#finance-fpa-cv-294) · [Credit (172)](#credit-cv-172) · [Equity (52)](#equity-cv-52) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (294)](#finance-fpa-cv-294) · [Credit (172)](#credit-cv-172) · [Equity (52)](#equity-cv-52) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
 ### Finance (FP&A) CV: 294
 
@@ -2270,6 +2283,7 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | 2026-11-26 | [Finance Analyst, Processor](https://www.linkedin.com/jobs/view/finance-analyst-processor-at-qualcomm-4439863576) | Qualcomm | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Financial analyst - Fund Administration](https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732) | ONE BCG - ONE Business Consulting Group | Sahibzada Ajit Singh Nagar, Punjab, India |
 | 2026-11-26 | [Financial Planning and Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analyst-at-johnson-matthey-4483451025) | Johnson Matthey | Bawal, Haryana, India |
+| 2026-11-26 | [Financial Analyst, 529 Back Office - India](https://www.linkedin.com/jobs/view/financial-analyst-529-back-office-india-at-ascensus-4487703727) | Ascensus | Greater Hyderabad Area |
 | 2026-11-26 | [Consultant - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/consultant-financial-planning-analysis-at-flexing-it%C2%AE-4495287779) | Flexing It® | Mumbai Metropolitan Region |
 | 2026-11-26 | [Analyst - Treasury (Temp)](https://job-boards.greenhouse.io/wpp/jobs/8958247002) | WPP | Vikhroli, Mumbai |
 | 2026-11-26 | [Intermediate SMSF Accountant – Pune, India](https://www.linkedin.com/jobs/view/intermediate-smsf-accountant-%E2%80%93-pune-india-at-stake-4495268276) | Stake | Pune District, Maharashtra, India |
@@ -2328,7 +2342,6 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | 2026-11-24 | [Officer - Financial Reporting](https://www.linkedin.com/jobs/view/officer-financial-reporting-at-alter-domus-4494451054) | Alter Domus | Hyderabad, Telangana, India |
 | 2026-11-24 | [Financial Reporting Specialist](https://www.linkedin.com/jobs/view/financial-reporting-specialist-at-alter-domus-4494120875) | Alter Domus | Hyderabad, Telangana, India |
 | 2026-11-24 | [Treasury Specialist](https://www.linkedin.com/jobs/view/treasury-specialist-at-sulzer-4433442780) | Sulzer | Pune Division, Maharashtra, India |
-| 2026-11-23 | [Financial Planning & Analysis (FP&A) Analyst](https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-vrecruitfirst-4492608550) | VRecruitFirst | Ahmedabad, Gujarat, India |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859) | Mott MacDonald | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531) | Perfint Healthcare Pvt Ltd. | Chennai, Tamil Nadu, India |
 | 2026-11-23 | [OR Finance Analyst](https://jobs.bt.com/job/OR-Finance-Analyst/64042-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
@@ -2788,7 +2801,7 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 
-### Investment (IB / PE) CV: 92
+### Investment (IB / PE) CV: 93
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2880,6 +2893,7 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 | 2026-11-09 | [Investment Associate](https://www.linkedin.com/jobs/view/investment-associate-at-partnerone-4489137574) | PartnerOne | India |
 | 2026-11-08 | [1065 Private Equity_Senior Associate](https://www.linkedin.com/jobs/view/1065-private-equity-senior-associate-at-pwc-acceleration-center-india-4477781974) | PwC Acceleration Center India | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Trainee, Valuation Services](https://www.linkedin.com/jobs/view/trainee-valuation-services-at-kroll-4477705924) | Kroll | Bengaluru, Karnataka, India |
+| — | [Investment Banking Division - Associate, Investment Banking (Mumbai)](https://morganstanley.eightfold.ai/careers?pid=549797897196&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-07 | [Consultant, Valuation Services](https://www.linkedin.com/jobs/view/consultant-valuation-services-at-kroll-4469776072) | Kroll | Mumbai Metropolitan Region |
 | 2026-11-07 | [Transaction Services - US Operations](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768) | Citi | Pune Maharashtra India |
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
@@ -3024,10 +3038,11 @@ Everything matched so far, newest first within each CV: [Finance (294)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>121 roles taken off the list because the firm closed the posting</summary>
+<summary>122 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 15:48 | Financial Planning & Analysis (FP&A) Analyst | VRecruitFirst |
 | Thu 26 Nov, 15:12 | Fund Accountant | Spera Management Group |
 | Thu 26 Nov, 14:40 | Analyst - Treasury PC | Barclays |
 | Thu 26 Nov, 10:10 | Chartered Accountant (FP&A) | CAVITAK |
