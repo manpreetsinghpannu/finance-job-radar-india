@@ -1040,4 +1040,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-at-spera-management-group-4494998330 | Spera Management Group | Fund Accountant | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/intermediate-smsf-accountant-%E2%80%93-pune-india-at-stake-4495268276 | Stake | Intermediate SMSF Accountant – Pune, India | Pune District, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811561 | JPMorgan Chase | TCIO Product Controller Analyst | Mumbai, Maharashtra, India | posted: 2026-11-26
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811901 | JPMorgan Chase | Analyst - Quant Analytics - Analytics Centre of Excellence | Mumbai, Maharashtra, India | posted: 2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-finclubing-4493094142 | Finclubing | Financial Analyst | Gurugram, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-african-markets-at-intellectual-capital-hr-consulting-pvt-ltd-4493489772 | Intellectual Capital HR Consulting Pvt. Ltd. | Credit Analyst African Markets | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-mumbai-4493805107 | Manufacturing | Corporate Credit Analyst Trade Finance Underwriting (Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
+
 ## Processed
