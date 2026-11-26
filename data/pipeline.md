@@ -1085,4 +1085,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/bcg-x-finance-analyst-at-boston-consulting-group-bcg-4478464842 | Boston Consulting Group (BCG) | BCG X Finance Analyst | Gurgaon, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/team-member-counterparty-risk-at-yes-bank-4479701716 | YES BANK | Team Member Counterparty Risk | Mumbai Metropolitan Region | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPBCS-Ahmedabad-Finance-Transformation-Business-Finance/61884244/ | Deloitte India | Consultant / Oracle - EPBCS / Ahmedabad / Finance Transformation / Business Finance | Ahmedabad
+- [ ] https://www.linkedin.com/jobs/view/analyst-fp-a-at-boston-consulting-group-bcg-4495050093 | Boston Consulting Group (BCG) | Analyst- FP&A | Gurgaon, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-model-portfolio-solutions-multi-asset-solutions-mass-associate-at-blackrock-4487743036 | BlackRock | Quantitative Researcher (Model Portfolio Solutions), Multi-Asset Solutions (MASS), Associate | Gurgaon, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-talentconnect-4495531482 | TalentConnect | Financial Analyst | India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fund-accounting-reporting-as-at-deutsche-bank-4495545199 | Deutsche Bank | Fund Accounting & Reporting, AS | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-palo-alto-networks-4493842248 | Palo Alto Networks | Treasury Analyst | Bengaluru East, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-payment-application-support-swift-trax-quantum%C2%A0%E2%80%93-2-4-yrs-%E2%80%93-24-5-rotational-shift-%E2%80%93-pune-at-fis-4470989059 | FIS | Treasury/ Payment Application Support - Swift/TRAX/Quantum – 2-4 Yrs – 24/5 Rotational Shift – Pune | Pune/Pimpri-Chinchwad Area | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-payment-application-support-swift-trax-quantum%C2%A0%E2%80%93-4-8-yrs-%E2%80%93-24-5-rotational-shift-%E2%80%93-pune-at-fis-4470970866 | FIS | Treasury/ Payment Application Support - Swift/TRAX/Quantum – 4-8 Yrs – 24/5 Rotational Shift – Pune | Pune/Pimpri-Chinchwad Area | posted: 2026-11-26 | note: via LinkedIn
+
 ## Processed
