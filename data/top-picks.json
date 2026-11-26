@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:46:17.674Z",
+ "generated_at": "2026-11-26T00:44:20.260Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 169,
+   "matching": 170,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 58,
+   "matching": 59,
    "picks": [
     {
      "title": "Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)",
@@ -3729,6 +3729,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/consultant-expert-credit-monitoring-at-societe-generale-global-solution-centre-4495227006": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 2
   }
  }
 }

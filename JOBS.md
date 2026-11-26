@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Wed 25 Nov, 23:46** (UK time) · **695 open roles** at 376 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 00:44** (UK time) · **696 open roles** at 377 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Wed 25 Nov, 23:37** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 26 Nov, 00:38** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Wed 25 Nov, 19:39** (1: Finance 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Consultant Expert - Credit Monitoring](https://www.linkedin.com/jobs/view/consultant-expert-credit-monitoring-at-societe-generale-global-solution-centre-4495227006) | Societe Generale Global Solution Centre | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
@@ -23,7 +27,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (169 matching)
+**Credit CV** (170 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -38,7 +42,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
 
-**Consulting CV** (58 matching)
+**Consulting CV** (59 matching)
 
 1. [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) · Visa · IN - Bengaluru, India · posted 2026-11-24
 2. [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) · Accenture services Pvt Ltd · Gurugram, Haryana, India · posted 2026-11-21
@@ -56,6 +60,19 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Thursday 26 November
+
+<details>
+<summary><b>00:38</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-25 | [Consultant Expert - Credit Monitoring](https://www.linkedin.com/jobs/view/consultant-expert-credit-monitoring-at-societe-generale-global-solution-centre-4495227006) | Societe Generale Global Solution Centre | Bengaluru, Karnataka, India |
+
+</details>
 
 ### Wednesday 25 November
 
@@ -2194,20 +2211,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 04:33, 03:52, 03:33, 03:11, 02:33, 01:33</sub>
 
-<details>
-<summary><b>00:33</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Financial Analyst II](https://www.linkedin.com/jobs/view/financial-analyst-ii-at-hewlett-packard-enterprise-4492223682) | Hewlett Packard Enterprise | Bengaluru, Karnataka, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (280)](#finance-fpa-cv-280) · [Credit (164)](#credit-cv-164) · [Equity (50)](#equity-cv-50) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
+Everything matched so far, newest first within each CV: [Finance (280)](#finance-fpa-cv-280) · [Credit (165)](#credit-cv-165) · [Equity (50)](#equity-cv-50) · [Investment (90)](#investment-ib--pe-cv-90) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (41)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-41) · [Other (23)](#other-fits-no-cv-closely-may-still-be-worth-a-look-23)
 
 ### Finance (FP&A) CV: 280
 
@@ -2494,7 +2500,7 @@ Everything matched so far, newest first within each CV: [Finance (280)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 164
+### Credit CV: 165
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2507,6 +2513,7 @@ Everything matched so far, newest first within each CV: [Finance (280)](#finance
 | 2026-11-25 | [Credit Underwriter](https://www.linkedin.com/jobs/view/credit-underwriter-at-rippling-4487072560) | Rippling | Bengaluru, Karnataka, India |
 | 2026-11-25 | [Private Credit Investment Specialist](https://www.linkedin.com/jobs/view/private-credit-investment-specialist-at-jpmorganchase-4494480620) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Debt Capital Markets Specialist](https://www.linkedin.com/jobs/view/debt-capital-markets-specialist-at-lkp-securities-limited-4493407499) | LKP Securities Limited | Mumbai, Maharashtra, India |
+| 2026-11-25 | [Consultant Expert - Credit Monitoring](https://www.linkedin.com/jobs/view/consultant-expert-credit-monitoring-at-societe-generale-global-solution-centre-4495227006) | Societe Generale Global Solution Centre | Bengaluru, Karnataka, India |
 | 2026-11-24 | [US Credit Research Analyst](https://www.linkedin.com/jobs/view/us-credit-research-analyst-at-guidepoint-4494101022) | Guidepoint | Mumbai Metropolitan Region |
 | — | [Analyst, Portfolio Management US Direct Lending](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8809) | Ares Management | Mumbai, India |
 | 2026-11-24 | [Vendor Risk Analyst](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Vendor-Risk-Analyst_R26_4508) | Ameriprise Financial | Noida, Uttar Pradesh, India |
