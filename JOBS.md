@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 20:40** (UK time) · **743 open roles** at 398 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 21:41** (UK time) · **741 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 20:36** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 26 Nov, 21:36** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Thu 26 Nov, 19:53** (1: Investment 1); open it in the scan log below.
 
@@ -18,7 +18,7 @@ Nothing new this time. The last scan that found something was **Thu 26 Nov, 19:5
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (333 matching)
+**Finance (FP&A) CV** (331 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Thursday 26 November
 
-<sub>Nothing new at: 20:36</sub>
+<sub>Nothing new at: 21:36, 20:36</sub>
 
 <details>
 <summary><b>19:53</b> · hourly scan · <b>1 new</b> → Investment 1</summary>
@@ -470,16 +470,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>16:38</b> · hourly scan · <b>4 new</b> → Finance 4</summary>
+<summary><b>16:38</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
 
-#### Finance (FP&A) CV: 4
+#### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-25 | [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) | Galaxy | Mumbai, Maharashtra, India |
 | 2026-11-25 | [FP&A -Mid level - MANUFACTURING EXPEREINCE MUST](https://www.linkedin.com/jobs/view/fp-a-mid-level-manufacturing-expereince-must-4494791990) | Client of TALENTSGET | Palwal, Haryana, India |
 | 2026-11-25 | [Consultant, FP&A Supply Chain Corporate APAC](https://www.linkedin.com/jobs/view/consultant-fp-a-supply-chain-corporate-apac-at-the-coca-cola-company-4494931427) | The Coca-Cola Company | Gurugram, Haryana, India |
-| 2026-11-25 | [Mid Office Treasury Risk - 7 to 12 Yrs - upto 40 L - Immediate Joiner](https://www.linkedin.com/jobs/view/mid-office-treasury-risk-7-to-12-yrs-upto-40-l-immediate-joiner-at-employee-forums-4493434479) | Employee Forums | Mumbai Metropolitan Region |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -717,18 +718,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 02:40, 02:21</sub>
-
-<details>
-<summary><b>01:41</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [CA - Management Trainee FP&A](https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538) | Nuvama Group | Mumbai, Maharashtra, India |
-
-</details>
+<sub>Nothing new at: 02:40, 02:21, 01:41</sub>
 
 <details>
 <summary><b>00:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2262,24 +2252,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 22:34, 21:33</sub>
-
-<details>
-<summary><b>21:24</b> · hourly scan · <b>1 new</b> → Fund 1</summary>
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Associate - Fund Accounting](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Associate---Fund-Accounting_R266780) | BlackRock | Bengaluru, India |
-
-</details>
+<sub>Nothing new at: 22:34</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (303)](#finance-fpa-cv-303) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (301)](#finance-fpa-cv-301) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
-### Finance (FP&A) CV: 303
+### Finance (FP&A) CV: 301
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2312,7 +2291,6 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 | 2026-11-26 | [Specialist - F&A - Treasury 4A](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4A_JR10036987-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
 | 2026-11-25 | [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) | Fictiv | Greater Bengaluru Area |
 | 2026-11-25 | [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) | Galaxy | Mumbai, Maharashtra, India |
-| 2026-11-25 | [CA - Management Trainee FP&A](https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538) | Nuvama Group | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Financial Analyst, Portfolio Valuation and Fund Advisory – Structured Products](https://www.linkedin.com/jobs/view/financial-analyst-portfolio-valuation-and-fund-advisory-%E2%80%93-structured-products-at-houlihan-lokey-4414665506) | Houlihan Lokey | Mumbai Metropolitan Region |
 | 2026-11-25 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-applylegal-com-4493082987) | Applylegal.com | Raipur, Chhattisgarh, India |
 | 2026-11-25 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-milestone-technologies-inc-4493405424) | Milestone Technologies, Inc. | Greater Hyderabad Area |
@@ -2326,7 +2304,6 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 | 2026-11-25 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-dassault-syst%C3%A8mes-4487033349) | Dassault Systèmes | Pune/Pimpri-Chinchwad Area |
 | 2026-11-25 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-resultscx-4479090618) | ResultsCX | India |
 | 2026-11-25 | [Associate - Auto Treasury Finance](https://www.linkedin.com/jobs/view/associate-auto-treasury-finance-at-jpmorganchase-4476989056) | JPMorganChase | Bengaluru, Karnataka, India |
-| 2026-11-25 | [Mid Office Treasury Risk - 7 to 12 Yrs - upto 40 L - Immediate Joiner](https://www.linkedin.com/jobs/view/mid-office-treasury-risk-7-to-12-yrs-upto-40-l-immediate-joiner-at-employee-forums-4493434479) | Employee Forums | Mumbai Metropolitan Region |
 | 2026-11-25 | [Financial Planning and Analysis Specialist](https://www.linkedin.com/jobs/view/financial-planning-and-analysis-specialist-at-consolidated-analytics-4484931845) | Consolidated Analytics | Greater Chennai Area |
 | 2026-11-25 | [Treasury](https://www.linkedin.com/jobs/view/treasury-at-katalaiser-4494794207) | KatalAiser | Chennai, Tamil Nadu, India |
 | 2026-11-25 | [Transformation Specialist - FP&A Background](https://www.linkedin.com/jobs/view/transformation-specialist-fp-a-background-at-sensata-technologies-4494620278) | Sensata Technologies | Pune Division, Maharashtra, India |
@@ -3069,6 +3046,8 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 21:41 | CA - Management Trainee FP&A | Nuvama Group |
+| Thu 26 Nov, 21:40 | Mid Office Treasury Risk - 7 to 12 Yrs - upto 40 L - Immediate Joiner | Employee Forums |
 | Thu 26 Nov, 19:40 | Financial Analyst, GFS FP&A | Amazon |
 | Thu 26 Nov, 17:45 | Quant Associate - Institutional Equities | Avendus |
 | Thu 26 Nov, 17:42 | Investment Associate | Asiana Alternative Investment Fund |
@@ -3190,7 +3169,5 @@ Everything matched so far, newest first within each CV: [Finance (303)](#finance
 | Fri 20 Nov, 06:40 | Financial Analyst (VBA & BI Specialist) | Fluor Corporation |
 | Fri 20 Nov, 05:46 | Chartered Accountants | Amicus Growth Advisors |
 | Fri 20 Nov, 04:02 | FP&A Specialist | Sidel |
-| Thu 19 Nov, 21:27 | Associate Consultant, Financial Institution & Counterparty Risk | Northern Trust |
-| Thu 19 Nov, 21:27 | Analyst - Product Control | Barclays |
 
 </details>
