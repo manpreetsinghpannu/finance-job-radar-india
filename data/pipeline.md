@@ -1051,4 +1051,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107 | Manufacturing | Corporate Credit Analyst Trade Finance Underwriting BANK (THANE -Mumbai) | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142 | Intain | Structured Finance Analyst | Chennai, Tamil Nadu, India | posted: 2026-11-26 | note: via LinkedIn
 
+- [ ] https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4B_JR10036988-3 | Genpact | Specialist - F&A - Treasury 4B | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon | posted: 2026-11-26
+- [ ] https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4A_JR10036987-3 | Genpact | Specialist - F&A - Treasury 4A | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon | posted: 2026-11-26
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-at-vittly-consultants-4495022014 | Vittly Consultants | Financial Planning Analyst | New Delhi, Delhi, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036 | Solenis | FP&A Analyst | Hyderabad, Telangana, India | posted: 2026-11-26 | note: via LinkedIn
+
 ## Processed

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 10:16** (UK time) · **708 open roles** at 382 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 10:46** (UK time) · **712 open roles** at 384 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,22 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 10:09** · hourly scan · checked 99 boards · **2 new roles**
+**Thu 26 Nov, 10:38** · hourly scan · checked 99 boards · **4 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-26 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142) | Intain | Chennai, Tamil Nadu, India |
-
-### Credit CV: 1
+### Finance (FP&A) CV: 4
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting BANK (THANE -Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
+| 2026-11-26 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-vittly-consultants-4495022014) | Vittly Consultants | New Delhi, Delhi, India |
+| 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036) | Solenis | Hyderabad, Telangana, India |
+| 2026-11-26 | [Specialist - F&A - Treasury 4B](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4B_JR10036988-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
+| 2026-11-26 | [Specialist - F&A - Treasury 4A](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4A_JR10036987-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (313 matching)
+**Finance (FP&A) CV** (317 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -68,6 +65,20 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>10:38</b> · hourly scan · <b>4 new</b> → Finance 4</summary>
+
+#### Finance (FP&A) CV: 4
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-vittly-consultants-4495022014) | Vittly Consultants | New Delhi, Delhi, India |
+| 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036) | Solenis | Hyderabad, Telangana, India |
+| 2026-11-26 | [Specialist - F&A - Treasury 4B](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4B_JR10036988-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
+| 2026-11-26 | [Specialist - F&A - Treasury 4A](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4A_JR10036987-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
+
+</details>
 
 <details>
 <summary><b>10:09</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
@@ -2257,37 +2268,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:33</b> · hourly scan · <b>4 new</b> → Finance 1 · Credit 2 · Fund 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [FP&A COE Finance Analyst](https://www.linkedin.com/jobs/view/fp-a-coe-finance-analyst-at-ebay-4482523913) | eBay | Bengaluru, Karnataka, India |
-
-#### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Quant Model Risk Analyst/Associate - Counterparty Credit Risk](https://www.linkedin.com/jobs/view/quant-model-risk-analyst-associate-counterparty-credit-risk-at-jpmorganchase-4465924785) | JPMorganChase | Bengaluru, Karnataka, India |
-| 2026-11-19 | [Credit Management Specialist](https://www.linkedin.com/jobs/view/credit-management-specialist-at-infosys-bpm-4491389731) | Infosys BPM | Bengaluru, Karnataka, India |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Associate – Fund Accounting](https://www.linkedin.com/jobs/view/associate-%E2%80%93-fund-accounting-at-bnp-paribas-4492408782) | BNP Paribas | Tamil Nadu, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (284)](#finance-fpa-cv-284) · [Credit (169)](#credit-cv-169) · [Equity (50)](#equity-cv-50) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (288)](#finance-fpa-cv-288) · [Credit (169)](#credit-cv-169) · [Equity (50)](#equity-cv-50) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
-### Finance (FP&A) CV: 284
+### Finance (FP&A) CV: 288
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2295,8 +2280,12 @@ Everything matched so far, newest first within each CV: [Finance (284)](#finance
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Financial Analyst (Procurement Finance)](https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900) | Corenza | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142) | Intain | Chennai, Tamil Nadu, India |
+| 2026-11-26 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-vittly-consultants-4495022014) | Vittly Consultants | New Delhi, Delhi, India |
+| 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036) | Solenis | Hyderabad, Telangana, India |
 | 2026-11-26 | [Analyst - Treasury (Temp)](https://job-boards.greenhouse.io/wpp/jobs/8958247002) | WPP | Vikhroli, Mumbai |
 | 2026-11-26 | [Intermediate SMSF Accountant – Pune, India](https://www.linkedin.com/jobs/view/intermediate-smsf-accountant-%E2%80%93-pune-india-at-stake-4495268276) | Stake | Pune District, Maharashtra, India |
+| 2026-11-26 | [Specialist - F&A - Treasury 4B](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4B_JR10036988-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
+| 2026-11-26 | [Specialist - F&A - Treasury 4A](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4A_JR10036987-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
 | 2026-11-25 | [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) | Fictiv | Greater Bengaluru Area |
 | 2026-11-25 | [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) | Galaxy | Mumbai, Maharashtra, India |
 | 2026-11-25 | [CA - Management Trainee FP&A](https://www.linkedin.com/jobs/view/ca-management-trainee-fp-a-at-nuvama-group-4493063538) | Nuvama Group | Mumbai, Maharashtra, India |
@@ -3038,7 +3027,7 @@ Everything matched so far, newest first within each CV: [Finance (284)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>123 roles taken off the list because the firm closed the posting</summary>
+<summary>122 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3164,6 +3153,5 @@ Everything matched so far, newest first within each CV: [Finance (284)](#finance
 | Thu 19 Nov, 13:54 | Debt Syndication Associate | Misha Capital |
 | Thu 19 Nov, 13:02 | Corporate Finance Analyst | JENOPTIK |
 | Thu 19 Nov, 11:36 | Finance Associate - Due Diligence (CA only) | Treelife |
-| Thu 19 Nov, 10:35 | Associate Accountant (Fund Administration) | HC Global Fund Services, LLC |
 
 </details>
