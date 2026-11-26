@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:46:37.820Z",
+ "generated_at": "2026-11-26T10:16:44.931Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 173,
+   "matching": 175,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 112,
+   "matching": 113,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -3035,11 +3035,6 @@
    "cv": "Credit CV",
    "score": 9
   },
-  "https://www.linkedin.com/jobs/view/chartered-accountant-fp-a-at-cavitak-4493739841": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 18
-  },
   "https://www.linkedin.com/jobs/view/finance-associate-at-youtube-for-brands-4492378940": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3789,6 +3784,16 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 29
+  },
+  "https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

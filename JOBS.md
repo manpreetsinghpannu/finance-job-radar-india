@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 09:46** (UK time) · **707 open roles** at 382 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 10:16** (UK time) · **708 open roles** at 382 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 09:40** · hourly scan · checked 99 boards · **1 new role**
+**Thu 26 Nov, 10:09** · hourly scan · checked 99 boards · **2 new roles**
 
-### Equity CV: 1
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-26 | [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-26 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142) | Intain | Chennai, Tamil Nadu, India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting BANK (THANE -Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -27,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (173 matching)
+**Credit CV** (175 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -37,7 +43,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
 
-**Investment (IB / PE) CV** (112 matching)
+**Investment (IB / PE) CV** (113 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -62,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>10:09</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142) | Intain | Chennai, Tamil Nadu, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting BANK (THANE -Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>09:40</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -1045,14 +1068,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>10:38</b> · hourly scan · <b>7 new</b> → Finance 3 · Credit 2 · Real Estate 1 · Fund 1</summary>
+<summary><b>10:38</b> · hourly scan · <b>6 new</b> → Finance 2 · Credit 2 · Real Estate 1 · Fund 1</summary>
 
-#### Finance (FP&A) CV: 3
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-23 | [OR Finance Analyst](https://jobs.bt.com/job/OR-Finance-Analyst/64042-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
-| 2026-11-23 | [Chartered Accountant (FP&A)](https://www.linkedin.com/jobs/view/chartered-accountant-fp-a-at-cavitak-4493739841) | CAVITAK | Ahmedabad, Gujarat, India |
 | 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-youtube-for-brands-4492378940) | Youtube For Brands | Bengaluru, Karnataka, India |
 
 #### Credit CV: 2
@@ -1073,6 +1095,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-23 | [Mgr, Fund Accounting](https://www.linkedin.com/jobs/view/mgr-fund-accounting-at-northern-trust-4492604082) | Northern Trust | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2261,7 +2285,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (284)](#finance-fpa-cv-284) · [Credit (168)](#credit-cv-168) · [Equity (50)](#equity-cv-50) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
+Everything matched so far, newest first within each CV: [Finance (284)](#finance-fpa-cv-284) · [Credit (169)](#credit-cv-169) · [Equity (50)](#equity-cv-50) · [Investment (92)](#investment-ib--pe-cv-92) · [Consulting (32)](#consulting-cv-32) · [Real Estate (15)](#real-estate-cv-15) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (24)](#other-fits-no-cv-closely-may-still-be-worth-a-look-24)
 
 ### Finance (FP&A) CV: 284
 
@@ -2270,6 +2294,7 @@ Everything matched so far, newest first within each CV: [Finance (284)](#finance
 | 2026-11-26 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-asia-pacific-inc-4493458973) | Asia Pacific Inc. | Hyderabad, Telangana, India |
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Financial Analyst (Procurement Finance)](https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900) | Corenza | Bengaluru, Karnataka, India |
+| 2026-11-26 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142) | Intain | Chennai, Tamil Nadu, India |
 | 2026-11-26 | [Analyst - Treasury (Temp)](https://job-boards.greenhouse.io/wpp/jobs/8958247002) | WPP | Vikhroli, Mumbai |
 | 2026-11-26 | [Intermediate SMSF Accountant – Pune, India](https://www.linkedin.com/jobs/view/intermediate-smsf-accountant-%E2%80%93-pune-india-at-stake-4495268276) | Stake | Pune District, Maharashtra, India |
 | 2026-11-25 | [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) | Fictiv | Greater Bengaluru Area |
@@ -2328,7 +2353,6 @@ Everything matched so far, newest first within each CV: [Finance (284)](#finance
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859) | Mott MacDonald | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-perfint-healthcare-pvt-ltd-4493716531) | Perfint Healthcare Pvt Ltd. | Chennai, Tamil Nadu, India |
 | 2026-11-23 | [OR Finance Analyst](https://jobs.bt.com/job/OR-Finance-Analyst/64042-en_GB) | BT Group | Gurugram IQ, Gurugram, India, |
-| 2026-11-23 | [Chartered Accountant (FP&A)](https://www.linkedin.com/jobs/view/chartered-accountant-fp-a-at-cavitak-4493739841) | CAVITAK | Ahmedabad, Gujarat, India |
 | 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-startup-stambh-private-limited-4492398432) | Startup Stambh Private Limited | Ahmedabad, Gujarat, India |
 | 2026-11-23 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-cleantech-industry-resources-cir-4399865536) | Cleantech Industry Resources | Noida, Uttar Pradesh, India |
 | 2026-11-23 | [Financial Analyst - Corporate Development](https://www.linkedin.com/jobs/view/financial-analyst-corporate-development-at-highradius-4492624357) | HighRadius | Hyderabad, Telangana, India |
@@ -2552,12 +2576,13 @@ Everything matched so far, newest first within each CV: [Finance (284)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 168
+### Credit CV: 169
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-26 | [Credit Analyst African Markets](https://www.linkedin.com/jobs/view/credit-analyst-african-markets-at-intellectual-capital-hr-consulting-pvt-ltd-4493489772) | Intellectual Capital HR Consulting Pvt. Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting (Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
+| 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting BANK (THANE -Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
 | 2026-11-25 | [Wholesale Credit Risk Support Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Wholesale-Credit-Risk-Support-Intermediate-Analyst_261009393) | Citi | Pune Maharashtra India |
 | 2026-11-25 | [Credit Risk Underwriter](https://www.linkedin.com/jobs/view/credit-risk-underwriter-at-fiserv-4494913103) | Fiserv | Thane, Maharashtra, India |
 | 2026-11-25 | [Credit Risk - Professional II](https://www.linkedin.com/jobs/view/credit-risk-professional-ii-at-fiserv-4494937441) | Fiserv | Thane, Maharashtra, India |
@@ -3013,10 +3038,11 @@ Everything matched so far, newest first within each CV: [Finance (284)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>122 roles taken off the list because the firm closed the posting</summary>
+<summary>123 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 10:10 | Chartered Accountant (FP&A) | CAVITAK |
 | Thu 26 Nov, 09:42 | Chartered Financial Analyst | Vastu Vihar |
 | Thu 26 Nov, 09:41 | Product Controller - Associate | JPMorgan Chase |
 | Thu 26 Nov, 08:43 | Financial Analyst | Finclubing |
