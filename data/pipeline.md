@@ -1070,5 +1070,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/annual-reviews-fig-credit-analysis-at-evalueserve-4493811819 | Evalueserve | Annual Reviews - FIG (Credit Analysis) | Gurugram, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-and-analyst-at-johnson-matthey-4483451025 | Johnson Matthey | Financial Planning and Analyst | Bawal, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/ao-quantitative-researcher-at-alliancebernstein-4479543214 | AllianceBernstein | AO/Quantitative Researcher | Pune Division, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/traded-risk-analyst-at-techwise-digital-4495022753 | TechWise Digital | Traded Risk Analyst | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
