@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:42:19.314Z",
+ "generated_at": "2026-11-26T23:44:35.039Z",
  "order": [
   "finance",
   "credit",
@@ -224,7 +224,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 60,
+   "matching": 59,
    "picks": [
     {
      "title": "Analyst – Fund Accounting",
@@ -3664,11 +3664,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 8
   },
-  "https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-resultscx-4479090618": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
@@ -3958,6 +3953,11 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/finance-analyst-at-brown-forman-4495048714": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }

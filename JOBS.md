@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Thu 26 Nov, 22:42** (UK time) · **741 open roles** at 396 firms · the radar checks every board about once an hour.
+Updated **Thu 26 Nov, 23:44** (UK time) · **741 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Thu 26 Nov, 22:36** · hourly scan · checked 99 boards · **0 new roles**
+**Thu 26 Nov, 23:38** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 26 Nov, 19:53** (1: Investment 1); open it in the scan log below.
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-brown-forman-4495048714) | Brown-Forman | Gurgaon, Haryana, India |
 
 ## Top picks for each CV
 
@@ -48,7 +52,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Property Accountant, Commercial Real Estate](https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532) · Versatile Club Employer of Record · India · posted 2026-11-23
 2. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Fund CV (written for India; tweak the header for UK roles)** (60 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (59 matching)
 
 1. [Analyst – Fund Accounting](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007) · BNP Paribas · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Financial analyst - Fund Administration](https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732) · ONE BCG - ONE Business Consulting Group · Sahibzada Ajit Singh Nagar, Punjab, Indi · posted 2026-11-26
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Thursday 26 November
+
+<details>
+<summary><b>23:38</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-26 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-brown-forman-4495048714) | Brown-Forman | Gurgaon, Haryana, India |
+
+</details>
 
 <sub>Nothing new at: 22:36, 21:36, 20:36</sub>
 
@@ -424,7 +439,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>18:38</b> · hourly scan · <b>3 new</b> → Finance 2 · Fund 1</summary>
+<summary><b>18:38</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
 
 #### Finance (FP&A) CV: 2
 
@@ -433,13 +448,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-25 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-emerson-4494678412) | Emerson | Pune Division, Maharashtra, India |
 | 2026-11-25 | [Team Member-Treasury](https://www.linkedin.com/jobs/view/team-member-treasury-at-adani-enterprises-limited-4434465587) | Adani Enterprises Limited | Ahmedabad, Gujarat, India |
 
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-25 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014) | Second Street Partners | Pune Division, Maharashtra, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>2 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2230,33 +2239,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-### Thursday 19 November
-
-<details>
-<summary><b>23:33</b> · hourly scan · <b>3 new</b> → Credit 2 · Investment 1</summary>
-
-#### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Credit Portfolio Analytics - Existing Customer Management - Analyst I](https://www.linkedin.com/jobs/view/credit-portfolio-analytics-existing-customer-management-analyst-i-at-citi-4492522469) | Citi | Mumbai, Maharashtra, India |
-| 2026-11-19 | [Third-Party Risk Analyst](https://www.linkedin.com/jobs/view/third-party-risk-analyst-at-solventum-4492736078) | Solventum | Bengaluru, Karnataka, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Capital Markets Services Specialist](https://www.linkedin.com/jobs/view/capital-markets-services-specialist-at-accenture-in-india-4492721967) | Accenture in India | Bengaluru, Karnataka, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (301)](#finance-fpa-cv-301) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (302)](#finance-fpa-cv-302) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
-### Finance (FP&A) CV: 301
+### Finance (FP&A) CV: 302
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2277,6 +2264,7 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | 2026-11-26 | [BCG X Finance Analyst](https://www.linkedin.com/jobs/view/bcg-x-finance-analyst-at-boston-consulting-group-bcg-4478464842) | Boston Consulting Group | Gurgaon, Haryana, India |
 | 2026-11-26 | [Analyst- FP&A](https://www.linkedin.com/jobs/view/analyst-fp-a-at-boston-consulting-group-bcg-4495050093) | Boston Consulting Group | Gurgaon, Haryana, India |
 | 2026-11-26 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-talentconnect-4495531482) | TalentConnect | India |
+| 2026-11-26 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-brown-forman-4495048714) | Brown-Forman | Gurgaon, Haryana, India |
 | 2026-11-26 | [Consultant - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/consultant-financial-planning-analysis-at-flexing-it%C2%AE-4495287779) | Flexing It® | Mumbai Metropolitan Region |
 | 2026-11-26 | [Analyst - Treasury (Temp)](https://job-boards.greenhouse.io/wpp/jobs/8958247002) | WPP | Vikhroli, Mumbai |
 | 2026-11-26 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-palo-alto-networks-4493842248) | Palo Alto Networks | Bengaluru East, Karnataka, India |
@@ -2956,7 +2944,7 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 44
+### Fund CV (written for India; tweak the header for UK roles): 43
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2964,7 +2952,6 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | 2026-11-26 | [Fund Accountant - CA Fresher Chennai](https://www.linkedin.com/jobs/view/fund-accountant-ca-fresher-chennai-at-csc-4493812488) | CSC | Chennai, Tamil Nadu, India |
 | 2026-11-26 | [Fund Accounting & Reporting, AS](https://www.linkedin.com/jobs/view/fund-accounting-reporting-as-at-deutsche-bank-4495545199) | Deutsche Bank | Bengaluru, Karnataka, India |
 | 2026-11-25 | [Fund Accounting Settlement Operations](https://www.linkedin.com/jobs/view/fund-accounting-settlement-operations-at-sks-enterpprises-human-resource-planning-and-management-4494497664) | SKS Enterpprises - Human Resource Planning and Management | Mumbai, Maharashtra, India |
-| 2026-11-25 | [Fund Accountant](https://www.linkedin.com/jobs/view/fund-accountant-at-second-street-partners-4493451014) | Second Street Partners | Pune Division, Maharashtra, India |
 | 2026-11-25 | [Fund Accounting Specialist](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Specialist_261001126) | Citi | Pune Maharashtra India |
 | 2026-11-24 | [Fund Accounting, Associate (BLR)](https://www.linkedin.com/jobs/view/fund-accounting-associate-blr-at-alchelyst-4494366694) | Alchelyst | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Mgr, Fund Accounting](https://www.linkedin.com/jobs/view/mgr-fund-accounting-at-northern-trust-4492604082) | Northern Trust | Bengaluru, Karnataka, India |
@@ -3040,10 +3027,11 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>123 roles taken off the list because the firm closed the posting</summary>
+<summary>124 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Thu 26 Nov, 23:44 | Fund Accountant | Second Street Partners |
 | Thu 26 Nov, 21:41 | CA - Management Trainee FP&A | Nuvama Group |
 | Thu 26 Nov, 21:40 | Mid Office Treasury Risk - 7 to 12 Yrs - upto 40 L - Immediate Joiner | Employee Forums |
 | Thu 26 Nov, 19:40 | Financial Analyst, GFS FP&A | Amazon |

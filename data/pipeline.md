@@ -1095,5 +1095,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-payment-application-support-swift-trax-quantum%C2%A0%E2%80%93-4-8-yrs-%E2%80%93-24-5-rotational-shift-%E2%80%93-pune-at-fis-4470970866 | FIS | Treasury/ Payment Application Support - Swift/TRAX/Quantum – 4-8 Yrs – 24/5 Rotational Shift – Pune | Pune/Pimpri-Chinchwad Area | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-restructuring-india-at-kroll-4459572680 | Kroll | Analyst, Restructuring India | New Delhi, Delhi, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-associate-%E2%80%93-the-tony-james-centre-for-private-equity-and-venture-capital-at-indian-institute-of-management-bangalore-4495013228 | Indian Institute of Management Bangalore | Research Associate – The Tony James Centre for Private Equity and Venture Capital | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-at-brown-forman-4495048714 | Brown-Forman | Finance Analyst | Gurgaon, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
