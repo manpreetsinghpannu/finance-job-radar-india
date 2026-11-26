@@ -1059,5 +1059,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fund-accountant-ca-fresher-chennai-at-csc-4493812488 | CSC | Fund Accountant - CA Fresher Chennai | Chennai, Tamil Nadu, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007 | BNP Paribas | Analyst – Fund Accounting | Mumbai, Maharashtra, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/officer-3-financial-reporting-at-iq-eq-4495272843 | IQ-EQ | Officer 3, Financial Reporting | Hyderabad, Telangana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/business-finance-analyst-at-tempsens-instruments-india-limited-4494921035 | Tempsens Instruments (India) Limited | Business Finance Analyst | Udaipur, Rajasthan, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/analyst-ii-fp-a-at-revantage-a-blackstone-portfolio-company-4470931225 | Revantage, A Blackstone Portfolio Company | Analyst II FP&A | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-processor-at-qualcomm-4439863576 | Qualcomm | Finance Analyst, Processor | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/consultant-financial-planning-analysis-at-flexing-it%C2%AE-4495287779 | Flexing It® | Consultant - Financial Planning & Analysis | Mumbai Metropolitan Region | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-equity-research-avendus-spark-at-avendus-4495289495 | Avendus | Associate - Equity Research - Avendus Spark | Chennai, Tamil Nadu, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/multi-assets-index-quant-research-analyst-at-msci-inc-4493802851 | MSCI Inc. | Multi Assets Index Quant Research Analyst | Mumbai Metropolitan Region | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732 | ONE BCG - ONE Business Consulting Group | Financial analyst - Fund Administration | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-quantitative-and-qualitative-analyst-at-oaktree-4495009517 | Oaktree | Associate - Quantitative and Qualitative analyst | Hyderabad, Telangana, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
