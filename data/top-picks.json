@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:47:51.972Z",
+ "generated_at": "2026-11-26T13:45:19.797Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 176,
+   "matching": 177,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -3873,6 +3873,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/annual-reviews-fig-credit-analysis-at-evalueserve-4493811819": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
   }
  }
 }

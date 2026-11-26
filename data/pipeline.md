@@ -1067,5 +1067,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/multi-assets-index-quant-research-analyst-at-msci-inc-4493802851 | MSCI Inc. | Multi Assets Index Quant Research Analyst | Mumbai Metropolitan Region | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732 | ONE BCG - ONE Business Consulting Group | Financial analyst - Fund Administration | Sahibzada Ajit Singh Nagar, Punjab, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-quantitative-and-qualitative-analyst-at-oaktree-4495009517 | Oaktree | Associate - Quantitative and Qualitative analyst | Hyderabad, Telangana, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/annual-reviews-fig-credit-analysis-at-evalueserve-4493811819 | Evalueserve | Annual Reviews - FIG (Credit Analysis) | Gurugram, Haryana, India | posted: 2026-11-26 | note: via LinkedIn
 
 ## Processed
