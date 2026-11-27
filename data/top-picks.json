@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:58:41.544Z",
+ "generated_at": "2026-11-27T00:44:34.646Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 182,
+   "matching": 180,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -224,7 +224,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 59,
+   "matching": 58,
    "picks": [
     {
      "title": "Analyst – Fund Accounting",
