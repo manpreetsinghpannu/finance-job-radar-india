@@ -1116,4 +1116,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/financial-modelling-analyst-%E2%80%93-private-equity-credit-remote-at-bullpen-talent-4488111669 | Bullpen Talent | Financial Modelling Analyst – Private Equity & Credit (Remote) | India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505 | Samarthya Financial Services Pvt Ltd | Operations & Strategy Analyst | Hyderabad, Telangana, India | posted: 2026-11-27 | note: via LinkedIn
 
+- [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/India---New-Delhi-Branch/Analyst-Administrator_10080679-WD | MUFG | Analyst/ assistant RM - Japanese Corporate Banking Department | India - New Delhi Branch | posted: 2026-11-27
+- [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/India---New-Delhi-Branch/Analyst-Administrator_10080678-WD | MUFG | Analyst/ assistant RM - Japanese Corporate Banking Department | India - New Delhi Branch | posted: 2026-11-27
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-ii-finance-and-business-services-fabs-at-amazon-4495801788 | Amazon | Finance Analyst II, Finance And Business Services (FABS) | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-american-express-4495093687 | American Express | Financial Analyst | Gurugram, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-finance-specialist-at-philips-4495310045 | Philips | Commercial Finance Specialist | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-and-risk-management-trm-analyst-specialist-at-ntt-data-north-america-4479539248 | NTT DATA North America | Treasury and Risk Management (TRM) Analyst / Specialist | Bangalore Urban, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/associate-asset-management-client-institutional-reporting-at-bnp-paribas-4495805111 | BNP Paribas | Associate - Asset Management Client Institutional Reporting | Dewas, Madhya Pradesh, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-analyst-%E2%80%93-management-company-close-at-millennium-4460965971 | Millennium | Finance Analyst – Management Company Close | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assistant-officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-technology-and-operations-at-dbs-bank-4443358975 | DBS Bank | Assistant Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking, Technology and Operations | Chennai, Tamil Nadu, India | posted: 2026-11-27 | note: via LinkedIn
+
 ## Processed
