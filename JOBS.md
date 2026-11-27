@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 07:50** (UK time) · **742 open roles** at 395 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 08:20** (UK time) · **741 open roles** at 394 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 07:41** · hourly scan · checked 99 boards · **1 new role**
+**Fri 27 Nov, 08:12** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Treasury Risk (Mid Office ) - 7 to 12 Yrs - upto 40 L - Immediate Joiner Mumbai](https://www.linkedin.com/jobs/view/treasury-risk-mid-office-7-to-12-yrs-upto-40-l-immediate-joiner-mumbai-at-employee-forums-4493882148) | Employee Forums | Mumbai Metropolitan Region |
+Nothing new this time. The last scan that found something was **Fri 27 Nov, 07:41** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<sub>Nothing new at: 08:12</sub>
 
 <details>
 <summary><b>07:41</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1234,7 +1232,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>14:41</b> · hourly scan · <b>5 new</b> → Finance 1 · Equity 1 · Investment 1 · Other 2</summary>
+<summary><b>14:41</b> · hourly scan · <b>4 new</b> → Finance 1 · Equity 1 · Investment 1 · Other 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -1254,12 +1252,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-23 | [Analyst Financial Advisory Support](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Analyst-Financial-Advisory-Support_R26_3400) | Ameriprise Financial | Noida, Uttar Pradesh, India |
 
-#### Other (fits no CV closely, may still be worth a look): 2
+#### Other (fits no CV closely, may still be worth a look): 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-23 | [Quantitative Analyst](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Quantitative-Analyst_R-15490) | Invesco | Hyderabad, Telangana |
-| 2026-11-23 | [Finance Management Trainee](https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725) | Wealthy | Bengaluru, Karnataka, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2173,7 +2172,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (301)](#finance-fpa-cv-301) · [Credit (177)](#credit-cv-177) · [Equity (51)](#equity-cv-51) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
+Everything matched so far, newest first within each CV: [Finance (301)](#finance-fpa-cv-301) · [Credit (177)](#credit-cv-177) · [Equity (51)](#equity-cv-51) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
 ### Finance (FP&A) CV: 301
 
@@ -2924,7 +2923,7 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 28
+### Other (fits no CV closely, may still be worth a look): 27
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2937,7 +2936,6 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | 2026-11-24 | [Analyst – International Valuations](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-international-valuations-at-lotechpro-4493026030) | LoTechPro | Pune City, Maharashtra, India |
 | — | [Trader](https://careers.nomura.com/Nomura/job/Mumbai-Trader-400076/1452873700/) | Nomura | Mumbai |
 | 2026-11-23 | [Quantitative Analyst](https://invesco.wd1.myworkdayjobs.com/ivz/job/Hyderabad-Telangana/Quantitative-Analyst_R-15490) | Invesco | Hyderabad, Telangana |
-| 2026-11-23 | [Finance Management Trainee](https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725) | Wealthy | Bengaluru, Karnataka, India |
 | 2026-11-21 | [Stock Trader](https://www.linkedin.com/jobs/view/stock-trader-4492883742) | Sunny Kumar Trader | New Delhi, Delhi, India |
 | 2026-11-21 | [Analyst - Pricing Credits - 2271](https://www.linkedin.com/jobs/view/analyst-pricing-credits-2271-at-medline-4418728208) | Medline | Pune Division, Maharashtra, India |
 | 2026-11-20 | [GB/G Portfolio Management Analyst - Indirect Procurement](https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270) | BASF | Hyderabad, Telangana, India |
@@ -2960,10 +2958,11 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>126 roles taken off the list because the firm closed the posting</summary>
+<summary>127 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 27 Nov, 08:13 | Finance Management Trainee | Wealthy |
 | Fri 27 Nov, 07:42 | Growthally Advisors - Investment Banking Analyst | GrowthAlly Advisors Private Limited |
 | Fri 27 Nov, 03:24 | Financial Analyst - CA | Taglynk |
 | Fri 27 Nov, 03:23 | Growthally Advisors - Analyst - M&amp;A Advisory | GrowthAlly Advisors Private Limited |

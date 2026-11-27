@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:50:12.887Z",
+ "generated_at": "2026-11-27T08:20:13.929Z",
  "order": [
   "finance",
   "credit",
@@ -3083,11 +3083,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 17
-  },
-  "https://www.linkedin.com/jobs/view/finance-management-trainee-at-wealthy-4492602725": {
-   "id": "other",
-   "cv": "Other (fits no CV closely, may still be worth a look)",
-   "score": 0
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-corporate-development-at-highradius-4492624357": {
    "id": "finance",
