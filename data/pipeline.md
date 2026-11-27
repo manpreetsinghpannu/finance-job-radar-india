@@ -1128,5 +1128,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/plant-finance-analyst-at-mondel%C4%93z-international-4480348368 | Mondelēz International | Plant Finance Analyst | Gwalior, Madhya Pradesh, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/data-financial-analyst-microsoft-dynamics-gp-remote-at-kake-4493898437 | Kake | Data / Financial Analyst (Microsoft Dynamics GP) - Remote | Hyderabad, Telangana, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/global-trading-market-risk-product-control-advisor-at-exxonmobil-india-careers-4426310244 | ExxonMobil India Careers | Global Trading Market Risk - Product Control Advisor | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-zimmer-biomet-4486902774 | Zimmer Biomet | Treasury Analyst | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
