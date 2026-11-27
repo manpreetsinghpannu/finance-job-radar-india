@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:44:27.438Z",
+ "generated_at": "2026-11-27T05:46:16.555Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 180,
+   "matching": 181,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -3943,6 +3943,16 @@
    "id": "consulting",
    "cv": "Consulting CV",
    "score": 8
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

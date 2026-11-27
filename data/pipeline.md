@@ -1099,4 +1099,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-ARCS-Ahmedabad-Finance-Transformation-Business-Finance/61096144/ | Deloitte India | Consultant / Oracle - ARCS / Ahmedabad / Finance Transformation / Business Finance | Ahmedabad
 
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412 | Kotak Mahindra Bank | Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1070410 | Mumbai, Maharashtra, India | posted: 2026-11-27
+- [ ] https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972 | JPMorganChase | Analyst - Quant Analytics - Analytics Centre of Excellence | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+
 ## Processed

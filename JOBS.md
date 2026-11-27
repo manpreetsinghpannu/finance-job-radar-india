@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 04:44** (UK time) · **738 open roles** at 393 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 05:46** (UK time) · **740 open roles** at 393 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 04:38** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 27 Nov, 05:39** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Fri 27 Nov, 02:38** (1: Consulting 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1070410](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972) | JPMorganChase | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -23,7 +33,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (180 matching)
+**Credit CV** (181 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<details>
+<summary><b>05:39</b> · hourly scan · <b>2 new</b> → Credit 1 · Other 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1070410](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972) | JPMorganChase | Mumbai, Maharashtra, India |
+
+</details>
 
 <sub>Nothing new at: 04:38, 03:37, 03:22</sub>
 
@@ -2136,23 +2163,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>05:45</b> · hourly scan · <b>2 new</b> → Finance 2</summary>
-
-#### Finance (FP&A) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Analyst, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/analyst-financial-planning-analysis-at-cencora-4491698112) | Cencora | Pune Division, Maharashtra, India |
-| 2026-11-20 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-thoughtspot-4485474349) | ThoughtSpot | Bengaluru, Karnataka, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (299)](#finance-fpa-cv-299) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (299)](#finance-fpa-cv-299) · [Credit (177)](#credit-cv-177) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
 
 ### Finance (FP&A) CV: 299
 
@@ -2458,10 +2471,11 @@ Everything matched so far, newest first within each CV: [Finance (299)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 176
+### Credit CV: 177
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-27 | [Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1070410](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Credit Analyst African Markets](https://www.linkedin.com/jobs/view/credit-analyst-african-markets-at-intellectual-capital-hr-consulting-pvt-ltd-4493489772) | Intellectual Capital HR Consulting Pvt. Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting (Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting BANK (THANE -Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
@@ -2900,10 +2914,11 @@ Everything matched so far, newest first within each CV: [Finance (299)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 27
+### Other (fits no CV closely, may still be worth a look): 28
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-27 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [TCIO Product Controller Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811561) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811901) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Associate - Quantitative and Qualitative analyst](https://www.linkedin.com/jobs/view/associate-quantitative-and-qualitative-analyst-at-oaktree-4495009517) | Oaktree | Hyderabad, Telangana, India |
