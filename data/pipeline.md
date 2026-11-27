@@ -1126,5 +1126,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/finance-analyst-%E2%80%93-management-company-close-at-millennium-4460965971 | Millennium | Finance Analyst – Management Company Close | Bengaluru, Karnataka, India | posted: 2026-11-26 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assistant-officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-technology-and-operations-at-dbs-bank-4443358975 | DBS Bank | Assistant Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking, Technology and Operations | Chennai, Tamil Nadu, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/plant-finance-analyst-at-mondel%C4%93z-international-4480348368 | Mondelēz International | Plant Finance Analyst | Gwalior, Madhya Pradesh, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/data-financial-analyst-microsoft-dynamics-gp-remote-at-kake-4493898437 | Kake | Data / Financial Analyst (Microsoft Dynamics GP) - Remote | Hyderabad, Telangana, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/global-trading-market-risk-product-control-advisor-at-exxonmobil-india-careers-4426310244 | ExxonMobil India Careers | Global Trading Market Risk - Product Control Advisor | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
