@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 18:45** (UK time) · **756 open roles** at 394 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 19:50** (UK time) · **757 open roles** at 395 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 18:39** · hourly scan · checked 99 boards · **3 new roles**
+**Fri 27 Nov, 19:42** · hourly scan · checked 99 boards · **1 new role**
 
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Corporate Credit Analysis - Greater China Coverage - Officer](https://www.linkedin.com/jobs/view/corporate-credit-analysis-greater-china-coverage-officer-at-citi-4486906771) | Citi | Mumbai, Maharashtra, India |
-
-### Investment (IB / PE) CV: 2
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-27 | [Investment Banking Analyst (Front office) - Officer](https://www.linkedin.com/jobs/view/investment-banking-analyst-front-office-officer-at-citi-4486902954) | Citi | Mumbai, Maharashtra, India |
-| 2026-11-27 | [Leveraged Finance Credit Underwriting - Officer](https://www.linkedin.com/jobs/view/leveraged-finance-credit-underwriting-officer-at-citi-4486919687) | Citi | Mumbai, Maharashtra, India |
+| 2026-11-27 | [Commercial & FP&A Analyst](https://www.linkedin.com/jobs/view/commercial-fp-a-analyst-at-cargo-players-4495326351) | Cargo Players | New Delhi, Delhi, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (338 matching)
+**Finance (FP&A) CV** (339 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) · Galaxy · Mumbai, Maharashtra, India · posted 2026-11-25
@@ -69,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<details>
+<summary><b>19:42</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Commercial & FP&A Analyst](https://www.linkedin.com/jobs/view/commercial-fp-a-analyst-at-cargo-players-4495326351) | Cargo Players | New Delhi, Delhi, India |
+
+</details>
 
 <details>
 <summary><b>18:39</b> · hourly scan · <b>3 new</b> → Credit 1 · Investment 2</summary>
@@ -2110,30 +2114,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 <sub>Nothing new at: 20:41, 20:09</sub>
 
-<details>
-<summary><b>19:42</b> · hourly scan · <b>2 new</b> → Equity 1 · Fund 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Research Analyst, Healthcare](https://www.linkedin.com/jobs/view/research-analyst-healthcare-at-millennium-4210404138) | Millennium | Mumbai, Maharashtra, India |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Fund Accounting - Mumbai](https://www.linkedin.com/jobs/view/fund-accounting-mumbai-at-csc-4462276794) | CSC | Mumbai, Maharashtra, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (308)](#finance-fpa-cv-308) · [Credit (184)](#credit-cv-184) · [Equity (50)](#equity-cv-50) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (184)](#credit-cv-184) · [Equity (50)](#equity-cv-50) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
-### Finance (FP&A) CV: 308
+### Finance (FP&A) CV: 309
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2141,6 +2126,7 @@ Everything matched so far, newest first within each CV: [Finance (308)](#finance
 | 2026-11-27 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-american-express-4495093687) | American Express | Gurugram, Haryana, India |
 | 2026-11-27 | [Plant Finance Analyst](https://www.linkedin.com/jobs/view/plant-finance-analyst-at-mondel%C4%93z-international-4480348368) | Mondelēz International | Gwalior, Madhya Pradesh, India |
 | 2026-11-27 | [Data / Financial Analyst (Microsoft Dynamics GP) - Remote](https://www.linkedin.com/jobs/view/data-financial-analyst-microsoft-dynamics-gp-remote-at-kake-4493898437) | Kake | Hyderabad, Telangana, India |
+| 2026-11-27 | [Commercial & FP&A Analyst](https://www.linkedin.com/jobs/view/commercial-fp-a-analyst-at-cargo-players-4495326351) | Cargo Players | New Delhi, Delhi, India |
 | 2026-11-27 | [FP&A](https://www.linkedin.com/jobs/view/fp-a-at-done-4495072620) | &Done | Gurugram, Haryana, India |
 | 2026-11-27 | [Finance Business Partner](https://www.linkedin.com/jobs/view/finance-business-partner-at-cushman-wakefield-4495595415) | Cushman & Wakefield | Gurgaon, Haryana, India |
 | 2026-11-27 | [Commercial Analyst](https://www.linkedin.com/jobs/view/commercial-analyst-at-yum%21-brands-4485835589) | Yum! Brands | Gurugram, Haryana, India |

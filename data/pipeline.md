@@ -1139,5 +1139,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/corporate-credit-analysis-greater-china-coverage-officer-at-citi-4486906771 | Citi | Corporate Credit Analysis - Greater China Coverage - Officer | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-underwriting-officer-at-citi-4486919687 | Citi | Leveraged Finance Credit Underwriting - Officer | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-front-office-officer-at-citi-4486902954 | Citi | Investment Banking Analyst (Front office) - Officer | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-fp-a-analyst-at-cargo-players-4495326351 | Cargo Players | Commercial & FP&A Analyst | New Delhi, Delhi, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
