@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 22:37** (UK time) · **757 open roles** at 395 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 22:55** (UK time) · **758 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 22:28** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 27 Nov, 22:46** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 27 Nov, 21:41** (1: Equity 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 27 November
 
-<sub>Nothing new at: 22:28</sub>
+<sub>Nothing new at: 22:46</sub>
 
 <details>
 <summary><b>21:41</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
@@ -2104,8 +2104,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 22:41</sub>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (184)](#credit-cv-184) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
@@ -2910,7 +2908,7 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>130 roles taken off the list because the firm closed the posting</summary>
+<summary>128 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3043,6 +3041,5 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 | Sat 21 Nov, 06:40 | Freight & Logistics Finance Analyst | FIFO International |
 | Sat 21 Nov, 05:43 | Research Analyst & Presentation Associate | AImploy |
 | Sat 21 Nov, 02:43 | Capital Markets Operations Specialist | Accenture |
-| Fri 20 Nov, 22:42 | Credit Portfolio Intermediate Analyst | Citi |
 
 </details>
