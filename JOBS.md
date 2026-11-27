@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 17:50** (UK time) · **757 open roles** at 397 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 18:24** (UK time) · **754 open roles** at 394 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 17:41** · hourly scan · checked 99 boards · **2 new roles**
+**Fri 27 Nov, 18:15** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Assurance – Risk Modelling Services - Treasury Consulting Specialist – Associate](https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-treasury-consulting-specialist-%E2%80%93-associate-at-pwc-acceleration-center-india-4477069571) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804) | Fiserv | Thane, Maharashtra, India |
+Nothing new this time. The last scan that found something was **Fri 27 Nov, 17:41** (2: Finance 1 · Credit 1); open it in the scan log below.
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (341 matching)
+**Finance (FP&A) CV** (338 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) · Galaxy · Mumbai, Maharashtra, India · posted 2026-11-25
@@ -48,7 +38,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Assurance - Financial Markets - Valuation (Private Equity & Private Credit) - Associate](https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264) · PwC Acceleration Center India · Kolkata, West Bengal, India · posted 2026-11-20
 
-**Consulting CV** (63 matching)
+**Consulting CV** (62 matching)
 
 1. [Operations & Strategy Analyst](https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505) · Samarthya Financial Services Pvt Ltd · Hyderabad, Telangana, India · posted 2026-11-27
 2. [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) · Visa · IN - Bengaluru, India · posted 2026-11-24
@@ -58,16 +48,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Property Accountant, Commercial Real Estate](https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532) · Versatile Club Employer of Record · India · posted 2026-11-23
 2. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Fund CV (written for India; tweak the header for UK roles)** (56 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (55 matching)
 
 1. [Analyst – Fund Accounting](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007) · BNP Paribas · Mumbai, Maharashtra, India · posted 2026-11-26
-2. [Financial analyst - Fund Administration](https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732) · ONE BCG - ONE Business Consulting Group · Sahibzada Ajit Singh Nagar, Punjab, Indi · posted 2026-11-26
+2. [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) · Deutsche Bank · Jaipur, Rajasthan, India · posted 2026-11-16
 
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<sub>Nothing new at: 18:15</sub>
 
 <details>
 <summary><b>17:41</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
@@ -444,17 +436,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>12:41</b> · hourly scan · <b>8 new</b> → Finance 5 · Equity 2 · Other 1</summary>
+<summary><b>12:41</b> · hourly scan · <b>5 new</b> → Finance 2 · Equity 2 · Other 1</summary>
 
-#### Finance (FP&A) CV: 5
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-26 | [Business Finance Analyst](https://www.linkedin.com/jobs/view/business-finance-analyst-at-tempsens-instruments-india-limited-4494921035) | Tempsens Instruments (India) Limited | Udaipur, Rajasthan, India |
 | 2026-11-26 | [Analyst II FP&A](https://www.linkedin.com/jobs/view/analyst-ii-fp-a-at-revantage-a-blackstone-portfolio-company-4470931225) | Revantage, A Blackstone Portfolio Company | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Finance Analyst, Processor](https://www.linkedin.com/jobs/view/finance-analyst-processor-at-qualcomm-4439863576) | Qualcomm | Bengaluru, Karnataka, India |
-| 2026-11-26 | [Financial analyst - Fund Administration](https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732) | ONE BCG - ONE Business Consulting Group | Sahibzada Ajit Singh Nagar, Punjab, India |
-| 2026-11-26 | [Consultant - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/consultant-financial-planning-analysis-at-flexing-it%C2%AE-4495287779) | Flexing It® | Mumbai Metropolitan Region |
 
 #### Equity CV: 2
 
@@ -468,6 +457,8 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-26 | [Associate - Quantitative and Qualitative analyst](https://www.linkedin.com/jobs/view/associate-quantitative-and-qualitative-analyst-at-oaktree-4495009517) | Oaktree | Hyderabad, Telangana, India |
+
+<sub>3 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2130,9 +2121,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (311)](#finance-fpa-cv-311) · [Credit (184)](#credit-cv-184) · [Equity (50)](#equity-cv-50) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (308)](#finance-fpa-cv-308) · [Credit (184)](#credit-cv-184) · [Equity (50)](#equity-cv-50) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
-### Finance (FP&A) CV: 311
+### Finance (FP&A) CV: 308
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2156,10 +2147,8 @@ Everything matched so far, newest first within each CV: [Finance (311)](#finance
 | 2026-11-26 | [Financial Analyst (Procurement Finance)](https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900) | Corenza | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142) | Intain | Chennai, Tamil Nadu, India |
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036) | Solenis | Hyderabad, Telangana, India |
-| 2026-11-26 | [Business Finance Analyst](https://www.linkedin.com/jobs/view/business-finance-analyst-at-tempsens-instruments-india-limited-4494921035) | Tempsens Instruments (India) Limited | Udaipur, Rajasthan, India |
 | 2026-11-26 | [Analyst II FP&A](https://www.linkedin.com/jobs/view/analyst-ii-fp-a-at-revantage-a-blackstone-portfolio-company-4470931225) | Revantage, A Blackstone Portfolio Company | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Finance Analyst, Processor](https://www.linkedin.com/jobs/view/finance-analyst-processor-at-qualcomm-4439863576) | Qualcomm | Bengaluru, Karnataka, India |
-| 2026-11-26 | [Financial analyst - Fund Administration](https://www.linkedin.com/jobs/view/financial-analyst-fund-administration-at-one-bcg-one-business-consulting-group-4495015732) | ONE BCG - ONE Business Consulting Group | Sahibzada Ajit Singh Nagar, Punjab, India |
 | 2026-11-26 | [Financial Planning and Analyst](https://www.linkedin.com/jobs/view/financial-planning-and-analyst-at-johnson-matthey-4483451025) | Johnson Matthey | Bawal, Haryana, India |
 | 2026-11-26 | [Financial Analyst, 529 Back Office - India](https://www.linkedin.com/jobs/view/financial-analyst-529-back-office-india-at-ascensus-4487703727) | Ascensus | Greater Hyderabad Area |
 | 2026-11-26 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-magna-international-4479521033) | Magna International | Bengaluru, Karnataka, India |
@@ -2168,7 +2157,6 @@ Everything matched so far, newest first within each CV: [Finance (311)](#finance
 | 2026-11-26 | [Analyst- FP&A](https://www.linkedin.com/jobs/view/analyst-fp-a-at-boston-consulting-group-bcg-4495050093) | Boston Consulting Group | Gurgaon, Haryana, India |
 | 2026-11-26 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-brown-forman-4495048714) | Brown-Forman | Gurgaon, Haryana, India |
 | 2026-11-26 | [Finance Analyst – Management Company Close](https://www.linkedin.com/jobs/view/finance-analyst-%E2%80%93-management-company-close-at-millennium-4460965971) | Millennium | Bengaluru, Karnataka, India |
-| 2026-11-26 | [Consultant - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/consultant-financial-planning-analysis-at-flexing-it%C2%AE-4495287779) | Flexing It® | Mumbai Metropolitan Region |
 | 2026-11-26 | [Analyst - Treasury (Temp)](https://job-boards.greenhouse.io/wpp/jobs/8958247002) | WPP | Vikhroli, Mumbai |
 | 2026-11-26 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-palo-alto-networks-4493842248) | Palo Alto Networks | Bengaluru East, Karnataka, India |
 | 2026-11-26 | [Associate - Financial Reporting](https://www.linkedin.com/jobs/view/associate-financial-reporting-at-bnp-paribas-4495501931) | BNP Paribas | Mumbai, Maharashtra, India |
@@ -2932,10 +2920,13 @@ Everything matched so far, newest first within each CV: [Finance (311)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>127 roles taken off the list because the firm closed the posting</summary>
+<summary>130 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 27 Nov, 18:18 | Financial analyst - Fund Administration | ONE BCG - ONE Business Consulting Group |
+| Fri 27 Nov, 18:17 | Consultant - Financial Planning & Analysis | Flexing It® |
+| Fri 27 Nov, 18:17 | Business Finance Analyst | Tempsens Instruments (India) Limited |
 | Fri 27 Nov, 14:47 | Credit Portfolio Analytics - Existing Customer Management - Analyst I | Citi |
 | Fri 27 Nov, 14:43 | Investor Services/ Fund Accounting | The HIRD |
 | Fri 27 Nov, 14:42 | Analyst – International Valuations | LoTechPro |
