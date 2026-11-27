@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:47:01.188Z",
+ "generated_at": "2026-11-27T16:48:54.581Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 187,
+   "matching": 190,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -4010,6 +4010,21 @@
   "https://www.linkedin.com/jobs/view/treasury-analyst-at-zimmer-biomet-4486902774": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
+   "score": 12
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Analyst-II_261013045": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Intermediate-Analyst-_261013043": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-to-collections-analyst-vois-at-vois-4493895826": {
+   "id": "credit",
+   "cv": "Credit CV",
    "score": 12
   }
  }

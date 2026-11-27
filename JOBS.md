@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 15:47** (UK time) · **752 open roles** at 397 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 16:48** (UK time) · **755 open roles** at 397 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,15 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 15:38** · hourly scan · checked 99 boards · **1 new role**
+**Fri 27 Nov, 16:41** · hourly scan · checked 99 boards · **3 new roles**
 
-### Finance (FP&A) CV: 1
+### Credit CV: 3
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-27 | [Treasury Analyst](https://www.linkedin.com/jobs/view/treasury-analyst-at-zimmer-biomet-4486902774) | Zimmer Biomet | Bengaluru, Karnataka, India |
+| 2026-11-27 | [Wealth - Model Risk Management Analyst II](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Analyst-II_261013045) | Citi | Gurugram Haryana India |
+| 2026-11-27 | [Wealth - Model Risk Management Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Intermediate-Analyst-_261013043) | Citi | Gurugram Haryana India |
+| 2026-11-27 | [Credit to Collections Analyst - VOIS](https://www.linkedin.com/jobs/view/credit-to-collections-analyst-vois-at-vois-4493895826) | VOIS | Pune Division, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -27,7 +29,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) · Galaxy · Mumbai, Maharashtra, India · posted 2026-11-25
 
-**Credit CV** (187 matching)
+**Credit CV** (190 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -62,6 +64,19 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<details>
+<summary><b>16:41</b> · hourly scan · <b>3 new</b> → Credit 3</summary>
+
+#### Credit CV: 3
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Wealth - Model Risk Management Analyst II](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Analyst-II_261013045) | Citi | Gurugram Haryana India |
+| 2026-11-27 | [Wealth - Model Risk Management Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Intermediate-Analyst-_261013043) | Citi | Gurugram Haryana India |
+| 2026-11-27 | [Credit to Collections Analyst - VOIS](https://www.linkedin.com/jobs/view/credit-to-collections-analyst-vois-at-vois-4493895826) | VOIS | Pune Division, Maharashtra, India |
+
+</details>
 
 <details>
 <summary><b>15:38</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2107,11 +2122,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 16:38</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (310)](#finance-fpa-cv-310) · [Credit (180)](#credit-cv-180) · [Equity (50)](#equity-cv-50) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (310)](#finance-fpa-cv-310) · [Credit (183)](#credit-cv-183) · [Equity (50)](#equity-cv-50) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
 ### Finance (FP&A) CV: 310
 
@@ -2428,7 +2441,7 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 180
+### Credit CV: 183
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2437,6 +2450,9 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | 2026-11-27 | [Procurement Risk Analyst](https://www.linkedin.com/jobs/view/procurement-risk-analyst-at-cummins-india-4433246482) | Cummins India | Pune Division, Maharashtra, India |
 | 2026-11-27 | [Analyst/ assistant RM - Japanese Corporate Banking Department](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/India---New-Delhi-Branch/Analyst-Administrator_10080679-WD) | MUFG | India - New Delhi Branch |
 | 2026-11-27 | [Analyst/ assistant RM - Japanese Corporate Banking Department](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/India---New-Delhi-Branch/Analyst-Administrator_10080678-WD) | MUFG | India - New Delhi Branch |
+| 2026-11-27 | [Wealth - Model Risk Management Analyst II](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Analyst-II_261013045) | Citi | Gurugram Haryana India |
+| 2026-11-27 | [Wealth - Model Risk Management Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Intermediate-Analyst-_261013043) | Citi | Gurugram Haryana India |
+| 2026-11-27 | [Credit to Collections Analyst - VOIS](https://www.linkedin.com/jobs/view/credit-to-collections-analyst-vois-at-vois-4493895826) | VOIS | Pune Division, Maharashtra, India |
 | 2026-11-27 | [Credit Transaction Management (Credit Operations) - Associate](https://www.linkedin.com/jobs/view/credit-transaction-management-credit-operations-associate-at-bnp-paribas-4479838632) | BNP Paribas | Mumbai, Maharashtra, India |
 | 2026-11-27 | [Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1070410](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Credit Analyst African Markets](https://www.linkedin.com/jobs/view/credit-analyst-african-markets-at-intellectual-capital-hr-consulting-pvt-ltd-4493489772) | Intellectual Capital HR Consulting Pvt. Ltd. | Mumbai, Maharashtra, India |
@@ -2908,7 +2924,7 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>129 roles taken off the list because the firm closed the posting</summary>
+<summary>127 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3039,7 +3055,5 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | Fri 20 Nov, 22:42 | Credit Portfolio Intermediate Analyst | Citi |
 | Fri 20 Nov, 18:44 | Risk Management -Wholesale Credit Risk Associate | JPMorgan Chase |
 | Fri 20 Nov, 18:43 | Analyst, Portfolio Management US Direct Lending | Ares Management |
-| Fri 20 Nov, 16:41 | Financial Analyst, Finance-as-a-Service(FaaS) | Amazon |
-| Fri 20 Nov, 16:38 | Financial Analyst (EMEA Shift) - Financial Operations - FBS, Bengaluru | Allegis Global Solutions |
 
 </details>

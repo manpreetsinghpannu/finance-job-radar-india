@@ -1130,4 +1130,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/global-trading-market-risk-product-control-advisor-at-exxonmobil-india-careers-4426310244 | ExxonMobil India Careers | Global Trading Market Risk - Product Control Advisor | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-analyst-at-zimmer-biomet-4486902774 | Zimmer Biomet | Treasury Analyst | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Analyst-II_261013045 | Citi | Wealth - Model Risk Management Analyst II | Gurugram Haryana India | posted: 2026-11-27
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Intermediate-Analyst-_261013043 | Citi | Wealth - Model Risk Management Intermediate Analyst | Gurugram Haryana India | posted: 2026-11-27
+- [ ] https://www.linkedin.com/jobs/view/credit-to-collections-analyst-vois-at-vois-4493895826 | VOIS | Credit to Collections Analyst - VOIS | Pune Division, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+
 ## Processed
