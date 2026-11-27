@@ -1106,5 +1106,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/treasury-risk-mid-office-7-to-12-yrs-upto-40-l-immediate-joiner-mumbai-at-employee-forums-4493882148 | Employee Forums | Treasury Risk (Mid Office ) - 7 to 12 Yrs - upto 40 L - Immediate Joiner Mumbai | Mumbai Metropolitan Region | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-and-collection-executive-at-salarype-ai-4495080688 | Salarype Ai | Credit and Collection Executive | Ahmedabad, Gujarat, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-client-associates-4495094087 | Client Associates | Investment Banking Associate | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/specialist-fp-a-at-3m-4493875731 | 3M | Specialist-FP&A | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-at-cushman-wakefield-4495595415 | Cushman & Wakefield | Finance Business Partner | Gurgaon, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-saraswat-bank-4495092243 | Saraswat Bank | Credit Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-financial-planning-analysis-immediate-joiners-only-at-magma-consultancy-4493876618 | Magma Consultancy | FP&A Analyst | Financial Planning & Analysis | Immediate Joiners Only | India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-yum%21-brands-4485835589 | Yum! Brands | Commercial Analyst | Gurugram, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
