@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 03:45** (UK time) · **738 open roles** at 393 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 04:44** (UK time) · **738 open roles** at 393 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 03:37** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 27 Nov, 04:38** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 27 Nov, 02:38** (1: Consulting 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 27 November
 
-<sub>Nothing new at: 03:37, 03:22</sub>
+<sub>Nothing new at: 04:38, 03:37, 03:22</sub>
 
 <details>
 <summary><b>02:38</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
@@ -2150,40 +2150,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>04:39</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Ralph Lauren Financial Planning & Analysis Analyst](https://www.linkedin.com/jobs/view/ralph-lauren-financial-planning-analysis-analyst-at-bof-careers-4492534918) | BoF Careers | Bangalore Urban, Karnataka, India |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-19 | [Model Risk Analyst](https://www.linkedin.com/jobs/view/model-risk-analyst-at-idfc-first-bank-4466894514) | IDFC FIRST Bank | Mumbai, Maharashtra, India |
-
-</details>
-
-<details>
-<summary><b>03:59</b> · hourly scan · <b>5 new</b> → Investment 5</summary>
-
-#### Investment (IB / PE) CV: 5
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675111-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675112-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675114-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Analyst](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01675115-1) | Accenture | Bengaluru |
-| 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (299)](#finance-fpa-cv-299) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
@@ -2969,7 +2935,7 @@ Everything matched so far, newest first within each CV: [Finance (299)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>128 roles taken off the list because the firm closed the posting</summary>
+<summary>127 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3100,6 +3066,5 @@ Everything matched so far, newest first within each CV: [Finance (299)](#finance
 | Fri 20 Nov, 08:43 | Financial Reporting Analyst | BU Consultants |
 | Fri 20 Nov, 06:40 | Financial Analyst (VBA & BI Specialist) | Fluor Corporation |
 | Fri 20 Nov, 05:46 | Chartered Accountants | Amicus Growth Advisors |
-| Fri 20 Nov, 04:02 | FP&A Specialist | Sidel |
 
 </details>
