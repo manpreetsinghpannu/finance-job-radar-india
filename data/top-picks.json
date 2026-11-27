@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:48:54.581Z",
+ "generated_at": "2026-11-27T17:50:56.859Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 340,
+   "matching": 341,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 190,
+   "matching": 191,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -158,7 +158,7 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 62,
+   "matching": 63,
    "picks": [
     {
      "title": "Operations & Strategy Analyst",
@@ -4026,6 +4026,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 22
+  },
+  "https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-treasury-consulting-specialist-%E2%80%93-associate-at-pwc-acceleration-center-india-4477069571": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 3
   }
  }
 }

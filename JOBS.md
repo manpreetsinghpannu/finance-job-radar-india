@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 16:48** (UK time) · **755 open roles** at 397 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 17:50** (UK time) · **757 open roles** at 397 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,30 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 16:41** · hourly scan · checked 99 boards · **3 new roles**
+**Fri 27 Nov, 17:41** · hourly scan · checked 99 boards · **2 new roles**
 
-### Credit CV: 3
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-27 | [Wealth - Model Risk Management Analyst II](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Analyst-II_261013045) | Citi | Gurugram Haryana India |
-| 2026-11-27 | [Wealth - Model Risk Management Intermediate Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Intermediate-Analyst-_261013043) | Citi | Gurugram Haryana India |
-| 2026-11-27 | [Credit to Collections Analyst - VOIS](https://www.linkedin.com/jobs/view/credit-to-collections-analyst-vois-at-vois-4493895826) | VOIS | Pune Division, Maharashtra, India |
+| 2026-11-27 | [Assurance – Risk Modelling Services - Treasury Consulting Specialist – Associate](https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-treasury-consulting-specialist-%E2%80%93-associate-at-pwc-acceleration-center-india-4477069571) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
+
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804) | Fiserv | Thane, Maharashtra, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (340 matching)
+**Finance (FP&A) CV** (341 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) · Galaxy · Mumbai, Maharashtra, India · posted 2026-11-25
 
-**Credit CV** (190 matching)
+**Credit CV** (191 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -44,7 +48,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Assurance - Financial Markets - Valuation (Private Equity & Private Credit) - Associate](https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264) · PwC Acceleration Center India · Kolkata, West Bengal, India · posted 2026-11-20
 
-**Consulting CV** (62 matching)
+**Consulting CV** (63 matching)
 
 1. [Operations & Strategy Analyst](https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505) · Samarthya Financial Services Pvt Ltd · Hyderabad, Telangana, India · posted 2026-11-27
 2. [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) · Visa · IN - Bengaluru, India · posted 2026-11-24
@@ -64,6 +68,25 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<details>
+<summary><b>17:41</b> · hourly scan · <b>2 new</b> → Finance 1 · Credit 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Assurance – Risk Modelling Services - Treasury Consulting Specialist – Associate](https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-treasury-consulting-specialist-%E2%80%93-associate-at-pwc-acceleration-center-india-4477069571) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804) | Fiserv | Thane, Maharashtra, India |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+
+</details>
 
 <details>
 <summary><b>16:41</b> · hourly scan · <b>3 new</b> → Credit 3</summary>
@@ -2105,28 +2128,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>17:39</b> · hourly scan · <b>2 new</b> → Credit 1 · Investment 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Reporting Specialist - IB Credit and Market Risk Portfolio Analytics](https://www.linkedin.com/jobs/view/reporting-specialist-ib-credit-and-market-risk-portfolio-analytics-at-ubs-4492818197) | UBS | Mumbai, Maharashtra, India |
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Business Valuation - Associate](https://www.linkedin.com/jobs/view/business-valuation-associate-at-eide-bailly-4475215930) | Eide Bailly | Mumbai Metropolitan Region |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (310)](#finance-fpa-cv-310) · [Credit (183)](#credit-cv-183) · [Equity (50)](#equity-cv-50) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (311)](#finance-fpa-cv-311) · [Credit (184)](#credit-cv-184) · [Equity (50)](#equity-cv-50) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
-### Finance (FP&A) CV: 310
+### Finance (FP&A) CV: 311
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2144,6 +2150,7 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | 2026-11-27 | [Global Trading Market Risk - Product Control Advisor](https://www.linkedin.com/jobs/view/global-trading-market-risk-product-control-advisor-at-exxonmobil-india-careers-4426310244) | ExxonMobil India Careers | Bengaluru, Karnataka, India |
 | 2026-11-27 | [Treasury and Risk Management (TRM) Analyst / Specialist](https://www.linkedin.com/jobs/view/treasury-and-risk-management-trm-analyst-specialist-at-ntt-data-north-america-4479539248) | NTT DATA North America | Bangalore Urban, Karnataka, India |
 | 2026-11-27 | [Assistant Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking, Technology and Operations](https://www.linkedin.com/jobs/view/assistant-officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-technology-and-operations-at-dbs-bank-4443358975) | DBS Bank | Chennai, Tamil Nadu, India |
+| 2026-11-27 | [Assurance – Risk Modelling Services - Treasury Consulting Specialist – Associate](https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-treasury-consulting-specialist-%E2%80%93-associate-at-pwc-acceleration-center-india-4477069571) | PwC Acceleration Center India | Bengaluru East, Karnataka, India |
 | 2026-11-26 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-asia-pacific-inc-4493458973) | Asia Pacific Inc. | Hyderabad, Telangana, India |
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Financial Analyst (Procurement Finance)](https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900) | Corenza | Bengaluru, Karnataka, India |
@@ -2441,11 +2448,12 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 183
+### Credit CV: 184
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-saraswat-bank-4495092243) | Saraswat Bank | Mumbai, Maharashtra, India |
+| 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804) | Fiserv | Thane, Maharashtra, India |
 | 2026-11-27 | [Credit and Collection Executive](https://www.linkedin.com/jobs/view/credit-and-collection-executive-at-salarype-ai-4495080688) | Salarype Ai | Ahmedabad, Gujarat, India |
 | 2026-11-27 | [Procurement Risk Analyst](https://www.linkedin.com/jobs/view/procurement-risk-analyst-at-cummins-india-4433246482) | Cummins India | Pune Division, Maharashtra, India |
 | 2026-11-27 | [Analyst/ assistant RM - Japanese Corporate Banking Department](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/India---New-Delhi-Branch/Analyst-Administrator_10080679-WD) | MUFG | India - New Delhi Branch |

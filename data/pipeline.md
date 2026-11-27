@@ -1133,5 +1133,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Analyst-II_261013045 | Citi | Wealth - Model Risk Management Analyst II | Gurugram Haryana India | posted: 2026-11-27
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Model-Risk-Management-Intermediate-Analyst-_261013043 | Citi | Wealth - Model Risk Management Intermediate Analyst | Gurugram Haryana India | posted: 2026-11-27
 - [ ] https://www.linkedin.com/jobs/view/credit-to-collections-analyst-vois-at-vois-4493895826 | VOIS | Credit to Collections Analyst - VOIS | Pune Division, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804 | Fiserv | Credit Risk Analyst | Thane, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-treasury-consulting-specialist-%E2%80%93-associate-at-pwc-acceleration-center-india-4477069571 | PwC Acceleration Center India | Assurance – Risk Modelling Services - Treasury Consulting Specialist – Associate | Bengaluru East, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/executive-asset-valuations-and-data-management-at-macquarie-group-4470146637 | Macquarie Group | Executive | Asset Valuations and Data Management | Gurugram, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
