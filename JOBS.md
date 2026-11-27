@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 12:48** (UK time) · **755 open roles** at 399 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 13:23** (UK time) · **755 open roles** at 399 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,31 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 12:39** · hourly scan · checked 99 boards · **9 new roles**
+**Fri 27 Nov, 13:14** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 6
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Finance Analyst II, Finance And Business Services (FABS)](https://www.linkedin.com/jobs/view/finance-analyst-ii-finance-and-business-services-fabs-at-amazon-4495801788) | Amazon | Bengaluru, Karnataka, India |
-| 2026-11-27 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-american-express-4495093687) | American Express | Gurugram, Haryana, India |
-| 2026-11-26 | [Finance Analyst – Management Company Close](https://www.linkedin.com/jobs/view/finance-analyst-%E2%80%93-management-company-close-at-millennium-4460965971) | Millennium | Bengaluru, Karnataka, India |
-| 2026-11-27 | [Commercial Finance Specialist](https://www.linkedin.com/jobs/view/commercial-finance-specialist-at-philips-4495310045) | Philips | Bengaluru, Karnataka, India |
-| 2026-11-27 | [Treasury and Risk Management (TRM) Analyst / Specialist](https://www.linkedin.com/jobs/view/treasury-and-risk-management-trm-analyst-specialist-at-ntt-data-north-america-4479539248) | NTT DATA North America | Bangalore Urban, Karnataka, India |
-| 2026-11-27 | [Assistant Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking, Technology and Operations](https://www.linkedin.com/jobs/view/assistant-officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-technology-and-operations-at-dbs-bank-4443358975) | DBS Bank | Chennai, Tamil Nadu, India |
-
-### Credit CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Analyst/ assistant RM - Japanese Corporate Banking Department](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/India---New-Delhi-Branch/Analyst-Administrator_10080679-WD) | MUFG | India - New Delhi Branch |
-| 2026-11-27 | [Analyst/ assistant RM - Japanese Corporate Banking Department](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/India---New-Delhi-Branch/Analyst-Administrator_10080678-WD) | MUFG | India - New Delhi Branch |
-
-### Real Estate CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Associate - Asset Management Client Institutional Reporting](https://www.linkedin.com/jobs/view/associate-asset-management-client-institutional-reporting-at-bnp-paribas-4495805111) | BNP Paribas | Dewas, Madhya Pradesh, India |
+Nothing new this time. The last scan that found something was **Fri 27 Nov, 12:39** (9: Finance 6 · Credit 2 · Real Estate 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -80,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<sub>Nothing new at: 13:14</sub>
 
 <details>
 <summary><b>12:39</b> · hourly scan · <b>9 new</b> → Finance 6 · Credit 2 · Real Estate 1</summary>
