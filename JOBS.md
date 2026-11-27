@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 20:51** (UK time) · **757 open roles** at 395 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 21:51** (UK time) · **758 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 20:40** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 27 Nov, 21:41** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Fri 27 Nov, 19:42** (1: Finance 1); open it in the scan log below.
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-risevestors-institute-4495328786) | Risevestors Institute | Noida, Uttar Pradesh, India |
 
 ## Top picks for each CV
 
@@ -28,7 +32,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (70 matching)
+**Equity CV** (71 matching)
 
 1. [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<details>
+<summary><b>21:41</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-risevestors-institute-4495328786) | Risevestors Institute | Noida, Uttar Pradesh, India |
+
+</details>
 
 <sub>Nothing new at: 20:40</sub>
 
@@ -2112,7 +2127,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (184)](#credit-cv-184) · [Equity (50)](#equity-cv-50) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (184)](#credit-cv-184) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
 ### Finance (FP&A) CV: 309
 
@@ -2617,10 +2632,11 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 50
+### Equity CV: 51
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-27 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-risevestors-institute-4495328786) | Risevestors Institute | Noida, Uttar Pradesh, India |
 | 2026-11-26 | [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Multi Assets Index Quant Research Analyst](https://www.linkedin.com/jobs/view/multi-assets-index-quant-research-analyst-at-msci-inc-4493802851) | MSCI Inc. | Mumbai Metropolitan Region |
 | 2026-11-26 | [Associate - Equity Research - Avendus Spark](https://www.linkedin.com/jobs/view/associate-equity-research-avendus-spark-at-avendus-4495289495) | Avendus | Chennai, Tamil Nadu, India |

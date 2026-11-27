@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:51:56.595Z",
+ "generated_at": "2026-11-27T21:51:32.384Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 70,
+   "matching": 71,
    "picks": [
     {
      "title": "Equity Research Analyst - Global Research Center, Mumbai",
@@ -4037,6 +4037,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-risevestors-institute-4495328786": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 28
   }
  }
 }
