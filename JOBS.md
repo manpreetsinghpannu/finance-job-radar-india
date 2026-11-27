@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 08:20** (UK time) · **741 open roles** at 394 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 08:47** (UK time) · **740 open roles** at 393 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 08:12** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 27 Nov, 08:39** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Fri 27 Nov, 07:41** (1: Finance 1); open it in the scan log below.
 
@@ -18,7 +18,7 @@ Nothing new this time. The last scan that found something was **Fri 27 Nov, 07:4
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (331 matching)
+**Finance (FP&A) CV** (330 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Friday 27 November
 
-<sub>Nothing new at: 08:12</sub>
+<sub>Nothing new at: 08:39, 08:12</sub>
 
 <details>
 <summary><b>07:41</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -1396,14 +1396,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>06:38</b> · hourly scan · <b>5 new</b> → Finance 3 · Credit 1 · Fund 1</summary>
+<summary><b>06:38</b> · hourly scan · <b>4 new</b> → Finance 2 · Credit 1 · Fund 1</summary>
 
-#### Finance (FP&A) CV: 3
+#### Finance (FP&A) CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-23 | [Finance Analyst](https://www.linkedin.com/jobs/view/finance-analyst-at-mott-macdonald-4493603859) | Mott MacDonald | Bengaluru, Karnataka, India |
-| 2026-11-23 | [Full-time Accountant](https://www.linkedin.com/jobs/view/full-time-accountant-at-conserve-india-4493705488) | Conserve India | Gurugram, Haryana, India |
 | 2026-11-23 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-cloudstaff-4493398728) | Cloudstaff | Bangalore Urban, Karnataka, India |
 
 #### Credit CV: 1
@@ -1418,7 +1417,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-22 | [Expert Fund Accountant](https://www.linkedin.com/jobs/view/expert-fund-accountant-at-csc-4493384174) | CSC | Bengaluru, Karnataka, India |
 
-<sub>4 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
+<sub>5 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2147,34 +2146,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>08:40</b> · hourly scan · <b>3 new</b> → Finance 1 · Equity 1 · Fund 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Australian SMSF Accountant](https://www.linkedin.com/jobs/view/australian-smsf-accountant-at-counthq-4492793909) | CountHQ | Ahmedabad, Gujarat, India |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Research Analyst](https://www.linkedin.com/jobs/view/research-analyst-at-anand-rathi-share-and-stock-brokers-ltd-4491689904) | Anand Rathi Share and Stock Brokers Ltd | Mumbai, Maharashtra, India |
-
-#### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Fund Accounting – Financial Reporting](https://www.linkedin.com/jobs/view/fund-accounting-%E2%80%93-financial-reporting-at-promaynov-advisory-services-pvt-ltd-4492564500) | Promaynov Advisory Services Pvt. Ltd | Pune City, Maharashtra, India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (301)](#finance-fpa-cv-301) · [Credit (177)](#credit-cv-177) · [Equity (51)](#equity-cv-51) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (300)](#finance-fpa-cv-300) · [Credit (177)](#credit-cv-177) · [Equity (51)](#equity-cv-51) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
-### Finance (FP&A) CV: 301
+### Finance (FP&A) CV: 300
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2273,7 +2249,6 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | 2026-11-23 | [Corporate Treasury Strats, Associate, Quantitative Strategists](https://morganstanley.eightfold.ai/careers?pid=549800817698&domain=morganstanley.com) | Morgan Stanley | Mumbai, Maharashtra, India |
 | 2026-11-23 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-youtube-for-brands-4492378940) | Youtube For Brands | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Associate- Accounting & Financial Reporting Team](https://www.linkedin.com/jobs/view/associate-accounting-financial-reporting-team-at-houlihan-lokey-4383320762) | Houlihan Lokey | Gurugram, Haryana, India |
-| 2026-11-23 | [Full-time Accountant](https://www.linkedin.com/jobs/view/full-time-accountant-at-conserve-india-4493705488) | Conserve India | Gurugram, Haryana, India |
 | 2026-11-23 | [Financial Controller](https://www.linkedin.com/jobs/view/financial-controller-at-cloudstaff-4493398728) | Cloudstaff | Bangalore Urban, Karnataka, India |
 | 2026-11-23 | [Accountant](https://www.linkedin.com/jobs/view/accountant-at-nes-fircroft-4493622167) | NES Fircroft | Bengaluru, Karnataka, India |
 | 2026-11-23 | [Accountant , Ahmedabad GUJ](https://www.linkedin.com/jobs/view/accountant-ahmedabad-guj-at-trelleborg-sealing-solutions-4429681745) | Trelleborg Sealing Solutions | Greater Ahmedabad Area |
@@ -2962,6 +2937,7 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 27 Nov, 08:45 | Full-time Accountant | Conserve India |
 | Fri 27 Nov, 08:13 | Finance Management Trainee | Wealthy |
 | Fri 27 Nov, 07:42 | Growthally Advisors - Investment Banking Analyst | GrowthAlly Advisors Private Limited |
 | Fri 27 Nov, 03:24 | Financial Analyst - CA | Taglynk |
@@ -3088,6 +3064,5 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | Fri 20 Nov, 09:46 | Credit Risk Analytics - Proprietary Cards and Lending Intermediate Analyst | Citi |
 | Fri 20 Nov, 09:44 | Model Risk Management-BA3 | Barclays |
 | Fri 20 Nov, 09:44 | Product Control Valuations -Analyst | Barclays |
-| Fri 20 Nov, 08:43 | Financial Reporting Analyst | BU Consultants |
 
 </details>
