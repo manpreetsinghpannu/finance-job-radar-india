@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T05:46:16.555Z",
+ "generated_at": "2026-11-27T06:48:17.348Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 329,
+   "matching": 330,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -224,7 +224,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 58,
+   "matching": 59,
    "picks": [
     {
      "title": "Analyst – Fund Accounting",
@@ -3953,6 +3953,16 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/fp-a-at-done-4495072620": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/investor-services-fund-accounting-at-the-hird-4493881039": {
+   "id": "fund",
+   "cv": "Fund CV (written for India; tweak the header for UK roles)",
+   "score": 14
   }
  }
 }

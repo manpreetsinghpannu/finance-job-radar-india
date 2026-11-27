@@ -1101,5 +1101,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412 | Kotak Mahindra Bank | Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1070410 | Mumbai, Maharashtra, India | posted: 2026-11-27
 - [ ] https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972 | JPMorganChase | Analyst - Quant Analytics - Analytics Centre of Excellence | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/fp-a-at-done-4495072620 | &Done | FP&A | Gurugram, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investor-services-fund-accounting-at-the-hird-4493881039 | The HIRD | Investor Services/ Fund Accounting | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
