@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T10:46:46.518Z",
+ "generated_at": "2026-11-27T11:45:39.765Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 183,
+   "matching": 186,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 72,
+   "matching": 73,
    "picks": [
     {
      "title": "Equity Research Analyst - Global Research Center, Mumbai",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 115,
+   "matching": 116,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -158,8 +158,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 61,
+   "matching": 62,
    "picks": [
+    {
+     "title": "Operations & Strategy Analyst",
+     "company": "Samarthya Financial Services Pvt Ltd",
+     "location": "Hyderabad, Telangana, India",
+     "posted": "2026-11-27",
+     "url": "https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505",
+     "score": 18,
+     "why": [
+      "Strategy Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)",
      "company": "Visa",
@@ -171,27 +183,13 @@
       "Consulting Analyst"
      ],
      "sponsor": null
-    },
-    {
-     "title": "S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant",
-     "company": "Accenture services Pvt Ltd",
-     "location": "Gurugram, Haryana, India",
-     "posted": "2026-11-21",
-     "url": "https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029",
-     "score": 14,
-     "why": [
-      "Consultant",
-      "Strategy",
-      "Transformation"
-     ],
-     "sponsor": null
     }
    ]
   },
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 52,
+   "matching": 51,
    "picks": [
     {
      "title": "Property Accountant, Commercial Real Estate",
@@ -328,11 +326,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 11
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 12
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210799553": {
    "id": "credit",
@@ -3978,6 +3971,26 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/credit-transaction-management-credit-operations-associate-at-bnp-paribas-4479838632": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 10
+  },
+  "https://www.linkedin.com/jobs/view/procurement-risk-analyst-at-cummins-india-4433246482": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 12
+  },
+  "https://www.linkedin.com/jobs/view/financial-modelling-analyst-%E2%80%93-private-equity-credit-remote-at-bullpen-talent-4488111669": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
   }
  }
 }

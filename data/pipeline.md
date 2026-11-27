@@ -1111,5 +1111,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-saraswat-bank-4495092243 | Saraswat Bank | Credit Risk Analyst | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/fp-a-analyst-financial-planning-analysis-immediate-joiners-only-at-magma-consultancy-4493876618 | Magma Consultancy | FP&A Analyst | Financial Planning & Analysis | Immediate Joiners Only | India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/commercial-analyst-at-yum%21-brands-4485835589 | Yum! Brands | Commercial Analyst | Gurugram, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-transaction-management-credit-operations-associate-at-bnp-paribas-4479838632 | BNP Paribas | Credit Transaction Management (Credit Operations) - Associate | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/procurement-risk-analyst-at-cummins-india-4433246482 | Cummins India | Procurement Risk Analyst | Pune Division, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-modelling-analyst-%E2%80%93-private-equity-credit-remote-at-bullpen-talent-4488111669 | Bullpen Talent | Financial Modelling Analyst – Private Equity & Credit (Remote) | India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505 | Samarthya Financial Services Pvt Ltd | Operations & Strategy Analyst | Hyderabad, Telangana, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
