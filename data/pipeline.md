@@ -1104,5 +1104,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/fp-a-at-done-4495072620 | &Done | FP&A | Gurugram, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/investor-services-fund-accounting-at-the-hird-4493881039 | The HIRD | Investor Services/ Fund Accounting | Bengaluru, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/treasury-risk-mid-office-7-to-12-yrs-upto-40-l-immediate-joiner-mumbai-at-employee-forums-4493882148 | Employee Forums | Treasury Risk (Mid Office ) - 7 to 12 Yrs - upto 40 L - Immediate Joiner Mumbai | Mumbai Metropolitan Region | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-and-collection-executive-at-salarype-ai-4495080688 | Salarype Ai | Credit and Collection Executive | Ahmedabad, Gujarat, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-associate-at-client-associates-4495094087 | Client Associates | Investment Banking Associate | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
