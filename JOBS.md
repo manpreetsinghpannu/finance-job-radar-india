@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 19:50** (UK time) · **757 open roles** at 395 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 20:51** (UK time) · **757 open roles** at 395 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 19:42** · hourly scan · checked 99 boards · **1 new role**
+**Fri 27 Nov, 20:40** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Commercial & FP&A Analyst](https://www.linkedin.com/jobs/view/commercial-fp-a-analyst-at-cargo-players-4495326351) | Cargo Players | New Delhi, Delhi, India |
+Nothing new this time. The last scan that found something was **Fri 27 Nov, 19:42** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<sub>Nothing new at: 20:40</sub>
 
 <details>
 <summary><b>19:42</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2111,8 +2109,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | 2026-11-20 | [Consultant, Fund Solutions -Restructuring India](https://www.linkedin.com/jobs/view/consultant-fund-solutions-restructuring-india-at-kroll-4474856494) | Kroll | New Delhi, Delhi, India |
 
 </details>
-
-<sub>Nothing new at: 20:41, 20:09</sub>
 
 ## All open roles by CV
 
