@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:51:32.384Z",
+ "generated_at": "2026-11-27T22:37:38.080Z",
  "order": [
   "finance",
   "credit",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 120,
+   "matching": 119,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -1812,11 +1812,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 5
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 11
   },
   "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005": {
    "id": "consulting",
