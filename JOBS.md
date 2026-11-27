@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 01:48** (UK time) · **740 open roles** at 395 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 02:45** (UK time) · **740 open roles** at 394 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 01:40** · hourly scan · checked 99 boards · **0 new roles**
+**Fri 27 Nov, 02:38** · hourly scan · checked 99 boards · **1 new role**
 
-Nothing new this time. The last scan that found something was **Thu 26 Nov, 23:51** (1: Finance 1); open it in the scan log below.
+### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant / Oracle - ARCS / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-ARCS-Ahmedabad-Finance-Transformation-Business-Finance/61096144/) | Deloitte India | Ahmedabad |
 
 ## Top picks for each CV
 
@@ -38,7 +42,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
 
-**Consulting CV** (61 matching)
+**Consulting CV** (62 matching)
 
 1. [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) · Visa · IN - Bengaluru, India · posted 2026-11-24
 2. [S&C GN - Tech Strategy & Transformation - Tech M&A - Consultant](https://www.linkedin.com/jobs/view/s-c-gn-tech-strategy-transformation-tech-m-a-consultant-at-accenture-services-pvt-ltd-4493117029) · Accenture services Pvt Ltd · Gurugram, Haryana, India · posted 2026-11-21
@@ -58,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<details>
+<summary><b>02:38</b> · hourly scan · <b>1 new</b> → Consulting 1</summary>
+
+#### Consulting CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| — | [Consultant / Oracle - ARCS / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-ARCS-Ahmedabad-Finance-Transformation-Business-Finance/61096144/) | Deloitte India | Ahmedabad |
+
+</details>
 
 <sub>Nothing new at: 01:40, 00:38</sub>
 
@@ -279,16 +294,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 </details>
 
 <details>
-<summary><b>10:38</b> · hourly scan · <b>4 new</b> → Finance 4</summary>
+<summary><b>10:38</b> · hourly scan · <b>3 new</b> → Finance 3</summary>
 
-#### Finance (FP&A) CV: 4
+#### Finance (FP&A) CV: 3
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-26 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-vittly-consultants-4495022014) | Vittly Consultants | New Delhi, Delhi, India |
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036) | Solenis | Hyderabad, Telangana, India |
 | 2026-11-26 | [Specialist - F&A - Treasury 4B](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4B_JR10036988-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
 | 2026-11-26 | [Specialist - F&A - Treasury 4A](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-GF-2-4--22B-STPI-Gurgaon/Specialist---F-A---Treasury-4A_JR10036987-3) | Genpact | 1401-G-India: GF, 2-4 , 22B, STPI, Gurgaon |
+
+<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
 </details>
 
@@ -2187,9 +2203,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (301)](#finance-fpa-cv-301) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (300)](#finance-fpa-cv-300) · [Credit (176)](#credit-cv-176) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (34)](#consulting-cv-34) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
-### Finance (FP&A) CV: 301
+### Finance (FP&A) CV: 300
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2197,7 +2213,6 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Financial Analyst (Procurement Finance)](https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900) | Corenza | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Structured Finance Analyst](https://www.linkedin.com/jobs/view/structured-finance-analyst-at-intain-4493812142) | Intain | Chennai, Tamil Nadu, India |
-| 2026-11-26 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-at-vittly-consultants-4495022014) | Vittly Consultants | New Delhi, Delhi, India |
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-solenis-4493819036) | Solenis | Hyderabad, Telangana, India |
 | 2026-11-26 | [Business Finance Analyst](https://www.linkedin.com/jobs/view/business-finance-analyst-at-tempsens-instruments-india-limited-4494921035) | Tempsens Instruments (India) Limited | Udaipur, Rajasthan, India |
 | 2026-11-26 | [Analyst II FP&A](https://www.linkedin.com/jobs/view/analyst-ii-fp-a-at-revantage-a-blackstone-portfolio-company-4470931225) | Revantage, A Blackstone Portfolio Company | Bengaluru, Karnataka, India |
@@ -2831,10 +2846,11 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 | 2026-11-06 | [Valuation Control - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784011) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 33
+### Consulting CV: 34
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| — | [Consultant / Oracle - ARCS / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-ARCS-Ahmedabad-Finance-Transformation-Business-Finance/61096144/) | Deloitte India | Ahmedabad |
 | — | [Consultant / Oracle - EPBCS / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPBCS-Ahmedabad-Finance-Transformation-Business-Finance/61884244/) | Deloitte India | Ahmedabad |
 | 2026-11-24 | [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) | Visa | IN - Bengaluru, India |
 | — | [Consultant / Oracle Consolidation / Bengaluru / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Oracle-Consolidation-Bengaluru-Finance-Transformation-Business-Finance/59276244/) | Deloitte India | Bengaluru |
@@ -2972,10 +2988,11 @@ Everything matched so far, newest first within each CV: [Finance (301)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>125 roles taken off the list because the firm closed the posting</summary>
+<summary>126 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 27 Nov, 02:41 | Financial Planning Analyst | Vittly Consultants |
 | Fri 27 Nov, 01:42 | GBS Financial Planning & Analyst (FP&A) | SGS |
 | Thu 26 Nov, 23:57 | Fund Accountant | Second Street Partners |
 | Thu 26 Nov, 21:41 | CA - Management Trainee FP&A | Nuvama Group |
