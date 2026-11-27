@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 06:48** (UK time) · **742 open roles** at 394 firms · the radar checks every board about once an hour.
+Updated **Fri 27 Nov, 07:50** (UK time) · **742 open roles** at 395 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,25 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 06:40** · hourly scan · checked 99 boards · **2 new roles**
+**Fri 27 Nov, 07:41** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-27 | [FP&A](https://www.linkedin.com/jobs/view/fp-a-at-done-4495072620) | &Done | Gurugram, Haryana, India |
-
-### Fund CV (written for India; tweak the header for UK roles): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Investor Services/ Fund Accounting](https://www.linkedin.com/jobs/view/investor-services-fund-accounting-at-the-hird-4493881039) | The HIRD | Bengaluru, Karnataka, India |
+| 2026-11-27 | [Treasury Risk (Mid Office ) - 7 to 12 Yrs - upto 40 L - Immediate Joiner Mumbai](https://www.linkedin.com/jobs/view/treasury-risk-mid-office-7-to-12-yrs-upto-40-l-immediate-joiner-mumbai-at-employee-forums-4493882148) | Employee Forums | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (330 matching)
+**Finance (FP&A) CV** (331 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -43,7 +37,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
 
-**Investment (IB / PE) CV** (115 matching)
+**Investment (IB / PE) CV** (114 matching)
 
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Private Equity -Portfolio Monitoring - Valuation reporting](https://www.linkedin.com/jobs/view/private-equity-portfolio-monitoring-valuation-reporting-at-mnc-4494103990) · MNC · Bengaluru, Karnataka, India · posted 2026-11-24
@@ -68,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Friday 27 November
+
+<details>
+<summary><b>07:41</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Treasury Risk (Mid Office ) - 7 to 12 Yrs - upto 40 L - Immediate Joiner Mumbai](https://www.linkedin.com/jobs/view/treasury-risk-mid-office-7-to-12-yrs-upto-40-l-immediate-joiner-mumbai-at-employee-forums-4493882148) | Employee Forums | Mumbai Metropolitan Region |
+
+</details>
 
 <details>
 <summary><b>06:40</b> · hourly scan · <b>2 new</b> → Finance 1 · Fund 1</summary>
@@ -2166,17 +2171,16 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 07:40</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (300)](#finance-fpa-cv-300) · [Credit (177)](#credit-cv-177) · [Equity (51)](#equity-cv-51) · [Investment (94)](#investment-ib--pe-cv-94) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
+Everything matched so far, newest first within each CV: [Finance (301)](#finance-fpa-cv-301) · [Credit (177)](#credit-cv-177) · [Equity (51)](#equity-cv-51) · [Investment (93)](#investment-ib--pe-cv-93) · [Consulting (33)](#consulting-cv-33) · [Real Estate (15)](#real-estate-cv-15) · [Fund (44)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-44) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
 
-### Finance (FP&A) CV: 300
+### Finance (FP&A) CV: 301
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-27 | [FP&A](https://www.linkedin.com/jobs/view/fp-a-at-done-4495072620) | &Done | Gurugram, Haryana, India |
+| 2026-11-27 | [Treasury Risk (Mid Office ) - 7 to 12 Yrs - upto 40 L - Immediate Joiner Mumbai](https://www.linkedin.com/jobs/view/treasury-risk-mid-office-7-to-12-yrs-upto-40-l-immediate-joiner-mumbai-at-employee-forums-4493882148) | Employee Forums | Mumbai Metropolitan Region |
 | 2026-11-26 | [Junior Financial Analyst](https://www.linkedin.com/jobs/view/junior-financial-analyst-at-asia-pacific-inc-4493458973) | Asia Pacific Inc. | Hyderabad, Telangana, India |
 | 2026-11-26 | [FP&A Analyst](https://www.linkedin.com/jobs/view/fp-a-analyst-at-accelon-consulting-4495255201) | Accelon Consulting | Bengaluru, Karnataka, India |
 | 2026-11-26 | [Financial Analyst (Procurement Finance)](https://www.linkedin.com/jobs/view/financial-analyst-procurement-finance-at-corenza-4495251900) | Corenza | Bengaluru, Karnataka, India |
@@ -2715,7 +2719,7 @@ Everything matched so far, newest first within each CV: [Finance (300)](#finance
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-millennium-4443131347) | Millennium | Bengaluru, Karnataka, India |
 | 2026-11-07 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-4487618675) | Simpledha | Chennai, Tamil Nadu, India |
 
-### Investment (IB / PE) CV: 94
+### Investment (IB / PE) CV: 93
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2765,7 +2769,6 @@ Everything matched so far, newest first within each CV: [Finance (300)](#finance
 | 2026-11-18 | [Capital Markets Operations Associate](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Navi-Mumbai/Capital-Markets-Operations-Associate_AIOC-S01675293-1) | Accenture | Navi Mumbai |
 | 2026-11-18 | [Capital Markets Operations Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01675113-1) | Accenture | Bengaluru |
 | 2026-11-17 | [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) | PRP Professional Edge Associates Pvt Ltd | Mumbai, Maharashtra, India |
-| 2026-11-17 | [Growthally Advisors - Investment Banking Analyst](https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337) | GrowthAlly Advisors Private Limited | Mumbai Metropolitan Region |
 | 2026-11-17 | [Investment Banking Analyst](https://www.linkedin.com/jobs/view/investment-banking-analyst-at-rungta-advisors-4490193707) | Rungta Advisors | Pune City, Maharashtra, India |
 | 2026-11-17 | [Global banking - Investment Banking Associate](https://www.linkedin.com/jobs/view/global-banking-investment-banking-associate-at-ubs-4490442166) | UBS | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Investment Banking Associate](https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077) | Educore | Gurugram, Haryana, India |
@@ -2957,10 +2960,11 @@ Everything matched so far, newest first within each CV: [Finance (300)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>125 roles taken off the list because the firm closed the posting</summary>
+<summary>126 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Fri 27 Nov, 07:42 | Growthally Advisors - Investment Banking Analyst | GrowthAlly Advisors Private Limited |
 | Fri 27 Nov, 03:24 | Financial Analyst - CA | Taglynk |
 | Fri 27 Nov, 03:23 | Growthally Advisors - Analyst - M&amp;A Advisory | GrowthAlly Advisors Private Limited |
 | Fri 27 Nov, 02:41 | Financial Planning Analyst | Vittly Consultants |

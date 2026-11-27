@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T06:48:17.348Z",
+ "generated_at": "2026-11-27T07:50:12.887Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 330,
+   "matching": 331,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 115,
+   "matching": 114,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -1788,11 +1788,6 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 25
-  },
-  "https://www.linkedin.com/jobs/view/growthally-advisors-investment-banking-analyst-at-growthally-advisors-private-limited-4490982337": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 15
   },
   "https://www.linkedin.com/jobs/view/credit-analyst-credit-underwriting-at-emirates-nbd-4490197101": {
    "id": "credit",
@@ -3963,6 +3958,11 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/treasury-risk-mid-office-7-to-12-yrs-upto-40-l-immediate-joiner-mumbai-at-employee-forums-4493882148": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 9
   }
  }
 }
