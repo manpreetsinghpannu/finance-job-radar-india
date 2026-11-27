@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:24:53.659Z",
+ "generated_at": "2026-11-27T18:45:05.536Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 191,
+   "matching": 192,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 118,
+   "matching": 120,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -2988,11 +2988,6 @@
    "cv": "Real Estate CV",
    "score": 22
   },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811292": {
-   "id": "credit",
-   "cv": "Credit CV",
-   "score": 5
-  },
   "https://www.linkedin.com/jobs/view/credit-analyst-4492366996": {
    "id": "credit",
    "cv": "Credit CV",
@@ -4022,6 +4017,21 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/corporate-credit-analysis-greater-china-coverage-officer-at-citi-4486906771": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 9
+  },
+  "https://www.linkedin.com/jobs/view/leveraged-finance-credit-underwriting-officer-at-citi-4486919687": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 15
+  },
+  "https://www.linkedin.com/jobs/view/investment-banking-analyst-front-office-officer-at-citi-4486902954": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 19
   }
  }
 }

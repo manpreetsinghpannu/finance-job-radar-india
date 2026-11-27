@@ -1136,5 +1136,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804 | Fiserv | Credit Risk Analyst | Thane, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/assurance-%E2%80%93-risk-modelling-services-treasury-consulting-specialist-%E2%80%93-associate-at-pwc-acceleration-center-india-4477069571 | PwC Acceleration Center India | Assurance – Risk Modelling Services - Treasury Consulting Specialist – Associate | Bengaluru East, Karnataka, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/executive-asset-valuations-and-data-management-at-macquarie-group-4470146637 | Macquarie Group | Executive | Asset Valuations and Data Management | Gurugram, Haryana, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/corporate-credit-analysis-greater-china-coverage-officer-at-citi-4486906771 | Citi | Corporate Credit Analysis - Greater China Coverage - Officer | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/leveraged-finance-credit-underwriting-officer-at-citi-4486919687 | Citi | Leveraged Finance Credit Underwriting - Officer | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/investment-banking-analyst-front-office-officer-at-citi-4486902954 | Citi | Investment Banking Analyst (Front office) - Officer | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
