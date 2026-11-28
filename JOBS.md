@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 16:50** (UK time) · **771 open roles** at 402 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 17:48** (UK time) · **771 open roles** at 402 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,9 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 16:41** · hourly scan · checked 99 boards · **1 new role**
+**Sat 28 Nov, 17:41** · hourly scan · checked 99 boards · **0 new roles**
 
-### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rehbar-financial-services-4495379543) | Rehbar Financial Services | Bengaluru, Karnataka, India |
+Nothing new this time. The last scan that found something was **Sat 28 Nov, 16:41** (1: Finance 1); open it in the scan log below.
 
 ## Top picks for each CV
 
@@ -62,6 +58,8 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<sub>Nothing new at: 17:41</sub>
 
 <details>
 <summary><b>16:41</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2021,37 +2019,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-20 | [Accountant ( Jaipur)](https://www.linkedin.com/jobs/view/accountant-jaipur-at-naukripay-group-4492895094) | Naukripay group | Jaipur, Rajasthan, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
-<details>
-<summary><b>17:41</b> · hourly scan · <b>4 new</b> → Finance 1 · Credit 1 · Consulting 1 · Other 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rieke-4493107034) | Rieke | Baddi, Himachal Pradesh, India |
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Vendor Risk Analyst](https://www.linkedin.com/jobs/view/vendor-risk-analyst-at-kaufman-rossin-4403196386) | Kaufman Rossin | Bengaluru, Karnataka, India |
-
-#### Consulting CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Business Transformation Consultant-Finance Transformation](https://www.linkedin.com/jobs/view/business-transformation-consultant-finance-transformation-at-ibm-4468381597) | IBM | Bengaluru, Karnataka, India |
-
-#### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [GB/G Portfolio Management Analyst - Indirect Procurement](https://www.linkedin.com/jobs/view/gb-g-portfolio-management-analyst-indirect-procurement-at-basf-4491967270) | BASF | Hyderabad, Telangana, India |
 
 <sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
 
