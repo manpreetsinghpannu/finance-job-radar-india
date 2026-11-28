@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T20:49:52.789Z",
+ "generated_at": "2026-11-28T21:37:49.649Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 201,
+   "matching": 203,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -4127,6 +4127,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-and-collections-specialist-at-kroll-4477718299": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 3
+  },
+  "https://www.linkedin.com/jobs/view/carbon-credit-management-expert-at-ag-horizon-pvt-ltd-4495365606": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 2
   }
  }
 }

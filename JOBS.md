@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 20:49** (UK time) · **775 open roles** at 406 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 21:37** (UK time) · **777 open roles** at 407 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 20:42** · hourly scan · checked 99 boards · **1 new role**
+**Sat 28 Nov, 21:28** · hourly scan · checked 99 boards · **2 new roles**
 
-### Credit CV: 1
+### Credit CV: 2
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-28 | [US SMB Underwriting Analyst](https://www.linkedin.com/jobs/view/us-smb-underwriting-analyst-at-flexiple-4496043502) | Flexiple | India |
+| 2026-11-28 | [Credit and Collections Specialist](https://www.linkedin.com/jobs/view/credit-and-collections-specialist-at-kroll-4477718299) | Kroll | Mumbai Metropolitan Region |
+| 2026-11-28 | [Carbon Credit Management Expert](https://www.linkedin.com/jobs/view/carbon-credit-management-expert-at-ag-horizon-pvt-ltd-4495365606) | AG Horizon Pvt. Ltd. | Gurugram, Haryana, India |
 
 ## Top picks for each CV
 
@@ -27,7 +28,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (201 matching)
+**Credit CV** (203 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -62,6 +63,18 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>21:28</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Credit and Collections Specialist](https://www.linkedin.com/jobs/view/credit-and-collections-specialist-at-kroll-4477718299) | Kroll | Mumbai Metropolitan Region |
+| 2026-11-28 | [Carbon Credit Management Expert](https://www.linkedin.com/jobs/view/carbon-credit-management-expert-at-ag-horizon-pvt-ltd-4495365606) | AG Horizon Pvt. Ltd. | Gurugram, Haryana, India |
+
+</details>
 
 <details>
 <summary><b>20:42</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2050,7 +2063,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (317)](#finance-fpa-cv-317) · [Credit (191)](#credit-cv-191) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
+Everything matched so far, newest first within each CV: [Finance (317)](#finance-fpa-cv-317) · [Credit (193)](#credit-cv-193) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
 
 ### Finance (FP&A) CV: 317
 
@@ -2374,7 +2387,7 @@ Everything matched so far, newest first within each CV: [Finance (317)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 191
+### Credit CV: 193
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2384,6 +2397,8 @@ Everything matched so far, newest first within each CV: [Finance (317)](#finance
 | 2026-11-28 | [US SMB Underwriting Analyst](https://www.linkedin.com/jobs/view/us-smb-underwriting-analyst-at-flexiple-4496043502) | Flexiple | India |
 | 2026-11-28 | [Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-28 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-4495367155) | Axis Bank | Davangere, Karnataka, India |
+| 2026-11-28 | [Credit and Collections Specialist](https://www.linkedin.com/jobs/view/credit-and-collections-specialist-at-kroll-4477718299) | Kroll | Mumbai Metropolitan Region |
+| 2026-11-28 | [Carbon Credit Management Expert](https://www.linkedin.com/jobs/view/carbon-credit-management-expert-at-ag-horizon-pvt-ltd-4495365606) | AG Horizon Pvt. Ltd. | Gurugram, Haryana, India |
 | 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-saraswat-bank-4495092243) | Saraswat Bank | Mumbai, Maharashtra, India |
 | 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804) | Fiserv | Thane, Maharashtra, India |
 | 2026-11-27 | [Credit and Collection Executive](https://www.linkedin.com/jobs/view/credit-and-collection-executive-at-salarype-ai-4495080688) | Salarype Ai | Ahmedabad, Gujarat, India |

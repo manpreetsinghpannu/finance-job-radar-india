@@ -1167,5 +1167,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/monitoring-and-evaluation-officer-south-asia-hub-%E2%80%93-health-systems-learning-and-impact-at-path-4483333221 | PATH | Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact) | Greater Delhi Area | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/associate-senior-financial-reporting-analyst-at-burns-mcdonnell-india-4470325038 | Burns & McDonnell India | Associate Senior Financial Reporting Analyst | Mumbai Metropolitan Region | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/us-smb-underwriting-analyst-at-flexiple-4496043502 | Flexiple | US SMB Underwriting Analyst | India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-and-collections-specialist-at-kroll-4477718299 | Kroll | Credit and Collections Specialist | Mumbai Metropolitan Region | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/carbon-credit-management-expert-at-ag-horizon-pvt-ltd-4495365606 | AG Horizon Pvt. Ltd. | Carbon Credit Management Expert | Gurugram, Haryana, India | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed
