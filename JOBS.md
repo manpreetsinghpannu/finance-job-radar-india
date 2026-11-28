@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 09:47** (UK time) · **763 open roles** at 398 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 10:23** (UK time) · **763 open roles** at 398 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 09:39** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 10:18** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 28 Nov, 07:40** (1: Credit 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 09:39, 08:38</sub>
+<sub>Nothing new at: 10:18, 09:39, 08:38</sub>
 
 <details>
 <summary><b>07:40</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2076,17 +2076,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-21 | [1st Line Ops Risk Analyst](https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219) | FNZ | Gurugram, Haryana, India |
-
-</details>
-
-<details>
-<summary><b>10:01</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [WCR Portfolio Analytics - Associate](https://www.linkedin.com/jobs/view/wcr-portfolio-analytics-associate-at-jpmorganchase-4468804954) | JPMorganChase | Mumbai, Maharashtra, India |
 
 </details>
 
