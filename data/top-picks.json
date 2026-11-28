@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T14:17:05.858Z",
+ "generated_at": "2026-11-28T14:50:20.890Z",
  "order": [
   "finance",
   "credit",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 72,
+   "matching": 71,
    "picks": [
     {
      "title": "Equity Research Analyst - Global Research Center, Mumbai",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 121,
+   "matching": 120,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -3257,11 +3257,6 @@
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
    "score": 13
-  },
-  "https://www.linkedin.com/jobs/view/investment-banking-expert-remote-at-yo-hr-consultancy-4493012478": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 6
   },
   "https://www.linkedin.com/jobs/view/treasury-back-office-officer-at-vanderlande-4484643055": {
    "id": "finance",
