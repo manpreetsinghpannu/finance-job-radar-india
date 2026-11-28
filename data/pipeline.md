@@ -1153,5 +1153,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-analyst-remote-at-joblet-ai-4494238538 | Joblet-AI | Research Analyst (Remote) | Bangalore Urban, Karnataka, India | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437 | Vowels of the People Association | Research Monitoring and Evaluation Officer | Pune Division, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-officer-4495367155 | Axis Bank | Credit Officer | Davangere, Karnataka, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/trust-accountant-at-freadom-edu-4495373361 | Freadom Edu | Trust Accountant | Gurugram, Haryana, India | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed
