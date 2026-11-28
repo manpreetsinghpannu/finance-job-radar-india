@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T17:48:22.956Z",
+ "generated_at": "2026-11-28T18:49:43.717Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 345,
+   "matching": 344,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 199,
+   "matching": 200,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -1282,11 +1282,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 5
-  },
-  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 8
   },
   "https://morganstanley.eightfold.ai/careers?pid=549800817695&domain=morganstanley.com": {
    "id": "fund",
@@ -4107,6 +4102,16 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/credit-analyst-at-abc-aditya-birla-housing-finance-limited-4463353657": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/monitoring-and-evaluation-officer-south-asia-hub-%E2%80%93-health-systems-learning-and-impact-at-path-4483333221": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

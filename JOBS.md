@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 17:48** (UK time) · **771 open roles** at 402 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 18:49** (UK time) · **772 open roles** at 403 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,20 +10,30 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 17:41** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 18:42** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Sat 28 Nov, 16:41** (1: Finance 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-abc-aditya-birla-housing-finance-limited-4463353657) | ABC - Aditya Birla Housing Finance Limited | Maharashtra, India |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact)](https://www.linkedin.com/jobs/view/monitoring-and-evaluation-officer-south-asia-hub-%E2%80%93-health-systems-learning-and-impact-at-path-4483333221) | PATH | Greater Delhi Area |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (345 matching)
+**Finance (FP&A) CV** (344 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (199 matching)
+**Credit CV** (200 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -58,6 +68,23 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>18:42</b> · hourly scan · <b>2 new</b> → Credit 1 · Other 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-abc-aditya-birla-housing-finance-limited-4463353657) | ABC - Aditya Birla Housing Finance Limited | Maharashtra, India |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact)](https://www.linkedin.com/jobs/view/monitoring-and-evaluation-officer-south-asia-hub-%E2%80%93-health-systems-learning-and-impact-at-path-4483333221) | PATH | Greater Delhi Area |
+
+</details>
 
 <sub>Nothing new at: 17:41</sub>
 
@@ -2011,24 +2038,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>18:40</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
-
-#### Finance (FP&A) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-20 | [Accountant ( Jaipur)](https://www.linkedin.com/jobs/view/accountant-jaipur-at-naukripay-group-4492895094) | Naukripay group | Jaipur, Rajasthan, India |
-
-<sub>1 more found by this scan are no longer listed (posting closed, or filtered out by a later filter change).</sub>
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (315)](#finance-fpa-cv-315) · [Credit (189)](#credit-cv-189) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (314)](#finance-fpa-cv-314) · [Credit (190)](#credit-cv-190) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
 
-### Finance (FP&A) CV: 315
+### Finance (FP&A) CV: 314
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2279,7 +2293,6 @@ Everything matched so far, newest first within each CV: [Finance (315)](#finance
 | 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-4482442851) | Ingersoll Rand | Ahmedabad, Gujarat, India |
 | 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-compressor-systems-services-4489562782) | Ingersoll Rand Compressor Systems & Services | Ahmedabad, Gujarat, India |
 | 2026-11-13 | [Financial Planning & Analysis Representa](https://www.linkedin.com/jobs/view/financial-planning-analysis-representa-at-accenture-in-india-4490736944) | Accenture in India | Chennai, Tamil Nadu, India |
-| 2026-11-13 | [Analyst - SP Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | 2026-11-13 | [Analyst Macro Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-Control_JR-0000131221) | Barclays | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park |
 | 2026-11-13 | [Analyst Macro Product control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-control_JR-0000114732) | Barclays | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park |
 | 2026-11-13 | [Associate - Treasury](https://www.linkedin.com/jobs/view/associate-treasury-at-tiaa-4472564544) | TIAA | Mumbai Metropolitan Region |
@@ -2348,12 +2361,13 @@ Everything matched so far, newest first within each CV: [Finance (315)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 189
+### Credit CV: 190
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-28 | [Credit Analyst – Risk & Digital Lending](https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-risk-digital-lending-at-carcred-4494243672) | CarCred | Raipur, Chhattisgarh, India |
 | 2026-11-28 | [Credit Analyst_Support Services-Credit_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+| 2026-11-28 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-abc-aditya-birla-housing-finance-limited-4463353657) | ABC - Aditya Birla Housing Finance Limited | Maharashtra, India |
 | 2026-11-28 | [Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-28 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-4495367155) | Axis Bank | Davangere, Karnataka, India |
 | 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-saraswat-bank-4495092243) | Saraswat Bank | Mumbai, Maharashtra, India |
@@ -2807,10 +2821,11 @@ Everything matched so far, newest first within each CV: [Finance (315)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 27
+### Other (fits no CV closely, may still be worth a look): 28
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-28 | [Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact)](https://www.linkedin.com/jobs/view/monitoring-and-evaluation-officer-south-asia-hub-%E2%80%93-health-systems-learning-and-impact-at-path-4483333221) | PATH | Greater Delhi Area |
 | 2026-11-27 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-27 | [Research Monitoring and Evaluation Officer](https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437) | Vowels of the People Association | Pune Division, Maharashtra, India |
 | 2026-11-26 | [TCIO Product Controller Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811561) | JPMorgan Chase | Mumbai, Maharashtra, India |
@@ -2842,10 +2857,11 @@ Everything matched so far, newest first within each CV: [Finance (315)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>120 roles taken off the list because the firm closed the posting</summary>
+<summary>119 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 28 Nov, 18:43 | Analyst - SP Product Control | Barclays |
 | Sat 28 Nov, 14:47 | Investment Banking Expert - Remote | YO HR Consultancy |
 | Sat 28 Nov, 07:43 | Investment Banking Associate | Educore |
 | Sat 28 Nov, 07:42 | Equity Research Analyst | Risevestors Institute |
@@ -2964,7 +2980,5 @@ Everything matched so far, newest first within each CV: [Finance (315)](#finance
 | Sat 21 Nov, 19:57 | Analyst -Valuations Cotrol | Barclays |
 | Sat 21 Nov, 19:56 | Analyst - Product Control Financial reporting | Barclays |
 | Sat 21 Nov, 19:56 | Quantitative Researcher – Alpha Strategies | Prosperity Wealth Management Pvt. Ltd. |
-| Sat 21 Nov, 18:43 | Associate - Hospitality Feasibility & Valuation | Zipped Hospitality |
-| Sat 21 Nov, 18:43 | Investment Banking Analyst | Aabhar Corporate Services Limited |
 
 </details>
