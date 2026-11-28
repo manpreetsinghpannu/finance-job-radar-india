@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T19:53:11.850Z",
+ "generated_at": "2026-11-28T20:49:52.789Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 200,
+   "matching": 201,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -222,7 +222,7 @@
   {
    "id": "fund",
    "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "matching": 56,
+   "matching": 55,
    "picks": [
     {
      "title": "Analyst – Fund Accounting",
@@ -1932,11 +1932,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 14
-  },
-  "https://www.linkedin.com/jobs/view/fund-accounting-supervisor-at-intellectual-capital-hr-consulting-pvt-ltd-4490401515": {
-   "id": "fund",
-   "cv": "Fund CV (written for India; tweak the header for UK roles)",
-   "score": 11
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-gartner-4491446178": {
    "id": "finance",
@@ -4127,6 +4122,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
+  },
+  "https://www.linkedin.com/jobs/view/us-smb-underwriting-analyst-at-flexiple-4496043502": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 18
   }
  }
 }

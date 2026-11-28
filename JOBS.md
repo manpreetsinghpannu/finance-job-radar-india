@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 19:53** (UK time) · **775 open roles** at 405 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 20:49** (UK time) · **775 open roles** at 406 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,13 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 19:42** · hourly scan · checked 99 boards · **1 new role**
+**Sat 28 Nov, 20:42** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 1
+### Credit CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-28 | [Associate Senior Financial Reporting Analyst](https://www.linkedin.com/jobs/view/associate-senior-financial-reporting-analyst-at-burns-mcdonnell-india-4470325038) | Burns & McDonnell India | Mumbai Metropolitan Region |
+| 2026-11-28 | [US SMB Underwriting Analyst](https://www.linkedin.com/jobs/view/us-smb-underwriting-analyst-at-flexiple-4496043502) | Flexiple | India |
 
 ## Top picks for each CV
 
@@ -27,7 +27,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
 
-**Credit CV** (200 matching)
+**Credit CV** (201 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -52,7 +52,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Property Accountant, Commercial Real Estate](https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532) · Versatile Club Employer of Record · India · posted 2026-11-23
 2. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Fund CV (written for India; tweak the header for UK roles)** (56 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (55 matching)
 
 1. [Analyst – Fund Accounting](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007) · BNP Paribas · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) · Deutsche Bank · Jaipur, Rajasthan, India · posted 2026-11-16
@@ -62,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>20:42</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [US SMB Underwriting Analyst](https://www.linkedin.com/jobs/view/us-smb-underwriting-analyst-at-flexiple-4496043502) | Flexiple | India |
+
+</details>
 
 <details>
 <summary><b>19:42</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
@@ -2035,23 +2046,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 23:12, 22:40, 21:42, 20:42</sub>
-
-<details>
-<summary><b>19:56</b> · hourly scan · <b>2 new</b> → Equity 2</summary>
-
-#### Equity CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Analyst - Investment Research](https://www.linkedin.com/jobs/view/analyst-investment-research-at-linedata-4476853339) | Linedata | Mumbai Metropolitan Region |
-| 2026-11-21 | [Associate - Investment Research](https://www.linkedin.com/jobs/view/associate-investment-research-at-linedata-4476855229) | Linedata | Mumbai Metropolitan Region |
-
-</details>
+<sub>Nothing new at: 23:12, 22:40, 21:42</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (317)](#finance-fpa-cv-317) · [Credit (190)](#credit-cv-190) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
+Everything matched so far, newest first within each CV: [Finance (317)](#finance-fpa-cv-317) · [Credit (191)](#credit-cv-191) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (42)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-42) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
 
 ### Finance (FP&A) CV: 317
 
@@ -2375,13 +2374,14 @@ Everything matched so far, newest first within each CV: [Finance (317)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 190
+### Credit CV: 191
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-28 | [Credit Analyst – Risk & Digital Lending](https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-risk-digital-lending-at-carcred-4494243672) | CarCred | Raipur, Chhattisgarh, India |
 | 2026-11-28 | [Credit Analyst_Support Services-Credit_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-28 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-abc-aditya-birla-housing-finance-limited-4463353657) | ABC - Aditya Birla Housing Finance Limited | Maharashtra, India |
+| 2026-11-28 | [US SMB Underwriting Analyst](https://www.linkedin.com/jobs/view/us-smb-underwriting-analyst-at-flexiple-4496043502) | Flexiple | India |
 | 2026-11-28 | [Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-28 | [Credit Officer](https://www.linkedin.com/jobs/view/credit-officer-4495367155) | Axis Bank | Davangere, Karnataka, India |
 | 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-saraswat-bank-4495092243) | Saraswat Bank | Mumbai, Maharashtra, India |
@@ -2787,7 +2787,7 @@ Everything matched so far, newest first within each CV: [Finance (317)](#finance
 | — | [AM-Asset Management](https://careers.nomura.com/Nomura/job/Gurugram-AM-Asset-Management/1437613200/) | Nomura | Gurugram |
 | — | [Analyst/Associate, Real Estate Debt](https://careers.gic.com.sg/job/London-AnalystAssociate%2C-Real-Estate-Debt/1369516266/) | GIC |  |
 
-### Fund CV (written for India; tweak the header for UK roles): 43
+### Fund CV (written for India; tweak the header for UK roles): 42
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2813,7 +2813,6 @@ Everything matched so far, newest first within each CV: [Finance (317)](#finance
 | 2026-11-18 | [Hedge Fund Accountant](https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-apex-group-ltd-india-branch-4491829740) | Apex Group Ltd | Bengaluru, Karnataka, India |
 | 2026-11-18 | [Hedge Fund Accountant](https://www.linkedin.com/jobs/view/hedge-fund-accountant-at-thoughtfocus-4491839830) | ThoughtFocus | Bengaluru, Karnataka, India |
 | 2026-11-17 | [Fund Accountant - Executive](https://www.linkedin.com/jobs/view/fund-accountant-executive-at-tmf-group-4490408755) | TMF Group | Mumbai Metropolitan Region |
-| 2026-11-17 | [Fund Accounting Supervisor](https://www.linkedin.com/jobs/view/fund-accounting-supervisor-at-intellectual-capital-hr-consulting-pvt-ltd-4490401515) | Intellectual Capital HR Consulting Pvt. Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-17 | [Operations Team Member_Capital Market Operation-Fund Accounting_Thane](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/275535) | Kotak Mahindra Bank | Thane, Maharashtra, India |
 | 2026-11-17 | [Fund Accounting](https://www.linkedin.com/jobs/view/fund-accounting-at-artech-4491174312) | Artech | Bangalore Urban, Karnataka, India |
 | 2026-11-16 | [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) | Deutsche Bank | Jaipur, Rajasthan, India |
@@ -2871,10 +2870,11 @@ Everything matched so far, newest first within each CV: [Finance (317)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>118 roles taken off the list because the firm closed the posting</summary>
+<summary>116 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
+| Sat 28 Nov, 20:43 | Fund Accounting Supervisor | Intellectual Capital HR Consulting Pvt. Ltd. |
 | Sat 28 Nov, 14:47 | Investment Banking Expert - Remote | YO HR Consultancy |
 | Sat 28 Nov, 07:43 | Investment Banking Associate | Educore |
 | Sat 28 Nov, 07:42 | Equity Research Analyst | Risevestors Institute |
@@ -2990,8 +2990,5 @@ Everything matched so far, newest first within each CV: [Finance (317)](#finance
 | Sun 22 Nov, 08:54 | IN_Associate_ Financial Due Diligence /Transaction Services _Deals_Advisory_Bangalore | PwC India |
 | Sun 22 Nov, 03:08 | FP&A Analyst (Remote) | Joblet-AI |
 | Sun 22 Nov, 02:38 | Financial Analyst | Jobs4PanIndia |
-| Sat 21 Nov, 19:57 | Analyst -Valuations Cotrol | Barclays |
-| Sat 21 Nov, 19:56 | Analyst - Product Control Financial reporting | Barclays |
-| Sat 21 Nov, 19:56 | Quantitative Researcher – Alpha Strategies | Prosperity Wealth Management Pvt. Ltd. |
 
 </details>
