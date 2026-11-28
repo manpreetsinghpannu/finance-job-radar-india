@@ -1154,5 +1154,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437 | Vowels of the People Association | Research Monitoring and Evaluation Officer | Pune Division, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-officer-4495367155 | Axis Bank | Credit Officer | Davangere, Karnataka, India | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/trust-accountant-at-freadom-edu-4495373361 | Freadom Edu | Trust Accountant | Gurugram, Haryana, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-bl0158-at-dbs-bank-4443365576 | DBS Bank | Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking (BL0158) | Chennai, Tamil Nadu, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/specialist-financial-planning-analysis-representative-at-bny-4479792198 | BNY | Specialist, Financial Planning & Analysis Representative | Pune/Pimpri-Chinchwad Area | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-risk-digital-lending-at-carcred-4494243672 | CarCred | Credit Analyst – Risk & Digital Lending | Raipur, Chhattisgarh, India | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed
