@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 18:49** (UK time) · **772 open roles** at 403 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 19:08** (UK time) · **774 open roles** at 404 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,13 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 18:42** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 28 Nov, 19:01** · hourly scan · checked 99 boards · **3 new roles**
+
+### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-vk-taneja-associates-4495373071) | VK TANEJA & ASSOCIATES | South Delhi, Delhi, India |
 
 ### Credit CV: 1
 
@@ -28,7 +34,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (344 matching)
+**Finance (FP&A) CV** (346 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -70,7 +76,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 28 November
 
 <details>
-<summary><b>18:42</b> · hourly scan · <b>2 new</b> → Credit 1 · Other 1</summary>
+<summary><b>19:01</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Other 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-vk-taneja-associates-4495373071) | VK TANEJA & ASSOCIATES | South Delhi, Delhi, India |
 
 #### Credit CV: 1
 
@@ -2040,9 +2052,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (314)](#finance-fpa-cv-314) · [Credit (190)](#credit-cv-190) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
+Everything matched so far, newest first within each CV: [Finance (316)](#finance-fpa-cv-316) · [Credit (190)](#credit-cv-190) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
 
-### Finance (FP&A) CV: 314
+### Finance (FP&A) CV: 316
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2050,6 +2062,7 @@ Everything matched so far, newest first within each CV: [Finance (314)](#finance
 | 2026-11-28 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762) | Global Giant In Construction Space | Noida, Uttar Pradesh, India |
 | 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rehbar-financial-services-4495379543) | Rehbar Financial Services | Bengaluru, Karnataka, India |
 | 2026-11-28 | [Finance Business Partner CDH](https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509) | ERM | New Delhi, Delhi, India |
+| 2026-11-28 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-vk-taneja-associates-4495373071) | VK TANEJA & ASSOCIATES | South Delhi, Delhi, India |
 | 2026-11-28 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-freadom-edu-4495373361) | Freadom Edu | Gurugram, Haryana, India |
 | 2026-11-28 | [Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking (BL0158)](https://www.linkedin.com/jobs/view/officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-bl0158-at-dbs-bank-4443365576) | DBS Bank | Chennai, Tamil Nadu, India |
 | 2026-11-27 | [Finance Analyst II, Finance And Business Services (FABS)](https://www.linkedin.com/jobs/view/finance-analyst-ii-finance-and-business-services-fabs-at-amazon-4495801788) | Amazon | Bengaluru, Karnataka, India |
@@ -2857,7 +2870,7 @@ Everything matched so far, newest first within each CV: [Finance (314)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>119 roles taken off the list because the firm closed the posting</summary>
+<summary>118 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
