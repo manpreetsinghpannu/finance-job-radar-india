@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 10:23** (UK time) · **763 open roles** at 398 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 10:48** (UK time) · **763 open roles** at 398 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 10:18** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 10:41** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 28 Nov, 07:40** (1: Credit 1); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 10:18, 09:39, 08:38</sub>
+<sub>Nothing new at: 10:41, 10:18, 09:39, 08:38</sub>
 
 <details>
 <summary><b>07:40</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
@@ -2068,17 +2068,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>10:40</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [1st Line Ops Risk Analyst](https://www.linkedin.com/jobs/view/1st-line-ops-risk-analyst-at-fnz-4475952219) | FNZ | Gurugram, Haryana, India |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (188)](#credit-cv-188) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
@@ -2889,7 +2878,7 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>126 roles taken off the list because the firm closed the posting</summary>
+<summary>125 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3018,6 +3007,5 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 | Sat 21 Nov, 14:37 | Quality Executive - Retail MFB - Credit - Adilabad - Asifabad - J Grades | Tata Capital |
 | Sat 21 Nov, 13:40 | Credit Executive | Self-employed |
 | Sat 21 Nov, 12:44 | Corporate Finance Specialist | Vittly Consultants |
-| Sat 21 Nov, 10:41 | Credit Underwriter and Risk Management | Z1N Capital |
 
 </details>
