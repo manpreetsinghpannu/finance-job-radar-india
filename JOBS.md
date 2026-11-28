@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 13:52** (UK time) · **770 open roles** at 402 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 14:17** (UK time) · **768 open roles** at 401 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 13:41** · hourly scan · checked 99 boards · **3 new roles**
+**Sat 28 Nov, 14:07** · hourly scan · checked 99 boards · **1 new role**
 
-### Finance (FP&A) CV: 2
+### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-28 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762) | Global Giant In Construction Space | Noida, Uttar Pradesh, India |
-| 2026-11-28 | [Finance Business Partner CDH](https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509) | ERM | New Delhi, Delhi, India |
-
-### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-28 | [Junior Research Analyst](https://www.linkedin.com/jobs/view/junior-research-analyst-at-knova-wealth-financial-services-4494257195) | Knova Wealth Financial Services | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (344 matching)
+**Finance (FP&A) CV** (343 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -71,20 +64,13 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 28 November
 
 <details>
-<summary><b>13:41</b> · hourly scan · <b>3 new</b> → Finance 2 · Equity 1</summary>
+<summary><b>14:07</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
 
-#### Finance (FP&A) CV: 2
+#### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-28 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762) | Global Giant In Construction Space | Noida, Uttar Pradesh, India |
-| 2026-11-28 | [Finance Business Partner CDH](https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509) | ERM | New Delhi, Delhi, India |
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-28 | [Junior Research Analyst](https://www.linkedin.com/jobs/view/junior-research-analyst-at-knova-wealth-financial-services-4494257195) | Knova Wealth Financial Services | Mumbai, Maharashtra, India |
 
 </details>
 
@@ -2075,15 +2061,14 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (314)](#finance-fpa-cv-314) · [Credit (189)](#credit-cv-189) · [Equity (52)](#equity-cv-52) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (313)](#finance-fpa-cv-313) · [Credit (189)](#credit-cv-189) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
-### Finance (FP&A) CV: 314
+### Finance (FP&A) CV: 313
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999) | Altum Credo Home Finance Private Limited | Pune Division, Maharashtra, India |
 | 2026-11-28 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762) | Global Giant In Construction Space | Noida, Uttar Pradesh, India |
-| 2026-11-28 | [Finance Business Partner CDH](https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509) | ERM | New Delhi, Delhi, India |
 | 2026-11-28 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-freadom-edu-4495373361) | Freadom Edu | Gurugram, Haryana, India |
 | 2026-11-28 | [Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking (BL0158)](https://www.linkedin.com/jobs/view/officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-bl0158-at-dbs-bank-4443365576) | DBS Bank | Chennai, Tamil Nadu, India |
 | 2026-11-27 | [Finance Analyst II, Finance And Business Services (FABS)](https://www.linkedin.com/jobs/view/finance-analyst-ii-finance-and-business-services-fabs-at-amazon-4495801788) | Amazon | Bengaluru, Karnataka, India |

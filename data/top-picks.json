@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T13:52:16.899Z",
+ "generated_at": "2026-11-28T14:17:05.858Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 344,
+   "matching": 343,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -4088,20 +4088,10 @@
    "cv": "Credit CV",
    "score": 28
   },
-  "https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 14
-  },
   "https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762": {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
-  },
-  "https://www.linkedin.com/jobs/view/junior-research-analyst-at-knova-wealth-financial-services-4494257195": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 19
   }
  }
 }
