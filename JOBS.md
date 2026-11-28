@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 01:44** (UK time) · **760 open roles** at 396 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 02:03** (UK time) · **760 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 01:34** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 01:55** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:46** (2: Credit 2); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 01:34</sub>
+<sub>Nothing new at: 01:55</sub>
 
 <details>
 <summary><b>00:46</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
@@ -2103,8 +2103,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 | — | [Consultant / Oracle Planning / Delhi / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Delhi-Consultant-Oracle-Planning-Delhi-Finance-Transformation-Business-Finance/60080644/) | Deloitte India | Delhi |
 
 </details>
-
-<sub>Nothing new at: 01:46</sub>
 
 ## All open roles by CV
 
