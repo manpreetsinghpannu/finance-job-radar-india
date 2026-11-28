@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:51:03.384Z",
+ "generated_at": "2026-11-28T00:56:30.271Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 192,
+   "matching": 194,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -4042,6 +4042,16 @@
    "id": "equity",
    "cv": "Equity CV",
    "score": 28
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 19
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 13
   }
  }
 }

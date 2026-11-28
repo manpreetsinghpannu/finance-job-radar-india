@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Fri 27 Nov, 23:51** (UK time) · **758 open roles** at 396 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 00:56** (UK time) · **760 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,14 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Fri 27 Nov, 23:40** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 00:46** · hourly scan · checked 99 boards · **2 new roles**
 
-Nothing new this time. The last scan that found something was **Fri 27 Nov, 21:41** (1: Equity 1); open it in the scan log below.
+### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Credit Analyst_Support Services-Credit_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+| 2026-11-28 | [Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -23,7 +28,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) · Galaxy · Mumbai, Maharashtra, India · posted 2026-11-25
 
-**Credit CV** (192 matching)
+**Credit CV** (194 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
@@ -56,6 +61,20 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 ## Scan log (last 7 days)
 
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
+
+### Saturday 28 November
+
+<details>
+<summary><b>00:46</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
+
+#### Credit CV: 2
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Credit Analyst_Support Services-Credit_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+| 2026-11-28 | [Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+
+</details>
 
 ### Friday 27 November
 
@@ -2088,11 +2107,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 01:46, 00:41</sub>
+<sub>Nothing new at: 01:46</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (184)](#credit-cv-184) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (186)](#credit-cv-186) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
 ### Finance (FP&A) CV: 309
 
@@ -2408,10 +2427,12 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 184
+### Credit CV: 186
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-28 | [Credit Analyst_Support Services-Credit_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
+| 2026-11-28 | [Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-saraswat-bank-4495092243) | Saraswat Bank | Mumbai, Maharashtra, India |
 | 2026-11-27 | [Credit Risk Analyst](https://www.linkedin.com/jobs/view/credit-risk-analyst-at-fiserv-4495311804) | Fiserv | Thane, Maharashtra, India |
 | 2026-11-27 | [Credit and Collection Executive](https://www.linkedin.com/jobs/view/credit-and-collection-executive-at-salarype-ai-4495080688) | Salarype Ai | Ahmedabad, Gujarat, India |

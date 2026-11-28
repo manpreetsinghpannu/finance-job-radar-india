@@ -1142,4 +1142,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/commercial-fp-a-analyst-at-cargo-players-4495326351 | Cargo Players | Commercial & FP&A Analyst | New Delhi, Delhi, India | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/equity-research-analyst-at-risevestors-institute-4495328786 | Risevestors Institute | Equity Research Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-27 | note: via LinkedIn
 
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564 | Kotak Mahindra Bank | Credit Analyst_Support Services-Credit_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-28
+- [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579 | Kotak Mahindra Bank | Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-28
+
 ## Processed
