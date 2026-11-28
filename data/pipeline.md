@@ -1157,5 +1157,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-bl0158-at-dbs-bank-4443365576 | DBS Bank | Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking (BL0158) | Chennai, Tamil Nadu, India | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/specialist-financial-planning-analysis-representative-at-bny-4479792198 | BNY | Specialist, Financial Planning & Analysis Representative | Pune/Pimpri-Chinchwad Area | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-risk-digital-lending-at-carcred-4494243672 | CarCred | Credit Analyst – Risk & Digital Lending | Raipur, Chhattisgarh, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509 | ERM | Finance Business Partner CDH | New Delhi, Delhi, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762 | Global Giant In Construction Space | Financial Planning Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/junior-research-analyst-at-knova-wealth-financial-services-4494257195 | Knova Wealth Financial Services | Junior Research Analyst | Mumbai, Maharashtra, India | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed

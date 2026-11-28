@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T12:51:37.653Z",
+ "generated_at": "2026-11-28T13:52:16.899Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 342,
+   "matching": 344,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 71,
+   "matching": 72,
    "picks": [
     {
      "title": "Equity Research Analyst - Global Research Center, Mumbai",
@@ -4087,6 +4087,21 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 28
+  },
+  "https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 14
+  },
+  "https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/junior-research-analyst-at-knova-wealth-financial-services-4494257195": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 19
   }
  }
 }
