@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 15:59** (UK time) · **770 open roles** at 401 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 16:50** (UK time) · **771 open roles** at 402 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,26 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 15:51** · hourly scan · checked 99 boards · **3 new roles**
+**Sat 28 Nov, 16:41** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-28 | [Finance Business Partner CDH](https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509) | ERM | New Delhi, Delhi, India |
-
-### Investment (IB / PE) CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-27 | [Credit Analysis & Valuation – Officer](https://www.linkedin.com/jobs/view/credit-analysis-valuation-%E2%80%93-officer-at-citi-4486907751) | Citi | Mumbai, Maharashtra, India |
-| 2026-11-28 | [Team Member - Valuation & IFRS](https://www.linkedin.com/jobs/view/team-member-valuation-ifrs-at-aditya-birla-health-insurance-company-limited-4463351993) | Aditya Birla Health Insurance Company Limited | Maharashtra, India |
+| 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rehbar-financial-services-4495379543) | Rehbar Financial Services | Bengaluru, Karnataka, India |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (344 matching)
+**Finance (FP&A) CV** (345 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -69,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>16:41</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rehbar-financial-services-4495379543) | Rehbar Financial Services | Bengaluru, Karnataka, India |
+
+</details>
 
 <details>
 <summary><b>15:51</b> · hourly scan · <b>3 new</b> → Finance 1 · Investment 2</summary>
@@ -2053,18 +2057,17 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 16:38</sub>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (314)](#finance-fpa-cv-314) · [Credit (189)](#credit-cv-189) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
+Everything matched so far, newest first within each CV: [Finance (315)](#finance-fpa-cv-315) · [Credit (189)](#credit-cv-189) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
-### Finance (FP&A) CV: 314
+### Finance (FP&A) CV: 315
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999) | Altum Credo Home Finance Private Limited | Pune Division, Maharashtra, India |
 | 2026-11-28 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762) | Global Giant In Construction Space | Noida, Uttar Pradesh, India |
+| 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rehbar-financial-services-4495379543) | Rehbar Financial Services | Bengaluru, Karnataka, India |
 | 2026-11-28 | [Finance Business Partner CDH](https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509) | ERM | New Delhi, Delhi, India |
 | 2026-11-28 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-freadom-edu-4495373361) | Freadom Edu | Gurugram, Haryana, India |
 | 2026-11-28 | [Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking (BL0158)](https://www.linkedin.com/jobs/view/officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-bl0158-at-dbs-bank-4443365576) | DBS Bank | Chennai, Tamil Nadu, India |
@@ -2872,7 +2875,7 @@ Everything matched so far, newest first within each CV: [Finance (314)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>122 roles taken off the list because the firm closed the posting</summary>
+<summary>120 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -2996,7 +2999,5 @@ Everything matched so far, newest first within each CV: [Finance (314)](#finance
 | Sat 21 Nov, 19:56 | Quantitative Researcher – Alpha Strategies | Prosperity Wealth Management Pvt. Ltd. |
 | Sat 21 Nov, 18:43 | Associate - Hospitality Feasibility & Valuation | Zipped Hospitality |
 | Sat 21 Nov, 18:43 | Investment Banking Analyst | Aabhar Corporate Services Limited |
-| Sat 21 Nov, 16:40 | Quality Executive - Retail MFB - Credit - Bejjanki - Ganneruvaram - J Grades | Tata Capital |
-| Sat 21 Nov, 16:38 | Treasury Executive | Forsan Foods & Consumer Products India Private Limited |
 
 </details>
