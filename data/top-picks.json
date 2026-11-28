@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T03:49:23.876Z",
+ "generated_at": "2026-11-28T04:37:35.009Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 339,
+   "matching": 340,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 120,
+   "matching": 121,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -4052,6 +4052,16 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 13
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01660005-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999": {
+   "id": "finance",
+   "cv": "Finance (FP&A) CV",
+   "score": 18
   }
  }
 }
