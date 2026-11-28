@@ -1158,5 +1158,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.linkedin.com/jobs/view/specialist-financial-planning-analysis-representative-at-bny-4479792198 | BNY | Specialist, Financial Planning & Analysis Representative | Pune/Pimpri-Chinchwad Area | posted: 2026-11-27 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/credit-analyst-%E2%80%93-risk-digital-lending-at-carcred-4494243672 | CarCred | Credit Analyst – Risk & Digital Lending | Raipur, Chhattisgarh, India | posted: 2026-11-28 | note: via LinkedIn
 - [ ] https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762 | Global Giant In Construction Space | Financial Planning Analyst | Noida, Uttar Pradesh, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509 | ERM | Finance Business Partner CDH | New Delhi, Delhi, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/credit-analysis-valuation-%E2%80%93-officer-at-citi-4486907751 | Citi | Credit Analysis & Valuation – Officer | Mumbai, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/team-member-valuation-ifrs-at-aditya-birla-health-insurance-company-limited-4463351993 | Aditya Birla Health Insurance Company Limited | Team Member - Valuation & IFRS | Maharashtra, India | posted: 2026-11-28 | note: via LinkedIn
 
 ## Processed
