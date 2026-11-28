@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 02:49** (UK time) · **760 open roles** at 396 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 03:49** (UK time) · **760 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 02:42** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 03:40** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:46** (2: Credit 2); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 02:42, 01:55</sub>
+<sub>Nothing new at: 03:40, 02:42, 01:55</sub>
 
 <details>
 <summary><b>00:46</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
@@ -2073,18 +2073,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 05:40, 04:40, 03:40</sub>
-
-<details>
-<summary><b>02:57</b> · hourly scan · <b>1 new</b> → Equity 1</summary>
-
-#### Equity CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Stock market dealer and technical research analyst](https://www.linkedin.com/jobs/view/stock-market-dealer-and-technical-research-analyst-at-rising-bull-4492856795) | RISING BULL | Raipur district, Chhattisgarh, India |
-
-</details>
+<sub>Nothing new at: 05:40, 04:40</sub>
 
 ## All open roles by CV
 
