@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:52:25.821Z",
+ "generated_at": "2026-11-28T05:50:30.027Z",
  "order": [
   "finance",
   "credit",
@@ -189,7 +189,7 @@
   {
    "id": "real_estate",
    "cv": "Real Estate CV",
-   "matching": 51,
+   "matching": 50,
    "picks": [
     {
      "title": "Property Accountant, Commercial Real Estate",
@@ -1277,11 +1277,6 @@
    "id": "credit",
    "cv": "Credit CV",
    "score": 5
-  },
-  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210808678": {
-   "id": "real_estate",
-   "cv": "Real Estate CV",
-   "score": 4
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Institutional-Credit-Management---Underwriter---Officer_26944313": {
    "id": "credit",
@@ -4062,6 +4057,11 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 18
+  },
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01660005-1": {
+   "id": "investment",
+   "cv": "Investment (IB / PE) CV",
+   "score": 2
   }
  }
 }
