@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:37:35.009Z",
+ "generated_at": "2026-11-28T04:52:25.821Z",
  "order": [
   "finance",
   "credit",
@@ -158,8 +158,20 @@
   {
    "id": "consulting",
    "cv": "Consulting CV",
-   "matching": 62,
+   "matching": 63,
    "picks": [
+    {
+     "title": "Corporate Strategy Analyst",
+     "company": "ERM",
+     "location": "Greater Kolkata Area",
+     "posted": "2026-11-28",
+     "url": "https://www.linkedin.com/jobs/view/corporate-strategy-analyst-at-erm-4494246012",
+     "score": 18,
+     "why": [
+      "Strategy Analyst"
+     ],
+     "sponsor": null
+    },
     {
      "title": "Operations & Strategy Analyst",
      "company": "Samarthya Financial Services Pvt Ltd",
@@ -169,18 +181,6 @@
      "score": 18,
      "why": [
       "Strategy Analyst"
-     ],
-     "sponsor": null
-    },
-    {
-     "title": "Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)",
-     "company": "Visa",
-     "location": "IN - Bengaluru, India",
-     "posted": "2026-11-24",
-     "url": "https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W",
-     "score": 16,
-     "why": [
-      "Consulting Analyst"
      ],
      "sponsor": null
     }
@@ -4053,10 +4053,10 @@
    "cv": "Credit CV",
    "score": 13
   },
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01660005-1": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 2
+  "https://www.linkedin.com/jobs/view/corporate-strategy-analyst-at-erm-4494246012": {
+   "id": "consulting",
+   "cv": "Consulting CV",
+   "score": 18
   },
   "https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999": {
    "id": "finance",

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 04:37** (UK time) · **762 open roles** at 397 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 04:52** (UK time) · **762 open roles** at 398 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 04:29** · hourly scan · checked 99 boards · **2 new roles**
+**Sat 28 Nov, 04:44** · hourly scan · checked 99 boards · **2 new roles**
 
 ### Finance (FP&A) CV: 1
 
@@ -18,11 +18,11 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 |---|---|---|---|
 | 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999) | Altum Credo Home Finance Private Limited | Pune Division, Maharashtra, India |
 
-### Investment (IB / PE) CV: 1
+### Consulting CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-27 | [Capital Markets Services Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01660005-1) | Accenture | Bengaluru |
+| 2026-11-28 | [Corporate Strategy Analyst](https://www.linkedin.com/jobs/view/corporate-strategy-analyst-at-erm-4494246012) | ERM | Greater Kolkata Area |
 
 ## Top picks for each CV
 
@@ -48,10 +48,10 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Investment Banking Analyst - CA, Debt Syndication, Private Equity](https://www.linkedin.com/jobs/view/investment-banking-analyst-ca-debt-syndication-private-equity-at-prp-professional-edge-associates-pvt-ltd-4491133079) · PRP Professional Edge Associates Pvt Ltd · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Assurance - Financial Markets - Valuation (Private Equity & Private Credit) - Associate](https://www.linkedin.com/jobs/view/assurance-financial-markets-valuation-private-equity-private-credit-associate-at-pwc-acceleration-center-india-4491920264) · PwC Acceleration Center India · Kolkata, West Bengal, India · posted 2026-11-20
 
-**Consulting CV** (62 matching)
+**Consulting CV** (63 matching)
 
-1. [Operations & Strategy Analyst](https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505) · Samarthya Financial Services Pvt Ltd · Hyderabad, Telangana, India · posted 2026-11-27
-2. [Client Consulting Analyst(Data Science exp in Portfolio Analytics mandate)](https://visa.wd5.myworkdayjobs.com/visa/job/IN---Bengaluru-India/Portfolio-Specialist_REF089167W) · Visa · IN - Bengaluru, India · posted 2026-11-24
+1. [Corporate Strategy Analyst](https://www.linkedin.com/jobs/view/corporate-strategy-analyst-at-erm-4494246012) · ERM · Greater Kolkata Area · posted 2026-11-28
+2. [Operations & Strategy Analyst](https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505) · Samarthya Financial Services Pvt Ltd · Hyderabad, Telangana, India · posted 2026-11-27
 
 **Real Estate CV** (51 matching)
 
@@ -70,7 +70,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 ### Saturday 28 November
 
 <details>
-<summary><b>04:29</b> · hourly scan · <b>2 new</b> → Finance 1 · Investment 1</summary>
+<summary><b>04:44</b> · hourly scan · <b>2 new</b> → Finance 1 · Consulting 1</summary>
 
 #### Finance (FP&A) CV: 1
 
@@ -78,11 +78,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 |---|---|---|---|
 | 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999) | Altum Credo Home Finance Private Limited | Pune Division, Maharashtra, India |
 
-#### Investment (IB / PE) CV: 1
+#### Consulting CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-27 | [Capital Markets Services Specialist](https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01660005-1) | Accenture | Bengaluru |
+| 2026-11-28 | [Corporate Strategy Analyst](https://www.linkedin.com/jobs/view/corporate-strategy-analyst-at-erm-4494246012) | ERM | Greater Kolkata Area |
 
 </details>
 
@@ -2100,11 +2100,11 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<sub>Nothing new at: 05:40, 04:40</sub>
+<sub>Nothing new at: 05:40</sub>
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (310)](#finance-fpa-cv-310) · [Credit (186)](#credit-cv-186) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (310)](#finance-fpa-cv-310) · [Credit (186)](#credit-cv-186) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (35)](#consulting-cv-35) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
 
 ### Finance (FP&A) CV: 310
 
@@ -2769,10 +2769,11 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | 2026-11-07 | [Transaction Services - US Operations](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Transaction-Services---US-Operations_261008768) | Citi | Pune Maharashtra India |
 | — | [Associate/Senior Associate, Private Equity Capital Solutions (Based in New York)](https://jobs.temasek.com.sg/job/New-York-AssociateSenior-Associate%2C-Private-Equity-Capital-Solutions-%28Based-in-New-York%29-NY-10152/1374510657/) | Temasek |  |
 
-### Consulting CV: 34
+### Consulting CV: 35
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-28 | [Corporate Strategy Analyst](https://www.linkedin.com/jobs/view/corporate-strategy-analyst-at-erm-4494246012) | ERM | Greater Kolkata Area |
 | 2026-11-27 | [Operations & Strategy Analyst](https://www.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505) | Samarthya Financial Services Pvt Ltd | Hyderabad, Telangana, India |
 | — | [Consultant / Oracle - ARCS / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-ARCS-Ahmedabad-Finance-Transformation-Business-Finance/61096144/) | Deloitte India | Ahmedabad |
 | — | [Consultant / Oracle - EPBCS / Ahmedabad / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Ahmedabad-Consultant-Oracle-EPBCS-Ahmedabad-Finance-Transformation-Business-Finance/61884244/) | Deloitte India | Ahmedabad |

@@ -1144,6 +1144,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564 | Kotak Mahindra Bank | Credit Analyst_Support Services-Credit_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-28
 - [ ] https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277579 | Kotak Mahindra Bank | Management Trainee-Risk Analyst_SUPPORT SERVICES-Risk Analytics_Mumbai | Mumbai, Maharashtra, India | posted: 2026-11-28
+- [ ] https://www.linkedin.com/jobs/view/corporate-strategy-analyst-at-erm-4494246012 | ERM | Corporate Strategy Analyst | Greater Kolkata Area | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999 | Altum Credo Home Finance Private Limited | Financial Analyst | Pune Division, Maharashtra, India | posted: 2026-11-28 | note: via LinkedIn
 
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01660005-1 | Accenture | Capital Markets Services Specialist | Bengaluru | posted: 2026-11-27
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999 | Altum Credo Home Finance Private Limited | Financial Analyst | Pune Division, Maharashtra, India | posted: 2026-11-28 | note: via LinkedIn
