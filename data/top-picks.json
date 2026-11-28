@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:50:30.027Z",
+ "generated_at": "2026-11-28T06:48:00.511Z",
  "order": [
   "finance",
   "credit",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 194,
+   "matching": 195,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 71,
+   "matching": 72,
    "picks": [
     {
      "title": "Equity Research Analyst - Global Research Center, Mumbai",
@@ -4062,6 +4062,21 @@
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
    "score": 2
+  },
+  "https://www.linkedin.com/jobs/view/area-credit-head-at-aditya-birla-capital-4463362426": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
+  },
+  "https://www.linkedin.com/jobs/view/research-analyst-remote-at-joblet-ai-4494238538": {
+   "id": "equity",
+   "cv": "Equity CV",
+   "score": 18
+  },
+  "https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437": {
+   "id": "other",
+   "cv": "Other (fits no CV closely, may still be worth a look)",
+   "score": 0
   }
  }
 }

@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 05:50** (UK time) · **762 open roles** at 398 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 06:48** (UK time) · **765 open roles** at 400 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,9 +10,25 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 05:42** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 06:40** · hourly scan · checked 99 boards · **3 new roles**
 
-Nothing new this time. The last scan that found something was **Sat 28 Nov, 04:44** (2: Finance 1 · Consulting 1); open it in the scan log below.
+### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Area Credit Head](https://www.linkedin.com/jobs/view/area-credit-head-at-aditya-birla-capital-4463362426) | Aditya Birla Capital | Uttarakhand, India |
+
+### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Research Analyst (Remote)](https://www.linkedin.com/jobs/view/research-analyst-remote-at-joblet-ai-4494238538) | Joblet-AI | Bangalore Urban, Karnataka, India |
+
+### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Research Monitoring and Evaluation Officer](https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437) | Vowels of the People Association | Pune Division, Maharashtra, India |
 
 ## Top picks for each CV
 
@@ -23,12 +39,12 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Associate, Financial Planning and Analysis (FP&A) - Mumbai](https://www.linkedin.com/jobs/view/associate-financial-planning-and-analysis-fp-a-mumbai-at-galaxy-4479202197) · Galaxy · Mumbai, Maharashtra, India · posted 2026-11-25
 
-**Credit CV** (194 matching)
+**Credit CV** (195 matching)
 
 1. [Wholesale Credit Risk Analyst](https://www.linkedin.com/jobs/view/wholesale-credit-risk-analyst-at-jpmorganchase-4490184706) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-17
 2. [Wholesale Credit Risk Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210806803) · JPMorgan Chase · Mumbai, Maharashtra, India · posted 2026-11-16
 
-**Equity CV** (71 matching)
+**Equity CV** (72 matching)
 
 1. [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) · JPMorganChase · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Equity Research Analyst (Industrial Goods)](https://www.linkedin.com/jobs/view/equity-research-analyst-industrial-goods-at-aviva-india-4493400369) · Aviva India · Mumbai, Maharashtra, India · posted 2026-11-25
@@ -58,6 +74,29 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>06:40</b> · hourly scan · <b>3 new</b> → Credit 1 · Equity 1 · Other 1</summary>
+
+#### Credit CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Area Credit Head](https://www.linkedin.com/jobs/view/area-credit-head-at-aditya-birla-capital-4463362426) | Aditya Birla Capital | Uttarakhand, India |
+
+#### Equity CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Research Analyst (Remote)](https://www.linkedin.com/jobs/view/research-analyst-remote-at-joblet-ai-4494238538) | Joblet-AI | Bangalore Urban, Karnataka, India |
+
+#### Other (fits no CV closely, may still be worth a look): 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-27 | [Research Monitoring and Evaluation Officer](https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437) | Vowels of the People Association | Pune Division, Maharashtra, India |
+
+</details>
 
 <sub>Nothing new at: 05:42</sub>
 
@@ -2081,20 +2120,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>06:40</b> · hourly scan · <b>1 new</b> → Credit 1</summary>
-
-#### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-21 | [Quality Executive - Retail MFB - Credit - Guduru - Hindur Road - J Grades](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/57627) | Tata Capital | India |
-
-</details>
-
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (310)](#finance-fpa-cv-310) · [Credit (186)](#credit-cv-186) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
+Everything matched so far, newest first within each CV: [Finance (310)](#finance-fpa-cv-310) · [Credit (187)](#credit-cv-187) · [Equity (52)](#equity-cv-52) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (27)](#other-fits-no-cv-closely-may-still-be-worth-a-look-27)
 
 ### Finance (FP&A) CV: 310
 
@@ -2411,7 +2439,7 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | 2026-11-07 | [Treasury Operations Specialist](https://www.linkedin.com/jobs/view/treasury-operations-specialist-at-signify-4453697466) | Signify | Gurgaon, Haryana, India |
 | 2026-11-07 | [Treasury Cash Management & Banking Operations Specialist - VOIS](https://www.linkedin.com/jobs/view/treasury-cash-management-banking-operations-specialist-vois-at-vois-4486637860) | VOIS | Ahmedabad, Gujarat, India |
 
-### Credit CV: 186
+### Credit CV: 187
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2429,6 +2457,7 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | 2026-11-27 | [Credit Transaction Management (Credit Operations) - Associate](https://www.linkedin.com/jobs/view/credit-transaction-management-credit-operations-associate-at-bnp-paribas-4479838632) | BNP Paribas | Mumbai, Maharashtra, India |
 | 2026-11-27 | [Team Member - Credit Monitoring_SUPPORT SERVICES_0212_1288_1070410](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277412) | Kotak Mahindra Bank | Mumbai, Maharashtra, India |
 | 2026-11-27 | [Corporate Credit Analysis - Greater China Coverage - Officer](https://www.linkedin.com/jobs/view/corporate-credit-analysis-greater-china-coverage-officer-at-citi-4486906771) | Citi | Mumbai, Maharashtra, India |
+| 2026-11-27 | [Area Credit Head](https://www.linkedin.com/jobs/view/area-credit-head-at-aditya-birla-capital-4463362426) | Aditya Birla Capital | Uttarakhand, India |
 | 2026-11-26 | [Credit Analyst African Markets](https://www.linkedin.com/jobs/view/credit-analyst-african-markets-at-intellectual-capital-hr-consulting-pvt-ltd-4493489772) | Intellectual Capital HR Consulting Pvt. Ltd. | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting (Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Corporate Credit Analyst Trade Finance Underwriting BANK (THANE -Mumbai)](https://www.linkedin.com/jobs/view/corporate-credit-analyst-trade-finance-underwriting-bank-thane-mumbai-4493805107) | Manufacturing | Mumbai, Maharashtra, India |
@@ -2602,10 +2631,11 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | — | [Credit Operations Analyst / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Operations-Analyst-Regulatory-&-Financial-Risk/59957544/) | Deloitte India | Bengaluru |
 | — | [Credit Underwriting / Bengaluru / Regulatory & Financial Risk](https://southasiacareers.deloitte.com/job/Bengaluru-Credit-Underwriting-Bengaluru-Regulatory-&-Financial-Risk/60041144/) | Deloitte India | Bengaluru |
 
-### Equity CV: 51
+### Equity CV: 52
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
+| 2026-11-28 | [Research Analyst (Remote)](https://www.linkedin.com/jobs/view/research-analyst-remote-at-joblet-ai-4494238538) | Joblet-AI | Bangalore Urban, Karnataka, India |
 | 2026-11-27 | [Equity Research Analyst](https://www.linkedin.com/jobs/view/equity-research-analyst-at-risevestors-institute-4495328786) | Risevestors Institute | Noida, Uttar Pradesh, India |
 | 2026-11-26 | [Equity Research Analyst - Global Research Center, Mumbai](https://www.linkedin.com/jobs/view/equity-research-analyst-global-research-center-mumbai-at-jpmorganchase-4487297697) | JPMorganChase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Multi Assets Index Quant Research Analyst](https://www.linkedin.com/jobs/view/multi-assets-index-quant-research-analyst-at-msci-inc-4493802851) | MSCI Inc. | Mumbai Metropolitan Region |
@@ -2867,11 +2897,12 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | — | [Associate, Fund Accounting (Alternative Credit)](https://aresmgmt.wd1.myworkdayjobs.com/external/job/Mumbai-India/Associate--Fund-Accounting--Alternative-Credit-_R8158) | Ares Management | Mumbai, India |
 | 2026-11-05 | [Fund Accounting Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_261001424) | Citi | Pune Maharashtra India |
 
-### Other (fits no CV closely, may still be worth a look): 26
+### Other (fits no CV closely, may still be worth a look): 27
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
 | 2026-11-27 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://www.linkedin.com/jobs/view/analyst-quant-analytics-analytics-centre-of-excellence-at-jpmorganchase-4495568972) | JPMorganChase | Mumbai, Maharashtra, India |
+| 2026-11-27 | [Research Monitoring and Evaluation Officer](https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437) | Vowels of the People Association | Pune Division, Maharashtra, India |
 | 2026-11-26 | [TCIO Product Controller Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811561) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Analyst - Quant Analytics - Analytics Centre of Excellence](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210811901) | JPMorgan Chase | Mumbai, Maharashtra, India |
 | 2026-11-26 | [Associate - Quantitative and Qualitative analyst](https://www.linkedin.com/jobs/view/associate-quantitative-and-qualitative-analyst-at-oaktree-4495009517) | Oaktree | Hyderabad, Telangana, India |
@@ -2901,7 +2932,7 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>127 roles taken off the list because the firm closed the posting</summary>
+<summary>126 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3031,6 +3062,5 @@ Everything matched so far, newest first within each CV: [Finance (310)](#finance
 | Sat 21 Nov, 08:40 | Financial Research Analyst (Remote) | Joblet-AI |
 | Sat 21 Nov, 07:41 | Capital Markets Operations Specialist | Accenture |
 | Sat 21 Nov, 07:39 | Analyst – Data Science (Credit Risk) with a US Based Fintech company | The Premier Consultants |
-| Sat 21 Nov, 06:40 | Freight & Logistics Finance Analyst | FIFO International |
 
 </details>

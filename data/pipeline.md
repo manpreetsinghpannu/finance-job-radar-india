@@ -1149,5 +1149,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Capital-Markets-Operations-Specialist_AIOC-S01660005-1 | Accenture | Capital Markets Services Specialist | Bengaluru | posted: 2026-11-27
 - [ ] https://www.linkedin.com/jobs/view/financial-analyst-at-altum-credo-home-finance-private-limited-4494222999 | Altum Credo Home Finance Private Limited | Financial Analyst | Pune Division, Maharashtra, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/area-credit-head-at-aditya-birla-capital-4463362426 | Aditya Birla Capital | Area Credit Head | Uttarakhand, India | posted: 2026-11-27 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-analyst-remote-at-joblet-ai-4494238538 | Joblet-AI | Research Analyst (Remote) | Bangalore Urban, Karnataka, India | posted: 2026-11-28 | note: via LinkedIn
+- [ ] https://www.linkedin.com/jobs/view/research-monitoring-and-evaluation-officer-at-vowels-of-the-people-association-4495832437 | Vowels of the People Association | Research Monitoring and Evaluation Officer | Pune Division, Maharashtra, India | posted: 2026-11-27 | note: via LinkedIn
 
 ## Processed
