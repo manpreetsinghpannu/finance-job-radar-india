@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 02:03** (UK time) · **760 open roles** at 396 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 02:49** (UK time) · **760 open roles** at 396 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,7 +10,7 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 01:55** · hourly scan · checked 99 boards · **0 new roles**
+**Sat 28 Nov, 02:42** · hourly scan · checked 99 boards · **0 new roles**
 
 Nothing new this time. The last scan that found something was **Sat 28 Nov, 00:46** (2: Credit 2); open it in the scan log below.
 
@@ -59,7 +59,7 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ### Saturday 28 November
 
-<sub>Nothing new at: 01:55</sub>
+<sub>Nothing new at: 02:42, 01:55</sub>
 
 <details>
 <summary><b>00:46</b> · hourly scan · <b>2 new</b> → Credit 2</summary>
@@ -2086,24 +2086,6 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 </details>
 
-<details>
-<summary><b>02:41</b> · hourly scan · <b>3 new</b> → Investment 1 · Consulting 2</summary>
-
-#### Investment (IB / PE) CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [T&T- HC- OT- M&A- Consultant- Mumbai/Delhi](https://southasiacareers.deloitte.com/job/Bengaluru-T&T-HC-OT-M&A-Consultant-MumbaiDelhi/58902344/) | Deloitte India | Bengaluru |
-
-#### Consulting CV: 2
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| — | [Consultant / Financial Services / Bengaluru / Finance Transformation / Finance Strategy](https://southasiacareers.deloitte.com/job/Bengaluru-Consultant-Financial-Services-Bengaluru-Finance-Transformation-Finance-Strategy/60055544/) | Deloitte India | Bengaluru |
-| — | [Consultant / Oracle Planning / Delhi / Finance Transformation / Business Finance](https://southasiacareers.deloitte.com/job/Delhi-Consultant-Oracle-Planning-Delhi-Finance-Transformation-Business-Finance/60080644/) | Deloitte India | Delhi |
-
-</details>
-
 ## All open roles by CV
 
 Everything matched so far, newest first within each CV: [Finance (309)](#finance-fpa-cv-309) · [Credit (186)](#credit-cv-186) · [Equity (51)](#equity-cv-51) · [Investment (95)](#investment-ib--pe-cv-95) · [Consulting (34)](#consulting-cv-34) · [Real Estate (16)](#real-estate-cv-16) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (26)](#other-fits-no-cv-closely-may-still-be-worth-a-look-26)
@@ -2911,7 +2893,7 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 ## Removed: posting closed (last 7 days)
 
 <details>
-<summary>128 roles taken off the list because the firm closed the posting</summary>
+<summary>127 roles taken off the list because the firm closed the posting</summary>
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
@@ -3042,6 +3024,5 @@ Everything matched so far, newest first within each CV: [Finance (309)](#finance
 | Sat 21 Nov, 07:39 | Analyst – Data Science (Credit Risk) with a US Based Fintech company | The Premier Consultants |
 | Sat 21 Nov, 06:40 | Freight & Logistics Finance Analyst | FIFO International |
 | Sat 21 Nov, 05:43 | Research Analyst & Presentation Associate | AImploy |
-| Sat 21 Nov, 02:43 | Capital Markets Operations Specialist | Accenture |
 
 </details>
