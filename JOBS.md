@@ -1,6 +1,6 @@
 # Finance jobs found in India
 
-Updated **Sat 28 Nov, 19:08** (UK time) · **774 open roles** at 404 firms · the radar checks every board about once an hour.
+Updated **Sat 28 Nov, 19:53** (UK time) · **775 open roles** at 405 firms · the radar checks every board about once an hour.
 
 Postings that are taken down are removed automatically: every listed role is re-checked about every 3 hours (JPMorgan, Next and other Oracle sites included; a few custom sites like Morgan Stanley's can't be checked).
 
@@ -10,31 +10,19 @@ Each role is filed under the **one CV it fits best**, or under **Other**. Roles 
 
 ## Latest scan
 
-**Sat 28 Nov, 19:01** · hourly scan · checked 99 boards · **3 new roles**
+**Sat 28 Nov, 19:42** · hourly scan · checked 99 boards · **1 new role**
 
 ### Finance (FP&A) CV: 1
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
-| 2026-11-28 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-vk-taneja-associates-4495373071) | VK TANEJA & ASSOCIATES | South Delhi, Delhi, India |
-
-### Credit CV: 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-28 | [Credit Analyst](https://www.linkedin.com/jobs/view/credit-analyst-at-abc-aditya-birla-housing-finance-limited-4463353657) | ABC - Aditya Birla Housing Finance Limited | Maharashtra, India |
-
-### Other (fits no CV closely, may still be worth a look): 1
-
-| Posted | Role | Firm | Location |
-|---|---|---|---|
-| 2026-11-28 | [Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact)](https://www.linkedin.com/jobs/view/monitoring-and-evaluation-officer-south-asia-hub-%E2%80%93-health-systems-learning-and-impact-at-path-4483333221) | PATH | Greater Delhi Area |
+| 2026-11-28 | [Associate Senior Financial Reporting Analyst](https://www.linkedin.com/jobs/view/associate-senior-financial-reporting-analyst-at-burns-mcdonnell-india-4470325038) | Burns & McDonnell India | Mumbai Metropolitan Region |
 
 ## Top picks for each CV
 
 Best two open roles for each CV from the last 21 days, ranked on title fit, junior level, how recent and Mumbai. One pick per firm, so a role can be a pick for two CVs.
 
-**Finance (FP&A) CV** (346 matching)
+**Finance (FP&A) CV** (347 matching)
 
 1. [Financial Analyst - FP&A-US shift](https://www.linkedin.com/jobs/view/financial-analyst-fp-a-us-shift-at-fictiv-4478789783) · Fictiv · Greater Bengaluru Area · posted 2026-11-25
 2. [Financial Analyst, GFS Services FP&A](https://www.linkedin.com/jobs/view/financial-analyst-gfs-services-fp-a-at-amazon-4493961033) · Amazon · Hyderabad, Telangana, India · posted 2026-11-24
@@ -64,7 +52,7 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 1. [Property Accountant, Commercial Real Estate](https://www.linkedin.com/jobs/view/property-accountant-commercial-real-estate-at-versatile-club-employer-of-record-4493750532) · Versatile Club Employer of Record · India · posted 2026-11-23
 2. [Asset & Wealth Management (Private)– Real Estate Asset Management Analyst - Bengaluru](https://www.linkedin.com/jobs/view/asset-wealth-management-private-%E2%80%93-real-estate-asset-management-analyst-bengaluru-at-goldman-sachs-4463871045) · Goldman Sachs · Bengaluru, Karnataka, India · posted 2026-11-13
 
-**Fund CV (written for India; tweak the header for UK roles)** (55 matching)
+**Fund CV (written for India; tweak the header for UK roles)** (56 matching)
 
 1. [Analyst – Fund Accounting](https://www.linkedin.com/jobs/view/analyst-%E2%80%93-fund-accounting-at-bnp-paribas-4495290007) · BNP Paribas · Mumbai, Maharashtra, India · posted 2026-11-26
 2. [Fund Accounting or Reporting Analyst](https://www.linkedin.com/jobs/view/fund-accounting-or-reporting-analyst-at-deutsche-bank-4490124473) · Deutsche Bank · Jaipur, Rajasthan, India · posted 2026-11-16
@@ -74,6 +62,17 @@ Best two open roles for each CV from the last 21 days, ranked on title fit, juni
 Newest first. Tap a scan to see what it found. Scans that found nothing are listed on one line per day.
 
 ### Saturday 28 November
+
+<details>
+<summary><b>19:42</b> · hourly scan · <b>1 new</b> → Finance 1</summary>
+
+#### Finance (FP&A) CV: 1
+
+| Posted | Role | Firm | Location |
+|---|---|---|---|
+| 2026-11-28 | [Associate Senior Financial Reporting Analyst](https://www.linkedin.com/jobs/view/associate-senior-financial-reporting-analyst-at-burns-mcdonnell-india-4470325038) | Burns & McDonnell India | Mumbai Metropolitan Region |
+
+</details>
 
 <details>
 <summary><b>19:01</b> · hourly scan · <b>3 new</b> → Finance 1 · Credit 1 · Other 1</summary>
@@ -2052,9 +2051,9 @@ Newest first. Tap a scan to see what it found. Scans that found nothing are list
 
 ## All open roles by CV
 
-Everything matched so far, newest first within each CV: [Finance (316)](#finance-fpa-cv-316) · [Credit (190)](#credit-cv-190) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
+Everything matched so far, newest first within each CV: [Finance (317)](#finance-fpa-cv-317) · [Credit (190)](#credit-cv-190) · [Equity (51)](#equity-cv-51) · [Investment (96)](#investment-ib--pe-cv-96) · [Consulting (35)](#consulting-cv-35) · [Real Estate (15)](#real-estate-cv-15) · [Fund (43)](#fund-cv-written-for-india-tweak-the-header-for-uk-roles-43) · [Other (28)](#other-fits-no-cv-closely-may-still-be-worth-a-look-28)
 
-### Finance (FP&A) CV: 316
+### Finance (FP&A) CV: 317
 
 | Posted | Role | Firm | Location |
 |---|---|---|---|
@@ -2062,6 +2061,7 @@ Everything matched so far, newest first within each CV: [Finance (316)](#finance
 | 2026-11-28 | [Financial Planning Analyst](https://www.linkedin.com/jobs/view/financial-planning-analyst-4495367762) | Global Giant In Construction Space | Noida, Uttar Pradesh, India |
 | 2026-11-28 | [Financial Analyst](https://www.linkedin.com/jobs/view/financial-analyst-at-rehbar-financial-services-4495379543) | Rehbar Financial Services | Bengaluru, Karnataka, India |
 | 2026-11-28 | [Finance Business Partner CDH](https://www.linkedin.com/jobs/view/finance-business-partner-cdh-at-erm-4494234509) | ERM | New Delhi, Delhi, India |
+| 2026-11-28 | [Associate Senior Financial Reporting Analyst](https://www.linkedin.com/jobs/view/associate-senior-financial-reporting-analyst-at-burns-mcdonnell-india-4470325038) | Burns & McDonnell India | Mumbai Metropolitan Region |
 | 2026-11-28 | [Finance Associate](https://www.linkedin.com/jobs/view/finance-associate-at-vk-taneja-associates-4495373071) | VK TANEJA & ASSOCIATES | South Delhi, Delhi, India |
 | 2026-11-28 | [Trust Accountant](https://www.linkedin.com/jobs/view/trust-accountant-at-freadom-edu-4495373361) | Freadom Edu | Gurugram, Haryana, India |
 | 2026-11-28 | [Officer, Specialist, Operations, Trns Svcs-Treasury/Cash Mgmt, Corporate Banking (BL0158)](https://www.linkedin.com/jobs/view/officer-specialist-operations-trns-svcs-treasury-cash-mgmt-corporate-banking-bl0158-at-dbs-bank-4443365576) | DBS Bank | Chennai, Tamil Nadu, India |
@@ -2306,6 +2306,7 @@ Everything matched so far, newest first within each CV: [Finance (316)](#finance
 | 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-4482442851) | Ingersoll Rand | Ahmedabad, Gujarat, India |
 | 2026-11-13 | [Operations Finance Analyst](https://www.linkedin.com/jobs/view/operations-finance-analyst-at-ingersoll-rand-compressor-systems-services-4489562782) | Ingersoll Rand Compressor Systems & Services | Ahmedabad, Gujarat, India |
 | 2026-11-13 | [Financial Planning & Analysis Representa](https://www.linkedin.com/jobs/view/financial-planning-analysis-representa-at-accenture-in-india-4490736944) | Accenture in India | Chennai, Tamil Nadu, India |
+| 2026-11-13 | [Analyst - SP Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051) | Barclays | Chennai, DLF IT Park · Pune, Gera Commerzone SEZ |
 | 2026-11-13 | [Analyst Macro Product Control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-Control_JR-0000131221) | Barclays | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park |
 | 2026-11-13 | [Analyst Macro Product control](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-control_JR-0000114732) | Barclays | Pune, Gera Commerzone SEZ · Chennai, DLF IT Park |
 | 2026-11-13 | [Associate - Treasury](https://www.linkedin.com/jobs/view/associate-treasury-at-tiaa-4472564544) | TIAA | Mumbai Metropolitan Region |
@@ -2874,7 +2875,6 @@ Everything matched so far, newest first within each CV: [Finance (316)](#finance
 
 | Closed (UK time) | Role | Firm |
 |---|---|---|
-| Sat 28 Nov, 18:43 | Analyst - SP Product Control | Barclays |
 | Sat 28 Nov, 14:47 | Investment Banking Expert - Remote | YO HR Consultancy |
 | Sat 28 Nov, 07:43 | Investment Banking Associate | Educore |
 | Sat 28 Nov, 07:42 | Equity Research Analyst | Risevestors Institute |
