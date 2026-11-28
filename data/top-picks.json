@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T06:48:00.511Z",
+ "generated_at": "2026-11-28T07:48:03.598Z",
  "order": [
   "finance",
   "credit",
@@ -24,7 +24,7 @@
   {
    "id": "finance",
    "cv": "Finance (FP&A) CV",
-   "matching": 340,
+   "matching": 339,
    "picks": [
     {
      "title": "Financial Analyst - FP&A-US shift",
@@ -57,7 +57,7 @@
   {
    "id": "credit",
    "cv": "Credit CV",
-   "matching": 195,
+   "matching": 196,
    "picks": [
     {
      "title": "Wholesale Credit Risk Analyst",
@@ -92,7 +92,7 @@
   {
    "id": "equity",
    "cv": "Equity CV",
-   "matching": 72,
+   "matching": 71,
    "picks": [
     {
      "title": "Equity Research Analyst - Global Research Center, Mumbai",
@@ -125,7 +125,7 @@
   {
    "id": "investment",
    "cv": "Investment (IB / PE) CV",
-   "matching": 121,
+   "matching": 120,
    "picks": [
     {
      "title": "Investment Banking Analyst - CA, Debt Syndication, Private Equity",
@@ -1808,11 +1808,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 5
   },
-  "https://www.linkedin.com/jobs/view/investment-banking-associate-at-educore-4491126077": {
-   "id": "investment",
-   "cv": "Investment (IB / PE) CV",
-   "score": 11
-  },
   "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052005": {
    "id": "consulting",
    "cv": "Consulting CV",
@@ -2717,11 +2712,6 @@
    "id": "finance",
    "cv": "Finance (FP&A) CV",
    "score": 13
-  },
-  "https://www.linkedin.com/jobs/view/smsf-accountant-surat-at-auzin-advisory-private-limited-4493262976": {
-   "id": "finance",
-   "cv": "Finance (FP&A) CV",
-   "score": 6
   },
   "https://www.linkedin.com/jobs/view/stock-trader-4492883742": {
    "id": "other",
@@ -4033,11 +4023,6 @@
    "cv": "Finance (FP&A) CV",
    "score": 18
   },
-  "https://www.linkedin.com/jobs/view/equity-research-analyst-at-risevestors-institute-4495328786": {
-   "id": "equity",
-   "cv": "Equity CV",
-   "score": 28
-  },
   "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/277564": {
    "id": "credit",
    "cv": "Credit CV",
@@ -4077,6 +4062,11 @@
    "id": "other",
    "cv": "Other (fits no CV closely, may still be worth a look)",
    "score": 0
+  },
+  "https://www.linkedin.com/jobs/view/credit-officer-4495367155": {
+   "id": "credit",
+   "cv": "Credit CV",
+   "score": 8
   }
  }
 }
